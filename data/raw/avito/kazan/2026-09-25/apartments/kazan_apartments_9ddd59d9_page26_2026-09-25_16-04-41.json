@@ -1,0 +1,2180 @@
+[
+  {
+    "id": 7834083542,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_645_m_1425_et._7834083542?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 64,5 м², 14/25 эт.",
+    "description": "Пpoдаетcя квaртиpа в ЖК бизнес-клaсcа «Оригана».\nЖК «Оригана» — особый квартал с уникальной архитектурой в стиле ар-деко. Это новое слово в развитии родного города. Квартал представляет собой две очереди домов с фасадами в традиционных для Казани цветах. Необычная, но такая близкая человеку, концепция близости к природе прослеживается даже в деталях — от названия квартала до подбора трав для клумб во дворе.\nО расположении ЖК:\nЖК «Оригана» находится у одной из основных транспортных магистралей — у Танкового кольца. От ЖК вы за 12 минут на автомобиле сможете добраться до центра города. Также это кольцо поможет выбрать любое направление города будь то аэропорт, горки и все загородные локации этой стороны.\nЖК состоит из двух очередей:\nСроки сдачи: 1 оч. — 2 кв. 2028 г., 2 оч. — 2 кв. 2029 г.\nВ проекте присутствуют базовые преимущества, такие как:\n- Видеонаблюдение.\n- Закрытый двор.\n- Детские площадки.\n- Спортплощадки.\n- Зоны отдыха.\nВ ЖК «Оригана» мы планируем заполнить первые этажи организациями и ритейлами первой необходимости, а также заведениями, которые пользуются большой популярностью и переходят с нами из проекта в проект, помогая превращать наши ЖК в точки притяжения. Разнообразие инфраструктуры внутри проекта позволяет провести жизненный цикл, не покидая пределы ЖК, то есть будущие жители будут окружены всем необходимым.\nЧто есть на территории самого комплекса:\n- Встроенный детский сад в 1 очередь на 150 детей со своей территорией.\n- Коворкинг.\n- Места общего пользования.\n- Колясочные.\n- Детская игровая.\n- Подземный паркинг.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 350 500 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 350 500",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17350500,
+      "wasLowered": false,
+      "exponent": "17,35 млн",
+      "normalizedPrice": "269 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,5 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Оренбургский Тракт, стр. 1.3",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.75218",
+      "lng": "49.15937",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Оренбургский Тракт, стр. 1.3"
+    },
+    "developmentId": 10484493,
+    "developmentName": "ЖК «Оригана»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449541218,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_614_m_422_et._8449541218?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 61,4 м², 4/22 эт.",
+    "description": "Номер квартиры: 9.\n\nЭтаж: 4.\n\nПлощадь: 61.43.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 579 619 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 579 619",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16579619,
+      "wasLowered": false,
+      "exponent": "16,58 млн",
+      "normalizedPrice": "270 026 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449494479,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_617_m_622_et._8449494479?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 61,7 м², 6/22 эт.",
+    "description": "Номер квартиры: 20.\n\nЭтаж: 6.\n\nПлощадь: 61.71.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 802 562 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 802 562",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16802562,
+      "wasLowered": false,
+      "exponent": "16,8 млн",
+      "normalizedPrice": "272 327 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8448887313,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_642_m_1118_et._8448887313?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 64,2 м², 11/18 эт.",
+    "description": "Номер квартиры: 348.\n\nЭтаж: 11.\n\nПлощадь: 64.22.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 216 722 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 216 722",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17216722,
+      "wasLowered": false,
+      "exponent": "17,22 млн",
+      "normalizedPrice": "268 173 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449808472,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_629_m_2022_et._8449808472?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 62,9 м², 20/22 эт.",
+    "description": "Номер квартиры: 106.\n\nЭтаж: 20.\n\nПлощадь: 62.88.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 643 309 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 643 309",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17643309,
+      "wasLowered": false,
+      "exponent": "17,64 млн",
+      "normalizedPrice": "280 498 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8448855885,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_611_m_314_et._8448855885?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 61,1 м², 3/14 эт.",
+    "description": "Номер квартиры: 172.\n\nЭтаж: 3.\n\nПлощадь: 61.09.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 443 669 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 443 669",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16443669,
+      "wasLowered": false,
+      "exponent": "16,44 млн",
+      "normalizedPrice": "269 127 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8225097360,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_541_m_1421_et._8225097360?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 54,1 м², 14/21 эт.",
+    "description": "Номер квартиры: 139.\n\nЭтаж: 14.\n\nПлощадь: 54.14.\n\nКорпус: ЖК «Зенит». Жилой комплекс «Зенит» представляет собой 20-этажное жилое здание. Строительство ведется по монолитно-кирпичной технологии строительства, что обеспечивает высокую прочность и долговечность здания. Квартиры сдаются без отделки — это даёт будущим владельцам максимальную свободу для реализации индивидуальных идей и создания комфортного жилья по своему вкусу. Высота потолков 3 — 3,16 м.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 512 700 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 512 700",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16512700,
+      "wasLowered": false,
+      "exponent": "16,51 млн",
+      "normalizedPrice": "305 226 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Козья Слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Меридианная, ЖК «Зенит»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Зенит»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/meridiannaya_ul_17a/73139961?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Меридианная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/meridiannaya_ulitsa/6920-ASgBAgECA0SSA8YQ5geOUujIE5BsAUXcBxUibWVyaWRpYW5uYXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Козья Слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2123"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.82499",
+      "lng": "49.11314",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Меридианная, ЖК «Зенит»"
+    },
+    "developmentId": 15697399,
+    "developmentName": "ЖК «Зенит»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449079494,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_591_m_218_et._8449079494?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 59,1 м², 2/18 эт.",
+    "description": "Номер квартиры: 382.\n\nЭтаж: 2.\n\nПлощадь: 59.13.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 810 746 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 810 746",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15810746,
+      "wasLowered": false,
+      "exponent": "15,81 млн",
+      "normalizedPrice": "267 525 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449451180,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_617_m_922_et._8449451180?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 61,7 м², 9/22 эт.",
+    "description": "Номер квартиры: 38.\n\nЭтаж: 9.\n\nПлощадь: 61.71.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 866 741 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 866 741",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16866741,
+      "wasLowered": false,
+      "exponent": "16,87 млн",
+      "normalizedPrice": "273 367 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8448934214,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_632_m_1022_et._8448934214?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 63,2 м², 10/22 эт.",
+    "description": "Номер квартиры: 46.\n\nЭтаж: 10.\n\nПлощадь: 63.24.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 152 096 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 152 096",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17152096,
+      "wasLowered": false,
+      "exponent": "17,15 млн",
+      "normalizedPrice": "271 394 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8448945566,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_617_m_1122_et._8448945566?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 61,7 м², 11/22 эт.",
+    "description": "Номер квартиры: 50.\n\nЭтаж: 11.\n\nПлощадь: 61.71.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 866 741 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 866 741",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16866741,
+      "wasLowered": false,
+      "exponent": "16,87 млн",
+      "normalizedPrice": "273 367 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449182764,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_583_m_514_et._8449182764?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 58,3 м², 5/14 эт.",
+    "description": "Номер квартиры: 228.\n\nЭтаж: 5.\n\nПлощадь: 58.32.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 761 075 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 761 075",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15761075,
+      "wasLowered": false,
+      "exponent": "15,76 млн",
+      "normalizedPrice": "270 344 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 4794754599,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_682_m_723_et._4794754599?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 68,2 м², 7/23 эт.",
+    "description": "Продается квартира в ЖК бизнес-класса «1712».\n\nКвартира в престижном жилом комплексе «1712», расположенном на улице Портовая в перспективном районе Казани. Район активно развивается в рамках проекта «Новая Портовая», что делает его идеальным местом для жизни и инвестиций.\n\nПреимущества жилого комплекса «1712»:\n— Доминанта новой локации: Комплекс является элементом развивающегося района «Новая Портовая», Вахитовский район.\n— Близость к Волге: Всего 300 метров до живописного берега Волги.\n— Высота потолков: Просторные квартиры с высотой потолков от 3 метров.\n— Панорамные окна: Окна в пол с панорамным видом.\n— Закрытый двор-парк: Обустроенный двор-парк на стилобате.\n— Консьерж-сервис 24/7: Высокий уровень комфорта и обслуживания.\n— Мультизональная система кондиционирования: Обеспечение оптимального климата в каждой зоне квартиры.\n— Авторский дизайн гранд-лобби: Стильный и элегантный вход в здание.\n— Подземный паркинг: Включает места для электромобилей.\n— Удобства для семей: Детская игровая комната, колясочные и системы безопасности в каждом подъезде.\nСрок сдачи: IV квартал 2027 года.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 859 040 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 859 040",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16859040,
+      "wasLowered": false,
+      "exponent": "16,86 млн",
+      "normalizedPrice": "247 200 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, стр. 2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_37zh/104052745?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76822",
+      "lng": "49.09607",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, стр. 2"
+    },
+    "developmentId": 9870411,
+    "developmentName": "ЖК «1712»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449189965,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_593_m_314_et._8449189965?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 59,3 м², 3/14 эт.",
+    "description": "Номер квартиры: 268.\n\nЭтаж: 3.\n\nПлощадь: 59.30.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 025 048 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 025 048",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16025048,
+      "wasLowered": false,
+      "exponent": "16,03 млн",
+      "normalizedPrice": "270 237 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8249656650,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_929_m_1320_et._8249656650?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 92,9 м², 13/20 эт.",
+    "description": "Уникальная квартира в Приволжском районе Казани, где тишина спального района сочетается с близостью к центру. Собственный детский сад, школа, дворы-парки с сенсорными игровыми и спортивными зонами и подземный паркинг. В 5 минутах — набережная озера Кабан, Гребной канал и парк. Выгодные акции и условия покупки от застройщика!\n\nКлючевые преимущества проекта:\nЛокация.\nЖилой квартал расположен в Приволжском районе на улице Кулагина. Буквально в нескольких шагах — живописная набережная озера Нижний Кабан с пешеходными маршрутами, велодорожками, каскадами водных растений и лодочной станцией. Прогулки от театра Камала до вашего дома станут приятной ежедневной традицией. Из объектов инфраструктуры — несколько школ, детских садов, спортивный комплекс «Бустан».\n\nАрхитектура.\nКомплекс состоит из 3 домов высотностью 9-20 этажей квартальной застройки. Между собой дома объединяют прогулочные зоны. Природные светлые и тёмные тона в отделке экстерьера и общественных пространств создают уют и визуальный комфорт. Фасады из крупноформатных панелей с подсветкой.\n\nБлагоустройство.\nДворы жилого комплекса — это приватные зоны с игровыми площадками из природных материалов, спортивными зонами, местами для отдыха и работы. Есть прогулочные маршруты, беседки и релакс-парк. На первых этажах домов предусмотрены офисы и кофейни.\n\nИнтерьер и экстерьер.\nДворы и входы в подъезды выполнены без пандусов и ступеней. Входные группы оформлены в современном стиле с природными оттенками. Холлы выполнены по авторскому дизайн-проекту и включают домофоны в тёплых зонах, бесшумные скоростные лифты, места ожидания, паркинг для колясок.\n\nПланировочные решения.\nВ «Q на Кулагина» предлагаются квартиры с террасами, евроварианты с просторными кухнями-гостиными, мастер-спальнями с ванными и гардеробными, тёплыми лоджиями и эркерами. На верхних этажах террасы позволяют любоваться видом на Волгу и Гребной канал.\n\nОтделка.\nВ квартирах выполняется предчистовая отделка с использованием качественных материалов: металлические двери, тепло- и шумоизоляция, энергоэффективные стеклопакеты, скрытая разводка коммуникаций и радиаторы с терморегуляцией.\n\nУмный дом.\nВ жилом комплексе устанавливаются двери с электронными замками, зайти можно классическим способом с ключами или по отпечатку пальца. В дома подается питьевая вода, прошедшая фильтрацию и ионизацию. Автоматизирован учет потребления ресурсов.\n\nПаркинг.\n«Q на Кулагина» включает подземный паркинг. Территории дворов, входные группы, будут оборудованы видеонаблюдением и охраной. Предусмотрены гостевые места и зарядные станции для электромобилей.\n\nРеспублика Татарстан, Казань, Владимира Кулагина, 1 кв.188.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 450 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 450 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16450000,
+      "wasLowered": false,
+      "exponent": "16,45 млн",
+      "normalizedPrice": "177 072 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Владимира Кулагина, стр. 1"
+    },
+    "coords": {
+      "lat": "55.73732",
+      "lng": "49.14358",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Владимира Кулагина, стр. 1"
+    },
+    "developmentId": 9109417,
+    "developmentName": "ЖК «Ку на Кулагина»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449039718,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_595_m_914_et._8449039718?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 59,5 м², 9/14 эт.",
+    "description": "Номер квартиры: 241.\n\nЭтаж: 9.\n\nПлощадь: 59.48.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 197 251 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 197 251",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16197251,
+      "wasLowered": false,
+      "exponent": "16,2 млн",
+      "normalizedPrice": "272 223 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8225848695,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_541_m_821_et._8225848695?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 54,1 м², 8/21 эт.",
+    "description": "Номер квартиры: 67.\n\nЭтаж: 8.\n\nПлощадь: 54.14.\n\nКорпус: ЖК «Зенит». Жилой комплекс «Зенит» представляет собой 20-этажное жилое здание. Строительство ведется по монолитно-кирпичной технологии строительства, что обеспечивает высокую прочность и долговечность здания. Квартиры сдаются без отделки — это даёт будущим владельцам максимальную свободу для реализации индивидуальных идей и создания комфортного жилья по своему вкусу. Высота потолков 3 — 3,16 м.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 863 020 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 863 020",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15863020,
+      "wasLowered": false,
+      "exponent": "15,86 млн",
+      "normalizedPrice": "293 217 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Козья Слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Меридианная, ЖК «Зенит»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Зенит»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/meridiannaya_ul_17a/73139961?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Меридианная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/meridiannaya_ulitsa/6920-ASgBAgECA0SSA8YQ5geOUujIE5BsAUXcBxUibWVyaWRpYW5uYXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Козья Слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2123"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.82499",
+      "lng": "49.11314",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Меридианная, ЖК «Зенит»"
+    },
+    "developmentId": 15697399,
+    "developmentName": "ЖК «Зенит»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8033231615,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_485_m_1822_et._8033231615?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 48,5 м², 18/22 эт.",
+    "description": "Номер квартиры: 202.\n\nЭтаж: 18.\n\nПлощадь: 48.50.\n\nКорпус: ЖК «Эдельвейс». Жилой комплекс «Эдельвейс» представляет собой односекционное здание, построенное по монолитно-кирпичной технологии. Здание спроектировано с учетом функциональных потребностей будущих жильцов, в нем предусмотрены квартиры с различными планировочными решениями. Все квартиры сдаются с предчистовой отделкой, что позволяет владельцам самостоятельно реализовать индивидуальные проекты внутренней отделки.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 520 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 520 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15520000,
+      "wasLowered": false,
+      "exponent": "15,52 млн",
+      "normalizedPrice": "320 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 300 м",
+          "afterWithIcon": {
+            "text": "до 5 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Улица Юлиуса Фучика, 30А",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 30А",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_yuliusa_fuchika_30a/1485106?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "улица Юлиуса Фучика",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_yuliusa_fuchika/7401-ASgBAgECA0SSA8YQ5geOUujIE9JzAUXcBxgidWxpdHNhX3l1bGl1c2FfZnVjaGlrYSI"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.74283",
+      "lng": "49.21424",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "улица Юлиуса Фучика, 30А"
+    },
+    "developmentId": 9121408,
+    "developmentName": "ЖК «Эдельвейс»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449550175,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_583_m_614_et._8449550175?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 58,3 м², 6/14 эт.",
+    "description": "Номер квартиры: 232.\n\nЭтаж: 6.\n\nПлощадь: 58.32.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 761 075 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 761 075",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15761075,
+      "wasLowered": false,
+      "exponent": "15,76 млн",
+      "normalizedPrice": "270 344 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 7649916803,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_891_m_25_et._7649916803?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 89,1 м², 2/5 эт.",
+    "description": "Номер квартиры: 32.\n\nЭтаж: 2.\n\nПлощадь: 89.10.\n\nКорпус: Дом 2.3. Жилой комплекс «Времена года» представляет собой малоэтажную застройку из девяти пятиэтажных кирпичных зданий. Предусмотрены одно-, двух- и трёхкомнатные квартиры общей площадью от 30,46 до 96,33 кв. М.\n\nКомплекс выполнен в концепции загородного клуба, где архитектура и ландшафт отражают идею гармонии с природой. Каждый дом символизирует одно из времён года, что выражается в оформлении подъездов и ландшафтном решении.\n\nТерритория комплекса включает более 300 деревьев, 8 тысяч кустарников и 9 тысяч многолетних растений. В первой очереди строительства расположены три дома, во второй — четыре дома, продолжающие концепцию смены сезонов.\n\nПроект сдан.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 510 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 510 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15510000,
+      "wasLowered": false,
+      "exponent": "15,51 млн",
+      "normalizedPrice": "174 074 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Генерала Ерина, д. 5Д",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 5Д",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_generala_erina_5d/70073623?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Генерала Ерина",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_generala_erina/4393-ASgBAgECA0SSA8YQ5geOUujIE9JEAUXcBxcidWxpdHNhX2dlbmVyYWxhX2VyaW5hIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68166",
+      "lng": "49.19167",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Генерала Ерина, д. 5Д"
+    },
+    "developmentId": 51019,
+    "developmentName": "ЖК «Времена года»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8111539364,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_898_m_25_et._8111539364?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 89,8 м², 2/5 эт.",
+    "description": "Жилой комплекс представляет из себя эко-клуб закрытого формата с четкими, лаконичными формами и натуральными материалами в современном эко-дизайне. При строительстве используются керамические блоки Porotherm, за счет чего дома остаются теплыми, а увеличенные оконные проемы дают больше света и простора.\n\nВ ЖК предложено множество планировочных решений. Сдаются они без отделки и высотой потолков 2,7 метра.\n\nНа территории проекта имеется спортивные и детские площадки с безопасным покрытием, комфортабельная зона отдыха, детский сад на 220 мест и торговый комплекс. Для автовладельцев предусмотрена наземная парковка и подземный паркинг.\n\nЖилой комплекс находится в Приволжском районе. В пешей доступности расположены продуктовые и строительные магазины, торговые центры, бассейн и молодежный центр.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 510 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 510 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15510000,
+      "wasLowered": false,
+      "exponent": "15,51 млн",
+      "normalizedPrice": "172 717 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Генерала Ерина, д. 5Д",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 5Д",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_generala_erina_5d/70073623?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Генерала Ерина",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_generala_erina/4393-ASgBAgECA0SSA8YQ5geOUujIE9JEAUXcBxcidWxpdHNhX2dlbmVyYWxhX2VyaW5hIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68166",
+      "lng": "49.19167",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Генерала Ерина, д. 5Д"
+    },
+    "developmentId": 51019,
+    "developmentName": "ЖК «Времена года»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 7780559557,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_639_m_2225_et._7780559557?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 63,9 м², 22/25 эт.",
+    "description": "«Феномен будущего» — современных жилой комплекс класса комфорт плюс, расположенный на Аметьевской магистрали на территории бывшего завода «Кулон».\nВ наличии квартиры:\n1 очередь:\nсекция А — 25 этажей, секция Б — 9 этажей, секция В — 17 этажей.\n\n2 очередь 1 этап:\nКорпус 1 — 25 этажей.\nКорпус 2 — 25 этажей.\n\nОзнакомиться подробнее с жилым комплексом можно у наших менеджеров. Напишите нам в чат, мы отвечаем быстро.\n\nПреимущества ЖК «Феномен будущего»:\nРазвитая инфраструктура Вахитовского и Советского районов.\nУдобное расположение: выезд и выход на улицу Гвардейская и на Аметьевскую Магистраль.\nРядом школы, детские сады, поликлиники и остановки общественного транспорта.\nЗакрытый двор без машин.\nВидеонаблюдение на территории ЖК.\nДизайнерские лобби с зоной для отдыха и встреч.\nОтдельные помещения для блоков кондиционеров. Все трассы проложены на этапе строительства застройщиком.\nБлагоустроенная территория с ландшафтным дизайном, спортивными и детскими площадками, местами отдыха и бесплатным WI-fi на всей территории комплекса.\n\nВарианты покупки, подбор квартиры, акции и скидки уточняйте у менеджеров отдела продаж.\n\nЖК «Феномен будущего» — Жизнь на высоте.\nСЗ «Тектум-1».",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "от 16 280 232 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "от 16 280 232",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16280232,
+      "wasLowered": false,
+      "exponent": "16,28 млн",
+      "normalizedPrice": "254 777 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская,  секц. А",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77643",
+      "lng": "49.17111",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская,  секц. А"
+    },
+    "developmentId": 13284916,
+    "developmentName": "ЖК «ФЕНОМЕН БУДУЩЕГО»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449357703,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_616_m_314_et._8449357703?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 61,6 м², 3/14 эт.",
+    "description": "Номер квартиры: 265.\n\nЭтаж: 3.\n\nПлощадь: 61.64.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 591 245 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 591 245",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16591245,
+      "wasLowered": false,
+      "exponent": "16,59 млн",
+      "normalizedPrice": "269 338 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8448997141,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_632_m_622_et._8448997141?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 63,2 м², 6/22 эт.",
+    "description": "Номер квартиры: 22.\n\nЭтаж: 6.\n\nПлощадь: 63.24.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 086 326 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 086 326",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17086326,
+      "wasLowered": false,
+      "exponent": "17,09 млн",
+      "normalizedPrice": "270 353 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449831113,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_583_m_1214_et._8449831113?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 58,3 м², 12/14 эт.",
+    "description": "Номер квартиры: 256.\n\nЭтаж: 12.\n\nПлощадь: 58.32.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 882 381 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 882 381",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15882381,
+      "wasLowered": false,
+      "exponent": "15,88 млн",
+      "normalizedPrice": "272 425 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8110890655,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_72_m_613_et._8110890655?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 72 м², 6/13 эт.",
+    "description": "Хотите купить квартиру с максимальной выгодой? Поставьте «+» — и мы:\n\nсделаем расчёт ипотеки и рассрочки с минимальным первоначальным взносом;\n\nрасскажем про акцию «Ремонт в подарок»;\n\nраскроем все детали по ставке 3,5% на весь срок;\n\nотправим информацию о скидках и эксклюзивных акциях на подборку квартир;\n\nпоможем получить максимальную скидку от застройщика;\n\nподарим сертификат на мебель, если вы примете решение быстро!\n\nОформляем ипотеку по паспорту — без справок с работы. А ещё можем организовать удалённый показ и помочь с покупкой онлайн!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 616 469 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 616 469",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15616469,
+      "wasLowered": false,
+      "exponent": "15,62 млн",
+      "normalizedPrice": "216 895 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Авиастроительная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1 км",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Годовикова, «Авторы на Годовикова»",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Авиастроительная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2139"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.86196",
+      "lng": "49.09699",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Годовикова, «Авторы на Годовикова»"
+    },
+    "developmentId": 10590043,
+    "developmentName": "«Авторы на Годовикова‎»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449490514,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_592_m_1114_et._8449490514?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 59,2 м², 11/14 эт.",
+    "description": "Номер квартиры: 297.\n\nЭтаж: 11.\n\nПлощадь: 59.15.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 046 160 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 046 160",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16046160,
+      "wasLowered": false,
+      "exponent": "16,05 млн",
+      "normalizedPrice": "271 050 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449328537,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_617_m_722_et._8449328537?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 61,7 м², 7/22 эт.",
+    "description": "Номер квартиры: 26.\n\nЭтаж: 7.\n\nПлощадь: 61.71.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 802 562 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 802 562",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16802562,
+      "wasLowered": false,
+      "exponent": "16,8 млн",
+      "normalizedPrice": "272 327 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8168873460,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_575_m_17_et._8168873460?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 57,5 м², 1/7 эт.",
+    "description": "Хотите купить квартиру с максимальной выгодой? Поставьте «+» — и мы:\n\nсделаем расчёт ипотеки и рассрочки с минимальным первоначальным взносом;\n\nрасскажем про акцию «Ремонт в подарок»;\n\nраскроем все детали по ставке 3,5% на весь срок;\n\nотправим информацию о скидках и эксклюзивных акциях на подборку квартир;\n\nпоможем получить максимальную скидку от застройщика;\n\nподарим сертификат на мебель, если вы примете решение быстро!\n\nОформляем ипотеку по паспорту — без справок с работы. А ещё можем организовать удалённый показ и помочь с покупкой онлайн!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 530 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 530 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15530000,
+      "wasLowered": false,
+      "exponent": "15,53 млн",
+      "normalizedPrice": "270 087 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Козья Слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Адмиралтейская, д. 2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/admiralteyskaya_ul_2/73335184?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Адмиралтейская",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/admiralteyskaya_ulitsa/75565-ASgBAgECA0SSA8YQ5geOUujIE9qcCQFF3AcYImFkbWlyYWx0ZXlza2F5YV91bGl0c2Ei"
+        },
+        "metroLink": {
+          "text": "Козья Слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2123"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.80387",
+      "lng": "49.05581",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Адмиралтейская, д. 2"
+    },
+    "developmentId": 6985792,
+    "developmentName": "ЖК «Статум»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  },
+  {
+    "id": 8449227071,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_583_m_1014_et._8449227071?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIzbXNpQzdzTTNjaVBPNGRGIjt9u5u_aT8AAAA",
+    "title": "2-к. квартира, 58,3 м², 10/14 эт.",
+    "description": "Номер квартиры: 248.\n\nЭтаж: 10.\n\nПлощадь: 58.32.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 882 381 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 882 381",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15882381,
+      "wasLowered": false,
+      "exponent": "15,88 млн",
+      "normalizedPrice": "272 425 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:04:41.774426"
+  }
+]

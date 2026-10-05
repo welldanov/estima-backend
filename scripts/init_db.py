@@ -1,6 +1,6 @@
 import sqlite3
 
-from real_estate_price_predictor.config import DB_PATH, SCHEMA_PATH
+from estima_backend.config import DB_PATH, SCHEMA_PATH
 
 
 def init_database() -> None:

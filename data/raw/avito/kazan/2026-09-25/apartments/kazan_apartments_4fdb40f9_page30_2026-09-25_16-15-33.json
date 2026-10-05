@@ -1,0 +1,1510 @@
+[
+  {
+    "id": 8211314267,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_302_m_88_et._8211314267?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 30,2 м², 8/8 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 640 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 640 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7640000,
+      "wasLowered": false,
+      "exponent": "7,64 млн",
+      "normalizedPrice": "252 980 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8211715402,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_258_m_49_et._8211715402?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 25,8 м², 4/9 эт.",
+    "description": "Жилой комплекс представляет из себя современный проект, возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита. Здания оборудованы скоростными бесшумными лифтами.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до 3х-комнатных квартир с увеличенными оконными проемами и высотой потолков 2,59 метра. Все квартиры сдаются с подчистовой отделкой. Также есть возможность приобретения квартиры с чистовой отделкой.\nТерритория комплекса благоустроена: спортивные площадки для игры в футбол, волейбол, баскетбол, площадки с уличными тренажерами, 2 детских сада на 340 и 160 мест, школа, отдельная закрытая велопарковка на территории двора, автостоянки.\nЖилой комплекс расположен в Высокогорском районе. В пешей доступности расположены продуктовые магазины, медицинские учреждения, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 476 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 476 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6476000,
+      "wasLowered": false,
+      "exponent": "6,48 млн",
+      "normalizedPrice": "251 008 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Вторая Ударная , стр. 4.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 4.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/vtoraya_udarnaya_ul_2/100143979?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Вторая Ударная ",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/vtoraya_udarnaya_ulitsa/197258-ASgBAgECA0SSA8YQ5geOUujIE5SKGAFF3AcZInZ0b3JheWFfdWRhcm5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.8723",
+      "lng": "49.30066",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Вторая Ударная , стр. 4.1"
+    },
+    "developmentId": 2694302,
+    "developmentName": "ЖК «Атмосфера»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8212565771,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_382_m_16_et._8212565771?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 38,2 м², 1/6 эт.",
+    "description": "Жилой комплекс представляет собой дом высотой в 4 этажа. Здание построено по кирпичной технологии строительства с комбинированными фасадами. В холлах выполнена дизайнерская отделка, установлены грузовые лифты.\n\nВ проекте предложено множество планировочных решений: в наличии квартиры классического типа. Сдаются они с подчистовой отделкой, увеличенными окнами, террасой и высотой потолков в 2,7м. Встречаются также двухуровневые квартиры с выходом на крышу.\n\nНа благоустроенной территории располагаются: современные и безопасные детские площадки для детей всех возрастов, прогулочные зоны для мам с колясками, велодорожки и тропы для хайкинга. Продуманы также места для отдыха, спортивные и воркаут площадки. На территории комплекса расположен свой детский сад.\n\nЖилой комплекс расположен в экологически чистом поселке «Октябрьский», неподалеку от берега Волги. Здесь хорошо развита инфраструктура: в нескольких минутах ходьбы находятся поликлиники, школы, кинотеатр, железнодорожная станция, планетарий и глэмпинг. До центра Казани можно добраться за 35 минут на транспорте.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 869 058 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 869 058",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6869058,
+      "wasLowered": false,
+      "exponent": "6,87 млн",
+      "normalizedPrice": "179 818 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пос. Октябрьский, корп. 2.2"
+    },
+    "coords": {
+      "lat": "55.83289",
+      "lng": "48.77527",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "пос. Октябрьский, корп. 2.2"
+    },
+    "developmentId": 9304554,
+    "developmentName": "ЖК «Форест»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8290113681,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_258_m_88_et._8290113681?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 25,8 м², 8/8 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 570 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 570 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6570000,
+      "wasLowered": false,
+      "exponent": "6,57 млн",
+      "normalizedPrice": "254 651 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_geroya_rossii_damira_islamova_2/103460083?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Героя России Дамира Исламова, д. 2",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_geroya_rossii_damira_islamova/1049227-ASgBAgECA0SSA8YQ5geOUujIE5aKgAEBRdwHJiJ1bGl0c2FfZ2Vyb3lhX3Jvc3NpaV9kYW1pcmFfaXNsYW1vdmEi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.81419",
+      "lng": "49.43",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 1"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8342817220,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_258_m_78_et._8342817220?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 25,8 м², 7/8 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 570 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 570 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6570000,
+      "wasLowered": false,
+      "exponent": "6,57 млн",
+      "normalizedPrice": "254 651 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_geroya_rossii_damira_islamova_2/103460083?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Героя России Дамира Исламова, д. 2",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_geroya_rossii_damira_islamova/1049227-ASgBAgECA0SSA8YQ5geOUujIE5aKgAEBRdwHJiJ1bGl0c2FfZ2Vyb3lhX3Jvc3NpaV9kYW1pcmFfaXNsYW1vdmEi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.81419",
+      "lng": "49.43",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 1"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8210605490,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_232_m_718_et._8210605490?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 23,2 м², 7/18 эт.",
+    "description": "Жилой комплекс включает в себя корпуса, возведенные по технологии монолитного строительства с фасадной системой с минерально-полимерным штукатурным слоем и внешним окрасочным слоем. Во входных группах выполнено панорамное остекление. На первых этажах здания предусмотрены места для хранения колясок и велосипедов.\nВ жилом комплексе представлено несколько планировочных решений: от 1-комнатных до 4х-комнатных квартир. Все квартиры сдаются с подчистовой отделкой и высотой потолков 2,55 метра.\nНа территории жилого комплекса ведется видеонаблюдение, захватывающее периметр домов и первые этажи. Во дворах выполнен ландшафтный дизайн — предусмотрено всесезонное озеленение: хвойные деревья, кустарники и другие растения.\nЖилой комплекс расположен в Лаишевском районе, рядом с комплексом находятся детские сады, продуктовые магазины, спортивные залы и аптеки. До города Казань и до аэропорта дорога составит 20 минут на автомобиле. До пляжа «Камское море» — 50 минут на машине.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 524 980 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 524 980",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6524980,
+      "wasLowered": false,
+      "exponent": "6,52 млн",
+      "normalizedPrice": "281 249 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Усады, стр. 1, корп. 1"
+    },
+    "coords": {
+      "lat": "55.68763",
+      "lng": "49.21497",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Усады, стр. 1, корп. 1"
+    },
+    "developmentId": 3412869,
+    "developmentName": "ЖК «‎Дома у сада»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8212795641,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_232_m_518_et._8212795641?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 23,2 м², 5/18 эт.",
+    "description": "Жилой комплекс включает в себя корпуса, возведенные по технологии монолитного строительства с фасадной системой с минерально-полимерным штукатурным слоем и внешним окрасочным слоем. Во входных группах выполнено панорамное остекление. На первых этажах здания предусмотрены места для хранения колясок и велосипедов.\nВ жилом комплексе представлено несколько планировочных решений: от 1-комнатных до 4х-комнатных квартир. Все квартиры сдаются с подчистовой отделкой и высотой потолков 2,55 метра.\nНа территории жилого комплекса ведется видеонаблюдение, захватывающее периметр домов и первые этажи. Во дворах выполнен ландшафтный дизайн — предусмотрено всесезонное озеленение: хвойные деревья, кустарники и другие растения.\nЖилой комплекс расположен в Лаишевском районе, рядом с комплексом находятся детские сады, продуктовые магазины, спортивные залы и аптеки. До города Казань и до аэропорта дорога составит 20 минут на автомобиле. До пляжа «Камское море» — 50 минут на машине.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 027 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 027 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6027000,
+      "wasLowered": false,
+      "exponent": "6,03 млн",
+      "normalizedPrice": "259 784 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Усады, стр. 1, корп. 1"
+    },
+    "coords": {
+      "lat": "55.68763",
+      "lng": "49.21497",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Усады, стр. 1, корп. 1"
+    },
+    "developmentId": 3412869,
+    "developmentName": "ЖК «‎Дома у сада»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8211698125,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_258_m_29_et._8211698125?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 25,8 м², 2/9 эт.",
+    "description": "Жилой комплекс представляет из себя современный проект, возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита. Здания оборудованы скоростными бесшумными лифтами.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до 3х-комнатных квартир с увеличенными оконными проемами и высотой потолков 2,59 метра. Все квартиры сдаются с подчистовой отделкой. Также есть возможность приобретения квартиры с чистовой отделкой.\nТерритория комплекса благоустроена: спортивные площадки для игры в футбол, волейбол, баскетбол, площадки с уличными тренажерами, 2 детских сада на 340 и 160 мест, школа, отдельная закрытая велопарковка на территории двора, автостоянки.\nЖилой комплекс расположен в Высокогорском районе. В пешей доступности расположены продуктовые магазины, медицинские учреждения, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 379 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 379 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6379000,
+      "wasLowered": false,
+      "exponent": "6,38 млн",
+      "normalizedPrice": "247 248 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Вторая Ударная , стр. 4.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 4.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/vtoraya_udarnaya_ul_2/100143979?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Вторая Ударная ",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/vtoraya_udarnaya_ulitsa/197258-ASgBAgECA0SSA8YQ5geOUujIE5SKGAFF3AcZInZ0b3JheWFfdWRhcm5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.8723",
+      "lng": "49.30066",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Вторая Ударная , стр. 4.1"
+    },
+    "developmentId": 2694302,
+    "developmentName": "ЖК «Атмосфера»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8212800492,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_23_m_518_et._8212800492?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 23 м², 5/18 эт.",
+    "description": "Жилой комплекс включает в себя корпуса, возведенные по технологии монолитного строительства с фасадной системой с минерально-полимерным штукатурным слоем и внешним окрасочным слоем. Во входных группах выполнено панорамное остекление. На первых этажах здания предусмотрены места для хранения колясок и велосипедов.\nВ жилом комплексе представлено несколько планировочных решений: от 1-комнатных до 4х-комнатных квартир. Все квартиры сдаются с подчистовой отделкой и высотой потолков 2,55 метра.\nНа территории жилого комплекса ведется видеонаблюдение, захватывающее периметр домов и первые этажи. Во дворах выполнен ландшафтный дизайн — предусмотрено всесезонное озеленение: хвойные деревья, кустарники и другие растения.\nЖилой комплекс расположен в Лаишевском районе, рядом с комплексом находятся детские сады, продуктовые магазины, спортивные залы и аптеки. До города Казань и до аэропорта дорога составит 20 минут на автомобиле. До пляжа «Камское море» — 50 минут на машине.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 970 650 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 970 650",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5970650,
+      "wasLowered": false,
+      "exponent": "5,97 млн",
+      "normalizedPrice": "259 593 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Усады, стр. 1, корп. 1"
+    },
+    "coords": {
+      "lat": "55.68763",
+      "lng": "49.21497",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Усады, стр. 1, корп. 1"
+    },
+    "developmentId": 3412869,
+    "developmentName": "ЖК «‎Дома у сада»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8343786122,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_232_m_1518_et._8343786122?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 23,2 м², 15/18 эт.",
+    "description": "Жилой комплекс включает в себя корпуса, возведенные по технологии монолитного строительства с фасадной системой с минерально-полимерным штукатурным слоем и внешним окрасочным слоем. Во входных группах выполнено панорамное остекление. На первых этажах здания предусмотрены места для хранения колясок и велосипедов.\nВ жилом комплексе представлено несколько планировочных решений: от 1-комнатных до 4х-комнатных квартир. Все квартиры сдаются с подчистовой отделкой и высотой потолков 2,55 метра.\nНа территории жилого комплекса ведется видеонаблюдение, захватывающее периметр домов и первые этажи. Во дворах выполнен ландшафтный дизайн — предусмотрено всесезонное озеленение: хвойные деревья, кустарники и другие растения.\nЖилой комплекс расположен в Лаишевском районе, рядом с комплексом находятся детские сады, продуктовые магазины, спортивные залы и аптеки. До города Казань и до аэропорта дорога составит 20 минут на автомобиле. До пляжа «Камское море» — 50 минут на машине.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 666 600 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 666 600",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6666600,
+      "wasLowered": false,
+      "exponent": "6,67 млн",
+      "normalizedPrice": "287 353 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Усады, стр. 1, корп. 1"
+    },
+    "coords": {
+      "lat": "55.68763",
+      "lng": "49.21497",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Усады, стр. 1, корп. 1"
+    },
+    "developmentId": 3412869,
+    "developmentName": "ЖК «‎Дома у сада»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8303413417,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_23_m_618_et._8303413417?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 23 м², 6/18 эт.",
+    "description": "Жилой комплекс включает в себя корпуса, возведенные по технологии монолитного строительства с фасадной системой с минерально-полимерным штукатурным слоем и внешним окрасочным слоем. Во входных группах выполнено панорамное остекление. На первых этажах здания предусмотрены места для хранения колясок и велосипедов.\nВ жилом комплексе представлено несколько планировочных решений: от 1-комнатных до 4х-комнатных квартир. Все квартиры сдаются с подчистовой отделкой и высотой потолков 2,55 метра.\nНа территории жилого комплекса ведется видеонаблюдение, захватывающее периметр домов и первые этажи. Во дворах выполнен ландшафтный дизайн — предусмотрено всесезонное озеленение: хвойные деревья, кустарники и другие растения.\nЖилой комплекс расположен в Лаишевском районе, рядом с комплексом находятся детские сады, продуктовые магазины, спортивные залы и аптеки. До города Казань и до аэропорта дорога составит 20 минут на автомобиле. До пляжа «Камское море» — 50 минут на машине.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 482 420 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 482 420",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6482420,
+      "wasLowered": false,
+      "exponent": "6,48 млн",
+      "normalizedPrice": "281 844 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Усады, стр. 1, корп. 1"
+    },
+    "coords": {
+      "lat": "55.68763",
+      "lng": "49.21497",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Усады, стр. 1, корп. 1"
+    },
+    "developmentId": 3412869,
+    "developmentName": "ЖК «‎Дома у сада»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8397145476,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_266_m_77_et._8397145476?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 26,6 м², 7/7 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 630 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 630 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6630000,
+      "wasLowered": false,
+      "exponent": "6,63 млн",
+      "normalizedPrice": "249 248 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_geroya_rossii_damira_islamova_2/103460083?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Героя России Дамира Исламова, д. 2",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_geroya_rossii_damira_islamova/1049227-ASgBAgECA0SSA8YQ5geOUujIE5aKgAEBRdwHJiJ1bGl0c2FfZ2Vyb3lhX3Jvc3NpaV9kYW1pcmFfaXNsYW1vdmEi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.81419",
+      "lng": "49.43",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 1"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8211864984,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_258_m_39_et._8211864984?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 25,8 м², 3/9 эт.",
+    "description": "Жилой комплекс представляет из себя современный проект, возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита. Здания оборудованы скоростными бесшумными лифтами.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до 3х-комнатных квартир с увеличенными оконными проемами и высотой потолков 2,59 метра. Все квартиры сдаются с подчистовой отделкой. Также есть возможность приобретения квартиры с чистовой отделкой.\nТерритория комплекса благоустроена: спортивные площадки для игры в футбол, волейбол, баскетбол, площадки с уличными тренажерами, 2 детских сада на 340 и 160 мест, школа, отдельная закрытая велопарковка на территории двора, автостоянки.\nЖилой комплекс расположен в Высокогорском районе. В пешей доступности расположены продуктовые магазины, медицинские учреждения, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 439 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 439 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6439000,
+      "wasLowered": false,
+      "exponent": "6,44 млн",
+      "normalizedPrice": "249 574 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Вторая Ударная , стр. 4.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 4.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/vtoraya_udarnaya_ul_2/100143979?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Вторая Ударная ",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/vtoraya_udarnaya_ulitsa/197258-ASgBAgECA0SSA8YQ5geOUujIE5SKGAFF3AcZInZ0b3JheWFfdWRhcm5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.8723",
+      "lng": "49.30066",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Вторая Ударная , стр. 4.1"
+    },
+    "developmentId": 2694302,
+    "developmentName": "ЖК «Атмосфера»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8339402525,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_258_m_29_et._8339402525?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 25,8 м², 2/9 эт.",
+    "description": "Жилой комплекс представляет из себя современный проект, возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита. Здания оборудованы скоростными бесшумными лифтами.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до 3х-комнатных квартир с увеличенными оконными проемами и высотой потолков 2,59 метра. Все квартиры сдаются с подчистовой отделкой. Также есть возможность приобретения квартиры с чистовой отделкой.\nТерритория комплекса благоустроена: спортивные площадки для игры в футбол, волейбол, баскетбол, площадки с уличными тренажерами, 2 детских сада на 340 и 160 мест, школа, отдельная закрытая велопарковка на территории двора, автостоянки.\nЖилой комплекс расположен в Высокогорском районе. В пешей доступности расположены продуктовые магазины, медицинские учреждения, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 379 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 379 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6379000,
+      "wasLowered": false,
+      "exponent": "6,38 млн",
+      "normalizedPrice": "247 248 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Вторая Ударная , стр. 4.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 4.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/vtoraya_udarnaya_ul_2/100143979?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Вторая Ударная ",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/vtoraya_udarnaya_ulitsa/197258-ASgBAgECA0SSA8YQ5geOUujIE5SKGAFF3AcZInZ0b3JheWFfdWRhcm5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.8723",
+      "lng": "49.30066",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Вторая Ударная , стр. 4.1"
+    },
+    "developmentId": 2694302,
+    "developmentName": "ЖК «Атмосфера»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8211304654,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_257_m_49_et._8211304654?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 25,7 м², 4/9 эт.",
+    "description": "Жилой комплекс представляет из себя современный проект, возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита. Здания оборудованы скоростными бесшумными лифтами.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до 3х-комнатных квартир с увеличенными оконными проемами и высотой потолков 2,59 метра. Все квартиры сдаются с подчистовой отделкой. Также есть возможность приобретения квартиры с чистовой отделкой.\nТерритория комплекса благоустроена: спортивные площадки для игры в футбол, волейбол, баскетбол, площадки с уличными тренажерами, 2 детских сада на 340 и 160 мест, школа, отдельная закрытая велопарковка на территории двора, автостоянки.\nЖилой комплекс расположен в Высокогорском районе. В пешей доступности расположены продуктовые магазины, медицинские учреждения, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 415 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 415 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6415000,
+      "wasLowered": false,
+      "exponent": "6,42 млн",
+      "normalizedPrice": "249 611 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Вторая Ударная , стр. 4.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 4.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/vtoraya_udarnaya_ul_2/100143979?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Вторая Ударная ",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/vtoraya_udarnaya_ulitsa/197258-ASgBAgECA0SSA8YQ5geOUujIE5SKGAFF3AcZInZ0b3JheWFfdWRhcm5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.8723",
+      "lng": "49.30066",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Вторая Ударная , стр. 4.1"
+    },
+    "developmentId": 2694302,
+    "developmentName": "ЖК «Атмосфера»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8211377923,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_258_m_78_et._8211377923?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 25,8 м², 7/8 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 570 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 570 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6570000,
+      "wasLowered": false,
+      "exponent": "6,57 млн",
+      "normalizedPrice": "254 651 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 1"
+    },
+    "coords": {
+      "lat": "55.81419",
+      "lng": "49.43",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 1"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8397496020,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_258_m_17_et._8397496020?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 25,8 м², 1/7 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 240 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 240 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6240000,
+      "wasLowered": false,
+      "exponent": "6,24 млн",
+      "normalizedPrice": "241 860 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Новое Шигалеево, стр. 3"
+    },
+    "coords": {
+      "lat": "55.81492",
+      "lng": "49.43185",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Новое Шигалеево, стр. 3"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8211851207,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_302_m_47_et._8211851207?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 30,2 м², 4/7 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 050 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 050 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7050000,
+      "wasLowered": false,
+      "exponent": "7,05 млн",
+      "normalizedPrice": "233 444 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 1"
+    },
+    "coords": {
+      "lat": "55.81419",
+      "lng": "49.43",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 1"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8211218409,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_292_m_58_et._8211218409?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 29,2 м², 5/8 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 610 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 610 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7610000,
+      "wasLowered": false,
+      "exponent": "7,61 млн",
+      "normalizedPrice": "260 616 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8230227180,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_257_m_69_et._8230227180?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 25,7 м², 6/9 эт.",
+    "description": "Жилой комплекс представляет из себя современный проект, возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита. Здания оборудованы скоростными бесшумными лифтами.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до 3х-комнатных квартир с увеличенными оконными проемами и высотой потолков 2,59 метра. Все квартиры сдаются с подчистовой отделкой. Также есть возможность приобретения квартиры с чистовой отделкой.\nТерритория комплекса благоустроена: спортивные площадки для игры в футбол, волейбол, баскетбол, площадки с уличными тренажерами, 2 детских сада на 340 и 160 мест, школа, отдельная закрытая велопарковка на территории двора, автостоянки.\nЖилой комплекс расположен в Высокогорском районе. В пешей доступности расположены продуктовые магазины, медицинские учреждения, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 488 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 488 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6488000,
+      "wasLowered": false,
+      "exponent": "6,49 млн",
+      "normalizedPrice": "252 451 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Вторая Ударная , стр. 4.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 4.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/vtoraya_udarnaya_ul_2/100143979?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Вторая Ударная ",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/vtoraya_udarnaya_ulitsa/197258-ASgBAgECA0SSA8YQ5geOUujIE5SKGAFF3AcZInZ0b3JheWFfdWRhcm5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.8723",
+      "lng": "49.30066",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Вторая Ударная , стр. 4.1"
+    },
+    "developmentId": 2694302,
+    "developmentName": "ЖК «Атмосфера»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8353391903,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_232_m_1218_et._8353391903?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 23,2 м², 12/18 эт.",
+    "description": "Жилой комплекс включает в себя корпуса, возведенные по технологии монолитного строительства с фасадной системой с минерально-полимерным штукатурным слоем и внешним окрасочным слоем. Во входных группах выполнено панорамное остекление. На первых этажах здания предусмотрены места для хранения колясок и велосипедов.\nВ жилом комплексе представлено несколько планировочных решений: от 1-комнатных до 4х-комнатных квартир. Все квартиры сдаются с подчистовой отделкой и высотой потолков 2,55 метра.\nНа территории жилого комплекса ведется видеонаблюдение, захватывающее периметр домов и первые этажи. Во дворах выполнен ландшафтный дизайн — предусмотрено всесезонное озеленение: хвойные деревья, кустарники и другие растения.\nЖилой комплекс расположен в Лаишевском районе, рядом с комплексом находятся детские сады, продуктовые магазины, спортивные залы и аптеки. До города Казань и до аэропорта дорога составит 20 минут на автомобиле. До пляжа «Камское море» — 50 минут на машине.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 592 800 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 592 800",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6592800,
+      "wasLowered": false,
+      "exponent": "6,59 млн",
+      "normalizedPrice": "284 172 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Усады, стр. 1, корп. 1"
+    },
+    "coords": {
+      "lat": "55.68763",
+      "lng": "49.21497",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Усады, стр. 1, корп. 1"
+    },
+    "developmentId": 3412869,
+    "developmentName": "ЖК «‎Дома у сада»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8211741667,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_257_m_59_et._8211741667?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 25,7 м², 5/9 эт.",
+    "description": "Жилой комплекс представляет из себя современный проект, возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита. Здания оборудованы скоростными бесшумными лифтами.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до 3х-комнатных квартир с увеличенными оконными проемами и высотой потолков 2,59 метра. Все квартиры сдаются с подчистовой отделкой. Также есть возможность приобретения квартиры с чистовой отделкой.\nТерритория комплекса благоустроена: спортивные площадки для игры в футбол, волейбол, баскетбол, площадки с уличными тренажерами, 2 детских сада на 340 и 160 мест, школа, отдельная закрытая велопарковка на территории двора, автостоянки.\nЖилой комплекс расположен в Высокогорском районе. В пешей доступности расположены продуктовые магазины, медицинские учреждения, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 451 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 451 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6451000,
+      "wasLowered": false,
+      "exponent": "6,45 млн",
+      "normalizedPrice": "251 012 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Вторая Ударная , стр. 4.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 4.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/vtoraya_udarnaya_ul_2/100143979?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Вторая Ударная ",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/vtoraya_udarnaya_ulitsa/197258-ASgBAgECA0SSA8YQ5geOUujIE5SKGAFF3AcZInZ0b3JheWFfdWRhcm5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.8723",
+      "lng": "49.30066",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Вторая Ударная , стр. 4.1"
+    },
+    "developmentId": 2694302,
+    "developmentName": "ЖК «Атмосфера»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8225298155,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_299_m_89_et._8225298155?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 29,9 м², 8/9 эт.",
+    "description": "Продается квартира-студия на 8-м этаже в строящемся проекте Экосити. Общая площадь лота составляет 29,86 кв. М, из которых 16,94 кв. М отведено под жилую и 5,34 кв. М под кухонную зону. Номер квартиры — 83.\n\nПреимущества квартиры в Урбан-квартале:\n- Квартира без отделки.\n- На территории Урбан-квартала предусмотрено строительство детского сада на 360 мест, школы на 1501 место, детский развивающий центр на 2000 мест.\n- Рядом с с кварталом Резиденции запланировано строительство детского сада на 360 мест, школы с детским развивающим центром на 1501 место.\n- На первых этажах домов Урбан-квартала запроектированы коммерческие помещения — предусмотрены места для супермаркетов, бытовых услуг, кафе.\n- Собственный комьюнити-центр для жителей Урбан-квартала.\n- Клуб Резидентов для жителей квартала Резиденции.\n- бульвар «Река между камней» с плейхабом для детей, амфитеатром, спортивными зонами, аллеей достижений. Всем посетителям будет доступен иммерсивный маршрут и AR-игры.\n- Тайная тропа вдоль которой расположатся зоны тихого отдыха, йоги и медитаций.\n- 2 смотровые площадки.\n- Снейк-ран.\n- Круговой спортивный маршрут.\n- Специальные зоны для выгула собак.\n- В Урбан-квартале предусмотрено строительство 2 многоэтажных паркингов на 300 и 360 машиномест. Всем жителям проекта доступен и привычный плоскостной паркинг вокруг территории проекта с возможностью в приложении дома получить информацию о наличии парковочных мест.\n- В квартале Резиденции предусмотрен подземный паркинг на 260 машиномест.\n\nЭкосити — это совершенство города в первозданной природе. Наполненный возможностями квартал, в котором вы не выбираете между городом или природой, семьей или работой, отдыхом или спортом, — вы берете всё сразу.\nКаждая семья, каким бы составом она ни жила, найдет для себя идеальное пространство. Планировочные решения разнообразны, также как и возможности отделки от черновой до полностью с ремонтом. Здесь запроектированы квартиры с просторной кухней-гостиной, чтобы семья могла комфортно проводить время вместе.\nКвартиры сдаются в черновой отделке, вы могли реализовать ваши самые смелые дизайнерские решения. Каждая квартира — это база, на которой можно выстроить свой личный стиль.\n\nУзнайте подробности в Отделе продаж.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "от 6 969 999 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "от 6 969 999",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6969999,
+      "wasLowered": false,
+      "exponent": "6,97 млн",
+      "normalizedPrice": "233 110 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Кировский"
+        }
+      ],
+      "formattedAddress": "Ул. Завокзальная, стр. 9"
+    },
+    "coords": {
+      "lat": "55.81064",
+      "lng": "48.95154",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Завокзальная, стр. 9"
+    },
+    "developmentId": 10552805,
+    "developmentName": "Экосити",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8211845596,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_258_m_88_et._8211845596?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 25,8 м², 8/8 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 570 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 570 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6570000,
+      "wasLowered": false,
+      "exponent": "6,57 млн",
+      "normalizedPrice": "254 651 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 1"
+    },
+    "coords": {
+      "lat": "55.81419",
+      "lng": "49.43",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 1"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8211332601,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_296_m_88_et._8211332601?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 29,6 м², 8/8 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7500000,
+      "wasLowered": false,
+      "exponent": "7,5 млн",
+      "normalizedPrice": "253 378 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  },
+  {
+    "id": 8230798661,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_23_m_1118_et._8230798661?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJJTmt3cERhb2pueHl5SHMzIjt9DVA4FT8AAAA",
+    "title": "Квартира-студия, 23 м², 11/18 эт.",
+    "description": "Жилой комплекс включает в себя корпуса, возведенные по технологии монолитного строительства с фасадной системой с минерально-полимерным штукатурным слоем и внешним окрасочным слоем. Во входных группах выполнено панорамное остекление. На первых этажах здания предусмотрены места для хранения колясок и велосипедов.\nВ жилом комплексе представлено несколько планировочных решений: от 1-комнатных до 4х-комнатных квартир. Все квартиры сдаются с подчистовой отделкой и высотой потолков 2,55 метра.\nНа территории жилого комплекса ведется видеонаблюдение, захватывающее периметр домов и первые этажи. Во дворах выполнен ландшафтный дизайн — предусмотрено всесезонное озеленение: хвойные деревья, кустарники и другие растения.\nЖилой комплекс расположен в Лаишевском районе, рядом с комплексом находятся детские сады, продуктовые магазины, спортивные залы и аптеки. До города Казань и до аэропорта дорога составит 20 минут на автомобиле. До пляжа «Камское море» — 50 минут на машине.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 531 160 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 531 160",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6531160,
+      "wasLowered": false,
+      "exponent": "6,53 млн",
+      "normalizedPrice": "283 963 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Усады, стр. 1, корп. 1"
+    },
+    "coords": {
+      "lat": "55.68763",
+      "lng": "49.21497",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Усады, стр. 1, корп. 1"
+    },
+    "developmentId": 3412869,
+    "developmentName": "ЖК «‎Дома у сада»",
+    "parsed_at": "2026-09-25T16:15:33.209673"
+  }
+]

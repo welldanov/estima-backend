@@ -1,0 +1,1344 @@
+[
+  {
+    "id": 8281884813,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_331_m_1010_et._8281884813?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 33,1 м², 10/10 эт.",
+    "description": "Данный современный проект включает 10 домов переменной этажности. Минималистичный дизайн фасада зданий выполнен в пастельных оттенках и облицован фиброцементными панелями.\n\nВ проекте представлено большое количество квартир с функциональными эргономичными планировками: 1-комнатные, 2х-комнатные и 3х-комнатные варианты.\n\nЖилой квартал создан по принципу «микро-город», где заранее предусмотрена своя собственная инфраструктура. Имеются места для отдыха и прогулок, безопасные детские комплексы для активных игр, спортивные площадки и воркаут-зоны. Благоустройство территории выполнено в авиационном стиле.\n\nВ пешей доступности от жилого комплекса располагаются детские сады, школы, спортивные клубы, кафе и гипермаркет. До метро «Авиастроительная» всего 15 минут пешком.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 210 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 210 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8210000,
+      "wasLowered": false,
+      "exponent": "8,21 млн",
+      "normalizedPrice": "248 036 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Михаила Миля, стр. 6",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84633",
+      "lng": "49.09651",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Михаила Миля, стр. 6"
+    },
+    "developmentId": 5941039,
+    "developmentName": "ЖК «‎Династия»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8211523474,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_347_m_56_et._8211523474?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 34,7 м², 5/6 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 350 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 350 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8350000,
+      "wasLowered": false,
+      "exponent": "8,35 млн",
+      "normalizedPrice": "240 634 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8211567181,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_461_m_18_et._8211567181?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 46,1 м², 1/8 эт.",
+    "description": "Жилой комплекс представляет из себя современный проект, возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита. Здания оборудованы скоростными бесшумными лифтами.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до 3х-комнатных квартир с увеличенными оконными проемами и высотой потолков 2,59 метра. Все квартиры сдаются с подчистовой отделкой. Также есть возможность приобретения квартиры с чистовой отделкой.\nТерритория комплекса благоустроена: спортивные площадки для игры в футбол, волейбол, баскетбол, площадки с уличными тренажерами, 2 детских сада на 340 и 160 мест, школа, отдельная закрытая велопарковка на территории двора, автостоянки.\nЖилой комплекс расположен в Высокогорском районе. В пешей доступности расположены продуктовые магазины, медицинские учреждения, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 715 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 715 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8715000,
+      "wasLowered": false,
+      "exponent": "8,71 млн",
+      "normalizedPrice": "189 046 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Вторая Ударная , стр. 4.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 4.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/vtoraya_udarnaya_ul_2/100143979?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Вторая Ударная ",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/vtoraya_udarnaya_ulitsa/197258-ASgBAgECA0SSA8YQ5geOUujIE5SKGAFF3AcZInZ0b3JheWFfdWRhcm5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.8723",
+      "lng": "49.30066",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Вторая Ударная , стр. 4.1"
+    },
+    "developmentId": 2694302,
+    "developmentName": "ЖК «Атмосфера»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8211326120,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_347_m_48_et._8211326120?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 34,7 м², 4/8 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 890 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 890 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7890000,
+      "wasLowered": false,
+      "exponent": "7,89 млн",
+      "normalizedPrice": "227 378 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8211032280,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_341_m_57_et._8211032280?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 34,1 м², 5/7 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 470 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 470 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8470000,
+      "wasLowered": false,
+      "exponent": "8,47 млн",
+      "normalizedPrice": "248 387 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8352930570,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_464_m_27_et._8352930570?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 46,4 м², 2/7 эт.",
+    "description": "Жилой комплекс представляет собой дом высотой в 4 этажа. Здание построено по кирпичной технологии строительства с комбинированными фасадами. В холлах выполнена дизайнерская отделка, установлены грузовые лифты.\n\nВ проекте предложено множество планировочных решений: в наличии квартиры классического типа. Сдаются они с подчистовой отделкой, увеличенными окнами, террасой и высотой потолков в 2,7м. Встречаются также двухуровневые квартиры с выходом на крышу.\n\nНа благоустроенной территории располагаются: современные и безопасные детские площадки для детей всех возрастов, прогулочные зоны для мам с колясками, велодорожки и тропы для хайкинга. Продуманы также места для отдыха, спортивные и воркаут площадки. На территории комплекса расположен свой детский сад.\n\nЖилой комплекс расположен в экологически чистом поселке «Октябрьский», неподалеку от берега Волги. Здесь хорошо развита инфраструктура: в нескольких минутах ходьбы находятся поликлиники, школы, кинотеатр, железнодорожная станция, планетарий и глэмпинг. До центра Казани можно добраться за 35 минут на транспорте.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 517 966 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 517 966",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8517966,
+      "wasLowered": false,
+      "exponent": "8,52 млн",
+      "normalizedPrice": "183 577 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пос. Октябрьский, корп. 2.3"
+    },
+    "coords": {
+      "lat": "55.83278",
+      "lng": "48.7741",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "пос. Октябрьский, корп. 2.3"
+    },
+    "developmentId": 9304554,
+    "developmentName": "ЖК «Форест»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8211414656,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_346_m_78_et._8211414656?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 34,6 м², 7/8 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 610 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 610 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8610000,
+      "wasLowered": false,
+      "exponent": "8,61 млн",
+      "normalizedPrice": "248 844 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8211332948,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_345_m_88_et._8211332948?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 34,5 м², 8/8 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 290 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 290 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8290000,
+      "wasLowered": false,
+      "exponent": "8,29 млн",
+      "normalizedPrice": "240 290 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8211704091,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_38_m_2025_et._8211704091?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 38 м², 20/25 эт.",
+    "description": "Жилой комплекс состоит из 10 корпусов высотой от 19 до 25 этажей. При строительстве используются керамические блоки Поротерм, за счет чего дома остаются теплыми и дышащими, увеличенные оконные проемы дают больше света и простора. В проекте выполнена дизайнерская отделка входных групп, установлены современные лифты и предусмотрены комнаты для хранения колясок.\nВ ЖК предложено множество планировочных решений: в наличии квартиры, как классического типа, так и европланировки. Сдаются они с подчистовой отделкой, высотой потолков от 2,6 до 2,65 метров и увеличенными окнами. Несомненными преимуществами высотного строительства являются вдохновляющие виды из окон на городскую панораму и лесопарковую территорию. В проекте реализована система умного дома.\nВ проекте предусмотрена концепция «Двор без машин». На придомовой территории установлены яркие игровые площадки с антиударным покрытием. Для владельцев автомобилей спроектирован отдельный многоуровневый паркинг. На территории проекта предусмотрены детские сады и школы.\nЖК находится в центре Приволжского района г. Казани вблизи живописной березовой рощи. ЖК входит в состав микрогорода «Волжские просторы». Социальные и спортивные объекты расположены в 5 минутах. Рядом удобная транспортная развязка. До центра города можно доехать за 20 минут, до международного аэропорта Казани — за 30 минут.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 910 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 910 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8910000,
+      "wasLowered": false,
+      "exponent": "8,91 млн",
+      "normalizedPrice": "234 474 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул.  Рауиса Гареева, д. 103А",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 103А",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rauisa_gareeva_103a/100869140?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул.  Рауиса Гареева",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rauisa_gareeva/422-ASgBAgECA0SSA8YQ5geOUujIE8wGAUXcBxcidWxpdHNhX3JhdWlzYV9nYXJlZXZhIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72178",
+      "lng": "49.17439",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул.  Рауиса Гареева, д. 103А"
+    },
+    "developmentId": 38325,
+    "developmentName": "ЖК «Сказочный лес»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8212210745,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_341_m_57_et._8212210745?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 34,1 м², 5/7 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 470 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 470 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8470000,
+      "wasLowered": false,
+      "exponent": "8,47 млн",
+      "normalizedPrice": "248 387 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8211459087,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_347_m_68_et._8211459087?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 34,7 м², 6/8 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 920 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 920 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7920000,
+      "wasLowered": false,
+      "exponent": "7,92 млн",
+      "normalizedPrice": "228 242 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8230348488,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_379_m_47_et._8230348488?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 37,9 м², 4/7 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 790 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 790 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7790000,
+      "wasLowered": false,
+      "exponent": "7,79 млн",
+      "normalizedPrice": "205 541 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_geroya_rossii_damira_islamova_2/103460083?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Героя России Дамира Исламова, д. 2",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_geroya_rossii_damira_islamova/1049227-ASgBAgECA0SSA8YQ5geOUujIE5aKgAEBRdwHJiJ1bGl0c2FfZ2Vyb3lhX3Jvc3NpaV9kYW1pcmFfaXNsYW1vdmEi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.81419",
+      "lng": "49.43",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 1"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8211223183,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_358_m_1719_et._8211223183?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 35,8 м², 17/19 эт.",
+    "description": "Жилой комплекс представляет из себя практически мини-город, в состав которого входит множество корпусов высотой до 19 этажей. Новый квартал размещается на территории площадью 60 гектара. В оформлении стен зданий используется современный навесной вентилируемый фасад. В каждом доме выполнена дизайнерская отделка входных групп, установлены современные лифты и предусмотрены колясочные.\nВ жилом комплексе предложено множество планировочных решений: в наличии квартиры, как классического типа, так и европланировки. Сдаются они с подчистовой отделкой, высота потолков — от 2,6 до 2,76 метров. В каждой квартире предусмотрены гардеробные, либо ниши под гардероб. В проекте реализована система умного дома.\nГлавная особенность комплекса — это оздоровительная инфраструктура, которая включает в себя: экстрим-парк, закрытые спорткомплексы, скейт-парки, профессионально оборудованные площадки для спортивных игр, велотреки, теннисные корты, уличные спортивные снаряды для воркаут-тренировок, лыжные трассы, бассейны, салоны красоты, фитнес-центры, тренажерные залы, места для медитации и занятий йогой. Для безопасности предусмотрена система видеонаблюдения по программе «Безопасный город». Система домофонии защищает от проникновения посторонних лиц в дом. На территории комплекса есть 9 детских садов, 3 школы, библиотека на свежем воздухе, поликлиника, магазины, торговый и бизнес-центры.\nКомплекс располагается в Приволжском районе, рядом с Усадским лесом, среди полей и лугов. Рядом есть детский сад, школа супермаркет «Бахетле» и несколько магазинов. До метро «Аментьево» 15 минут транспортом.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 940 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 940 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7940000,
+      "wasLowered": false,
+      "exponent": "7,94 млн",
+      "normalizedPrice": "221 788 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Пр-д Детский, стр. 3.4"
+    },
+    "coords": {
+      "lat": "55.67515",
+      "lng": "49.20462",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "пр-д Детский, стр. 3.4"
+    },
+    "developmentId": 43430,
+    "developmentName": "ЖК «Станция Спортивная»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 7737101249,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_341_m_410_et._7737101249?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 34,1 м², 4/10 эт.",
+    "description": "Это семейный жилой квартал, созданный для вас по принципу «Микро-город», где есть всё для комфортной и счастливой жизни. Жилой комплекс расположен в живой и динамичной части города, в 15 минутах от станции метро «Авиастроительная», с разнообразием учреждений социально-культурного назначения.\n\nПродается 1 комнатная квартира № 52 общей площадью: 34.14 кв. М. На 4 этаже.\n\nО Квартире.\n- качественная предчистовая отделка.\n- увеличенные оконные проемы и угловые окна.\n- шумоизоляция в стяжке пола.\n- высота потолков 2,60 м.\n- установлены все приборы учета воды, электроэнергии, тепла.\n- пассажирский и грузопассажирский лифты.\n- вход в дом через видеодомофоны.\n- современная система отопления с установкой индивидуальных приборов учета тепла в этажных коллекторных шкафах.\n- внутренние лоджии из алюминиевого профиля с жалюзийными вентиляционными решетками для установки наружного блока кондиционера.\n\nИнфраструктура.\n\n- безопасные игровые комплексы для детей.\n- отдельные зоны для спокойных прогулок.\n- тренировочная зона с современным оборудованием.\n- в пешей доступности находятся 8 школ, 7 муниципальных и коммерческих детских садов, поликлиники для взрослых и детей.\n- 5 мин ходьбы от жилого квартала до остановки общественного транспорта.\n- 15 минут до станции метро «Авиастроительная».\n- 20 мин езды на автомобиле до центра города.\nВ 15 минутах езды от жилого квартала находятся торговые центры «Парк-хаус», «Тандем», а также аквапарк «Ривьера» и Кремлевская набережная.\n\nСрок сдачи объекта в эксплуатацию 3 квартал 2027 г.\nЗвоните прямо сейчас! Наши менеджеры в отделе продаж проконсультируют Вас по любому вопросу.\n\nВарианты оплаты:\n-сотрудничаем с ведущими банками.\n- наличный расчет.\n\nПомощь при оформлении ипотеки. Полное юридическое сопровождение. Бесплатно!\n\nЗастройщик: ООО Спецзастройщик «Династия-4».\nПроектная декларация размещена на сайте наш. Дом. Рф.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 540 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 540 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8540000,
+      "wasLowered": false,
+      "exponent": "8,54 млн",
+      "normalizedPrice": "250 440 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Михаила Миля, стр. 6",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84633",
+      "lng": "49.09651",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Михаила Миля, стр. 6"
+    },
+    "developmentId": 5941039,
+    "developmentName": "ЖК «‎Династия»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 7737688595,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_341_m_710_et._7737688595?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 34,1 м², 7/10 эт.",
+    "description": "Это семейный жилой квартал, созданный для вас по принципу «Микро-город», где есть всё для комфортной и счастливой жизни. Жилой комплекс расположен в живой и динамичной части города, в 15 минутах от станции метро «Авиастроительная», с разнообразием учреждений социально-культурного назначения.\n\nПродается 1 комнатная квартира № 64 общей площадью: 34.14 кв. М. На 7 этаже.\n\nО Квартире.\n- качественная предчистовая отделка White box.\n- увеличенные оконные проемы и угловые окна.\n- шумоизоляция в стяжке пола.\n- высота потолков 2,60 м.\n- установлены все приборы учета воды, электроэнергии, тепла.\n- пассажирский и грузопассажирский лифты.\n- вход в дом через видеодомофоны.\n- современная система отопления с установкой индивидуальных приборов учета тепла в этажных коллекторных шкафах.\n- внутренние лоджии из алюминиевого профиля с жалюзийными вентиляционными решетками для установки наружного блока кондиционера.\n\nИнфраструктура.\n\n- безопасные игровые комплексы для детей.\n- отдельные зоны для спокойных прогулок.\n- воркаут-площадки с современным оборудованием.\n- в пешей доступности находятся 8 школ, 7 муниципальных и коммерческих детских садов, поликлиники для взрослых и детей.\n- 5 мин ходьбы от жилого квартала до остановки общественного транспорта.\n- 15 минут до станции метро «Авиастроительная».\n- 20 мин езды на автомобиле до центра города.\nВ 15 минутах езды от жилого квартала находятся торговые центры «Парк-хаус», «Тандем», а также аквапарк «Ривьера» и Кремлевская набережная.\n\nСрок сдачи объекта в эксплуатацию 3 квартал 2027 г.\nЗвоните прямо сейчас! Наши менеджеры в отделе продаж проконсультируют Вас по любому вопросу.\n\nВарианты оплаты:\n-сотрудничаем с ведущими банками.\n- наличный расчет.\n\nПомощь при оформлении ипотеки. Полное юридическое сопровождение. Бесплатно!\n\nЗастройщик: ООО Спецзастройщик «Династия-4».\nПроектная декларация размещена на сайте наш. Дом. Рф.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 540 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 540 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8540000,
+      "wasLowered": false,
+      "exponent": "8,54 млн",
+      "normalizedPrice": "250 440 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Михаила Миля, стр. 6",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84633",
+      "lng": "49.09651",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Михаила Миля, стр. 6"
+    },
+    "developmentId": 5941039,
+    "developmentName": "ЖК «‎Династия»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8211109122,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_336_m_56_et._8211109122?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 33,6 м², 5/6 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 460 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 460 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8460000,
+      "wasLowered": false,
+      "exponent": "8,46 млн",
+      "normalizedPrice": "251 786 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8211767028,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_472_m_78_et._8211767028?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 47,2 м², 7/8 эт.",
+    "description": "Жилой комплекс представляет из себя современный проект, возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита. Здания оборудованы скоростными бесшумными лифтами.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до 3х-комнатных квартир с увеличенными оконными проемами и высотой потолков 2,59 метра. Все квартиры сдаются с подчистовой отделкой. Также есть возможность приобретения квартиры с чистовой отделкой.\nТерритория комплекса благоустроена: спортивные площадки для игры в футбол, волейбол, баскетбол, площадки с уличными тренажерами, 2 детских сада на 340 и 160 мест, школа, отдельная закрытая велопарковка на территории двора, автостоянки.\nЖилой комплекс расположен в Высокогорском районе. В пешей доступности расположены продуктовые магазины, медицинские учреждения, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 672 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 672 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8672000,
+      "wasLowered": false,
+      "exponent": "8,67 млн",
+      "normalizedPrice": "183 729 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Вторая Ударная , стр. 4.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 4.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/vtoraya_udarnaya_ul_2/100143979?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Вторая Ударная ",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/vtoraya_udarnaya_ulitsa/197258-ASgBAgECA0SSA8YQ5geOUujIE5SKGAFF3AcZInZ0b3JheWFfdWRhcm5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.8723",
+      "lng": "49.30066",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Вторая Ударная , стр. 4.1"
+    },
+    "developmentId": 2694302,
+    "developmentName": "ЖК «Атмосфера»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8163128064,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_411_m_718_et._8163128064?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 41,1 м², 7/18 эт.",
+    "description": "Жилой комплекс включает в себя корпуса, возведенные по технологии монолитного строительства с фасадной системой с минерально-полимерным штукатурным слоем и внешним окрасочным слоем. Во входных группах выполнено панорамное остекление. На первых этажах здания предусмотрены места для хранения колясок и велосипедов.\nВ жилом комплексе представлено несколько планировочных решений: от 1-комнатных до 4х-комнатных квартир. Все квартиры сдаются с подчистовой отделкой и высотой потолков 2,55 метра.\nНа территории жилого комплекса ведется видеонаблюдение, захватывающее периметр домов и первые этажи. Во дворах выполнен ландшафтный дизайн — предусмотрено всесезонное озеленение: хвойные деревья, кустарники и другие растения.\nЖилой комплекс расположен в Лаишевском районе, рядом с комплексом находятся детские сады, продуктовые магазины, спортивные залы и аптеки. До города Казань и до аэропорта дорога составит 20 минут на автомобиле. До пляжа «Камское море» — 50 минут на машине.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 411 832 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 411 832",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8411832,
+      "wasLowered": false,
+      "exponent": "8,41 млн",
+      "normalizedPrice": "204 667 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Усады, стр. 1, корп. 1"
+    },
+    "coords": {
+      "lat": "55.68763",
+      "lng": "49.21497",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Усады, стр. 1, корп. 1"
+    },
+    "developmentId": 3412869,
+    "developmentName": "ЖК «‎Дома у сада»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8210950610,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_424_m_614_et._8210950610?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 42,4 м², 6/14 эт.",
+    "description": "Жилой комплекс представляет из себя практически мини-город, в состав которого входит множество корпусов высотой до 19 этажей. Новый квартал размещается на территории площадью 60 гектара. В оформлении стен зданий используется современный навесной вентилируемый фасад. В каждом доме выполнена дизайнерская отделка входных групп, установлены современные лифты и предусмотрены колясочные.\nВ жилом комплексе предложено множество планировочных решений: в наличии квартиры, как классического типа, так и европланировки. Сдаются они с подчистовой отделкой, высота потолков — от 2,6 до 2,76 метров. В каждой квартире предусмотрены гардеробные, либо ниши под гардероб. В проекте реализована система умного дома.\nГлавная особенность комплекса — это оздоровительная инфраструктура, которая включает в себя: экстрим-парк, закрытые спорткомплексы, скейт-парки, профессионально оборудованные площадки для спортивных игр, велотреки, теннисные корты, уличные спортивные снаряды для воркаут-тренировок, лыжные трассы, бассейны, салоны красоты, фитнес-центры, тренажерные залы, места для медитации и занятий йогой. Для безопасности предусмотрена система видеонаблюдения по программе «Безопасный город». Система домофонии защищает от проникновения посторонних лиц в дом. На территории комплекса есть 9 детских садов, 3 школы, библиотека на свежем воздухе, поликлиника, магазины, торговый и бизнес-центры.\nКомплекс располагается в Приволжском районе, рядом с Усадским лесом, среди полей и лугов. Рядом есть детский сад, школа супермаркет «Бахетле» и несколько магазинов. До метро «Аментьево» 15 минут транспортом.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 770 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 770 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8770000,
+      "wasLowered": false,
+      "exponent": "8,77 млн",
+      "normalizedPrice": "206 840 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Пр-д Детский, стр. 3.4"
+    },
+    "coords": {
+      "lat": "55.67515",
+      "lng": "49.20462",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "пр-д Детский, стр. 3.4"
+    },
+    "developmentId": 43430,
+    "developmentName": "ЖК «Станция Спортивная»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 7954757866,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_561_m_14_et._7954757866?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 56,1 м², 1/4 эт.",
+    "description": "Прямая продажа от застройщика!\nКорпус 1.1 сдан!\n\nЖилой Комплекс комфорт-класса.\n\nПродаётся 1-к квартира номер 65 общей площадью 56.1 кв. М. На 1-м этаже 4 этажного здания.\n\nПредчистовая отделка.\n\n- Просторная спальня, в которой можно разместить большую кровать.\n- Угловая планировка — больше пространства для ваших идей.\n- Увеличенное количество окон — дополнительное освещение и свежий воздух.\n- Можно оборудовать рабочее место — комфорт для работы и учёбы.\n- Отдельный вход — максимальная приватность для вашего жилья.\n- Просторная кухня — место для семейных ужинов и кулинарных экспериментов.\n- Проходная кухня-гостиная — идеальное пространство для общения и готовки.\n- Ниша под шкаф — компактное и удобное место для вещей.\n- Терраса — место для загара и вечерних посиделок.\n\nКвартира с предчистовой отделкой. Вам не придется заниматься черновыми и трудоёмкими работы, а чистовую отделку и дизайн — сделайте на свой вкус.\n\n«Форест» — жилой комплекс комфорт-класса, созданный для тех, кто ищет гармонию с природой, не отказываясь от городского ритма.\nРасположенный в окружении леса и реки, он воплощает мечту о загородной жизни со всеми удобствами города. Здесь можно проживать самые тёплые моменты с близкими, дышать свежим хвойным воздухом, встречать утро на собственной террасе или проводить вечера с друзьями под открытым небом.\nБлагоустроенная территория, прогулочные дорожки и зоны отдыха создают атмосферу уюта и гармонии. Поблизости — лес и Волга, куда можно выбраться на прогулку в любое время, не дожидаясь выходных. Благодаря вечнозелёным растениям и продуманному озеленению, дворы остаются зелёными круглый год.\n\n- 4 мин. Пушком до автобусной остановки.\n- 5 мин. На машине до школы.\n\nПродуманное пространство для жизни, отдыха и развития.\nНа территории комплекса работает собственный детский сад — современное и безопасное пространство, где дети всегда рядом с родителями. Во дворе установлены игровые комплексы для активных прогулок и развития малышей на свежем воздухе.\nЖителям доступны кафе и магазины, площадки для прогулок с питомцами, зоны для пикников и барбекю. Для любителей активного образа жизни предусмотрены велодорожки, воркаут-зоны и тропы для хайкинга, а в шаговой доступности находятся планетарий и глэмпинг.\nПросторный двор без машин и закрытая территория с системой контроля доступа обеспечивают высокий уровень безопасности и приватности. Здесь можно по-настоящему расслабиться и чувствовать себя дома — в окружении природы, комфорта и заботы о каждом дне.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 573 741 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 573 741",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8573741,
+      "wasLowered": false,
+      "exponent": "8,57 млн",
+      "normalizedPrice": "152 830 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пос. Октябрьский, ул. Новая, стр. 1.1"
+    },
+    "coords": {
+      "lat": "55.8335",
+      "lng": "48.77667",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "пос. Октябрьский, ул. Новая, стр. 1.1"
+    },
+    "developmentId": 9304554,
+    "developmentName": "ЖК «Форест»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8089582163,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_33_m_715_et._8089582163?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 33 м², 7/15 эт.",
+    "description": "Это семейный жилой квартал, созданный для вас по принципу «Микро-город», где есть всё для комфортной и счастливой жизни. Жилой комплекс расположен в живой и динамичной части города, в 15 минутах от станции метро «Авиастроительная», с разнообразием учреждений социально-культурного назначения.\n\nПродается 1 комнатная квартира № 163 общей площадью:33.03кв. М. На 7 этаже.\n\nО Квартире.\n- качественная предчистовая отделка.\n- увеличенные оконные проемы и угловые окна.\n- шумоизоляция в стяжке пола.\n- высота потолков 2,60 м.\n- установлены все приборы учета воды, электроэнергии, тепла.\n- пассажирский и грузопассажирский лифты.\n- вход в дом через видеодомофоны.\n- современная система отопления с установкой индивидуальных приборов учета тепла в этажных коллекторных шкафах.\n- внутренние лоджии из алюминиевого профиля с жалюзийными вентиляционными решетками для установки наружного блока кондиционера.\n\nИнфраструктура.\n\n- коммерция на первом этаже — все необходимое рядом!\n- безопасные игровые комплексы для детей.\n- отдельные зоны для спокойных прогулок.\n- тренировочная зона с современным оборудованием.\n- в пешей доступности находятся 8 школ, 7 муниципальных и коммерческих детских садов, поликлиники для взрослых и детей.\n- 5 мин ходьбы от жилого квартала до остановки общественного транспорта.\n- 15 минут до станции метро «Авиастроительная».\n- 20 мин езды на автомобиле до центра города.\nВ 15 минутах езды от жилого квартала находятся торговые центры «Парк-хаус», «Тандем», а также аквапарк «Ривьера» и Кремлевская набережная.\n\nСрок сдачи объекта в эксплуатацию 3 квартал 2028 г.\nЗвоните прямо сейчас! Наши менеджеры в отделе продаж проконсультируют Вас по любому вопросу.\n\nВарианты оплаты:\n-сотрудничаем с ведущими банками.\n- наличный расчет.\n\nПомощь при оформлении ипотеки. Полное юридическое сопровождение. Бесплатно!\n\nЗастройщик: ООО Спецзастройщик «Династия».\nПроектная декларация размещена на сайте наш. Дом. Рф.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 430 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 430 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8430000,
+      "wasLowered": false,
+      "exponent": "8,43 млн",
+      "normalizedPrice": "255 455 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Авиастроительная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Михаила Миля, стр. 8",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Авиастроительная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2139"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84777",
+      "lng": "49.09486",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Михаила Миля, стр. 8"
+    },
+    "developmentId": 5941039,
+    "developmentName": "ЖК «‎Династия»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  },
+  {
+    "id": 8089057469,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_333_m_715_et._8089057469?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJUZlRtVTltdHBpb081VVBEIjt9K3Op_j8AAAA",
+    "title": "1-к. квартира, 33,3 м², 7/15 эт.",
+    "description": "Это семейный жилой квартал, созданный для вас по принципу «Микро-город», где есть всё для комфортной и счастливой жизни. Жилой комплекс расположен в живой и динамичной части города, в 15 минутах от станции метро «Авиастроительная», с разнообразием учреждений социально-культурного назначения.\n\nПродается 1 комнатная квартира № 45 общей площадью:33.27кв. М. На 7 этаже.\n\nО Квартире.\n- качественная предчистовая отделка.\n- увеличенные оконные проемы и угловые окна.\n- шумоизоляция в стяжке пола.\n- высота потолков 2,60 м.\n- установлены все приборы учета воды, электроэнергии, тепла.\n- пассажирский и грузопассажирский лифты.\n- вход в дом через видеодомофоны.\n- современная система отопления с установкой индивидуальных приборов учета тепла в этажных коллекторных шкафах.\n- внутренние лоджии из алюминиевого профиля с жалюзийными вентиляционными решетками для установки наружного блока кондиционера.\n\nИнфраструктура.\n\n- коммерция на первом этаже — все необходимое рядом!\n- безопасные игровые комплексы для детей.\n- отдельные зоны для спокойных прогулок.\n- тренировочная зона с современным оборудованием.\n- в пешей доступности находятся 8 школ, 7 муниципальных и коммерческих детских садов, поликлиники для взрослых и детей.\n- 5 мин ходьбы от жилого квартала до остановки общественного транспорта.\n- 15 минут до станции метро «Авиастроительная».\n- 20 мин езды на автомобиле до центра города.\nВ 15 минутах езды от жилого квартала находятся торговые центры «Парк-хаус», «Тандем», а также аквапарк «Ривьера» и Кремлевская набережная.\n\nСрок сдачи объекта в эксплуатацию 3 квартал 2028 г.\nЗвоните прямо сейчас! Наши менеджеры в отделе продаж проконсультируют Вас по любому вопросу.\n\nВарианты оплаты:\n-сотрудничаем с ведущими банками.\n- наличный расчет.\n\nПомощь при оформлении ипотеки. Полное юридическое сопровождение. Бесплатно!\n\nЗастройщик: ООО Спецзастройщик «Династия».\nПроектная декларация размещена на сайте наш. Дом. Рф.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 490 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 490 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8490000,
+      "wasLowered": false,
+      "exponent": "8,49 млн",
+      "normalizedPrice": "254 955 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Авиастроительная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Михаила Миля, стр. 8",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Авиастроительная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2139"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84777",
+      "lng": "49.09486",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Михаила Миля, стр. 8"
+    },
+    "developmentId": 5941039,
+    "developmentName": "ЖК «‎Династия»",
+    "parsed_at": "2026-09-25T09:38:07.211442"
+  }
+]

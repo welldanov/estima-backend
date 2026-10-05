@@ -1,0 +1,1930 @@
+[
+  {
+    "id": 7841387142,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_531_m_219_et._7841387142?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 53,1 м², 2/19 эт.",
+    "description": "Номер квартиры: 611.\n\nЭтаж: 2.\n\nПлощадь: 53.09.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 350 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 350 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10350000,
+      "wasLowered": false,
+      "exponent": "10,35 млн",
+      "normalizedPrice": "194 915 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8222012028,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_603_m_48_et._8222012028?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 60,3 м², 4/8 эт.",
+    "description": "Жилой комплекс представляет из себя современный проект, возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита. Здания оборудованы скоростными бесшумными лифтами.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до 3х-комнатных квартир с увеличенными оконными проемами и высотой потолков 2,59 метра. Все квартиры сдаются с подчистовой отделкой. Также есть возможность приобретения квартиры с чистовой отделкой.\nТерритория комплекса благоустроена: спортивные площадки для игры в футбол, волейбол, баскетбол, площадки с уличными тренажерами, 2 детских сада на 340 и 160 мест, школа, отдельная закрытая велопарковка на территории двора, автостоянки.\nЖилой комплекс расположен в Высокогорском районе. В пешей доступности расположены продуктовые магазины, медицинские учреждения, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 655 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 655 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9655000,
+      "wasLowered": false,
+      "exponent": "9,65 млн",
+      "normalizedPrice": "160 116 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Вторая Ударная , стр. 4.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 4.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/vtoraya_udarnaya_ul_2/100143979?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Вторая Ударная ",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/vtoraya_udarnaya_ulitsa/197258-ASgBAgECA0SSA8YQ5geOUujIE5SKGAFF3AcZInZ0b3JheWFfdWRhcm5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.8723",
+      "lng": "49.30066",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Вторая Ударная , стр. 4.1"
+    },
+    "developmentId": 2694302,
+    "developmentName": "ЖК «Атмосфера»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8417439400,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_549_m_1719_et._8417439400?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 54,9 м², 17/19 эт.",
+    "description": "Номер квартиры: 450.\n\nЭтаж: 17.\n\nПлощадь: 54.92.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 590 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 590 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10590000,
+      "wasLowered": false,
+      "exponent": "10,59 млн",
+      "normalizedPrice": "192 896 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 7841810300,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_528_m_1419_et._7841810300?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 52,8 м², 14/19 эт.",
+    "description": "Номер квартиры: 411.\n\nЭтаж: 14.\n\nПлощадь: 52.76.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 230 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 230 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10230000,
+      "wasLowered": false,
+      "exponent": "10,23 млн",
+      "normalizedPrice": "193 750 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 7841630231,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_498_m_219_et._7841630231?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 49,8 м², 2/19 эт.",
+    "description": "Номер квартиры: 614.\n\nЭтаж: 2.\n\nПлощадь: 49.84.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 960 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 960 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9960000,
+      "wasLowered": false,
+      "exponent": "9,96 млн",
+      "normalizedPrice": "200 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 7840984684,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_528_m_1519_et._7840984684?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 52,8 м², 15/19 эт.",
+    "description": "Номер квартиры: 422.\n\nЭтаж: 15.\n\nПлощадь: 52.76.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 210 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 210 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10210000,
+      "wasLowered": false,
+      "exponent": "10,21 млн",
+      "normalizedPrice": "193 371 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8417021996,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_531_m_1019_et._8417021996?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 53,1 м², 10/19 эт.",
+    "description": "Номер квартиры: 699.\n\nЭтаж: 10.\n\nПлощадь: 53.09.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 350 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 350 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10350000,
+      "wasLowered": false,
+      "exponent": "10,35 млн",
+      "normalizedPrice": "194 915 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 7841141646,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_567_m_213_et._7841141646?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 56,7 м², 2/13 эт.",
+    "description": "Номер квартиры: 482.\n\nЭтаж: 2.\n\nПлощадь: 56.73.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 670 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 670 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10670000,
+      "wasLowered": false,
+      "exponent": "10,67 млн",
+      "normalizedPrice": "188 183 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 7841505638,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_567_m_310_et._7841505638?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 56,7 м², 3/10 эт.",
+    "description": "Номер квартиры: 196.\n\nЭтаж: 3.\n\nПлощадь: 56.69.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 630 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 630 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10630000,
+      "wasLowered": false,
+      "exponent": "10,63 млн",
+      "normalizedPrice": "187 478 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 3905854255,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_498_m_1119_et._3905854255?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 49,8 м², 11/19 эт.",
+    "description": "Номер квартиры: 713.\n\nЭтаж: 11.\n\nПлощадь: 49.84.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 910 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 910 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9910000,
+      "wasLowered": false,
+      "exponent": "9,91 млн",
+      "normalizedPrice": "198 996 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8228697716,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_533_m_710_et._8228697716?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 53,3 м², 7/10 эт.",
+    "description": "Данный современный проект включает 10 домов переменной этажности. Минималистичный дизайн фасада зданий выполнен в пастельных оттенках и облицован фиброцементными панелями.\n\nВ проекте представлено большое количество квартир с функциональными эргономичными планировками: 1-комнатные, 2х-комнатные и 3х-комнатные варианты.\n\nЖилой квартал создан по принципу «микро-город», где заранее предусмотрена своя собственная инфраструктура. Имеются места для отдыха и прогулок, безопасные детские комплексы для активных игр, спортивные площадки и воркаут-зоны. Благоустройство территории выполнено в авиационном стиле.\n\nВ пешей доступности от жилого комплекса располагаются детские сады, школы, спортивные клубы, кафе и гипермаркет. До метро «Авиастроительная» всего 15 минут пешком.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 510 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 510 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10510000,
+      "wasLowered": false,
+      "exponent": "10,51 млн",
+      "normalizedPrice": "197 186 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Михаила Миля, стр. 6",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84633",
+      "lng": "49.09651",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Михаила Миля, стр. 6"
+    },
+    "developmentId": 5941039,
+    "developmentName": "ЖК «‎Династия»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 3906063622,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_531_m_1119_et._3906063622?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 53,1 м², 11/19 эт.",
+    "description": "Номер квартиры: 710.\n\nЭтаж: 11.\n\nПлощадь: 53.09.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 250 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 250 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10250000,
+      "wasLowered": false,
+      "exponent": "10,25 млн",
+      "normalizedPrice": "193 032 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 7841411135,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_528_m_1219_et._7841411135?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 52,8 м², 12/19 эт.",
+    "description": "Номер квартиры: 389.\n\nЭтаж: 12.\n\nПлощадь: 52.76.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 210 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 210 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10210000,
+      "wasLowered": false,
+      "exponent": "10,21 млн",
+      "normalizedPrice": "193 371 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8225022891,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_464_m_1625_et._8225022891?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 46,4 м², 16/25 эт.",
+    "description": "Номер квартиры: 464.\n\nЭтаж: 16.\n\nПлощадь: 46.37.\n\nКорпус: Дом 4.3 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 650 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 650 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9650000,
+      "wasLowered": false,
+      "exponent": "9,65 млн",
+      "normalizedPrice": "207 974 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 11",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 11",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_11/97559395?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68648",
+      "lng": "49.20546",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 11"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8417234340,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_531_m_1717_et._8417234340?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 53,1 м², 17/17 эт.",
+    "description": "Номер квартиры: 171.\n\nЭтаж: 17.\n\nПлощадь: 53.11.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 290 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 290 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10290000,
+      "wasLowered": false,
+      "exponent": "10,29 млн",
+      "normalizedPrice": "193 785 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 3906047958,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_531_m_919_et._3906047958?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 53,1 м², 9/19 эт.",
+    "description": "Номер квартиры: 358.\n\nЭтаж: 9.\n\nПлощадь: 53.09.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 520 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 520 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10520000,
+      "wasLowered": false,
+      "exponent": "10,52 млн",
+      "normalizedPrice": "198 117 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 3905635768,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_547_m_1725_et._3905635768?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 54,7 м², 17/25 эт.",
+    "description": "Номер квартиры: 184.\n\nЭтаж: 17.\n\nПлощадь: 54.68.\n\nКорпус: Дом 4.2 Блок-секция 1,2 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 270 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 270 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10270000,
+      "wasLowered": false,
+      "exponent": "10,27 млн",
+      "normalizedPrice": "187 751 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_9/97548618?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68714",
+      "lng": "49.20693",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 9"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8417373235,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_552_m_417_et._8417373235?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 55,2 м², 4/17 эт.",
+    "description": "Номер квартиры: 32.\n\nЭтаж: 4.\n\nПлощадь: 55.23.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 430 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 430 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10430000,
+      "wasLowered": false,
+      "exponent": "10,43 млн",
+      "normalizedPrice": "188 949 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8417416888,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_553_m_819_et._8417416888?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 55,3 м², 8/19 эт.",
+    "description": "Номер квартиры: 675.\n\nЭтаж: 8.\n\nПлощадь: 55.25.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 410 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 410 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10410000,
+      "wasLowered": false,
+      "exponent": "10,41 млн",
+      "normalizedPrice": "188 246 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8290923693,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_603_m_68_et._8290923693?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 60,3 м², 6/8 эт.",
+    "description": "Жилой комплекс представляет из себя современный проект, возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита. Здания оборудованы скоростными бесшумными лифтами.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до 3х-комнатных квартир с увеличенными оконными проемами и высотой потолков 2,59 метра. Все квартиры сдаются с подчистовой отделкой. Также есть возможность приобретения квартиры с чистовой отделкой.\nТерритория комплекса благоустроена: спортивные площадки для игры в футбол, волейбол, баскетбол, площадки с уличными тренажерами, 2 детских сада на 340 и 160 мест, школа, отдельная закрытая велопарковка на территории двора, автостоянки.\nЖилой комплекс расположен в Высокогорском районе. В пешей доступности расположены продуктовые магазины, медицинские учреждения, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 619 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 619 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9619000,
+      "wasLowered": false,
+      "exponent": "9,62 млн",
+      "normalizedPrice": "159 519 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Вторая Ударная , стр. 4.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 4.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/vtoraya_udarnaya_ul_2/100143979?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Вторая Ударная ",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/vtoraya_udarnaya_ulitsa/197258-ASgBAgECA0SSA8YQ5geOUujIE5SKGAFF3AcZInZ0b3JheWFfdWRhcm5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.8723",
+      "lng": "49.30066",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Вторая Ударная , стр. 4.1"
+    },
+    "developmentId": 2694302,
+    "developmentName": "ЖК «Атмосфера»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 3906494451,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_509_m_625_et._3906494451?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 50,9 м², 6/25 эт.",
+    "description": "Номер квартиры: 57.\n\nЭтаж: 6.\n\nПлощадь: 50.91.\n\nКорпус: Дом 4.3 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 760 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 760 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9760000,
+      "wasLowered": false,
+      "exponent": "9,76 млн",
+      "normalizedPrice": "191 749 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 11",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 11",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_11/97559395?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68648",
+      "lng": "49.20546",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 11"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 7841087875,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_567_m_610_et._7841087875?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 56,7 м², 6/10 эт.",
+    "description": "Номер квартиры: 229.\n\nЭтаж: 6.\n\nПлощадь: 56.69.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 650 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 650 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10650000,
+      "wasLowered": false,
+      "exponent": "10,65 млн",
+      "normalizedPrice": "187 831 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8417283836,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_552_m_617_et._8417283836?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 55,2 м², 6/17 эт.",
+    "description": "Номер квартиры: 54.\n\nЭтаж: 6.\n\nПлощадь: 55.23.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 490 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 490 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10490000,
+      "wasLowered": false,
+      "exponent": "10,49 млн",
+      "normalizedPrice": "190 036 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8417132536,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_547_m_725_et._8417132536?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 54,7 м², 7/25 эт.",
+    "description": "Номер квартиры: 64.\n\nЭтаж: 7.\n\nПлощадь: 54.67.\n\nКорпус: Дом 4.3 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 220 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 220 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10220000,
+      "wasLowered": false,
+      "exponent": "10,22 млн",
+      "normalizedPrice": "186 837 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 11",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 11",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_11/97559395?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68648",
+      "lng": "49.20546",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 11"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 7841590588,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_507_m_313_et._7841590588?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 50,7 м², 3/13 эт.",
+    "description": "Номер квартиры: 488.\n\nЭтаж: 3.\n\nПлощадь: 50.73.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 950 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 950 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9950000,
+      "wasLowered": false,
+      "exponent": "9,95 млн",
+      "normalizedPrice": "196 252 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 7841206290,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_567_m_910_et._7841206290?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 56,7 м², 9/10 эт.",
+    "description": "Номер квартиры: 262.\n\nЭтаж: 9.\n\nПлощадь: 56.69.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 650 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 650 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10650000,
+      "wasLowered": false,
+      "exponent": "10,65 млн",
+      "normalizedPrice": "187 831 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 7841780093,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_509_m_2025_et._7841780093?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 50,9 м², 20/25 эт.",
+    "description": "Номер квартиры: 225.\n\nЭтаж: 20.\n\nПлощадь: 50.91.\n\nКорпус: Дом 4.2 Блок-секция 1,2 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 820 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 820 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9820000,
+      "wasLowered": false,
+      "exponent": "9,82 млн",
+      "normalizedPrice": "192 927 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_9/97548618?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68714",
+      "lng": "49.20693",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 9"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8417831016,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_547_m_1625_et._8417831016?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 54,7 м², 16/25 эт.",
+    "description": "Номер квартиры: 172.\n\nЭтаж: 16.\n\nПлощадь: 54.68.\n\nКорпус: Дом 4.3 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 220 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 220 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10220000,
+      "wasLowered": false,
+      "exponent": "10,22 млн",
+      "normalizedPrice": "186 837 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 11",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 11",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_11/97559395?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68648",
+      "lng": "49.20546",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 11"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8416960448,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_552_m_617_et._8416960448?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 55,2 м², 6/17 эт.",
+    "description": "Номер квартиры: 48.\n\nЭтаж: 6.\n\nПлощадь: 55.24.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 510 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 510 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10510000,
+      "wasLowered": false,
+      "exponent": "10,51 млн",
+      "normalizedPrice": "190 399 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  },
+  {
+    "id": 8417765535,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_531_m_1417_et._8417765535?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJNNkhTcFltdlJJOFNuM0lOIjt9w1NJfj8AAAA",
+    "title": "2-к. квартира, 53,1 м², 14/17 эт.",
+    "description": "Номер квартиры: 138.\n\nЭтаж: 14.\n\nПлощадь: 53.11.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 330 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 330 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10330000,
+      "wasLowered": false,
+      "exponent": "10,33 млн",
+      "normalizedPrice": "194 539 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T15:32:26.900103"
+  }
+]

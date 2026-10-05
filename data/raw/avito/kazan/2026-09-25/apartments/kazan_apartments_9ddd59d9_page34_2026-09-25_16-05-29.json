@@ -1,0 +1,2220 @@
+[
+  {
+    "id": 8257233786,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_828_m_79_et._8257233786?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 82,8 м², 7/9 эт.",
+    "description": "Номер квартиры: 533.\n\nЭтаж: 7.\n\nПлощадь: 82.76.\n\nКорпус: ЖК «Октава». Жилой комплекс «Октава» реализован с использованием качественных строительных материалов, что обеспечивает тепло- и шумоизоляцию помещений. Это современное пространство, созданное для комфортной жизни. В комплексе представлены различные варианты планировок. Внутри квартиры предоставляются без отделки, что позволяет будущим владельцам оформить их по своему усмотрению.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 351 320 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 351 320",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17351320,
+      "wasLowered": false,
+      "exponent": "17,35 млн",
+      "normalizedPrice": "209 557 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 700 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, д. 20И",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 20И",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rodiny_20/70808841?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Родины",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rodiny/5612-ASgBAgECA0SSA8YQ5geOUujIE9hXAUXcBw8idWxpdHNhX3JvZGlueSI"
+        },
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76399",
+      "lng": "49.19962",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, д. 20И"
+    },
+    "developmentId": 16397020,
+    "developmentName": "ЖК «Октава»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8449796273,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_642_m_1218_et._8449796273?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 64,2 м², 12/18 эт.",
+    "description": "Номер квартиры: 352.\n\nЭтаж: 12.\n\nПлощадь: 64.22.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 216 722 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 216 722",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17216722,
+      "wasLowered": false,
+      "exponent": "17,22 млн",
+      "normalizedPrice": "268 173 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 7354138733,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_661_m_1625_et._7354138733?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 66,1 м², 16/25 эт.",
+    "description": "Пpoдаетcя квaртиpа в ЖК бизнес-клaсcа «Оригана».\nЖК «Оригана» — особый квартал с уникальной архитектурой в стиле ар-деко. Это новое слово в развитии родного города. Квартал представляет собой две очереди домов с фасадами в традиционных для Казани цветах. Необычная, но такая близкая человеку, концепция близости к природе прослеживается даже в деталях — от названия квартала до подбора трав для клумб во дворе.\nО расположении ЖК:\nЖК «Оригана» находится у одной из основных транспортных магистралей — у Танкового кольца. От ЖК вы за 12 минут на автомобиле сможете добраться до центра города. Также это кольцо поможет выбрать любое направление города будь то аэропорт, горки и все загородные локации этой стороны.\nЖК состоит из двух очередей:\nСроки сдачи: 1 оч. — 2 кв. 2028 г., 2 оч. — 2 кв. 2029 г.\nВ проекте присутствуют базовые преимущества, такие как:\n- Видеонаблюдение.\n- Закрытый двор.\n- Детские площадки.\n- Спортплощадки.\n- Зоны отдыха.\nВ ЖК «Оригана» мы планируем заполнить первые этажи организациями и ритейлами первой необходимости, а также заведениями, которые пользуются большой популярностью и переходят с нами из проекта в проект, помогая превращать наши ЖК в точки притяжения. Разнообразие инфраструктуры внутри проекта позволяет провести жизненный цикл, не покидая пределы ЖК, то есть будущие жители будут окружены всем необходимым.\nЧто есть на территории самого комплекса:\n- Встроенный детский сад в 1 очередь на 150 детей со своей территорией.\n- Коворкинг.\n- Места общего пользования.\n- Колясочные.\n- Детская игровая.\n- Подземный паркинг.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 731 800 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 731 800",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15731800,
+      "wasLowered": false,
+      "exponent": "15,73 млн",
+      "normalizedPrice": "238 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,6 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Оренбургский Тракт, стр. 2.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 2.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/mayskaya_ul/70810835?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Оренбургский Тракт",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/mayskaya_ulitsa/215613-ASgBAgECA0SSA8YQ5geOUujIE_qoGgFF3AcRIm1heXNrYXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7516",
+      "lng": "49.16002",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Оренбургский Тракт, стр. 2.1"
+    },
+    "developmentId": 10484493,
+    "developmentName": "ЖК «Оригана»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8449783894,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_641_m_818_et._8449783894?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 64,1 м², 8/18 эт.",
+    "description": "Номер квартиры: 335.\n\nЭтаж: 8.\n\nПлощадь: 64.11.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 153 984 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 153 984",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17153984,
+      "wasLowered": false,
+      "exponent": "17,15 млн",
+      "normalizedPrice": "267 613 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 7834100488,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_647_m_68_et._7834100488?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 64,7 м², 6/8 эт.",
+    "description": "Пpoдаетcя квaртиpа в ЖК бизнес-клaсcа «Оригана».\nЖК «Оригана» — особый квартал с уникальной архитектурой в стиле ар-деко. Это новое слово в развитии родного города. Квартал представляет собой две очереди домов с фасадами в традиционных для Казани цветах. Необычная, но такая близкая человеку, концепция близости к природе прослеживается даже в деталях — от названия квартала до подбора трав для клумб во дворе.\nО расположении ЖК:\nЖК «Оригана» находится у одной из основных транспортных магистралей — у Танкового кольца. От ЖК вы за 12 минут на автомобиле сможете добраться до центра города. Также это кольцо поможет выбрать любое направление города будь то аэропорт, горки и все загородные локации этой стороны.\nЖК состоит из двух очередей:\nСроки сдачи: 1 оч. — 2 кв. 2028 г., 2 оч. — 2 кв. 2029 г.\nВ проекте присутствуют базовые преимущества, такие как:\n- Видеонаблюдение.\n- Закрытый двор.\n- Детские площадки.\n- Спортплощадки.\n- Зоны отдыха.\nВ ЖК «Оригана» мы планируем заполнить первые этажи организациями и ритейлами первой необходимости, а также заведениями, которые пользуются большой популярностью и переходят с нами из проекта в проект, помогая превращать наши ЖК в точки притяжения. Разнообразие инфраструктуры внутри проекта позволяет провести жизненный цикл, не покидая пределы ЖК, то есть будущие жители будут окружены всем необходимым.\nЧто есть на территории самого комплекса:\n- Встроенный детский сад в 1 очередь на 150 детей со своей территорией.\n- Коворкинг.\n- Места общего пользования.\n- Колясочные.\n- Детская игровая.\n- Подземный паркинг.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 851 500 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 851 500",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15851500,
+      "wasLowered": false,
+      "exponent": "15,85 млн",
+      "normalizedPrice": "245 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,6 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Оренбургский Тракт, стр. 2.1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 2.1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/mayskaya_ul/70810835?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Оренбургский Тракт",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/mayskaya_ulitsa/215613-ASgBAgECA0SSA8YQ5geOUujIE_qoGgFF3AcRIm1heXNrYXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7516",
+      "lng": "49.16002",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Оренбургский Тракт, стр. 2.1"
+    },
+    "developmentId": 10484493,
+    "developmentName": "ЖК «Оригана»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8448922101,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_65_m_1222_et._8448922101?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 65 м², 12/22 эт.",
+    "description": "Номер квартиры: 55.\n\nЭтаж: 12.\n\nПлощадь: 64.95.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 546 932 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 546 932",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17546932,
+      "wasLowered": false,
+      "exponent": "17,55 млн",
+      "normalizedPrice": "269 953 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 7939063392,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_601_m_1425_et._7939063392?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 60,1 м², 14/25 эт.",
+    "description": "«Наследие. Новое» — современный комфорт+ класс в одном из лучших районов Казани!\n\nПродаётся квартира в строящемся жилом комплексе «Наследие. Новое» от надёжного застройщика СЗ «Глобал Плюс».\n\nРасположение: Советский район, ул. Родины, 20 (рядом ул. Аделя Кутуя / Вознесенский тракт).\nМетро «Горки» — всего 7 минут пешком!\nВ 5–7 минутах — «Горкинско-Ометьевский лес» — идеальное место для прогулок, спорта и отдыха с детьми.\nКласс дома — комфорт+,\nВвод в эксплуатацию — 2 квартал 2027 года.\n\nДвор без машин — большой, зелёный, с детскими и спортивными площадками, зонами отдыха, прогулочными дорожками и своим пешеходным бульваром.\nСовременные бесшумные лифты, видеонаблюдение по всему периметру и в подъездах, закрытая территория.\n\nПредчистовая отделка (white box) — качественная отделка.\n\nИнфраструктура в шаговой доступности:\n- Детские сады и школы.\n- Поликлиники.\n- Магазины.\n\nИдеальный вариант для жизни, инвестиций или сдачи в аренду — район активно развивается, цены растут!\n\nПишите, пришлем актуальные планировки, фото хода строительства, расчёт ипотеки (в т. Ч. Семейная, IT, господдержка) и все акции от застройщика.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 568 380 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 568 380",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15568380,
+      "wasLowered": false,
+      "exponent": "15,57 млн",
+      "normalizedPrice": "259 041 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 800 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, корп. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rodiny_20/70808841?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Родины",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rodiny/5612-ASgBAgECA0SSA8YQ5geOUujIE9hXAUXcBw8idWxpdHNhX3JvZGlueSI"
+        },
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76434",
+      "lng": "49.1998",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, корп. 5"
+    },
+    "developmentId": 8453548,
+    "developmentName": "ЖК «Наследие»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8448914515,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_57_m_520_et._8448914515?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 57 м², 5/20 эт.",
+    "description": "Номер квартиры: 29.\n\nЭтаж: 5.\n\nПлощадь: 57.03.\n\nКорпус: 2 очередь. Жилой комплекс «Nova» представляет собой комплексную застройку от застройщика новастрой, выполненную в монолитно-кирпичном стиле. Это проект бизнес-класса, предлагающий разнообразие форматов жилья: от квартир с террасами и патио до просторных пентхаусов с отдельным доступом лифта на верхние этажи. Предчистовая отделка позволяет жильцам самостоятельно выбирать интерьерное решение. Жилой комплекс разделён на зоны, доступные только для жителей, что способствует сохранению приватности и комфорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 223 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 223 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17223000,
+      "wasLowered": false,
+      "exponent": "17,22 млн",
+      "normalizedPrice": "302 158 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,8 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, д. 54",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 54",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_nikolaya_ershova_54/73060313?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Николая Ершова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_nikolaya_ershova/3371-ASgBAgECA0SSA8YQ5geOUujIE9Y0AUXcBxkidWxpdHNhX25pa29sYXlhX2Vyc2hvdmEi"
+        },
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79439",
+      "lng": "49.17445",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, д. 54"
+    },
+    "developmentId": 7960775,
+    "developmentName": "ЖК «НОВА»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8111728723,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_622_m_29_et._8111728723?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 62,2 м², 2/9 эт.",
+    "description": "Жилой комплекс состоит из 13 домов переменной этажности в европейском архитектурном стиле. В оформлении стен зданий используется современный навесной вентилируемый фасад. На первых этажах спроектированы места для хранения колясок.\nВ комплексе представлено множество планировочных решений с террасами, мастер-спальнями, угловыми панорамными окнами, гардеробными и нишами для шкафов-купе. Предусмотрена возможность выбора квартиры с теплой лоджией, балконом или без него.\nНа территории комплекса предусмотрено 2 детских сада и школа, детские эко-площадки, спортивные и прогулочные зоны, велодорожки и уличные тренажеры для занятий спортом. Домофоны расположены в теплых тамбурах. Проектом заложена автоматическая система контроля потребления воды, электричества, отопления и передачи их в сервисную компанию.\nЖилой комплекс расположен в Советском районе, в пешей доступности от продуктовых магазинов, детских садов и тренажёрных залов. До центра города дорога составляет 10 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 550 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 550 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15550000,
+      "wasLowered": false,
+      "exponent": "15,55 млн",
+      "normalizedPrice": "250 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "С. Константиновка, ул. Анаса Тазетдинова, д. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_anasa_tazetdinova_4a/97283388?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "с. Константиновка, ул. Анаса Тазетдинова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_anasa_tazetdinova/2218-ASgBAgECA0SSA8YQ5geOUujIE9QiAUXcBxoidWxpdHNhX2FuYXNhX3RhemV0ZGlub3ZhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.80853",
+      "lng": "49.23026",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Константиновка, ул. Анаса Тазетдинова, д. 5"
+    },
+    "developmentId": 1671210,
+    "developmentName": "ЖК «Лето»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8449025604,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_64_m_1518_et._8449025604?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 64 м², 15/18 эт.",
+    "description": "Номер квартиры: 363.\n\nЭтаж: 15.\n\nПлощадь: 63.95.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 211 064 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 211 064",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17211064,
+      "wasLowered": false,
+      "exponent": "17,21 млн",
+      "normalizedPrice": "268 923 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8228095660,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_758_m_89_et._8228095660?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 75,8 м², 8/9 эт.",
+    "description": "Данный проект выполнен в сдержанных цветах в европейском стиле. Архитектурный ансамбль дополняет подсветка вентилируемых фасадов. Вход в подъезд выполнен на уровне земли. Домофоны установлены в теплых тамбурах. На первых этажах находятся колясочные комнаты с вело-парковками и местами для хранения тюбингов.\nВ жилом комплексе представлено множество планировочных решений: студии, 1-комнатные, 2х-комнатные, 3х-комнатные квартиры, в том числе евроформаты, с террасами, теплой лоджией, просторной кухней-гостиной или собственной кладовой для кухни. Также представлен уникальный формат урбан-вилл с личным входом в квартиру с улицы и террасами на первых и последних этажах.\nНа территории комплекса имеются воркуют-зоны, площадки для игр в футбол, волейбол и баскетбол. Все покрытия детских площадок выполнены из природных естественных материалов. Создан просторный двор-парк с прогулочными зонами. Предусмотрен детский сад и школа. Собственная закрытая территория оборудована видеонаблюдением и контролем доступа.\nЖК находится в Приволжском районе. Инфраструктура района развита — в пешей доступности расположены детские сады, медицинские центры, спортивные залы и парки. Жилой комплекс находится в 5 минутах пешком от набережной озера Кабан. До центра города дорога займет 10 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 630 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 630 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17630000,
+      "wasLowered": false,
+      "exponent": "17,63 млн",
+      "normalizedPrice": "232 586 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Ярдем, д. 25А"
+    },
+    "coords": {
+      "lat": "55.73744",
+      "lng": "49.15044",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Ярдем, д. 25А"
+    },
+    "developmentId": 3529216,
+    "developmentName": "ЖК «Аквамарин»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 7939522465,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_634_m_1425_et._7939522465?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 63,4 м², 14/25 эт.",
+    "description": "«Наследие. Новое» — современный комфорт+ класс в одном из лучших районов Казани!\n\nПродаётся квартира в строящемся жилом комплексе «Наследие. Новое» от надёжного застройщика СЗ «Глобал Плюс».\n\nРасположение: Советский район, ул. Родины, 20 (рядом ул. Аделя Кутуя / Вознесенский тракт).\nМетро «Горки» — всего 7 минут пешком!\nВ 5–7 минутах — «Горкинско-Ометьевский лес» — идеальное место для прогулок, спорта и отдыха с детьми.\nКласс дома — комфорт+,\nВвод в эксплуатацию — 2 квартал 2027 года.\n\nДвор без машин — большой, зелёный, с детскими и спортивными площадками, зонами отдыха, прогулочными дорожками и своим пешеходным бульваром.\nСовременные бесшумные лифты, видеонаблюдение по всему периметру и в подъездах, закрытая территория.\n\nПредчистовая отделка (white box) — качественная отделка.\n\nИнфраструктура в шаговой доступности:\n- Детские сады и школы.\n- Поликлиники.\n- Магазины.\n\nИдеальный вариант для жизни, инвестиций или сдачи в аренду — район активно развивается, цены растут!\n\nПишите, пришлем актуальные планировки, фото хода строительства, расчёт ипотеки (в т. Ч. Семейная, IT, господдержка) и все акции от застройщика.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 092 610 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 092 610",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16092610,
+      "wasLowered": false,
+      "exponent": "16,09 млн",
+      "normalizedPrice": "253 827 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 800 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, корп. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rodiny_20/70808841?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Родины",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rodiny/5612-ASgBAgECA0SSA8YQ5geOUujIE9hXAUXcBw8idWxpdHNhX3JvZGlueSI"
+        },
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76434",
+      "lng": "49.1998",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, корп. 5"
+    },
+    "developmentId": 8453548,
+    "developmentName": "ЖК «Наследие»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 7994251055,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_605_m_1717_et._7994251055?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 60,5 м², 17/17 эт.",
+    "description": "Продается квартира в ЖК бизнес-класса «Главные роли».\nВ основе архитектурной концепции лежит идея дома в комфортном городском пространстве, но рядом с лесом. Мы гармонично вписали квартал в природу, чтобы радовать вас и менять город к лучшему.\nВесь ЖК переменной этажности с 13 до 23 этаж.\nСекции поддерживают природную цветовую палитру, материал фасада — керамический кирпич и композитные панели.\nПространство между домами открывает потрясающие виды на лес, жители смогут нон-стопом наслаждаться природой на территории квартала.\n\nО расположении ЖК:\nЖилой квартал ограничен улицей Родины с двух сторон и граничит на юго-востоке с Горкинско-Ометьевским лесом.\n\nВокруг развитая инфраструктура:\nДетский сад- ясли № 276, № 183, № 224.\nГимназия №8, школа №2144.\nКазанский технологический колледж.\nРеспубликанская клиническая инфекционная больница.\nТрц «Южный», ТЦ «Мега», ТЦ «Горки Парк».\nКафе и рестораны.\nБанки.\n\nЖилой комплекс будет состоять из двух очередей, в каждой из них два дома, объединенных общим стилобатом, на котором будет расположен закрытый двор.\nСроки сдачи: 1 оч. — 2 кв. 2028 г., 2 оч. — 1 кв. 2029 г.\n\nВ проекте присутствуют базовые преимущества, такие как:\n- Видеонаблюдение.\n- Закрытый двор.\n- Детские площадки.\n- Спортплощадки.\n- Зоны отдыха.\n\nЧто есть на территории самого комплекса:\nПервый этаж будет наполнен торговой галерей, где разместятся кафе, рестораны, ритэйл и магазины.\nПодо всей территорией ЖК будет расположен подземный паркинг в два уровня, что также станет большим преимуществом для наших жителей.\nВ каждом доме мы предусмотрели коворкинг, детскую комнату только для жильцов ЖК.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 093 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 093 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16093000,
+      "wasLowered": false,
+      "exponent": "16,09 млн",
+      "normalizedPrice": "266 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, корп. 2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rodiny_25k3/70833426?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Родины",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rodiny/5612-ASgBAgECA0SSA8YQ5geOUujIE9hXAUXcBw8idWxpdHNhX3JvZGlueSI"
+        },
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76893",
+      "lng": "49.2036",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, корп. 2"
+    },
+    "developmentId": 11170805,
+    "developmentName": "ЖК «Главные роли»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 7939643935,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_601_m_2425_et._7939643935?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 60,1 м², 24/25 эт.",
+    "description": "«Наследие. Новое» — современный комфорт+ класс в одном из лучших районов Казани!\n\nПродаётся квартира в строящемся жилом комплексе «Наследие. Новое» от надёжного застройщика СЗ «Глобал Плюс».\n\nРасположение: Советский район, ул. Родины, 20 (рядом ул. Аделя Кутуя / Вознесенский тракт).\nМетро «Горки» — всего 7 минут пешком!\nВ 5–7 минутах — «Горкинско-Ометьевский лес» — идеальное место для прогулок, спорта и отдыха с детьми.\nКласс дома — комфорт+,\nВвод в эксплуатацию — 2 квартал 2027 года.\n\nДвор без машин — большой, зелёный, с детскими и спортивными площадками, зонами отдыха, прогулочными дорожками и своим пешеходным бульваром.\nСовременные бесшумные лифты, видеонаблюдение по всему периметру и в подъездах, закрытая территория.\n\nПредчистовая отделка (white box) — качественная отделка.\n\nИнфраструктура в шаговой доступности:\n- Детские сады и школы.\n- Поликлиники.\n- Магазины.\n\nИдеальный вариант для жизни, инвестиций или сдачи в аренду — район активно развивается, цены растут!\n\nПишите, пришлем актуальные планировки, фото хода строительства, расчёт ипотеки (в т. Ч. Семейная, IT, господдержка) и все акции от застройщика.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 229 590 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 229 590",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16229590,
+      "wasLowered": false,
+      "exponent": "16,23 млн",
+      "normalizedPrice": "270 043 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 800 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, корп. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rodiny_20/70808841?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Родины",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rodiny/5612-ASgBAgECA0SSA8YQ5geOUujIE9hXAUXcBw8idWxpdHNhX3JvZGlueSI"
+        },
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76434",
+      "lng": "49.1998",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, корп. 5"
+    },
+    "developmentId": 8453548,
+    "developmentName": "ЖК «Наследие»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8220169460,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_896_m_519_et._8220169460?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 89,6 м², 5/19 эт.",
+    "description": "Хотите купить квартиру с максимальной выгодой? Поставьте «+» — и мы:\n\nсделаем расчёт ипотеки и рассрочки с минимальным первоначальным взносом;\n\nрасскажем про акцию «Ремонт в подарок»;\n\nраскроем все детали по ставке 3,5% на весь срок;\n\nотправим информацию о скидках и эксклюзивных акциях на подборку квартир;\n\nпоможем получить максимальную скидку от застройщика;\n\nподарим сертификат на мебель, если вы примете решение быстро!\n\nОформляем ипотеку по паспорту — без справок с работы. А ещё можем организовать удалённый показ и помочь с покупкой онлайн!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 030 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 030 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16030000,
+      "wasLowered": false,
+      "exponent": "16,03 млн",
+      "normalizedPrice": "178 906 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Владимира Кулагина, стр. 1"
+    },
+    "coords": {
+      "lat": "55.73732",
+      "lng": "49.14358",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Владимира Кулагина, стр. 1"
+    },
+    "developmentId": 9109417,
+    "developmentName": "ЖК «Ку на Кулагина»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8257207827,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_605_m_1019_et._8257207827?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 60,5 м², 10/19 эт.",
+    "description": "Номер квартиры: 40.\n\nЭтаж: 10.\n\nПлощадь: 60.50.\n\nКорпус: ЖК «Арена». Проект жилого комплекса «Арена» представляет собой возведение 19-этажного монолитно-кирпичного здания. Застройщиком спроектированы одно- и двухкомнатные квартиры общей площадью от 40,67 до 73,32 кв. М. Внутренняя отделка не предусмотрена. Первые этажи здания займут торговые помещения.\nПроект сдан.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 605 500 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 605 500",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17605500,
+      "wasLowered": false,
+      "exponent": "17,61 млн",
+      "normalizedPrice": "291 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Козья Слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,8 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Абдуллы Бичурина, д.13",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д.13",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_abdully_bichurina_13/70806759?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Абдуллы Бичурина",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_abdully_bichurina/122819-ASgBAgECA0SSA8YQ5geOUujIE4b_DgFF3AcaInVsaXRzYV9hYmR1bGx5X2JpY2h1cmluYSI"
+        },
+        "metroLink": {
+          "text": "Козья Слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2123"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.82151",
+      "lng": "49.12604",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Абдуллы Бичурина, д.13"
+    },
+    "developmentId": 44522,
+    "developmentName": "ЖК «Арена»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8289804946,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_524_m_1419_et._8289804946?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 52,4 м², 14/19 эт.",
+    "description": "Номер квартиры: 264.\n\nЭтаж: 14.\n\nПлощадь: 52.39.\n\nКорпус: Корпус К5, К6, К7. Жилой комплекс «Счастье в Казани» представляет собой группу монолитно-кирпичных зданий, строительство которых ведется в несколько этапов. Проектом предусмотрены просторные квартиры с разнообразными планировочными решениями, а внутренние помещения будут сданы в чистовой отделке.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 532 833 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 532 833",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17532833,
+      "wasLowered": false,
+      "exponent": "17,53 млн",
+      "normalizedPrice": "334 596 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Ново-Савиновский"
+        }
+      ],
+      "formattedAddress": "Ул. Гаврилова, стр. 3"
+    },
+    "coords": {
+      "lat": "55.82882",
+      "lng": "49.16166",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гаврилова, стр. 3"
+    },
+    "developmentId": 6109436,
+    "developmentName": "ЖК «Счастье в Казани»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 7939008868,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_601_m_2025_et._7939008868?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 60,1 м², 20/25 эт.",
+    "description": "«Наследие. Новое» — современный комфорт+ класс в одном из лучших районов Казани!\n\nПродаётся квартира в строящемся жилом комплексе «Наследие. Новое» от надёжного застройщика СЗ «Глобал Плюс».\n\nРасположение: Советский район, ул. Родины, 20 (рядом ул. Аделя Кутуя / Вознесенский тракт).\nМетро «Горки» — всего 7 минут пешком!\nВ 5–7 минутах — «Горкинско-Ометьевский лес» — идеальное место для прогулок, спорта и отдыха с детьми.\nКласс дома — комфорт+,\nВвод в эксплуатацию — 2 квартал 2027 года.\n\nДвор без машин — большой, зелёный, с детскими и спортивными площадками, зонами отдыха, прогулочными дорожками и своим пешеходным бульваром.\nСовременные бесшумные лифты, видеонаблюдение по всему периметру и в подъездах, закрытая территория.\n\nПредчистовая отделка (white box) — качественная отделка.\n\nИнфраструктура в шаговой доступности:\n- Детские сады и школы.\n- Поликлиники.\n- Магазины.\n\nИдеальный вариант для жизни, инвестиций или сдачи в аренду — район активно развивается, цены растут!\n\nПишите, пришлем актуальные планировки, фото хода строительства, расчёт ипотеки (в т. Ч. Семейная, IT, господдержка) и все акции от застройщика.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 049 260 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 049 260",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16049260,
+      "wasLowered": false,
+      "exponent": "16,05 млн",
+      "normalizedPrice": "267 043 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 800 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, корп. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rodiny_20/70808841?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Родины",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rodiny/5612-ASgBAgECA0SSA8YQ5geOUujIE9hXAUXcBw8idWxpdHNhX3JvZGlueSI"
+        },
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76434",
+      "lng": "49.1998",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, корп. 5"
+    },
+    "developmentId": 8453548,
+    "developmentName": "ЖК «Наследие»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8111651496,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_622_m_27_et._8111651496?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 62,2 м², 2/7 эт.",
+    "description": "Жилой комплекс состоит из 13 домов переменной этажности в европейском архитектурном стиле. В оформлении стен зданий используется современный навесной вентилируемый фасад. На первых этажах спроектированы места для хранения колясок.\nВ комплексе представлено множество планировочных решений с террасами, мастер-спальнями, угловыми панорамными окнами, гардеробными и нишами для шкафов-купе. Предусмотрена возможность выбора квартиры с теплой лоджией, балконом или без него.\nНа территории комплекса предусмотрено 2 детских сада и школа, детские эко-площадки, спортивные и прогулочные зоны, велодорожки и уличные тренажеры для занятий спортом. Домофоны расположены в теплых тамбурах. Проектом заложена автоматическая система контроля потребления воды, электричества, отопления и передачи их в сервисную компанию.\nЖилой комплекс расположен в Советском районе, в пешей доступности от продуктовых магазинов, детских садов и тренажёрных залов. До центра города дорога составляет 10 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 610 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 610 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15610000,
+      "wasLowered": false,
+      "exponent": "15,61 млн",
+      "normalizedPrice": "250 965 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "С. Константиновка, ул. Анаса Тазетдинова, д. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_anasa_tazetdinova_4a/97283388?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "с. Константиновка, ул. Анаса Тазетдинова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_anasa_tazetdinova/2218-ASgBAgECA0SSA8YQ5geOUujIE9QiAUXcBxoidWxpdHNhX2FuYXNhX3RhemV0ZGlub3ZhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.80853",
+      "lng": "49.23026",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Константиновка, ул. Анаса Тазетдинова, д. 5"
+    },
+    "developmentId": 1671210,
+    "developmentName": "ЖК «Лето»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8449218888,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_617_m_1422_et._8449218888?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 61,7 м², 14/22 эт.",
+    "description": "Номер квартиры: 68.\n\nЭтаж: 14.\n\nПлощадь: 61.71.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 866 741 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 866 741",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16866741,
+      "wasLowered": false,
+      "exponent": "16,87 млн",
+      "normalizedPrice": "273 367 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8321278772,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_485_m_620_et._8321278772?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 48,5 м², 6/20 эт.",
+    "description": "Номер квартиры: 287.\n\nЭтаж: 6.\n\nПлощадь: 48.54.\n\nКорпус: Корпус 1. Московский — новый проект в самом сердце Московского района. Здесь ритм мегаполиса плавно перетекает в умиротворение зеленых аллей. Проект создан для тех, кто ценит динамичную городскую жизнь, но мечтает о тихой гавани, полной комфорта и гармонии.\nВ основе концепции — единство современности и природы. Элегантная архитектура комплекса идеально дополняется живописным ландшафтным дизайном двора, превращая его в настоящий оазис для отдыха и общения. Здесь каждый найдет занятие по душе: от активных тренировок на свежем воздухе до неспешных прогулок по тенистым дорожкам.\nМосковский — это новая архитектурная доминанта района, воплощающая высочайшие стандарты качества городской среды. Выразительные фасады и переменная этажность открывают захватывающие виды на город, создавая неповторимый облик комплекса. Это больше, чем просто жилье — это новая глава в истории вашей жизни.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 187 498 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 187 498",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16187498,
+      "wasLowered": false,
+      "exponent": "16,19 млн",
+      "normalizedPrice": "333 763 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 500 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Профессора Мухамедьярова, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84079",
+      "lng": "49.07398",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Профессора Мухамедьярова, корп. 1"
+    },
+    "developmentId": 13747316,
+    "developmentName": "Московский",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8303208001,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_622_m_77_et._8303208001?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 62,2 м², 7/7 эт.",
+    "description": "Жилой комплекс состоит из 13 домов переменной этажности в европейском архитектурном стиле. В оформлении стен зданий используется современный навесной вентилируемый фасад. На первых этажах спроектированы места для хранения колясок.\nВ комплексе представлено множество планировочных решений с террасами, мастер-спальнями, угловыми панорамными окнами, гардеробными и нишами для шкафов-купе. Предусмотрена возможность выбора квартиры с теплой лоджией, балконом или без него.\nНа территории комплекса предусмотрено 2 детских сада и школа, детские эко-площадки, спортивные и прогулочные зоны, велодорожки и уличные тренажеры для занятий спортом. Домофоны расположены в теплых тамбурах. Проектом заложена автоматическая система контроля потребления воды, электричества, отопления и передачи их в сервисную компанию.\nЖилой комплекс расположен в Советском районе, в пешей доступности от продуктовых магазинов, детских садов и тренажёрных залов. До центра города дорога составляет 10 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 710 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 710 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15710000,
+      "wasLowered": false,
+      "exponent": "15,71 млн",
+      "normalizedPrice": "252 572 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "С. Константиновка, ул. Анаса Тазетдинова, д. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_anasa_tazetdinova_4a/97283388?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "с. Константиновка, ул. Анаса Тазетдинова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_anasa_tazetdinova/2218-ASgBAgECA0SSA8YQ5geOUujIE9QiAUXcBxoidWxpdHNhX2FuYXNhX3RhemV0ZGlub3ZhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.80853",
+      "lng": "49.23026",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Константиновка, ул. Анаса Тазетдинова, д. 5"
+    },
+    "developmentId": 1671210,
+    "developmentName": "ЖК «Лето»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 4219034402,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_563_m_1523_et._4219034402?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 56,3 м², 15/23 эт.",
+    "description": "Продается квартира в ЖК бизнес-класса «1712».\n\nКвартира в престижном жилом комплексе «1712», расположенном на улице Портовая в перспективном районе Казани. Район активно развивается в рамках проекта «Новая Портовая», что делает его идеальным местом для жизни и инвестиций.\n\nПреимущества жилого комплекса «1712»:\n— Доминанта новой локации: Комплекс является элементом развивающегося района «Новая Портовая», Вахитовский район.\n— Близость к Волге: Всего 300 метров до живописного берега Волги.\n— Высота потолков: Просторные квартиры с высотой потолков от 3 метров.\n— Панорамные окна: Окна в пол с панорамным видом.\n— Закрытый двор-парк: Обустроенный двор-парк на стилобате.\n— Консьерж-сервис 24/7: Высокий уровень комфорта и обслуживания.\n— Мультизональная система кондиционирования: Обеспечение оптимального климата в каждой зоне квартиры.\n— Авторский дизайн гранд-лобби: Стильный и элегантный вход в здание.\n— Подземный паркинг: Включает места для электромобилей.\n— Удобства для семей: Детская игровая комната, колясочные и системы безопасности в каждом подъезде.\nСрок сдачи: IV квартал 2027 года.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 310 110 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 310 110",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16310110,
+      "wasLowered": false,
+      "exponent": "16,31 млн",
+      "normalizedPrice": "289 700 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, стр. 2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " стр. 2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_37zh/104052745?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76822",
+      "lng": "49.09607",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, стр. 2"
+    },
+    "developmentId": 9870411,
+    "developmentName": "ЖК «1712»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8321710122,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_461_m_812_et._8321710122?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 46,1 м², 8/12 эт.",
+    "description": "Номер квартиры: 234.\n\nЭтаж: 8.\n\nПлощадь: 46.09.\n\nКорпус: Корпус 1. Московский — новый проект в самом сердце Московского района. Здесь ритм мегаполиса плавно перетекает в умиротворение зеленых аллей. Проект создан для тех, кто ценит динамичную городскую жизнь, но мечтает о тихой гавани, полной комфорта и гармонии.\nВ основе концепции — единство современности и природы. Элегантная архитектура комплекса идеально дополняется живописным ландшафтным дизайном двора, превращая его в настоящий оазис для отдыха и общения. Здесь каждый найдет занятие по душе: от активных тренировок на свежем воздухе до неспешных прогулок по тенистым дорожкам.\nМосковский — это новая архитектурная доминанта района, воплощающая высочайшие стандарты качества городской среды. Выразительные фасады и переменная этажность открывают захватывающие виды на город, создавая неповторимый облик комплекса. Это больше, чем просто жилье — это новая глава в истории вашей жизни.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 649 998 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 649 998",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17649998,
+      "wasLowered": false,
+      "exponent": "17,65 млн",
+      "normalizedPrice": "382 863 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 500 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Профессора Мухамедьярова, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84079",
+      "lng": "49.07398",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Профессора Мухамедьярова, корп. 1"
+    },
+    "developmentId": 13747316,
+    "developmentName": "Московский",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8321374618,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_637_m_1025_et._8321374618?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 63,7 м², 10/25 эт.",
+    "description": "Номер квартиры: 522.\n\nЭтаж: 10.\n\nПлощадь: 63.70.\n\nКорпус: ЖК «Аксиум». Жилой комплекс представляет собой современное монолитно-кирпичное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. В комплексе представлены различные варианты квартир: от компактных студий до просторных многокомнатных планировок с высокими потолками.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 562 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 562 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16562000,
+      "wasLowered": false,
+      "exponent": "16,56 млн",
+      "normalizedPrice": "260 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,5 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, ЖК «Аксиум»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Аксиум»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_17a1/73480075?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76989",
+      "lng": "49.096",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, ЖК «Аксиум»"
+    },
+    "developmentId": 16697507,
+    "developmentName": "ЖК «Аксиум»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8321063045,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_443_m_812_et._8321063045?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 44,3 м², 8/12 эт.",
+    "description": "Номер квартиры: 434.\n\nЭтаж: 8.\n\nПлощадь: 44.30.\n\nКорпус: Корпус 1. Московский — новый проект в самом сердце Московского района. Здесь ритм мегаполиса плавно перетекает в умиротворение зеленых аллей. Проект создан для тех, кто ценит динамичную городскую жизнь, но мечтает о тихой гавани, полной комфорта и гармонии.\nВ основе концепции — единство современности и природы. Элегантная архитектура комплекса идеально дополняется живописным ландшафтным дизайном двора, превращая его в настоящий оазис для отдыха и общения. Здесь каждый найдет занятие по душе: от активных тренировок на свежем воздухе до неспешных прогулок по тенистым дорожкам.\nМосковский — это новая архитектурная доминанта района, воплощающая высочайшие стандарты качества городской среды. Выразительные фасады и переменная этажность открывают захватывающие виды на город, создавая неповторимый облик комплекса. Это больше, чем просто жилье — это новая глава в истории вашей жизни.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 874 998 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 874 998",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16874998,
+      "wasLowered": false,
+      "exponent": "16,87 млн",
+      "normalizedPrice": "380 925 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 500 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Профессора Мухамедьярова, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84079",
+      "lng": "49.07398",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Профессора Мухамедьярова, корп. 1"
+    },
+    "developmentId": 13747316,
+    "developmentName": "Московский",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 7939107770,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_629_m_1025_et._7939107770?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 62,9 м², 10/25 эт.",
+    "description": "«Наследие. Новое» — современный комфорт+ класс в одном из лучших районов Казани!\n\nПродаётся квартира в строящемся жилом комплексе «Наследие. Новое» от надёжного застройщика СЗ «Глобал Плюс».\n\nРасположение: Советский район, ул. Родины, 20 (рядом ул. Аделя Кутуя / Вознесенский тракт).\nМетро «Горки» — всего 7 минут пешком!\nВ 5–7 минутах — «Горкинско-Ометьевский лес» — идеальное место для прогулок, спорта и отдыха с детьми.\nКласс дома — комфорт+,\nВвод в эксплуатацию — 2 квартал 2027 года.\n\nДвор без машин — большой, зелёный, с детскими и спортивными площадками, зонами отдыха, прогулочными дорожками и своим пешеходным бульваром.\nСовременные бесшумные лифты, видеонаблюдение по всему периметру и в подъездах, закрытая территория.\n\nПредчистовая отделка (white box) — качественная отделка.\n\nИнфраструктура в шаговой доступности:\n- Детские сады и школы.\n- Поликлиники.\n- Магазины.\n\nИдеальный вариант для жизни, инвестиций или сдачи в аренду — район активно развивается, цены растут!\n\nПишите, пришлем актуальные планировки, фото хода строительства, расчёт ипотеки (в т. Ч. Семейная, IT, господдержка) и все акции от застройщика.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 973 700 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 973 700",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15973700,
+      "wasLowered": false,
+      "exponent": "15,97 млн",
+      "normalizedPrice": "253 954 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 800 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, корп. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rodiny_20/70808841?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Родины",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rodiny/5612-ASgBAgECA0SSA8YQ5geOUujIE9hXAUXcBw8idWxpdHNhX3JvZGlueSI"
+        },
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76434",
+      "lng": "49.1998",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, корп. 5"
+    },
+    "developmentId": 8453548,
+    "developmentName": "ЖК «Наследие»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8449616272,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_617_m_522_et._8449616272?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 61,7 м², 5/22 эт.",
+    "description": "Номер квартиры: 14.\n\nЭтаж: 5.\n\nПлощадь: 61.71.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 654 952 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 654 952",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16654952,
+      "wasLowered": false,
+      "exponent": "16,65 млн",
+      "normalizedPrice": "269 934 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 8449158142,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_614_m_1522_et._8449158142?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 61,4 м², 15/22 эт.",
+    "description": "Номер квартиры: 75.\n\nЭтаж: 15.\n\nПлощадь: 61.43.\n\nКорпус: ЖК «Малевич». Жилой комплекс «Малевич» представляет собой монолитно-кирпичное здание разной этажности, обеспечивающее разнообразие вариантов проживания. Проект реализован с учётом современных строительных технологий и архитектурных решений, что находит отражение в используемых материалах и конструкции здания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 790 446 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 790 446",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16790446,
+      "wasLowered": false,
+      "exponent": "16,79 млн",
+      "normalizedPrice": "273 460 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78171",
+      "lng": "49.19336",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 13237697,
+    "developmentName": "ЖК «Малевич»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  },
+  {
+    "id": 7521437205,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_58_m_1117_et._7521437205?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMEtvZ3h4eFN3MGE5VHU5Ijt9177JnD8AAAA",
+    "title": "2-к. квартира, 58 м², 11/17 эт.",
+    "description": "Номер квартиры: 84.\n\nЭтаж: 11.\n\nПлощадь: 58.00.\n\nКорпус: ПК-14. Жилой комплекс «Солнечный город» представляет собой группу зданий, выполненных из кирпича и панелей. В застройке предусмотрены квартиры с различными планировками — от одно- до четырехкомнатных. Общая площадь квартир варьируется от 41,3 до 102,83 кв. М. В квартирах выполнена предчистовая отделки. Высота потолков и количество корпусов либо секций не указаны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 574 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 574 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17574000,
+      "wasLowered": false,
+      "exponent": "17,57 млн",
+      "normalizedPrice": "303 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Проспект Победы",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Баки Урманче, д. 12",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 12",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_baki_urmanche_12/103405681?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Баки Урманче",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_baki_urmanche/4744-ASgBAgECA0SSA8YQ5geOUujIE5BKAUXcBxYidWxpdHNhX2Jha2lfdXJtYW5jaGUi"
+        },
+        "metroLink": {
+          "text": "Проспект Победы",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2051"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.73043",
+      "lng": "49.16779",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Баки Урманче, д. 12"
+    },
+    "developmentId": 25952,
+    "developmentName": "ЖК «Солнечный город»",
+    "parsed_at": "2026-09-25T16:05:29.152946"
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "listing_type": "house",
+  "target_transform": "log1p",
+  "features": [
+    "city_id",
+    "lat",
+    "lon",
+    "distance_to_center_km",
+    "distance_to_metro_km",
+    "house_kind",
+    "house_area_m2",
+    "land_area_m2",
+    "land_to_house_ratio"
+  ],
+  "categorical_features": [
+    "city_id",
+    "house_kind"
+  ],
+  "city_ids": [
+    650210
+  ],
+  "coverage_radius_km": {
+    "650210": 37.3
+  },
+  "trained_at": "2026-10-05T06:23:51+00:00",
+  "data_last_seen_at": "2026-09-08T10:41:44",
+  "rows": {
+    "loaded": 438,
+    "after_duplicates": 437,
+    "after_outliers": 431,
+    "train": 275,
+    "valid": 72,
+    "test": 84
+  },
+  "best_iteration": 219,
+  "config": {
+    "random_seed": 42,
+    "test_size": 0.2,
+    "valid_size": 0.2,
+    "outlier_quantile": 0.005,
+    "coverage_quantile": 0.99,
+    "coverage_margin": 1.25,
+    "iterations": 3000,
+    "learning_rate": 0.03,
+    "depth": 6,
+    "l2_leaf_reg": 5.0,
+    "random_strength": 1.0,
+    "loss_function": "RMSE",
+    "eval_metric": "RMSE",
+    "early_stopping_rounds": 200
+  },
+  "metrics": {
+    "median_price_baseline": {
+      "mae": 4273821.845238095,
+      "rmse": 5473083.105297229,
+      "r2": -0.0032237279919442585,
+      "median_absolute_percentage_error": 44.2595818815331,
+      "mean_absolute_percentage_error": 138.76604325101678
+    },
+    "price_per_area_baseline": {
+      "mae": 3252897.259070295,
+      "rmse": 4533854.172731447,
+      "r2": 0.3115557060129909,
+      "median_absolute_percentage_error": 34.393547273982065,
+      "mean_absolute_percentage_error": 64.4833991916247
+    },
+    "model": {
+      "mae": 2511669.712982131,
+      "rmse": 3338052.21629265,
+      "r2": 0.6268186237626079,
+      "median_absolute_percentage_error": 31.754424565611092,
+      "mean_absolute_percentage_error": 38.541119590656216
+    }
+  }
+}

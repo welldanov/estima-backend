@@ -1,0 +1,2350 @@
+[
+  {
+    "id": 8309822390,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_338_m_15_et._8309822390?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 33,8 м², 1/5 эт.",
+    "description": "Продаём хорошую квартиру! Квартира идеально подходит как для собственного комфортного проживания, так и для немедленной сдачи в выгодную аренду, благодаря качественному ремонту и удачному расположению в развитом Московском районе города.\n\nХарактеристики и планировка квартиры.\n\n· Общая площадь: 33,8 кв. Метра — оптимальный и самый востребованный метраж для однокомнатных квартир в домах данного типа.\n\n· Состояние: в квартире выполнен капитальный и эстетический ремонт по современным стандартам. Выровнены стены, установлены пластиковые окна, натяжные потолки и качественные межкомнатные двери. Санузел полностью обновлен в современном кафеле и оснащен новой сантехникой.\n\n· Формат «Заезжай и живи»: жилье не требует никаких дополнительных вложений в ремонт.\n\n· Параметры дома: квартира расположена в 5-этажном панельном доме. За счет нахождения внутри двора, в окна не проникает шум с оживленных улиц Декабристов и Восстания.\n\nПреимущества локации и развитая инфраструктура.\n\nДом находится в одном из самых зеленых, спокойных и развитых районов Казани с отличной логистикой.\n\n· Транспорт: всего 10–12 минут пешком до станции метро «Яшьлек». В 3 минутах ходьбы — автобусные и трамвайные остановки, откуда можно без пересадок добраться в любую точку города, автобусные маршруты (22, 36, 36, 45, 10а, троллейбус 1).\n\n· Покупки: в шаговой доступности крупный Московский рынок, ТЦ «Тюбетейка», сетевые супермаркеты («Пятерочка», «Магнит»), пекарни, аптеки и банки, рынок.\n\n· Учреждения: Гимназия 102, Школа 65, Лицей-Интернат №2 — Два садика во дворе, в шаговой доступности — Мечеть Ярдэм.\n\n· Отдых: рядом расположены сквер им. Васильченко и обновленный парк им. Урицкого, парк Дворца Химиков, Новый Бульвар на Серова — прекрасные места для вечерних прогулок и спорта. Один взрослый собственник. Без обременений.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 250 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 250 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6250000,
+      "wasLowered": false,
+      "exponent": "6,25 млн",
+      "normalizedPrice": "184 911 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Яшьлек",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Шамиля Усманова, 33/2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 33/2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_shamilya_usmanova_332/70886730?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Шамиля Усманова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_shamilya_usmanova/11535-ASgBAgECA0SSA8YQ5geMUujIE560AQFF3AcaInVsaXRzYV9zaGFtaWx5YV91c21hbm92YSI"
+        },
+        "metroLink": {
+          "text": "Яшьлек",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2141"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "2 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.830938",
+      "lng": "49.064822",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Шамиля Усманова, 33/2"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8293777898,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_189_m_79_et._8293777898?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 18,9 м², 7/9 эт.",
+    "description": "Уютная однушка, где хочется остаться надолго.\n\nЭта квартира создана для спокойной и удобной жизни: здесь продумана каждая деталь, а район даёт всё, что нужно для ежедневных дел без лишних поездок.\n\nЧто особенно приятно:\n\nсветлая комната — ремонт сделан для себя, использованы качественные материалы;\nЕсть гардероб для хранения вещей;\nподъезд чистый, соседи спокойные,\nрядом продуктовые магазины, аптеки, остановки. Всё самое нужное — в 5–10 минутах ходьбы.\n\nДокументы в порядке, сделка пройдёт быстро.\n\nНапишите «Хочу посмотреть» — отправлю видеообзор, отвечу на вопросы и предложу удобные даты для показа.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3500000,
+      "wasLowered": false,
+      "exponent": "3,5 млн",
+      "normalizedPrice": "185 185 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Проспект Победы",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 700 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Сафиуллина, 8",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 8",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_safiullina_8/135098?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Сафиуллина",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_safiullina/17022-ASgBAgECA0SSA8YQ5geMUujIE_yJAgFF3AcTInVsaXRzYV9zYWZpdWxsaW5hIg"
+        },
+        "metroLink": {
+          "text": "Проспект Победы",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2051"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.75299835",
+      "lng": "49.21810913",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Казань, улица Сафиуллина, 8"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8084812072,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_309_m_55_et._8084812072?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 30,9 м², 5/5 эт.",
+    "description": "Продаю уютную однокомнатную квартиру по адресу: ул. Ботаническая, д. 9.\n\nНаши преимущества:\n\n1) Локация: Приволжский район, практически самый центр города, рядом школы, детские сады, салоны красоты, Филармония, ТЦ Казан Молл, ТЦ Сувар Плаза, ТЦ Кольцо, Казанские Зоопарки, Танковое училище, Казанская Ярмарка, Центральное Гибдд, театр Камала, набережная озера Кабан, множество магазинов- всё это в пешей и быстрой доступности.\n\n2) Кирпичный дом с хорошей шумоизоляцией.\n\n3) Удачная планировка: изолированная комната с балконом и кондиционером, укомплектованная кухня, совмещённый с/у и прихожая со шкафом-гардеробной.\n\n4) Сделан косметический ремонт, заменена вся электропроводка.\n\n5) Один взрослый собственник, без долгов и обременений.\n\n6) Проходит ипотека любого банка, никаких перепланировок, вся сумма в договоре купли-продажи.\n\nПродажа связана с расширением.\n\nРядом улицы: Павлюхина, Роторная, Хади Такташ, Назарбаева, Петербургская, Салимжанова, Островского, Пушкина.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 674 725 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 674 725",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6674725,
+      "wasLowered": false,
+      "exponent": "6,67 млн",
+      "normalizedPrice": "216 011 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ботаническая ул., 9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/botanicheskaya_ul_9/453768?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Ботаническая ул.",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/botanicheskaya_ulitsa/4298-ASgBAgECA0SSA8YQ5geMUujIE5RDAUXcBxciYm90YW5pY2hlc2theWFfdWxpdHNhIg"
+        },
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76659393",
+      "lng": "49.13910294",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Казань, Ботаническая улица, 9"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8274613604,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_394_m_1118_et._8274613604?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 39,4 м², 11/18 эт.",
+    "description": "Продаю квартиру, собственник, всегда на связи. Риэлторов Просьба Не Беспокоить!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 800 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 800 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5800000,
+      "wasLowered": false,
+      "exponent": "5,8 млн",
+      "normalizedPrice": "147 208 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Кировский"
+        }
+      ],
+      "formattedAddress": "Ул. Айрата Арсланова, 6",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 6",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_ayrata_arslanova_6/70748799?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Айрата Арсланова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_ayrata_arslanova/30997-ASgBAgECA0SSA8YQ5geMUujIE6rkAwFF3AcZInVsaXRzYV9heXJhdGFfYXJzbGFub3ZhIg"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,6 · 5 отзывов",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.865935",
+      "lng": "48.882868",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Айрата Арсланова, 6"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8345204313,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_302_m_45_et._8345204313?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 30,2 м², 4/5 эт.",
+    "description": "Продается однокомнатная квартира по адресу ул. Агрономическая, 78. Квартира расположена на 4 этаже панельного дома 1969 года постройки. Окна выходят во двор на солнечную сторону. Дом находится в районе с развитой инфраструктурой, рядом есть магазины, ТЦ Kazanmall, остановки общественного транспорта, метро 15 мин пешком. Без обременений, два взрослых собственника. Риелторам просьба не беспокоить.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6500000,
+      "wasLowered": false,
+      "exponent": "6,5 млн",
+      "normalizedPrice": "215 232 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 800 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Агрономическая ул., 78",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 78",
+          "link": "https://m.avito.ru/catalog/houses/kazan/agronomicheskaya_ul_78/70863303?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Агрономическая ул.",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/agronomicheskaya_ulitsa/7052-ASgBAgECA0SSA8YQ5geMUujIE5huAUXcBxkiYWdyb25vbWljaGVza2F5YV91bGl0c2Ei"
+        },
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,7 · 3 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7694523573479",
+      "lng": "49.1541813354184",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, Агрономическая улица, 78"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 7534036266,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_391_m_59_et._7534036266?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 39,1 м², 5/9 эт.",
+    "description": "Id:1312.\nУникальное предложение на рынке недвижимости Казани! Вариант для mex, кто ценит уединение с природой и спокойствие!\n\nB продаже Однокомнатная просторная, светлая, правильной планировки квартира в загородном комплексе. Оставаясь в городе, ближе к природе. Дома переменной этажности 5-9 этажей имеют разнообразные планировки и благоустроенную придомовую территорию.\n\nНовый ЖК Расположившийся всего в 15 минутах езды от Горьковского шоссе.\n\nО Квартире:\n- высота потолков 2,8 м.\n- закрытые инженерные системы.\n- современные бесшумные лифт.\n-подземная парковка.\nТак же в продаже парковочные, кладовые места.\n\nИнфраструктура:\n- 2 детский сада прям на территории комплекса.\n- гимназия №152, средняя школа №153.\n- городские поликлиники и больницы.\n- 5 минут до озера Изумрудное.\n- Дворец культуры железнодорожников.\n\nДействует рассрочка с ежемесячными платежами.\n\nМат. Кап можно использовать в качестве первоначального взноса.\n\nНа последний платеж можно взять ипотеку, все внесённые платежи могут быть использовано как ПВ.\n\nВы получаете обращаясь к нам:\nПрофессиональное юридическое сопровождение сделки.\nПроверенный объект.\nПодготовка полного пакета документов с обеих сторон — Вы сэкономите свое время!\nПрофессиональная помощь в оформлении ипотеки со сниженной ставкой!\nВсе сделки нашего агентства застрахованы в Ингосстрахе полис страхования 433-545-128774/24 от 16.08.2024г.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 015 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 015 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6015000,
+      "wasLowered": false,
+      "exponent": "6,01 млн",
+      "normalizedPrice": "153 836 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Кировский"
+        }
+      ],
+      "formattedAddress": "Ул. Ильича, 42",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 42",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_ilicha_42/73301315?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Ильича",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_ilicha/18798-ASgBAgECA0SSA8YQ5geMUujIE9ylAgFF3AcPInVsaXRzYV9pbGljaGEi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.82256969186174",
+      "lng": "48.89920498413084",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Ильича, 42"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 7964272700,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_37_m_317_et._7964272700?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 37 м², 3/17 эт.",
+    "description": "Продам квартиру по стоимости ниже чем у застройщика!\nЯрвшлар дом 8.\nЖК дом Чемпионов.\nПлощадь 37 квм.\n\nДом сдан в декабре 2025 года!\nЗастройщик — Суварстроит.\n\nЗвоните, покажем в любое удобное для вас время!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 900 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 900 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5900000,
+      "wasLowered": false,
+      "exponent": "5,9 млн",
+      "normalizedPrice": "159 459 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Ярышлар, 8",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 8",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_yaryshlar_8/98172736?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Ярышлар",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_yaryshlar/2486-ASgBAgECA0SSA8YQ5geMUujIE~wmAUXcBxIidWxpdHNhX3lhcnlzaGxhciI"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "2 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.67922974",
+      "lng": "49.20298386",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Ярышлар, 8"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8164768174,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_33_m_49_et._8164768174?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 33 м², 4/9 эт.",
+    "description": "Продаю однокомнатную квартиру в самом востребованном районе Казани.\n\nСолнечная сторона.\n\nВторая линия от дороги.\n\nДом очень теплый.\n\nВсе основные коммуникации заменены.\n\nДо остановки 3 минуты.\n\nВзрослый собственник.\n\nВся сумма в договоре. Обременений нет.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 450 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 450 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7450000,
+      "wasLowered": false,
+      "exponent": "7,45 млн",
+      "normalizedPrice": "225 758 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,6 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Адоратского, 47",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 47",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_adoratskogo_47/70987889?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Адоратского",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_adoratskogo/751-ASgBAgECA0SSA8YQ5geMUujIE94LAUXcBxQidWxpdHNhX2Fkb3JhdHNrb2dvIg"
+        },
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,8 · 4 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.841796",
+      "lng": "49.139867",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Адоратского, 47"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8345581655,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_34_m_1417_et._8345581655?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 34 м², 14/17 эт.",
+    "description": "Срочно! Евро-2 в сданном доме (ЖК Южный парк, 14 этаж)— идеальные документы!\nКвартира реальная-ключи на руках.\n\nСрочная Чистая Продажа!\n\nПродается просторная 1-комнатная квартира функционального формата Евро-2 в новостройке (дом сдан!). Комфортный 14 этаж с отличными видами.\n\nПодойдет как для собственной жизни, так и под сдачу в аренду. Только для быстрых покупателей.\n\nПродуманная планировка:\n\nПросторная кухня-гостиная — современный формат для жизни и приема гостей.\n\nУютная спальня с выходом на тёплую лоджию.\n\nФункциональная ниша в комнате — идеальное место под гардеробную, отдельную спальную зону или кабинет/рабочее место!\n\nПодарки и оснащение:\n\nУстановлена система «Умный дом» (Яндекс. Станция с колонкой «Алиса»).\n\nВ подарок покупателю — сертификаты в «Лемана Про» (бывший Леруа Мерлен) для обустройства дома!\n\nРазвитая инфраструктура:\n\nВсё в шаговой доступности: детский сад, школа, супермаркеты, аптеки, пункты выдачи заказов. Отличная транспортная доступность.\n\nАбсолютная юридическая чистота:\n\nЧистая продажа.\n\nБез обременений и залогов.\n\nВся сумма в договоре (без занижений).\n\nБез детских долей.\n\nИпотека проходит! Быстрый выход на сделку.\n\nЗвоните прямо сейчас! Организую оперативность показа. Не упустите отличный вариант по выгодным условиям!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 825 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 825 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5825000,
+      "wasLowered": false,
+      "exponent": "5,83 млн",
+      "normalizedPrice": "171 324 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8060518492,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_389_m_1524_et._8060518492?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 38,9 м², 15/24 эт.",
+    "description": "Продаётся 1‑комнатная квартира Комфорт+ класса в новом жилом комплексе. Отличная локация. Готово к сделке.\n\nКлючевые преимущества:\n\n- Развитая инфраструктура: всё рядом — магазины, школы, поликлиники, кафе.\n- Удобная транспортная доступность, быстрый выезд, до метро — в пешей доступности.\n- Современный дом: лифты, видеонаблюдение, просторные стильные лобби.\n- Закрытый двор: сад, прогулочные зоны, места для отдыха.\n- Безопасность и комфорт: огороженная территория, благоустройство.\n\nВарианты отделки:\n\n- Черновая.\n- Предчистовая.\n- Чистовая (под ключ).\n\nВарианты оплаты:\nИпотека:\n- 3,5% — по детской программе (на срок до 30 лет).\n- 6% — IT‑ипотека.\n- 5% — специальное предложение для всех.\n\nРассрочка.\nЗвоните сейчас. Отвечу на все вопросы и организую показ. На фото — возможный ремонт.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 700 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 700 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6700000,
+      "wasLowered": false,
+      "exponent": "6,7 млн",
+      "normalizedPrice": "172 237 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 400 м",
+          "afterWithIcon": {
+            "text": "до 5 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.761200270185824",
+      "lng": "49.19638895764162",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Родины"
+    },
+    "developmentId": 0,
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8387741265,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_275_m_35_et._8387741265?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 27,5 м², 3/5 эт.",
+    "description": "Код объекта: 2346264.\n\nОткройте для себя пространство, где продуманная функциональность встречается с домашним уютом!\nПродаётся стильная однокомнатная квартира площадью 27,5 кв. М — идеальное решение для тех, кто ценит комфорт без лишних метров. Квартира расположена на третьем этаже уютного кирпичного дома в Московском районе (ул. Ак. Королёва, 6). Кирпичная кладка гарантирует отличную шумо- и теплоизоляцию: зимой здесь тепло, а летом — прохладно.\nОсобая прелесть локации — в её транспортной доступности: всего 5 минут пешком до станции метро «Северный вокзал». Вы легко доберётесь до центра города, а после насыщенного дня быстро вернётесь в свой тихий уголок. При этом дом находится в достаточно спокойной части Ново-Савиновского района — здесь нет суеты больших магистралей, но при этом вся инфраструктура — буквально в шаге от дома.\nДля семей с детьми район особенно удобен: рядом — благоустроенная детская площадка, где ребятам будет интересно и безопасно играть. В шаговой доступности расположены детские сады, школы и детская поликлиника — всё, чтобы повседневные заботы были максимально удобными.\nЛюбителям комфорта понравится разнообразие магазинов поблизости: от продуктовых супермаркетов до небольших уютных лавок — нужное всегда под рукой.\nНово-Савиновский район — один из самых востребованных в Казани: он сочетает развитую инфраструктуру, удобную транспортную сеть и комфортную городскую среду. Это делает квартиру отличным вариантом как для собственного проживания, так и для выгодной инвестиции: спрос на аренду здесь стабильно высокий.\nСтаньте обладателем своего комфортного пространства — запишитесь на просмотр уже сегодня!\nРиелтор Слава.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 600 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 600 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6600000,
+      "wasLowered": false,
+      "exponent": "6,6 млн",
+      "normalizedPrice": "240 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 300 м",
+          "afterWithIcon": {
+            "text": "до 5 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Академика Королёва, 6",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 6",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_akademika_koroleva_6/70857236?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Академика Королёва",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_akademika_koroleva/4505-ASgBAgECA0SSA8YQ5geMUujIE7JGAUXcBxsidWxpdHNhX2FrYWRlbWlrYV9rb3JvbGV2YSI"
+        },
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.839481",
+      "lng": "49.083974",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), г.о. Казань, Казань, ул. Академика Королёва, 6"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 7664366294,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_389_m_522_et._7664366294?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 38,9 м², 5/22 эт.",
+    "description": "Горячее предложение! Квартира в Новостройке Ипотека от 16 000 Руб/Месяц Первоначальный Взнос От 0 ₽ Квартира в самом развивающемся и семейном ЖК! Подходит Под Ипотеку 4 % ( пишите- есть ставки от 0.11%) Траншевая Ипотека С Платежами 2 Р/Мес Материнский капитал в качестве первоначального взноса. Бесплатно: подбор лучшего варианта, оформление ипотеки и полное юридическое сопровождение Варианты Без Первоначального Взноса Квартира сдается с качественной предчистовой отделкой, что минимизирует ваши затраты на ремонт (фотографии демонстрируют возможный результат ремонта). Весьма удобно продуманная планировка: кухонная и гостиная зоны, сан. Узел совмещенный, стильный балкон Звоните! Я помогу выбрать среди всех вариантов — лучший по цене и качеству для вас! Звоните сейчас и выбирайте квартиры со скидками.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 990 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 990 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6990000,
+      "wasLowered": false,
+      "exponent": "6,99 млн",
+      "normalizedPrice": "179 692 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Советский район"
+    },
+    "coords": {
+      "lat": "55.82205511588169",
+      "lng": "49.181288616272084",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, Советский район"
+    },
+    "developmentId": 0,
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8059846381,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_328_m_2222_et._8059846381?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 32,8 м², 22/22 эт.",
+    "description": "Продаётся 1-комн. Квартира площадью 32.80 кв. М на 22 этаже 22 этажного дома (Корпус 5.2, секция 2) проекта ПИК Матюшино парк. Светлый просторный подъезд на уровне земли, функциональная планировка, большие окна, с отделкой.\n\n«Матюшино парк» — проект ПИК в Приволжском районе Казани. Квартал отличается удобным расположением. До центра города можно добраться всего за 20 минут на автомобиле или на электричке от станции «Южный парк».\n\nПроект находится в экологически чистом окружении. В пешей доступности лесопарк — Девликеевский лес, который идеально подходит для неспешных прогулок. Жители квартала смогут доехать до берега Волги, где можно активно провести время и насладиться живописными видами.\n\nКвартал состоит из 20 корпусов с современной архитектурой. В проекте есть большой выбор квартир с удобными планировками. Здесь можно найти квартиры с мастер-спальнями, кухнями-гостиными, гардеробными, угловыми окнами, балконами и лоджиями.\n\nВ «Матюшино парке» будет всё необходимое для комфортной жизни. На первых этажах разместятся магазины, кафе и полезные сервисы, а во дворе появится зелёный парк и общественное пространство для отдыха и занятий спортом. В проекте запланированы современные детские сады, школа и поликлиника. Артикул — 1046452.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 120 880 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 120 880",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7120880,
+      "wasLowered": false,
+      "exponent": "7,12 млн",
+      "normalizedPrice": "217 100 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Генерала Ерина, корп. 5"
+    },
+    "coords": {
+      "lat": "55.68559",
+      "lng": "49.19466",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Генерала Ерина, корп. 5"
+    },
+    "developmentId": 10707329,
+    "developmentName": "Матюшино парк",
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 7934839775,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_348_m_58_et._7934839775?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 34,8 м², 5/8 эт.",
+    "description": "Арт. 132618907 Квартира:\n\n* Статус: Объект уже сдан, принят с участием эксперта, все мелкие недочёты устранены. Предоставляется 5-летняя гарантия на дом и квартиру.\n\n* Расположение: 5-й этаж 8-этажного дома с лифтом. Окна выходят во двор, что гарантирует тишину и отсутствие шума.\n\n* Планировка и площадь: Общая площадь 34.8 м². Просторная кухня (11.4 м²), большая жилая зона (16.1 м²) и наличие гардеробной. Высокие потолки (2.7 м) создают ощущение простора.\n\n* Состояние: Предчистовая отделка. Это позволяет новому владельцу выполнить ремонт по своему вкусу, не переплачивая за чужие решения.\n\n* Соседи: Вокруг квартиры уже живут люди, что минимизирует дискомфорт от будущих ремонтных работ.\n\nЖилой комплекс и инфраструктура:\n\n* Локация: Быстрый доступ к Казани (около 10 минут) по новой асфальтированной дороге или платной трассе Вознесенского тракта.\n\n* Благоустройство: Развитая инфраструктура для отдыха и спорта. На территории есть сквер со скамейками, игровыми зонами и фонтаном.\n\n* Комфорт: Приватный двор с современными детскими площадками. В подъездах предусмотрены колясочные и места для хранения велосипедов.\n\n* Парковка: Свободные парковочные места всегда доступны вокруг дома.\n\nЮридические и финансовые условия:\n\n* Продавец: Прямая продажа от собственника без посредников, обременений и долгов.\n\n* Прозрачность: Полная стоимость объекта указывается в договоре, без скрытых схем и занижения цены.\n\n* Безопасность: Сделка сопровождается юридически. Возможна как покупка за наличный расчёт, так и оформление ипотеки.\n\nИтог:\n\nЭто предложение для тех, кто ищет готовое к проживанию жильё в новом, развивающемся районе с хорошей транспортной доступностью к Казани. Квартира в сданном доме позволяет избежать рисков долгостроя, а предчистовая отделка даёт свободу для создания индивидуального интерьера. Комплекс предлагает высокий уровень благоустройства и комфортную среду для жизни.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 990 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 990 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5990000,
+      "wasLowered": false,
+      "exponent": "5,99 млн",
+      "normalizedPrice": "172 126 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Новое Шигалеево, ул. Героя России Дамира Исламова, 1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_geroya_rossii_damira_islamova_1/89052623?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "с. Новое Шигалеево, ул. Героя России Дамира Исламова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_geroya_rossii_damira_islamova/1049227-ASgBAgECA0SSA8YQ5geMUujIE5aKgAEBRdwHJiJ1bGl0c2FfZ2Vyb3lhX3Jvc3NpaV9kYW1pcmFfaXNsYW1vdmEi"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.813865",
+      "lng": "49.428226",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Пестречинский р-н, Шигалеевское сельское поселение, с. Новое Шигалеево, ул. Героя России Дамира Исламова, 1"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8251316599,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_37_m_15_et._8251316599?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 37 м², 1/5 эт.",
+    "description": "Просторная 1-комнатная квартира 37 м² — идеальное сочетание уюта и удобства.\nПредлагаю вашему вниманию светлую и уютную однокомнатную квартиру площадью 37 квадратных метров в спокойном и благоустроенном районе Казани.\n\nПространство продумано до мелочей: выполнено грамотное зонирование — выделено отдельное спальное место, что делает проживание максимально комфортным даже для тех, кто ценит личное пространство. В квартире остаётся часть мебели — вы можете сразу въехать, не тратясь на обстановку.\nДом находится в шаговой доступности от школы, а во дворе — детский сад, что особенно удобно для семей с детьми. Также рядом расположена мечеть, что важно для верующих жильцов.\nИнфраструктура развита отлично: магазины, аптеки, остановки общественного транспорта — всё в нескольких минутах ходьбы. Двор тихий и спокойный, ухоженный, благоустроенный, с детской площадкой — здесь комфортно и детям, и взрослым.\nЭто не просто квартира — это готовое решение для комфортной жизни в центре событий, но вдали от шума и суеты.\n\nЮридически чистая квартира.\n- 1 собственник, средних лет.\n- без занижения.\n- без детских долей и обременений.\n\nЗвоните, пишите — покажу квартиру в удобное для Вас время 1258606.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 850 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 850 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5850000,
+      "wasLowered": false,
+      "exponent": "5,85 млн",
+      "normalizedPrice": "158 108 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Ул. Трудящихся, 30",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 30",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_trudyaschihsya_30/70963989?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Трудящихся",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_trudyaschihsya/116359-ASgBAgECA0SSA8YQ5geMUujIE46aDgFF3AcXInVsaXRzYV90cnVkeWFzY2hpaHN5YSI"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "2 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.863126",
+      "lng": "49.233669",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), г.о. Казань, Казань, ул. Трудящихся, 30"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8417283396,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_405_m_88_et._8417283396?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 40,5 м², 8/8 эт.",
+    "description": "Евродвушка С Евроремонтом В ЖК «Атмосфера».\n\nПродаётся красивая и уютная евродвухкомнатная квартира в современном жилом комплексе «Атмосфера» от надёжного застройщика Унистрой.\n\nКвартира с качественным евроремонтом — можно заехать и жить без дополнительных вложений. Продуманное пространство, современный интерьер и приятная атмосфера делают квартиру отличным вариантом как для собственного проживания, так и для инвестиции.\n\n8 этаж — отличный вид и комфортная высота.\n\nВсё необходимое находится рядом:\n\nмагазины и супермаркеты — в шаговой доступности.\n\nПарковочные места рядом с домом.\n\nДетский сад — рядом.\n\nШкола — планируется строительство в непосредственной близости.\n\nЖК «Атмосфера» — современный и комфортный жилой комплекс от Унистроя, где уже есть необходимая инфраструктура и продолжается развитие района.\n\nКвартира действительно очень красивая — вариант, который стоит увидеть вживую!\n\nЗвоните/пишите — расскажу подробности и договоримся о просмотре.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 300 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 300 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7300000,
+      "wasLowered": false,
+      "exponent": "7,3 млн",
+      "normalizedPrice": "180 247 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Высокая Гора, ул. Хасана Шайдуллина, 1",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 1",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_hasana_shaydullina_1/22866272?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "с. Высокая Гора, ул. Хасана Шайдуллина",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_hasana_shaydullina/1719-ASgBAgECA0SSA8YQ5geMUujIE~4aAUXcBxsidWxpdHNhX2hhc2FuYV9zaGF5ZHVsbGluYSI"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.874688",
+      "lng": "49.292132",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, село Высокая Гора, улица Хасана Шайдуллина, 1"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8335445604,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_311_m_45_et._8335445604?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 31,1 м², 4/5 эт.",
+    "description": "Арт. 144027692 В продаже квартира 31,1м2 по адресу пр-кт Ибрагимова, д.19.\n\nОтличный вариант как для собственного проживания, так и для инвестиций.\n\nДом расположен всего в 7 минутах ходьбы до станции метро «Северный вокзал»!\n\nПланировка квартиры «евродвушка»:\nкухня-гостиная.\nСпальня.\nСовмещенный сан. Узел.\nГардероб («темнушка»).\nВ квартире выполнен евроремонт, полы поменяны, полностью заменена электропроводка.\n\nКвартира расположена на 4 этаже 5-этажного дома. Окна выходят во двор.\n\nРайон с развитой инфраструктурой:\nв 2-5 минутах ходьбы несколько детских садов и школ.\nТранспортная доступность:\nудобная дорожная развязка.\nВ 2 минутах остановка автобусов и троллейбусов.\nВ 7 минутах остановка трамвая и станция метро «Северный вокзал».\nВ шаговой доступности магазины «Магнит» и «Пятерочка», аптеки, поликлиника, почта.\n\nДом после кап. Ремонта, подъезд чистый, двор благоустроен.\n\nЮридически чистый объект:\n1 взрослый собственник.\nБез обременений.\nВся сумма в договоре.\nПоможем в одобрении ипотеки.\n\nЗвоните, чтобы узнать подробности и записаться на просмотр!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 980 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 980 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6980000,
+      "wasLowered": false,
+      "exponent": "6,98 млн",
+      "normalizedPrice": "224 437 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 500 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Пр-т Ибрагимова, 19",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 19",
+          "link": "https://m.avito.ru/catalog/houses/kazan/pr-t_ibragimova_19/70831583?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "пр-т Ибрагимова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/prospekt_ibragimova/12471-ASgBAgECA0SSA8YQ5geMUujIE~7CAQFF3AcVInByb3NwZWt0X2licmFnaW1vdmEi"
+        },
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.838627",
+      "lng": "49.088564",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), г.о. Казань, Казань, пр-т Ибрагимова, 19"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8361432028,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_32_m_45_et._8361432028?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 32 м², 4/5 эт.",
+    "description": "Объект №53557.\nСветлая квартира в центре города.\nПродается светлая квартира в самом сердце Казани!\nУютная 1-к квартира с зонированием у исторического центра.\n\nВахитовский район по ул. Мазита Гафури 3 — до исторических достопримечательностей рукой подать.\n\nПочему вам стоит посмотреть эту квартиру:\n\nГрамотная планировка: Основная комната с двумя окнами (одно выходит балкон). Комната грамотно зонирована: есть полноценная зона отдыха и отдельная комната со своим окном и спальным местом. Это дает ощущение «двушки» в однушке!\n\nБалкон: Обшит, установлены пластиковые окна. Это дополнительные метры полезной площади (кабинет, место для хранения или отдыха).\n\nГотовность к жизни: Сделан косметический ремонт. Заезжай и живи, либо сдавай в аренду.\n\nИнженерные сети: Центральное отопление — зимой будет тепло. Газовая колонка — всегда есть горячая вода, независимо от сезонных отключений.\n\nПараметры: 4/5 этаж, потолки 2.7 м (дают много воздуха и света!), общая площадь 32 кв. М.\n\nУстановлен кондиционер для комфорта в жаркие дни или в межсезонья для обогрева.\n\nЛокация: Исторический центр, отличная транспортная доступность, вся инфраструктура рядом.\n\nЗвоните, с удовольствием покажу квартиру!\n\nДобавьте в избранное, чтобы не потерять понравившийся объект. Звоните с 8:00 до 20:00 или пишите в любое время — ответим быстро.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 499 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 499 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6499000,
+      "wasLowered": false,
+      "exponent": "6,5 млн",
+      "normalizedPrice": "203 094 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Мазита Гафури, 3",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 3",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_mazita_gafuri_3/211904?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Мазита Гафури",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_mazita_gafuri/8785-ASgBAgECA0SSA8YQ5geMUujIE6KJAQFF3AcWInVsaXRzYV9tYXppdGFfZ2FmdXJpIg"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.772087",
+      "lng": "49.103279",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, г.о. Казань, Казань, ул. Мазита Гафури, 3"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8367722479,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_265_m_99_et._8367722479?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 26,5 м², 9/9 эт.",
+    "description": "Уважаемые Риэлторы просьба не беспокоить, ни каких договоров с вами подписывать не буду. Спасибо!\nПродается светлая и уютная квартира от собственника!\nКристально чистая продажа!\n- Один взрослый собственник!\n- Ни кто не прописан!\n- Без обременений!\n- Без детских долей!\n- Без занижений в договоре!\nКвартира в собственности с 2013 года.\nВ квартире сделан шикарный ремонт, новая проводка, выключатели и розетки «Legrand» Потолок натяжной.\nОкна пластиковые «Rehau».\nПол светлый качественный линолеум.\nСовмещенный санузел, плитка стены и пол.\nПластиковые трубы, счетчики на воду свежие.\nБез долгов по коммунальным услугам.\nОчень хорошая аура в квартире, соседи приличные люди, на этаже чисто.\nВ квартире остается, кухонный гарнитур со встроенной техникой, кондиционер, сигнализация.\nДо станции метро 10-15 минут.\nРядом магазины, остановки транспорта в любой район города можно спокойно доехать.\nВ пешей доступности Детские сады, школы, парк «Крылья Советов» Мфц.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 790 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 790 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5790000,
+      "wasLowered": false,
+      "exponent": "5,79 млн",
+      "normalizedPrice": "218 491 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Авиастроительная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Максимова, 2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_maksimova_2/70830786?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Максимова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_maksimova/1785-ASgBAgECA0SSA8YQ5geMUujIE_IbAUXcBxIidWxpdHNhX21ha3NpbW92YSI"
+        },
+        "metroLink": {
+          "text": "Авиастроительная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2139"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,2 · 4 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.86036434038566",
+      "lng": "49.09950863774293",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Максимова, 2"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8312069701,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_407_m_14_et._8312069701?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 40,7 м², 1/4 эт.",
+    "description": "Id:1868.\nПродается светлая и по-настоящему тёплая квартира в историческом центре Московского района Казани по адресу: ул. Декабристов, 191.\n\nО квартире:\n\n· Общая площадь: 40,7 кв. М.\n· Потолки 3 метра — ощущение настоящего простора, много воздуха и света. Можно реализовать любые дизайнерские идеи: от классических до современных лофт-решений.\n· Дом — сталинка, кирпичные стены. Гарантируют отличную тепло- и звукоизоляцию, создавая комфорт для жизни. Кирпичная сталинка славится своей долговечностью и теплотой.\n· Первый этаж — это не компромисс, а особый комфорт: нет зависимости от лифта, быстрый и удобный доступ в квартиру, отличная звукоизоляция за счёт толстых кирпичных стен.\n· Продуманная планировка: изолированные комнаты, раздельный санузел, вместительная прихожая и функциональная кухня — всё для удобной жизни.\n· Состояние: заменены все коммуникации и канализация, сделан качественный современный ремонт. Квартира полностью готова к проживанию.\n· Парковка: рядом с домом есть парковочное место, во дворе достаточно мест.\n\nЛокация и инфраструктура:\n\n· Метро «Северный вокзал» — всего 7 минут пешком (600 м).\n· Тпу «Казань-2» (Восстание-Пассажирская) — 7–9 минут ходьбы. Удобно для поездок по городу и в другие регионы.\n· Остановка общественного транспорта — рядом с домом, можно уехать в любой конец города.\n· Через дорогу — Сбербанк.\n· Для семей с детьми и студентов: в шаговой доступности несколько институтов, престижные школы и детские сады. Гимназия № 75 (ул. Гагарина, 26А/101А) — в 3–5 минутах ходьбы. Рядом школа № 61.\n· Магазины, аптеки, кафе — всё в шаговой доступности.\n\nДвор и дом:\nТихий, зелёный двор, ухоженная придомовая территория. Дом в хорошем техническом состоянии.\n\nПочему стоит купить:\nЭто идеальный вариант как для первого самостоятельного приобретения, так и для выгодной инвестиции. Квартиры в сталинках в удачных локациях стабильно растут в цене, а спрос на них не падает. Качественная основа для ремонта: надёжные стены, хорошая геометрия помещений, возможность адаптировать пространство под себя.\n\nО сделке:\n\n· 3 собственника.\n· Вся сумма в договоре.\n· Без обременений и долей.\n· Документы готовы к сделке.\n\nТолько у нас ставка на квартиру на вторичном рынке 12,9 %.\nСтавка По Ипотеке На Новостройку 12,49%.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 390 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 390 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7390000,
+      "wasLowered": false,
+      "exponent": "7,39 млн",
+      "normalizedPrice": "181 572 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 600 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Декабристов, 191",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 191",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_dekabristov_191/70783275?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Декабристов",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_dekabristov/9673-ASgBAgECA0SSA8YQ5geMUujIE5KXAQFF3AcUInVsaXRzYV9kZWthYnJpc3RvdiI"
+        },
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "5,0 · 3 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.836413",
+      "lng": "49.080192",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), г.о. Казань, Казань, ул. Декабристов, 191"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8406917957,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_41_m_55_et._8406917957?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 41 м², 5/5 эт.",
+    "description": "Кирпичная Сталинка По Самой Лучшей Цене! Находитесь в поиске недвижимости, но ваш бюджет ограничен, для вас это будет самый лучший вариант для покупки или инвестиции.\n\nПредлагаем обратить ваше внимание на большую однокомнатную квартиру 41 кв. М., где уже сделана спальная комната и большая кухня гостиная, высота потолков 3 метра.\n\nВ квартире сделан косметический ремонт. Можно заехать и жить, ремонт позволяет это, либо создать свой стиль, который будет вам приносить одно удовольствие. Основной плюс — это мало квартир на этаже.\n\nКвартира подойдет для личного проживания, так же подойдет для инвест проекта (долгосрочная аренда, сохранение денежных средств, перепродажа после ремонта).\n\nОчень хорошая локация, дом находится рядом с основными дорогами, но скрыт от шума автомобильного трафика. Тихий, Спокойный Двор. До центра 10 минут, остановки общественного транспорта в пешей доступности.\nАрт. 145019991.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 200 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 200 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6200000,
+      "wasLowered": false,
+      "exponent": "6,2 млн",
+      "normalizedPrice": "151 220 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Яшьлек",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Димитрова, 8",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 8",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_dimitrova_8/337972?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Димитрова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_dimitrova/75073-ASgBAgECA0SSA8YQ5geMUujIE4KVCQFF3AcSInVsaXRzYV9kaW1pdHJvdmEi"
+        },
+        "metroLink": {
+          "text": "Яшьлек",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2141"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.817046",
+      "lng": "49.056279",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, г.о. Казань, Казань, ул. Димитрова, 8"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8232067939,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_242_m_25_et._8232067939?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 24,2 м², 2/5 эт.",
+    "description": "Продается уютная однокомнатная квартира с косметическим ремонтом. Просторная светлая комната, остается шкаф. В кухне остается гарнитур с электрической плитой и холодильник. Санузел совмещенный, оформлен в светлых тонах, оснащён сантехникой и угловой ванной. В спальне и кухне натяжные потолки. Широкие большие подоконники. Квартира очень светлая. Из окон открывается вид на тихий двор, где расположена детская и спортивная площадки. Дом кирпичный, построен в 1965 году, что гарантирует хорошую тепло- и звукоизоляцию. Парковка открытая во дворе.\nКвартира подойдет как для личного пользования, как и станет отличным вложением для сдачи в аренду, так как находится в центре города. Рядом Kazan Mall, до метро суконная слобода 10 минут. 1 взрослый собственник. Без обременений. Быстрый выход на сделку.\nРиелторов просьба не беспокоить, есть свой.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 100 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 100 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6100000,
+      "wasLowered": false,
+      "exponent": "6,1 млн",
+      "normalizedPrice": "252 066 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 800 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Айрата Хайруллина, 5к2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 5к2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_ayrata_hayrullina_5k2/70838017?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Айрата Хайруллина",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_ayrata_hayrullina/30113-ASgBAgECA0SSA8YQ5geMUujIE8LWAwFF3AcaInVsaXRzYV9heXJhdGFfaGF5cnVsbGluYSI"
+        },
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77064896",
+      "lng": "49.15181351",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Айрата Хайруллина, 5к2, подъезд 1"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8293905309,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_31_m_45_et._8293905309?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 31 м², 4/5 эт.",
+    "description": "Продается 1к квартира.\nПолностью готова к проживанию.\nРемонт косметический, мебель частично остается.\nИз техники остается кондиционер.\nВ доме сделан капитальный ремонт в 2025 году.\nВо дворе благоустройство, много парковочных мест, детская площадка.\nОтличное расположение, инфраструктура, остановки, магазины.\n1 взрослый собственник. Без обременений, без детских долей. Чистая продажа.\nПросьба риелторам с комиссией не беспокоить.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 870 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 870 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6870000,
+      "wasLowered": false,
+      "exponent": "6,87 млн",
+      "normalizedPrice": "221 613 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,9 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, 3",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 3",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_adelya_kutuya_3/173779?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Аделя Кутуя",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_adelya_kutuya/1888-ASgBAgECA0SSA8YQ5geMUujIE8AdAUXcBxYidWxpdHNhX2FkZWx5YV9rdXR1eWEi"
+        },
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78728104",
+      "lng": "49.16659164",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Казань, улица Аделя Кутуя, 3"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8356939186,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_297_m_59_et._8356939186?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 29,7 м², 5/9 эт.",
+    "description": "Уютная однокомнатная квартира в шаговой доступности от метро Проспект Победы.\nОбщая площадь — почти 30 квадратных метров.\nСделан аккуратный косметический ремонт. Полы — ламинат и плитка. Пластиковые окна. Сантехника, электрика. Всё поддерживается в идеальной чистоте.\nВ коридоре глубокий шкаф для хранения вещей.\nПрекрасный напор воды!\nПроведен интернет Уфанет (а это доступ к камерам в подъезде, лифтах, вокруг дома и домофон.).\n\nДо трамвайной остановки Сафиуллина 4 минуты пешком.\nДо м. Пр. Победы 8 минут пешком.\nДо м. Площадь Тукая 28 минут на метро.\nДо жд вокзала Казань-2 40 минут, из них 8 минут до метро пешком.\nДо аэропорта 25-30 минут на машине.\n\nОкна выходят во двор на детскую площадку и парковку.\nИнфраструктура супер!\nВо дворе: пункты выдачи WB, Ozon, Яндекс Маркет, Магнит и Пятерочка.\nВ соседних домах аптеки, ветклиника, банки, почта, магазины на все случаи жизни!\nУ метро рынок где всегда свежие фрукты-овощи круглый год.\nРядом прекрасный парк для всей семьи Горкинско-Ометьевский лес.\n\nВ квартире остаётся большой/раскладной/модульный диван, встроенный шкаф в коридоре, кухонный гарнитур, плита, микроволновка.\n\nВ подъезде запланирован капитальный ремонт на первый квартал 2027 года! (Прикрепила фотографии первого подъезда и нашего, для сравнения).\n\n1 взрослый собственник более 20 лет.\nПродажа чистая, без обременений.\n\nУслуги риелторов не интересуют!\nНикаких % не выплачиваю риелторам!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 400 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 400 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7400000,
+      "wasLowered": false,
+      "exponent": "7,4 млн",
+      "normalizedPrice": "249 158 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Проспект Победы",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 700 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Пр-т Победы, 41",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 41",
+          "link": "https://m.avito.ru/catalog/houses/kazan/pr-t_pobedy_41/718232?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "пр-т Победы",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/prospekt_pobedy/222-ASgBAgECA0SSA8YQ5geMUujIE7wDAUXcBxEicHJvc3Bla3RfcG9iZWR5Ig"
+        },
+        "metroLink": {
+          "text": "Проспект Победы",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2051"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,6 · 5 отзывов",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.75502777",
+      "lng": "49.21423721",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Казань, проспект Победы, 41"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8387575867,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_351_m_99_et._8387575867?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 35,1 м², 9/9 эт.",
+    "description": "Продается светлая, ухоженная однокомнатная квартира с продуманной планировкой. Идеальный вариант для одного человека или пары. Квартира полностью готова к проживанию.\n\nКлючевые преимущества:\n\n· Установлен кондиционер.\n· Во всей квартире и на балконе установлены качественные пластиковые окна (Пвх).\n· Просторная гардеробная комната для хранения вещей.\n· Полностью готовая к использованию ванная комната.\n\nЧто остается в квартире при продаже (по договоренности):\n\n· Полный комплект санузла (ванна, раковина, унитаз, зеркало, полочки).\n· Современный кухонный гарнитур.\n· Гардеробная система хранения (без стиральной машины).\n· Мебельная стенка в ТВ-зоне.\n\nПланировка:\n\n· Жилая комната (18,2 кв. М): Просторная, светлая, есть место для спальной зоны и рабочего стола. Установлен кондиционер.\n· Кухня (6,5 кв. М): Аккуратная, функциональная, с фартуком и вместительными шкафами.\n· Санузел (3,3 кв. М): Совмещенный, с качественной плиткой.\n· Прихожая (6,9 кв. М): Очень просторная, выполняет функцию отдельной комнаты, в которой обустроена гардеробная.\n· Балкон/Лоджия: Застеклен пластиковыми окнами, отличное место для хранения или отдыха.\n\nВся остальная мебель и техника (кровать, стол, стулья, компьютерная зона и т. Д.) вывозится продавцом.\n\nЗвоните для организации показа!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7500000,
+      "wasLowered": false,
+      "exponent": "7,5 млн",
+      "normalizedPrice": "213 675 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Проспект Победы",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,9 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Чишмяле, 9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_chishmyale_9/70844811?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Чишмяле",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_chishmyale/14534-ASgBAgECA0SSA8YQ5geMUujIE4zjAQFF3AcTInVsaXRzYV9jaGlzaG15YWxlIg"
+        },
+        "metroLink": {
+          "text": "Проспект Победы",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2051"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "2 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76460498258193",
+      "lng": "49.22520778377017",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Чишмяле, 9"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8295228818,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_28_m_19_et._8295228818?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 28 м², 1/9 эт.",
+    "description": "Продается квартира в бывшем общежитии по ул Чуйкова 55. Не пугайтесь этого слова — здесь давно уже семейный дом с хорошими соседями.\n\nГлавные плюсы:\nПервый этаж — отдельный вход, не надо ждать лифт, легко заносить вещи.\nПолная готовность к проживанию. Вы просто заносите чемоданы и живете. Остаётся Вся техника и мебель, которая есть на фото:\n\nКухонный гарнитур, холодильник, плита (всё работает);\nСпальные места, шкафы, комоды;\nСтиральная машина.\nПро ремонт: сделан косметический — стены оклеены, полы постелены, сантехника исправна. Не требует срочных вложений, но со временем, конечно, можно сделать «под себя» (это просто реалии цены).\n\nМестоположение — огонь! Рядом абсолютно всё: магазины, аптеки, остановки. Отдельно выделю близость к Городской больнице № 7 — это удобно для медиков или пациентов на реабилитации. Также до центра города добираться легко.\n\nОтличный бюджетный вариант для старта, или сдачи в аренду!\n\nЗвоните, покажу в удобное время! 1251376.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 700 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 700 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5700000,
+      "wasLowered": false,
+      "exponent": "5,7 млн",
+      "normalizedPrice": "203 571 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Козья Слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Маршала Чуйкова, 55",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 55",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_marshala_chuykova_55/70868372?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Маршала Чуйкова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_marshala_chuykova/1722-ASgBAgECA0SSA8YQ5geMUujIE_QaAUXcBxoidWxpdHNhX21hcnNoYWxhX2NodXlrb3ZhIg"
+        },
+        "metroLink": {
+          "text": "Козья Слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2123"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,3 · 3 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.836474",
+      "lng": "49.139211",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), г.о. Казань, Казань, ул. Маршала Чуйкова, 55"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8115462079,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_303_m_15_et._8115462079?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 30,3 м², 1/5 эт.",
+    "description": "Продаю квартиру в центре Казани общей площадью 31 кв. М. На 1 этаже 5-го кирпичного дома, расположенного по улице Татарстан, дом 43.\n\nKвaртирa для жизни oкoлo центра. Мeстo позволяeт сдeлaть oтдельную вхoдную гpуппу. Дoм киpпичный, дo озерo Kабан 3 минуты пешком. Oкна выxодят вo двoр с двуx cтоpoн кваpтиpы. В домe был два годa назад кaпитaльный pемонт, всё помeняно.\n\nB доме в 2024 году был пpoведён кaпитальный pемoнт. Пол в квартире полностью залит бетоном-стяжкой. Квартиру удобно сдавать, всегда есть клиенты.\n\nКвартира с ремонтом, что позволит новым владельцам сразу же заселиться без дополнительных вложений и забот. Живое зеленое пространство двора с детской площадкой станет прекрасным местом для отдыха и игр ваших детей.\n\nУдобство парковки автомобиля обеспечивает двор, специально оборудованный для этих целей. Кухня площадью 6 кв. М. Предоставит достаточно места для приготовления любимых блюд. Санузел совмещённый, что является удобным решением для экономии пространства.\n\nДо озера Кабан 3 минуты, также рядом находятся школа, детский сад, торговый центр, парк и фитнес-клуб, что несомненно обеспечит комфортное проживание и экономию времени.\nИз окон квартиры открывается приятный вид на тихий, зелёный двор, где можно наслаждаться покоем после насыщенного дня, данная недвижимость идеально подойдёт тем, кто ценит спокойную жизнь вдали от шума центральных улиц, при этом имея лёгкий доступ ко всем необходимым объектам городской инфраструктуры.\n\nЗвоните! Организую показ в удобное для вас время!\n\nПомощь в одобрении ипотеки!\n\nКод пользователя: 200571.\nНомер в базе: 12183547.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6000000,
+      "wasLowered": false,
+      "exponent": "6 млн",
+      "normalizedPrice": "198 020 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Вахитовский район, ул. Татарстан, 43",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 43",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_tatarstan_43/168512?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Вахитовский район, ул. Татарстан",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_tatarstan/1106-ASgBAgECA0SSA8YQ5geMUujIE6QRAUXcBxIidWxpdHNhX3RhdGFyc3RhbiI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77711",
+      "lng": "49.110456",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, г.о. Казань, Казань, ул. Татарстан, 43"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8363141856,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_304_m_55_et._8363141856?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 30,4 м², 5/5 эт.",
+    "description": "Продаётся уютная однокомнатная квартира на пятом этаже кирпичного дома. В доме выполнен капитальный ремонт инженерных сетей, кровли. Окна квартиры выходят во двор, что обеспечивает тишину и спокойствие. В квартире требуется ремонт, но есть возможность воплотить свои дизайнерские идеи.\n\nКухня компактная, с газовой плитой. Ванная комната совмещена с туалетом.\n\nКирпичный дом отличается хорошей тепло- и звукоизоляцией.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 050 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 050 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5050000,
+      "wasLowered": false,
+      "exponent": "5,05 млн",
+      "normalizedPrice": "166 118 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Яшьлек",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Горьковское Шоссе, 16",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 16",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_gorkovskoe_shosse_16/73157269?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Горьковское Шоссе",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_gorkovskoe_shosse/211411-ASgBAgECA0SSA8YQ5geMUujIE6bnGQFF3AcaInVsaXRzYV9nb3Jrb3Zza29lX3Nob3NzZSI"
+        },
+        "metroLink": {
+          "text": "Яшьлек",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2141"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.826816285847386",
+      "lng": "49.03779134041159",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Горьковское Шоссе, 16"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8386468133,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_317_m_15_et._8386468133?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 31,7 м², 1/5 эт.",
+    "description": "В продаже уютная квартира в тихом зеленом районе города Казани, по адресу: ул. Заря, дом 28.\n\nПродается светлая, теплая и очень уютная квартира в обжитом, спокойном районе с развитой инфраструктурой.\nОтличный вариант как для собственного проживания, так и для сдачи в аренду!\nПреимущества квартиры:\nПродуманное пространство: Функциональная планировка, где удобно организованы зоны отдыха, хранения и рабочее место.\nСанузел полностью в плитке, установлена сантехника, пластиковые окна.\nОкна во двор: Тишина и отсутствие городского шума — окна выходят на зеленый, ухоженный двор.\nО доме и территории:\nПроведен капитальный ремонт, с заменой всех коммуникаций и входных групп.\nЧистый, аккуратный подъезд, доброжелательные соседи.\nТихий зеленый двор, вымощен брусчаткой с местами для парковки автомобилей.\nЛокация и инфраструктура:\nТранспорт: Удобная развязка! Быстрый выезд на Сибирский тракт, пр. Ямашева и ул. Ершова.\nДо центра города — 10–15 минут на авто или общественном транспорте.\nОбразование: школы, детские сады, высшие учебные заведения (Книту-Кхти, ветеринарная академия и др.).\nРядом есть всё необходимое: магазины, аптеки, банки и остановки общественного транспорта.\nДля прогулок: зеленый сквер с детской площадкой- напротив дома.\nРядом улицы: Попова, 8 Марта, Космонавтов, Аделя Кутуя, Гвардейская, Сибирский тракт, Новаторов, Ершова, Искра, Губкина.\nУсловия сделки:\nПолная стоимость в договоре. Ключи в день полного расчёта.\nБез обременений.\nБыстрый выход на сделку, подходит под ипотеку и материнский капитал.\n\nЗвоните прямо сейчас, чтобы записаться на просмотр! С удовольствием отвечу на все вопросы.\n\nУважаемый Покупатель, с этой квартирой от нашей компании Вы получаете:\n\n1. Профессиональное юридическое сопровождение сделки!\n\n2. Подготовка полного пакета документов с обеих сторон — Экономьте свое время.\n\n3. Профессиональную помощь в оформлении ипотеки со сниженной ставкой от банков –партнеров, одобрение 95% заявок, без первоначального взноса.\n\n4. Профессиональную помощь в оформлении ипотеки!\n\n5. На данный объект предоставляется максимальная скидка для покупателей по ипотеке Сбербанк от -0.2 до -1.5 %.\n\n6. Мы являемся официальными партнерами более 20 банков.\n\n- 49% сэкономим на услугах банков и страховых компаний!\n\n7. Показ объекта в любой день.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 300 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 300 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6300000,
+      "wasLowered": false,
+      "exponent": "6,3 млн",
+      "normalizedPrice": "198 738 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Ул. Заря, 28",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 28",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_zarya_28/70941826?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Заря",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_zarya/12709-ASgBAgECA0SSA8YQ5geMUujIE8rGAQFF3AcOInVsaXRzYV96YXJ5YSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.810294",
+      "lng": "49.178558",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), г.о. Казань, Казань, ул. Заря, 28"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  },
+  {
+    "id": 8270713659,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_32_m_35_et._8270713659?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJxZ3NSTXJWN0laaHQ0dktnIjt9e07MtD8AAAA",
+    "title": "1-к. квартира, 32 м², 3/5 эт.",
+    "description": "Id:1861.\nПродаётся 1-к квартира рядом с метро «Козья Слобода». Просторное и светлое жильё площадью 32кв. М с косметическим ремонтом. При продаже остаться вся мебель и техника. Это отличный вариант для тех, кто ценит комфорт и удобство расположения, кому нужно сразу заехать и жить. Благодаря близости к метро вы сможете быстро добраться в любую точку города. Квартира идеально подойдёт как для одинокого человека, так и для молодой пары — здесь вы сможете создать свой уютный уголок и наслаждаться комфортной жизнью.\nТолько у нас ставка на квартиру на вторичном рынке 12,9 %.\nСтавка По Ипотеке На Новостройку 12,49%.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 850 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 850 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6850000,
+      "wasLowered": false,
+      "exponent": "6,85 млн",
+      "normalizedPrice": "214 063 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Козья Слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 600 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Пр-т Ибрагимова, 79",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 79",
+          "link": "https://m.avito.ru/catalog/houses/kazan/pr-t_ibragimova_79/70929076?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "пр-т Ибрагимова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/prospekt_ibragimova/12471-ASgBAgECA0SSA8YQ5geMUujIE~7CAQFF3AcVInByb3NwZWt0X2licmFnaW1vdmEi"
+        },
+        "metroLink": {
+          "text": "Козья Слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2123"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.823044",
+      "lng": "49.098904",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), г.о. Казань, Казань, пр-т Ибрагимова, 79"
+    },
+    "parsed_at": "2026-09-25T08:57:03.320323"
+  }
+]

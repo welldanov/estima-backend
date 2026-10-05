@@ -1,0 +1,1836 @@
+[
+  {
+    "id": 8416926162,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_626_m_1925_et._8416926162?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 62,6 м², 19/25 эт.",
+    "description": "Номер квартиры: 214.\n\nЭтаж: 19.\n\nПлощадь: 62.62.\n\nКорпус: Дом 4.2 Блок-секция 1,2 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 360 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 360 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11360000,
+      "wasLowered": false,
+      "exponent": "11,36 млн",
+      "normalizedPrice": "181 470 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_9/97548618?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68714",
+      "lng": "49.20693",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 9"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8249118105,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_624_m_39_et._8249118105?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 62,4 м², 3/9 эт.",
+    "description": "Российская Федерация, Республика Татарстан, Пестречинский муниципальный район, Шигалеевское сельское поселение, жилой комплекс «Усадьба Царево-2», 3, кв.129.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 750 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 750 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9750000,
+      "wasLowered": false,
+      "exponent": "9,75 млн",
+      "normalizedPrice": "156 250 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Новое Шигалеево, стр. 3"
+    },
+    "coords": {
+      "lat": "55.81492",
+      "lng": "49.43185",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Новое Шигалеево, стр. 3"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8325387140,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_774_m_66_et._8325387140?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 77,4 м², 6/6 эт.",
+    "description": "Жилой комплекс представляет собой дом высотой в 4 этажа. Здание построено по кирпичной технологии строительства с комбинированными фасадами. В холлах выполнена дизайнерская отделка, установлены грузовые лифты.\n\nВ проекте предложено множество планировочных решений: в наличии квартиры классического типа. Сдаются они с подчистовой отделкой, увеличенными окнами, террасой и высотой потолков в 2,7м. Встречаются также двухуровневые квартиры с выходом на крышу.\n\nНа благоустроенной территории располагаются: современные и безопасные детские площадки для детей всех возрастов, прогулочные зоны для мам с колясками, велодорожки и тропы для хайкинга. Продуманы также места для отдыха, спортивные и воркаут площадки. На территории комплекса расположен свой детский сад.\n\nЖилой комплекс расположен в экологически чистом поселке «Октябрьский», неподалеку от берега Волги. Здесь хорошо развита инфраструктура: в нескольких минутах ходьбы находятся поликлиники, школы, кинотеатр, железнодорожная станция, планетарий и глэмпинг. До центра Казани можно добраться за 35 минут на транспорте.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 194 997 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 194 997",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13194997,
+      "wasLowered": false,
+      "exponent": "13,19 млн",
+      "normalizedPrice": "170 478 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пос. Октябрьский, корп. 2.2"
+    },
+    "coords": {
+      "lat": "55.83289",
+      "lng": "48.77527",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "пос. Октябрьский, корп. 2.2"
+    },
+    "developmentId": 9304554,
+    "developmentName": "ЖК «Форест»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8249258625,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_619_m_29_et._8249258625?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 61,9 м², 2/9 эт.",
+    "description": "Российская Федерация, Республика Татарстан, Пестречинский муниципальный район, Шигалеевское сельское поселение, жилой комплекс «Усадьба Царево-2», 3, кв.10.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 750 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 750 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9750000,
+      "wasLowered": false,
+      "exponent": "9,75 млн",
+      "normalizedPrice": "157 512 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Новое Шигалеево, стр. 3"
+    },
+    "coords": {
+      "lat": "55.81492",
+      "lng": "49.43185",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Новое Шигалеево, стр. 3"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 3905604759,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_623_m_1425_et._3905604759?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 62,3 м², 14/25 эт.",
+    "description": "Номер квартиры: 154.\n\nЭтаж: 14.\n\nПлощадь: 62.30.\n\nКорпус: Дом 4.2 Блок-секция 1,2 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 340 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 340 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11340000,
+      "wasLowered": false,
+      "exponent": "11,34 млн",
+      "normalizedPrice": "182 022 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_9/97548618?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68714",
+      "lng": "49.20693",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 9"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8417026509,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_626_m_725_et._8417026509?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 62,6 м², 7/25 эт.",
+    "description": "Номер квартиры: 351.\n\nЭтаж: 7.\n\nПлощадь: 62.61.\n\nКорпус: Дом 4.2 Блок-секция 1,2 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 440 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 440 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11440000,
+      "wasLowered": false,
+      "exponent": "11,44 млн",
+      "normalizedPrice": "182 748 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_9/97548618?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68714",
+      "lng": "49.20693",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 9"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8168757340,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_771_m_115_et._8168757340?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 77,1 м², 1/15 эт.",
+    "description": "Данный современный проект включает 10 домов переменной этажности. Минималистичный дизайн фасада зданий выполнен в пастельных оттенках и облицован фиброцементными панелями.\n\nВ проекте представлено большое количество квартир с функциональными эргономичными планировками: 1-комнатные, 2х-комнатные и 3х-комнатные варианты.\n\nЖилой квартал создан по принципу «микро-город», где заранее предусмотрена своя собственная инфраструктура. Имеются места для отдыха и прогулок, безопасные детские комплексы для активных игр, спортивные площадки и воркаут-зоны. Благоустройство территории выполнено в авиационном стиле.\n\nВ пешей доступности от жилого комплекса располагаются детские сады, школы, спортивные клубы, кафе и гипермаркет. До метро «Авиастроительная» всего 15 минут пешком.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 860 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 860 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13860000,
+      "wasLowered": false,
+      "exponent": "13,86 млн",
+      "normalizedPrice": "179 767 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 700 м",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Михаила Миля, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_mihaila_milya_7/74981768?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Михаила Миля",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_mihaila_milya/15717-ASgBAgECA0SSA8YQ5geOUujIE8r1AQFF3AcWInVsaXRzYV9taWhhaWxhX21pbHlhIg"
+        },
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84575",
+      "lng": "49.09133",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Михаила Миля, д. 7"
+    },
+    "developmentId": 5941039,
+    "developmentName": "ЖК «‎Династия»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 3906336927,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_623_m_1425_et._3906336927?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 62,3 м², 14/25 эт.",
+    "description": "Номер квартиры: 154.\n\nЭтаж: 14.\n\nПлощадь: 62.30.\n\nКорпус: Дом 4.3 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 250 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 250 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11250000,
+      "wasLowered": false,
+      "exponent": "11,25 млн",
+      "normalizedPrice": "180 578 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 11",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 11",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_11/97559395?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68648",
+      "lng": "49.20546",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 11"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8249638376,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_817_m_49_et._8249638376?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 81,7 м², 4/9 эт.",
+    "description": "Российская Федерация, Республика Татарстан, Высокогорский муниципальный район, Высокогорское сельское поселение, 04.2, кв.18.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 810 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 810 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10810000,
+      "wasLowered": false,
+      "exponent": "10,81 млн",
+      "normalizedPrice": "132 313 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Вторая Ударная , стр. 4.2"
+    },
+    "coords": {
+      "lat": "55.8731",
+      "lng": "49.29993",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Вторая Ударная , стр. 4.2"
+    },
+    "developmentId": 2694302,
+    "developmentName": "ЖК «Атмосфера»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8088918861,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_788_m_315_et._8088918861?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 78,8 м², 3/15 эт.",
+    "description": "Это семейный жилой квартал, созданный для вас по принципу «Микро-город», где есть всё для комфортной и счастливой жизни. Жилой комплекс расположен в живой и динамичной части города, в 15 минутах от станции метро «Авиастроительная», с разнообразием учреждений социально-культурного назначения.\n\nПродается 3 комнатная квартира № 110 общей площадью:78.76кв. М. На 3 этаже.\n\nО Квартире.\n- качественная предчистовая отделка.\n- увеличенные оконные проемы и угловые окна.\n- шумоизоляция в стяжке пола.\n- высота потолков 2,60 м.\n- установлены все приборы учета воды, электроэнергии, тепла.\n- пассажирский и грузопассажирский лифты.\n- вход в дом через видеодомофоны.\n- современная система отопления с установкой индивидуальных приборов учета тепла в этажных коллекторных шкафах.\n- внутренние лоджии из алюминиевого профиля с жалюзийными вентиляционными решетками для установки наружного блока кондиционера.\n\nИнфраструктура.\n\n- коммерция на первом этаже — все необходимое рядом!\n- безопасные игровые комплексы для детей.\n- отдельные зоны для спокойных прогулок.\n- тренировочная зона с современным оборудованием.\n- в пешей доступности находятся 8 школ, 7 муниципальных и коммерческих детских садов, поликлиники для взрослых и детей.\n- 5 мин ходьбы от жилого квартала до остановки общественного транспорта.\n- 15 минут до станции метро «Авиастроительная».\n- 20 мин езды на автомобиле до центра города.\nВ 15 минутах езды от жилого квартала находятся торговые центры «Парк-хаус», «Тандем», а также аквапарк «Ривьера» и Кремлевская набережная.\n\nСрок сдачи объекта в эксплуатацию 3 квартал 2028 г.\nЗвоните прямо сейчас! Наши менеджеры в отделе продаж проконсультируют Вас по любому вопросу.\n\nВарианты оплаты:\n-сотрудничаем с ведущими банками.\n- наличный расчет.\n\nПомощь при оформлении ипотеки. Полное юридическое сопровождение. Бесплатно!\n\nЗастройщик: ООО Спецзастройщик «Династия».\nПроектная декларация размещена на сайте наш. Дом. Рф.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 790 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 790 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13790000,
+      "wasLowered": false,
+      "exponent": "13,79 млн",
+      "normalizedPrice": "175 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Авиастроительная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Михаила Миля, стр. 8",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Авиастроительная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2139"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84777",
+      "lng": "49.09486",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Михаила Миля, стр. 8"
+    },
+    "developmentId": 5941039,
+    "developmentName": "ЖК «‎Династия»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 7978864591,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_71_m_318_et._7978864591?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 71 м², 3/18 эт.",
+    "description": "Прoдаeтся 3-кoмнaтнaя квартира площадью 71,01 кв. М на 3 этаже в строящемся 10-ти этажном доме проекта «Дома у сада» компании «Aк Барс Дом».\n\nЖК Дома У Сада — это современный жилой комплекс с развитой инфраструктурой, прекрасными видами и удобным расположением.\n\nЖилой комплекс расположен по Оренбургскому тракту и имеет высокую транспортную доступность: до города можно доехать за 15 минут на машине или автобусе (рядом остановка с 4 маршрутами).\n\nПреимущества:\n\nБлагоустройство территории продумано до мелочей: здесь много места для прогулок и занятий спортом, есть спортивные и детские площадки с локациями по интересам, теннисные столы, шезлонги, гамаки и беседки в тени деревьев.\n\nРядом школа, детский сад, магазины и остановки общественного транспорта.\n\nФункциональный подъезд с современным ремонтом, бесступенчатым входом и колясочной.\n\nЗакрытый двор без машин.\n\nВидеонаблюдение на первых этажах и по периметру домов.\n\nВокруг природа, спокойствие и отсутствие постоянного городского шума.\n\nУдобная Планировка:\n\nКомнаты правильной формы, функциональная прихожая и кухня, высокие потолки, много места для хранения. Встроенный функционал «умной квартиры» — системы, которая позволяет управлять жильём дистанционно.\n\nПриобрести Квартиру Можно:\n\n— наличным и безналичным расчётом по 100% оплате и рассрочке;\n\n— с использованием маткапитала;\n\n— с использованием жилищных сертификатов;\n\n— в ипотеку;\n\n— онлайн покупка.\n\nПодбор Квартиры:\n\nПодбор квартиры, полное юридическое сопровождение сделки — Бесплатно.\n\nНаши специалисты помогут вам в решении вопроса приобретения недвижимости с момента консультации до момента передачи ключа от квартиры.\n\nЖК Дома У Сада для тех, кто выбирает для себя и своей семьи комфорт мегаполиса, но жить предпочитает в окружении природы.\n\nЗдесь вы будете отдыхать душой и телом: вместо автомобильного шума — пение птиц, вместо городской суеты — прогулки по лесу и свежий воздух.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 704 930 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 704 930",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13704930,
+      "wasLowered": false,
+      "exponent": "13,7 млн",
+      "normalizedPrice": "193 027 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Усады, стр. 1, корп. 1"
+    },
+    "coords": {
+      "lat": "55.68763",
+      "lng": "49.21497",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Усады, стр. 1, корп. 1"
+    },
+    "developmentId": 3412869,
+    "developmentName": "ЖК «‎Дома у сада»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8187578068,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_679_m_1822_et._8187578068?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 67,9 м², 18/22 эт.",
+    "description": "Продаётся 3-комн. Квартира площадью 67.90 кв. М на 18 этаже 22 этажного дома (Корпус 2, секция 1) проекта ПИК Матюшино парк. Светлый просторный подъезд на уровне земли, функциональная планировка, большие окна, с отделкой.\n\n«Матюшино парк» — проект ПИК в Приволжском районе Казани. Квартал отличается удобным расположением. До центра города можно добраться всего за 20 минут на автомобиле или на электричке от станции «Южный парк».\n\nПроект находится в экологически чистом окружении. В пешей доступности лесопарк — Девликеевский лес, который идеально подходит для неспешных прогулок. Жители квартала смогут доехать до берега Волги, где можно активно провести время и насладиться живописными видами.\n\nКвартал состоит из 20 корпусов с современной архитектурой. В проекте есть большой выбор квартир с удобными планировками. Здесь можно найти квартиры с мастер-спальнями, кухнями-гостиными, гардеробными, угловыми окнами, балконами и лоджиями.\n\nВ «Матюшино парке» будет всё необходимое для комфортной жизни. На первых этажах разместятся магазины, кафе и полезные сервисы, а во дворе появится зелёный парк и общественное пространство для отдыха и занятий спортом. В проекте запланированы современные детские сады, школа и поликлиника. Артикул — 981788.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 556 580 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 556 580",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11556580,
+      "wasLowered": false,
+      "exponent": "11,56 млн",
+      "normalizedPrice": "170 200 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Матюшинский тракт, корп. 2"
+    },
+    "coords": {
+      "lat": "55.68634",
+      "lng": "49.19768",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Матюшинский тракт, корп. 2"
+    },
+    "developmentId": 10707329,
+    "developmentName": "Матюшино парк",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8249734787,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_619_m_49_et._8249734787?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 61,9 м², 4/9 эт.",
+    "description": "Российская Федерация, Республика Татарстан, Пестречинский муниципальный район, Шигалеевское сельское поселение, жилой комплекс «Усадьба Царево-2», 3, кв.20.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 800 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 800 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9800000,
+      "wasLowered": false,
+      "exponent": "9,8 млн",
+      "normalizedPrice": "158 320 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Новое Шигалеево, стр. 3"
+    },
+    "coords": {
+      "lat": "55.81492",
+      "lng": "49.43185",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Новое Шигалеево, стр. 3"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 3467626538,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_913_m_14_et._3467626538?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 91,3 м², 1/4 эт.",
+    "description": "Продается 3-комнатная квартира № 109 площадью 91,34 кв. М на 1 этаже в строящемся доме проекта «Новый свет» компании «Ак Барс Дом».\n\n«Новый свет» — это современный малоэтажный жилой комплекс в Лаишевском районе. Здесь комфорт сочетается с преимуществами загородной жизни:\nдома не выше 4 этажей;\nприватная атмосфера и неповторимое ощущение уюта;\nзакрытые дворы с продуманным зонированием;\nбезопасность территории и концепция «дворы без машин»;\nквартиры с чистовой отделкой и потолками до 3,2 м, среди которых есть варианты с патио;\nназемный паркинг для автовладельцев.\n\n«Новый свет» станет вашей новой точкой отсчета:\nиз микрорайона в центр Казани легко попасть на машине за 20 минут через Оренбургский тракт и Проспект Универсиады;\nв 5 минутах ходьбы от ЖК работает железнодорожная станция, откуда ходит электричка.\n\nНа обширной территории в 179 га все будет рядом:\nучреждения для детей (запланировано строительство 10 детских садов и 3 школ);\nмагазины;\nбытовые сервисы.\n\nО комплексе.\nЖить в «Новом свете» и пользоваться всеми преимуществами современного городского комфорта, спокойно отпускать детей гулять во дворе, устраивать барбекю с соседями. Этот стиль жизни станет привычным для вас.\nУдобно организованное пространство предусматривает тихие зеленые зоны для прогулок и отдыха, а также активности: детские игровые и спортивные площадки.\nЭко-концепцию застройки продолжает и сеть велодорожек по всей территории комплекса. Для удобства пешеходная и велосипедные зоны разделены между собой зелеными участками.\n\nУдобные планировки.\nКомфортная 3-комнатная квартира с отдельной кухней и двумя санузлами. В квартире есть просторный балкон, где вы сможете организовать уютное место для отдыха.\nВ проекте 3 комнаты — для личного пространства домочадцев. Окна выходят на разные стороны дома, благодаря чему в помещениях будет больше света и воздуха. В прихожей есть место для шкафа-купе, где будет удобно хранить все свои вещи.\n\nКак купить.\nПриобрести квартиры в ЖК «Новый свет» можно:\nналичным и безналичным расчётом по 100% оплате и рассрочке;\nс использованием маткапитала;\nс использованием жилищных сертификатов;\nс привлечением ипотечных средств (ипотека с господдержкой, ипотека для семей с детьми, военная ипотека, IT-ипотека).\nПриглашаем в офис продаж на показ, подробную консультацию и подбор варианта!\n\nГрафик работы:\nПн-Пт: 10:00-19:00.\nСб: 10:00-15:00.\n\nДом там, где мы.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 244 300 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 244 300",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13244300,
+      "wasLowered": false,
+      "exponent": "13,24 млн",
+      "normalizedPrice": "145 064 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Столбищенское с/п, с. Усады, стр. 8"
+    },
+    "coords": {
+      "lat": "55.66886",
+      "lng": "49.23889",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Столбищенское с/п, с. Усады, стр. 8"
+    },
+    "developmentId": 4328133,
+    "developmentName": "ЖК «Новый Свет»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 3467168565,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_866_m_34_et._3467168565?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 86,6 м², 3/4 эт.",
+    "description": "Продается 3-комнатная квартира площадью 86,6 кв. М на 3 этаже в строящемся доме проекта «Новый свет» компании «Ак Барс Дом».\n\nЖК «Новый Свет» — это современный малоэтажный жилой комплекс в Лаишевском районе.\n\nПреимущества:\n4-этажный монолитно-кирпичный дом;\nдля отдыха — шезлонги и гамаки;\nигровые зоны для детей разных возрастов и зона для спорта;\nзакрытый двор и плоскостной наземный паркинг;\nпроектом предусмотрено создание семейного игрового парка, площадью 1,2 га, а также строительство 10 детских садов и 3 школ.\n\nПриобрести Квартиру Можно:\n\n— наличным и безналичным расчётом по 100% оплате и рассрочке;\n\n— с использованием маткапитала;\n\n— с использованием жилищных сертификатов;\n\n— в ипотеку;\n\n— онлайн ипотека.\n\nПодбор Квартиры:\n\nПодбор квартиры, полное юридическое сопровождение сделки — Бесплатно.\n\nНаши специалисты помогут вам в решении вопроса приобретения недвижимости с момента консультации до момента передачи ключа от квартиры.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "14 375 600 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "14 375 600",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 14375600,
+      "wasLowered": false,
+      "exponent": "14,38 млн",
+      "normalizedPrice": "166 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Космическая, д. 1"
+    },
+    "coords": {
+      "lat": "55.67379",
+      "lng": "49.23659",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Космическая, д. 1"
+    },
+    "developmentId": 4328133,
+    "developmentName": "ЖК «Новый Свет»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 3905777847,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_629_m_225_et._3905777847?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 62,9 м², 2/25 эт.",
+    "description": "Номер квартиры: 10.\n\nЭтаж: 2.\n\nПлощадь: 62.89.\n\nКорпус: Дом 4.3 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 430 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 430 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11430000,
+      "wasLowered": false,
+      "exponent": "11,43 млн",
+      "normalizedPrice": "181 717 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 11",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 11",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_11/97559395?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68648",
+      "lng": "49.20546",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 11"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 7954742381,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_953_m_44_et._7954742381?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 95,3 м², 4/4 эт.",
+    "description": "Прямая продажа от застройщика!\nКорпус 1.1 сдан!\n\nЖилой Комплекс комфорт-класса.\n\nПродаётся 3-к квартира номер 25 общей площадью 95.3 кв. М. На 4-м этаже 4 этажного здания.\n\nПредчистовая отделка.\n\n- Мастер-зона с санузлом. Уют и комфорт в одном пространстве.\n- Распашная планировка — отличное сочетание удобства и свободы.\n- Увеличенное количество окон — дополнительное освещение и свежий воздух.\n- Евроформат — просторное и удобное жилье с отличной планировкой.\n- Просторная мягкая зона — комфорт и уют для отдыха всей семьи.\n- Проходная кухня-гостиная — идеальное пространство для общения и готовки.\n- Гардеробная — удобство для хранения и организации вещей.\n\nКвартира с предчистовой отделкой. Вам не придется заниматься черновыми и трудоёмкими работы, а чистовую отделку и дизайн — сделайте на свой вкус.\n\n«Форест» — жилой комплекс комфорт-класса, созданный для тех, кто ищет гармонию с природой, не отказываясь от городского ритма.\nРасположенный в окружении леса и реки, он воплощает мечту о загородной жизни со всеми удобствами города. Здесь можно проживать самые тёплые моменты с близкими, дышать свежим хвойным воздухом, встречать утро на собственной террасе или проводить вечера с друзьями под открытым небом.\nБлагоустроенная территория, прогулочные дорожки и зоны отдыха создают атмосферу уюта и гармонии. Поблизости — лес и Волга, куда можно выбраться на прогулку в любое время, не дожидаясь выходных. Благодаря вечнозелёным растениям и продуманному озеленению, дворы остаются зелёными круглый год.\n\n- 4 мин. Пушком до автобусной остановки.\n- 5 мин. На машине до школы.\n\nПродуманное пространство для жизни, отдыха и развития.\nНа территории комплекса работает собственный детский сад — современное и безопасное пространство, где дети всегда рядом с родителями. Во дворе установлены игровые комплексы для активных прогулок и развития малышей на свежем воздухе.\nЖителям доступны кафе и магазины, площадки для прогулок с питомцами, зоны для пикников и барбекю. Для любителей активного образа жизни предусмотрены велодорожки, воркаут-зоны и тропы для хайкинга, а в шаговой доступности находятся планетарий и глэмпинг.\nПросторный двор без машин и закрытая территория с системой контроля доступа обеспечивают высокий уровень безопасности и приватности. Здесь можно по-настоящему расслабиться и чувствовать себя дома — в окружении природы, комфорта и заботы о каждом дне.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 934 428 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 934 428",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12934428,
+      "wasLowered": false,
+      "exponent": "12,93 млн",
+      "normalizedPrice": "135 723 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пос. Октябрьский, ул. Новая, стр. 1.1"
+    },
+    "coords": {
+      "lat": "55.8335",
+      "lng": "48.77667",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "пос. Октябрьский, ул. Новая, стр. 1.1"
+    },
+    "developmentId": 9304554,
+    "developmentName": "ЖК «Форест»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 7737201338,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_77_m_1010_et._7737201338?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 77 м², 10/10 эт.",
+    "description": "Это семейный жилой квартал, созданный для вас по принципу «Микро-город», где есть всё для комфортной и счастливой жизни. Жилой комплекс расположен в живой и динамичной части города, в 15 минутах от станции метро «Авиастроительная», с разнообразием учреждений социально-культурного назначения.\n\nПродается 3 комнатная квартира № 114 общей площадью: 76.98 кв. М. На 10 этаже.\n\nО Квартире.\n- качественная предчистовая отделка.\n- увеличенные оконные проемы и угловые окна.\n- шумоизоляция в стяжке пола.\n- высота потолков 2,60 м.\n- установлены все приборы учета воды, электроэнергии, тепла.\n- пассажирский и грузопассажирский лифты.\n- вход в дом через видеодомофоны.\n- современная система отопления с установкой индивидуальных приборов учета тепла в этажных коллекторных шкафах.\n- внутренние лоджии из алюминиевого профиля с жалюзийными вентиляционными решетками для установки наружного блока кондиционера.\n\nИнфраструктура.\n\n- безопасные игровые комплексы для детей.\n- отдельные зоны для спокойных прогулок.\n- тренировочная зона с современным оборудованием.\n- в пешей доступности находятся 8 школ, 7 муниципальных и коммерческих детских садов, поликлиники для взрослых и детей.\n- 5 мин ходьбы от жилого квартала до остановки общественного транспорта.\n- 15 минут до станции метро «Авиастроительная».\n- 20 мин езды на автомобиле до центра города.\nВ 15 минутах езды от жилого квартала находятся торговые центры «Парк-хаус», «Тандем», а также аквапарк «Ривьера» и Кремлевская набережная.\n\nСрок сдачи объекта в эксплуатацию 3 квартал 2027 г.\nЗвоните прямо сейчас! Наши менеджеры в отделе продаж проконсультируют Вас по любому вопросу.\n\nВарианты оплаты:\n-сотрудничаем с ведущими банками.\n- наличный расчет.\n\nПомощь при оформлении ипотеки. Полное юридическое сопровождение. Бесплатно!\n\nЗастройщик: ООО Спецзастройщик «Династия-4».\nПроектная декларация размещена на сайте наш. Дом. Рф.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 650 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 650 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13650000,
+      "wasLowered": false,
+      "exponent": "13,65 млн",
+      "normalizedPrice": "177 273 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Михаила Миля, стр. 6",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84633",
+      "lng": "49.09651",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Михаила Миля, стр. 6"
+    },
+    "developmentId": 5941039,
+    "developmentName": "ЖК «‎Династия»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8249299485,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_759_m_39_et._8249299485?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 75,9 м², 3/9 эт.",
+    "description": "Царёво City.\nПрирода города.\n«Царёво City» — проект компании «Унистрой» в Татарстане, сочетающий в себе все преимущества жизни в комфортабельных городских квартирах, при этом в загородном комплексе, рядом с природой. Жилой комплекс расположен в живописном районе республики в 10 минутах езды от Казани.\nНа территории комплекса «Царёво City» — собственная школа и 2 детских сада. В шаговой доступности, в соседнем «Царёво Village» — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nБульвар, приватные дворы, комфортная переменная этажность, стильные холлы. В проекте представлено большое разнообразие планировочных решений: студии, европланировки и полноценные 1-, 2-, 3-комнатные. Для ценителей частных пространств мы подготовили миксы загородных домов и городских форматов: квартиры с личным входом с улицы, коллекционные варианты с террасами, а также мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\n«Царёво City» — гармония архитектуры и природы, частной жизни и городского комфорта.\nРоссийская Федерация, Республика Татарстан, Пестречинский муниципальный район, Шигалеевское сельское поселение, жилой комплекс «Усадьба Царево-2», 2 кв.326.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 300 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 300 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13300000,
+      "wasLowered": false,
+      "exponent": "13,3 млн",
+      "normalizedPrice": "175 231 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 7841411344,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_626_m_625_et._7841411344?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 62,6 м², 6/25 эт.",
+    "description": "Номер квартиры: 58.\n\nЭтаж: 6.\n\nПлощадь: 62.61.\n\nКорпус: Дом 4.3 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 360 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 360 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11360000,
+      "wasLowered": false,
+      "exponent": "11,36 млн",
+      "normalizedPrice": "181 470 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 11",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 11",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_11/97559395?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68648",
+      "lng": "49.20546",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 11"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8111091800,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_736_m_1725_et._8111091800?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 73,6 м², 17/25 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича. Архитектура комплекса выполнена в едином лаконичном стиле с использованием натуральных материалов. В здании имеются комнаты для хранения колясок и спортивного инвентаря.\nВ проекте представлено множество планировочных решений, комнаты в квартирах правильной формы без лишних выступов. В квартирах новых очередей увеличенные окна, пониженный уровень подоконника.\nНа территории комплекса предусмотрена система видеонаблюдения по программе «Безопасный город». Каждый подъезд оборудован современной системой домофонии, которая находится внутри подъезда. Для автовладельцев предусмотрен наземный и многоуровневый подземный паркинг. Выполнено зонирование территорий — есть разделение на тихие зоны и на спортивные площадки.\nИнфраструктура района развита хорошо, в пешей доступности от делового комплекса расположены образовательные учреждения, торговые центры, продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 825 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 825 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13825000,
+      "wasLowered": false,
+      "exponent": "13,82 млн",
+      "normalizedPrice": "187 840 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Оренбургский тракт, д. 6, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72174",
+      "lng": "49.18417",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Оренбургский тракт, д. 6, корп. 1"
+    },
+    "developmentId": 8074039,
+    "developmentName": "ЖК «Отражение»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8303460819,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_74_m_325_et._8303460819?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 74 м², 3/25 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича. Архитектура комплекса выполнена в едином лаконичном стиле с использованием натуральных материалов. В здании имеются комнаты для хранения колясок и спортивного инвентаря.\nВ проекте представлено множество планировочных решений, комнаты в квартирах правильной формы без лишних выступов. В квартирах новых очередей увеличенные окна, пониженный уровень подоконника.\nНа территории комплекса предусмотрена система видеонаблюдения по программе «Безопасный город». Каждый подъезд оборудован современной системой домофонии, которая находится внутри подъезда. Для автовладельцев предусмотрен наземный и многоуровневый подземный паркинг. Выполнено зонирование территорий — есть разделение на тихие зоны и на спортивные площадки.\nИнфраструктура района развита хорошо, в пешей доступности от делового комплекса расположены образовательные учреждения, торговые центры, продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 810 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 810 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13810000,
+      "wasLowered": false,
+      "exponent": "13,81 млн",
+      "normalizedPrice": "186 622 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,2 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Братьев Батталовых, д.20Б, корп. 2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_bratev_battalovyh_20bk2/105085146?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Братьев Батталовых, д.20Б",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_bratev_battalovyh/1495-ASgBAgECA0SSA8YQ5geOUujIE64XAUXcBxoidWxpdHNhX2JyYXRldl9iYXR0YWxvdnloIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72186",
+      "lng": "49.1855",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Братьев Батталовых, д.20Б, корп. 2"
+    },
+    "developmentId": 8074039,
+    "developmentName": "ЖК «Отражение»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8111640293,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_72_m_1018_et._8111640293?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 72 м², 10/18 эт.",
+    "description": "Хотите купить квартиру с максимальной выгодой? Поставьте «+» — и мы:\n\nсделаем расчёт ипотеки и рассрочки с минимальным первоначальным взносом;\n\nрасскажем про акцию «Ремонт в подарок»;\n\nраскроем все детали по ставке 3,5% на весь срок;\n\nотправим информацию о скидках и эксклюзивных акциях на подборку квартир;\n\nпоможем получить максимальную скидку от застройщика;\n\nподарим сертификат на мебель, если вы примете решение быстро!\n\nОформляем ипотеку по паспорту — без справок с работы. А ещё можем организовать удалённый показ и помочь с покупкой онлайн!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 162 500 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 162 500",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13162500,
+      "wasLowered": false,
+      "exponent": "13,16 млн",
+      "normalizedPrice": "182 813 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Южно-Промышленная, стр. 1"
+    },
+    "coords": {
+      "lat": "55.71741",
+      "lng": "49.12216",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Южно-Промышленная, стр. 1"
+    },
+    "developmentId": 6618407,
+    "developmentName": "ЖК  «Парк Маяк»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8211439373,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_743_m_77_et._8211439373?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 74,3 м², 7/7 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 830 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 830 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12830000,
+      "wasLowered": false,
+      "exponent": "12,83 млн",
+      "normalizedPrice": "172 678 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8211209778,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_743_m_27_et._8211209778?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 74,3 м², 2/7 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 930 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 930 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11930000,
+      "wasLowered": false,
+      "exponent": "11,93 млн",
+      "normalizedPrice": "160 565 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8417447317,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_626_m_325_et._8417447317?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 62,6 м², 3/25 эт.",
+    "description": "Номер квартиры: 303.\n\nЭтаж: 3.\n\nПлощадь: 62.61.\n\nКорпус: Дом 4.2 Блок-секция 1,2 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 440 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 440 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11440000,
+      "wasLowered": false,
+      "exponent": "11,44 млн",
+      "normalizedPrice": "182 748 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_9/97548618?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68714",
+      "lng": "49.20693",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 9"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8417365233,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_569_m_1119_et._8417365233?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 56,9 м², 11/19 эт.",
+    "description": "Номер квартиры: 714.\n\nЭтаж: 11.\n\nПлощадь: 56.87.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 720 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 720 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10720000,
+      "wasLowered": false,
+      "exponent": "10,72 млн",
+      "normalizedPrice": "188 401 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8417316589,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_626_m_1025_et._8417316589?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 62,6 м², 10/25 эт.",
+    "description": "Номер квартиры: 106.\n\nЭтаж: 10.\n\nПлощадь: 62.61.\n\nКорпус: Дом 4.2 Блок-секция 1,2 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами студиями и трехкомнатными жилищами площадью от 30,95 до 72,67 кв. М, с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 490 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 490 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11490000,
+      "wasLowered": false,
+      "exponent": "11,49 млн",
+      "normalizedPrice": "183 546 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_9/97548618?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68714",
+      "lng": "49.20693",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 9"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8211603825,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_743_m_67_et._8211603825?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 74,3 м², 6/7 эт.",
+    "description": "Новый проект компании «Унистрой», возведенный по технологии кирпичного строительства с вентилируемыми фасадами из керамогранита.\nВ проекте представлено большое разнообразие планировочных решений: студии, европланировки и классические варианты 1-, 2-, 3-комнатных квартир. Также представлены квартиры с личным входом с улицы, коллекционные варианты с террасами, мастер-спальни с ванными, гардеробными и эксклюзивные варианты на последних этажах с видом на зелёные окрестности района.\nНа территории комплекса находится собственная школа и 2 детских сада. В шаговой доступности — ритейл-парк Udacha, лицей с агробиологическим уклоном, 3 детских сада, лесопарковая зона с барбекю и озером.\nЖилой комплекс расположен в живописном районе в 10 минутах езды от Казани. В пешей доступности имеется все необходимое: продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 040 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 040 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12040000,
+      "wasLowered": false,
+      "exponent": "12,04 млн",
+      "normalizedPrice": "162 046 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "coords": {
+      "lat": "55.81484",
+      "lng": "49.42971",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Героя России Дамира Исламова, д. 2, корп. 2"
+    },
+    "developmentId": 8100438,
+    "developmentName": "ЖК «Царёво Сити»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  },
+  {
+    "id": 8417807566,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/3-k._kvartira_709_m_1417_et._8417807566?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJTdFlrMTNRc1BkVDd0eTZRIjt9wAz1bj8AAAA",
+    "title": "3-к. квартира, 70,9 м², 14/17 эт.",
+    "description": "Номер квартиры: 135.\n\nЭтаж: 14.\n\nПлощадь: 70.91.\n\nКорпус: Дом 4.1 (4 очередь). Жилой комплекс «Южный парк» представляет собой современный жилой микрорайон, расположенный на земельном участке площадью 36 гектаров. Комплекс находится в Лаишевском муниципальном районе, всего в 14 км от центра Казани, что позволяет добраться до города за 17 минут. В рамках проекта осуществляется комплексная застройка с использованием разносекционных монолитных, кирпичных и монолитно-кирпичных зданий переменной этажности. Покупателям предлагается выбор между квартирами с отделкой в черновом варианте или «под ключ». Среди уникальных форматов новостройка привлекает внимание системой «Умный дом», которая доступна в домах третьей и четвертой очереди строительства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 070 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 070 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13070000,
+      "wasLowered": false,
+      "exponent": "13,07 млн",
+      "normalizedPrice": "184 344 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Теплых встреч, д. 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 7",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_teplyh_vstrech_7/97543706?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Теплых встреч",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_teplyh_vstrech/12343-ASgBAgECA0SSA8YQ5geOUujIE~7AAQFF3AcXInVsaXRzYV90ZXBseWhfdnN0cmVjaCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.68804",
+      "lng": "49.20866",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Теплых встреч, д. 7"
+    },
+    "developmentId": 32225,
+    "developmentName": "ЖК «Южный парк»",
+    "parsed_at": "2026-09-25T16:22:06.647453"
+  }
+]

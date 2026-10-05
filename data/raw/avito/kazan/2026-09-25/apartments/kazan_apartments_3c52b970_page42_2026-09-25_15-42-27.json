@@ -1,0 +1,2044 @@
+[
+  {
+    "id": 8211577976,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_475_m_614_et._8211577976?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 47,5 м², 6/14 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича.\n\nВ проекте представлено множество планировочный решений, от студий до просторных 3х-комнатных квартир. Все лоты сдаются с подчистовой отделкой, высотой потолков до 4,09 метров и панорамными окнами.\n\nТерритория комплекса благоустроена — имеется частный детский сад, зеленые зоны для отдыха и активных прогулок. Для автовладельцев предусмотрен теплый двухуровневый подземный паркинг. Здание оборудовано системой «Умный дом».\n\nЖилой комплекс расположен в экологически чистом районе с хорошо развитой инфраструктурой. В пешей доступности имеется все необходимое — продовольственные магазины, медицинские и образовательные учреждения, аптеки, кафе и рестораны. Вблизи жилого комплекса находятся озера верхний кабан и Фермского леса. До центра города дорога занимает 15 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 204 200 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 204 200",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11204200,
+      "wasLowered": false,
+      "exponent": "11,2 млн",
+      "normalizedPrice": "235 878 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Рауиса Гареева, стр. 2"
+    },
+    "coords": {
+      "lat": "55.71842",
+      "lng": "49.15793",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Рауиса Гареева, стр. 2"
+    },
+    "developmentId": 8636294,
+    "developmentName": "ЖК «Фермаполис»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8330190326,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_547_m_625_et._8330190326?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 54,7 м², 6/25 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича. Архитектура комплекса выполнена в едином лаконичном стиле с использованием натуральных материалов. В здании имеются комнаты для хранения колясок и спортивного инвентаря.\nВ проекте представлено множество планировочных решений, комнаты в квартирах правильной формы без лишних выступов. В квартирах новых очередей увеличенные окна, пониженный уровень подоконника.\nНа территории комплекса предусмотрена система видеонаблюдения по программе «Безопасный город». Каждый подъезд оборудован современной системой домофонии, которая находится внутри подъезда. Для автовладельцев предусмотрен наземный и многоуровневый подземный паркинг. Выполнено зонирование территорий — есть разделение на тихие зоны и на спортивные площадки.\nИнфраструктура района развита хорошо, в пешей доступности от делового комплекса расположены образовательные учреждения, торговые центры, продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 630 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 630 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11630000,
+      "wasLowered": false,
+      "exponent": "11,63 млн",
+      "normalizedPrice": "212 614 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Братьев Батталовых, д.20Б, корп. 3",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 3",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_bratev_battalovyh_20bk3/105156327?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Братьев Батталовых, д.20Б",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_bratev_battalovyh/1495-ASgBAgECA0SSA8YQ5geOUujIE64XAUXcBxoidWxpdHNhX2JyYXRldl9iYXR0YWxvdnloIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72169",
+      "lng": "49.1844",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Братьев Батталовых, д.20Б, корп. 3"
+    },
+    "developmentId": 8074039,
+    "developmentName": "ЖК «Отражение»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8220209112,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_54_m_925_et._8220209112?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 54 м², 9/25 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича. Архитектура комплекса выполнена в едином лаконичном стиле с использованием натуральных материалов. В здании имеются комнаты для хранения колясок и спортивного инвентаря.\nВ проекте представлено множество планировочных решений, комнаты в квартирах правильной формы без лишних выступов. В квартирах новых очередей увеличенные окна, пониженный уровень подоконника.\nНа территории комплекса предусмотрена система видеонаблюдения по программе «Безопасный город». Каждый подъезд оборудован современной системой домофонии, которая находится внутри подъезда. Для автовладельцев предусмотрен наземный и многоуровневый подземный паркинг. Выполнено зонирование территорий — есть разделение на тихие зоны и на спортивные площадки.\nИнфраструктура района развита хорошо, в пешей доступности от делового комплекса расположены образовательные учреждения, торговые центры, продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 368 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 368 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11368000,
+      "wasLowered": false,
+      "exponent": "11,37 млн",
+      "normalizedPrice": "210 519 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Братьев Батталовых, д.20Б, корп. 3",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 3",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_bratev_battalovyh_20bk3/105156327?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Братьев Батталовых, д.20Б",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_bratev_battalovyh/1495-ASgBAgECA0SSA8YQ5geOUujIE64XAUXcBxoidWxpdHNhX2JyYXRldl9iYXR0YWxvdnloIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72169",
+      "lng": "49.1844",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Братьев Батталовых, д.20Б, корп. 3"
+    },
+    "developmentId": 8074039,
+    "developmentName": "ЖК «Отражение»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8329929862,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_61_m_19_et._8329929862?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 61 м², 1/9 эт.",
+    "description": "Современный проект классической архитектуры с уникальными фасадными решениями и дизайнерским оформлением мест общего пользования.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до просторных 3х-комнатных квартир с высотой потолков 2,7 метра и подчистовой отделкой.\nТерритория комплекса благоустроена, — создано приватное пространство для жителей. Дворы имеют интенсивное озеленение и выполнены в концепции тихого сада с газоном, травами, деревьями и кустарниками. Общественные пространства оформлены по индивидуальному дизайн-проекту.\nЖилой комплекс расположен на берегу озера Средний Кабан. В пешей доступности расположены детские сады, школы, спортивные площадки, медицинские учреждения, парки и скверы.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 923 894 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 923 894",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11923894,
+      "wasLowered": false,
+      "exponent": "11,92 млн",
+      "normalizedPrice": "195 474 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Проспект Победы",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Рашита Салахова, стр. 4",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Проспект Победы",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2051"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.73622",
+      "lng": "49.15957",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Рашита Салахова, стр. 4"
+    },
+    "developmentId": 5132590,
+    "developmentName": "ЖК «Алтын Яр»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8241508368,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_492_m_2425_et._8241508368?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 49,2 м², 24/25 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича. Архитектура комплекса выполнена в едином лаконичном стиле с использованием натуральных материалов. В здании имеются комнаты для хранения колясок и спортивного инвентаря.\nВ проекте представлено множество планировочных решений, комнаты в квартирах правильной формы без лишних выступов. В квартирах новых очередей увеличенные окна, пониженный уровень подоконника.\nНа территории комплекса предусмотрена система видеонаблюдения по программе «Безопасный город». Каждый подъезд оборудован современной системой домофонии, которая находится внутри подъезда. Для автовладельцев предусмотрен наземный и многоуровневый подземный паркинг. Выполнено зонирование территорий — есть разделение на тихие зоны и на спортивные площадки.\nИнфраструктура района развита хорошо, в пешей доступности от делового комплекса расположены образовательные учреждения, торговые центры, продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 491 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 491 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11491000,
+      "wasLowered": false,
+      "exponent": "11,49 млн",
+      "normalizedPrice": "233 557 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,2 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Братьев Батталовых, д.20Б, корп. 2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_bratev_battalovyh_20bk2/105085146?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Братьев Батталовых, д.20Б",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_bratev_battalovyh/1495-ASgBAgECA0SSA8YQ5geOUujIE64XAUXcBxoidWxpdHNhX2JyYXRldl9iYXR0YWxvdnloIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72186",
+      "lng": "49.1855",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Братьев Батталовых, д.20Б, корп. 2"
+    },
+    "developmentId": 8074039,
+    "developmentName": "ЖК «Отражение»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8230710679,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_547_m_525_et._8230710679?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 54,7 м², 5/25 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича. Архитектура комплекса выполнена в едином лаконичном стиле с использованием натуральных материалов. В здании имеются комнаты для хранения колясок и спортивного инвентаря.\nВ проекте представлено множество планировочных решений, комнаты в квартирах правильной формы без лишних выступов. В квартирах новых очередей увеличенные окна, пониженный уровень подоконника.\nНа территории комплекса предусмотрена система видеонаблюдения по программе «Безопасный город». Каждый подъезд оборудован современной системой домофонии, которая находится внутри подъезда. Для автовладельцев предусмотрен наземный и многоуровневый подземный паркинг. Выполнено зонирование территорий — есть разделение на тихие зоны и на спортивные площадки.\nИнфраструктура района развита хорошо, в пешей доступности от делового комплекса расположены образовательные учреждения, торговые центры, продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 630 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 630 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11630000,
+      "wasLowered": false,
+      "exponent": "11,63 млн",
+      "normalizedPrice": "212 614 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Братьев Батталовых, д.20Б, корп. 3",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 3",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_bratev_battalovyh_20bk3/105156327?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Братьев Батталовых, д.20Б",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_bratev_battalovyh/1495-ASgBAgECA0SSA8YQ5geOUujIE64XAUXcBxoidWxpdHNhX2JyYXRldl9iYXR0YWxvdnloIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72169",
+      "lng": "49.1844",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Братьев Батталовых, д.20Б, корп. 3"
+    },
+    "developmentId": 8074039,
+    "developmentName": "ЖК «Отражение»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8111622158,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_56_m_1319_et._8111622158?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 56 м², 13/19 эт.",
+    "description": "Жилой комплекс представляет из себя практически мини-город, в состав которого входит множество корпусов высотой до 19 этажей. Новый квартал размещается на территории площадью 60 гектара. В оформлении стен зданий используется современный навесной вентилируемый фасад. В каждом доме выполнена дизайнерская отделка входных групп, установлены современные лифты и предусмотрены колясочные.\nВ жилом комплексе предложено множество планировочных решений: в наличии квартиры, как классического типа, так и европланировки. Сдаются они с подчистовой отделкой, высота потолков — от 2,6 до 2,76 метров. В каждой квартире предусмотрены гардеробные, либо ниши под гардероб. В проекте реализована система умного дома.\nГлавная особенность комплекса — это оздоровительная инфраструктура, которая включает в себя: экстрим-парк, закрытые спорткомплексы, скейт-парки, профессионально оборудованные площадки для спортивных игр, велотреки, теннисные корты, уличные спортивные снаряды для воркаут-тренировок, лыжные трассы, бассейны, салоны красоты, фитнес-центры, тренажерные залы, места для медитации и занятий йогой. Для безопасности предусмотрена система видеонаблюдения по программе «Безопасный город». Система домофонии защищает от проникновения посторонних лиц в дом. На территории комплекса есть 9 детских садов, 3 школы, библиотека на свежем воздухе, поликлиника, магазины, торговый и бизнес-центры.\nКомплекс располагается в Приволжском районе, рядом с Усадским лесом, среди полей и лугов. Рядом есть детский сад, школа супермаркет «Бахетле» и несколько магазинов. До метро «Аментьево» 15 минут транспортом.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 880 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 880 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11880000,
+      "wasLowered": false,
+      "exponent": "11,88 млн",
+      "normalizedPrice": "212 143 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Пр-д Детский, стр. 3.4"
+    },
+    "coords": {
+      "lat": "55.67515",
+      "lng": "49.20462",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "пр-д Детский, стр. 3.4"
+    },
+    "developmentId": 43430,
+    "developmentName": "ЖК «Станция Спортивная»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8330776459,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_619_m_39_et._8330776459?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 61,9 м², 3/9 эт.",
+    "description": "Современный проект классической архитектуры с уникальными фасадными решениями и дизайнерским оформлением мест общего пользования.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до просторных 3х-комнатных квартир с высотой потолков 2,7 метра и подчистовой отделкой.\nТерритория комплекса благоустроена, — создано приватное пространство для жителей. Дворы имеют интенсивное озеленение и выполнены в концепции тихого сада с газоном, травами, деревьями и кустарниками. Общественные пространства оформлены по индивидуальному дизайн-проекту.\nЖилой комплекс расположен на берегу озера Средний Кабан. В пешей доступности расположены детские сады, школы, спортивные площадки, медицинские учреждения, парки и скверы.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 833 248 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 833 248",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11833248,
+      "wasLowered": false,
+      "exponent": "11,83 млн",
+      "normalizedPrice": "191 167 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Проспект Победы",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Рашита Салахова, стр. 4",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Проспект Победы",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2051"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.73622",
+      "lng": "49.15957",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Рашита Салахова, стр. 4"
+    },
+    "developmentId": 5132590,
+    "developmentName": "ЖК «Алтын Яр»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8303407511,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_443_m_39_et._8303407511?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 44,3 м², 3/9 эт.",
+    "description": "Жилой комплекс состоит из 13 домов переменной этажности в европейском архитектурном стиле. В оформлении стен зданий используется современный навесной вентилируемый фасад. На первых этажах спроектированы места для хранения колясок.\nВ комплексе представлено множество планировочных решений с террасами, мастер-спальнями, угловыми панорамными окнами, гардеробными и нишами для шкафов-купе. Предусмотрена возможность выбора квартиры с теплой лоджией, балконом или без него.\nНа территории комплекса предусмотрено 2 детских сада и школа, детские эко-площадки, спортивные и прогулочные зоны, велодорожки и уличные тренажеры для занятий спортом. Домофоны расположены в теплых тамбурах. Проектом заложена автоматическая система контроля потребления воды, электричества, отопления и передачи их в сервисную компанию.\nЖилой комплекс расположен в Советском районе, в пешей доступности от продуктовых магазинов, детских садов и тренажёрных залов. До центра города дорога составляет 10 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 710 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 710 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11710000,
+      "wasLowered": false,
+      "exponent": "11,71 млн",
+      "normalizedPrice": "264 334 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "С. Константиновка, ул. Анаса Тазетдинова, д. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_anasa_tazetdinova_4a/97283388?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "с. Константиновка, ул. Анаса Тазетдинова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_anasa_tazetdinova/2218-ASgBAgECA0SSA8YQ5geOUujIE9QiAUXcBxoidWxpdHNhX2FuYXNhX3RhemV0ZGlub3ZhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.80853",
+      "lng": "49.23026",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Константиновка, ул. Анаса Тазетдинова, д. 5"
+    },
+    "developmentId": 1671210,
+    "developmentName": "ЖК «Лето»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8320523727,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_624_m_49_et._8320523727?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 62,4 м², 4/9 эт.",
+    "description": "Современный проект классической архитектуры с уникальными фасадными решениями и дизайнерским оформлением мест общего пользования.\nВ проекте представлено несколько планировочных решений — от 1-комнатных до просторных 3х-комнатных квартир с высотой потолков 2,7 метра и подчистовой отделкой.\nТерритория комплекса благоустроена, — создано приватное пространство для жителей. Дворы имеют интенсивное озеленение и выполнены в концепции тихого сада с газоном, травами, деревьями и кустарниками. Общественные пространства оформлены по индивидуальному дизайн-проекту.\nЖилой комплекс расположен на берегу озера Средний Кабан. В пешей доступности расположены детские сады, школы, спортивные площадки, медицинские учреждения, парки и скверы.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 921 752 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 921 752",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11921752,
+      "wasLowered": false,
+      "exponent": "11,92 млн",
+      "normalizedPrice": "191 054 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Проспект Победы",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,4 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Рашита Салахова, стр. 4",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Проспект Победы",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2051"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.73622",
+      "lng": "49.15957",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Рашита Салахова, стр. 4"
+    },
+    "developmentId": 5132590,
+    "developmentName": "ЖК «Алтын Яр»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8253475997,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_605_m_1213_et._8253475997?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 60,5 м², 12/13 эт.",
+    "description": "Жилой комплекс «Парк Маяк» — это 25 корпусов высотой от 13 до 18 этажей. В проекте реализован отсыл к татарской культуре: орнамент на фасадах из кирпичной кладки и использование зеленого глазурованного кирпича в деталях первого этажа.\nВсего в проекте предусмотрено 30 уникальных планировок. Сдаются квартиры с подчистовой отделкой, панорамными окнами и высотой потолков от 2,6 метров.\nНа территории комплекса имеются детские сады, школы, физкультурно-оздоровительный комплекс, поликлиника. Для отдыха жителям предоставляется просторный парк площадью в 3 Га с собственным озером, бульвар для прогулок, места для выгула собак и зоны для йоги. У комплекса располагается набережная с маршрутами для бега и катания на велосипедах, места для настольных игр и зоны для пикника.\nЖилой комплекс находится в Приволжском районе. В пешей доступности располагаются продуктовые и строительные магазины, медицинские учреждения, кафе и рестораны. До метро «Проспект Победы» 25 минут транспортом.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 647 700 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 647 700",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11647700,
+      "wasLowered": false,
+      "exponent": "11,65 млн",
+      "normalizedPrice": "192 524 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Южно-Промышленная, стр. 1"
+    },
+    "coords": {
+      "lat": "55.71741",
+      "lng": "49.12216",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Южно-Промышленная, стр. 1"
+    },
+    "developmentId": 6618407,
+    "developmentName": "ЖК  «Парк Маяк»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8222214786,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_955_m_24_et._8222214786?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 95,5 м², 2/4 эт.",
+    "description": "Жилой комплекс представляет собой дом высотой в 4 этажа. Здание построено по кирпичной технологии строительства с комбинированными фасадами. В холлах выполнена дизайнерская отделка, установлены грузовые лифты.\n\nВ проекте предложено множество планировочных решений: в наличии квартиры классического типа. Сдаются они с подчистовой отделкой, увеличенными окнами, террасой и высотой потолков в 2,7м. Встречаются также двухуровневые квартиры с выходом на крышу.\n\nНа благоустроенной территории располагаются: современные и безопасные детские площадки для детей всех возрастов, прогулочные зоны для мам с колясками, велодорожки и тропы для хайкинга. Продуманы также места для отдыха, спортивные и воркаут площадки. На территории комплекса расположен свой детский сад.\n\nЖилой комплекс расположен в экологически чистом поселке «Октябрьский», неподалеку от берега Волги. Здесь хорошо развита инфраструктура: в нескольких минутах ходьбы находятся поликлиники, школы, кинотеатр, железнодорожная станция, планетарий и глэмпинг. До центра Казани можно добраться за 35 минут на транспорте.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 475 225 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 475 225",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12475225,
+      "wasLowered": false,
+      "exponent": "12,48 млн",
+      "normalizedPrice": "130 631 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пос. Октябрьский, ул. Новая, стр. 1.1"
+    },
+    "coords": {
+      "lat": "55.8335",
+      "lng": "48.77667",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "пос. Октябрьский, ул. Новая, стр. 1.1"
+    },
+    "developmentId": 9304554,
+    "developmentName": "ЖК «Форест»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8325599145,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_489_m_2325_et._8325599145?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 48,9 м², 23/25 эт.",
+    "description": "Жилой комплекс состоит из 10 корпусов высотой от 19 до 25 этажей. При строительстве используются керамические блоки Поротерм, за счет чего дома остаются теплыми и дышащими, увеличенные оконные проемы дают больше света и простора. В проекте выполнена дизайнерская отделка входных групп, установлены современные лифты и предусмотрены комнаты для хранения колясок.\nВ ЖК предложено множество планировочных решений: в наличии квартиры, как классического типа, так и европланировки. Сдаются они с подчистовой отделкой, высотой потолков от 2,6 до 2,65 метров и увеличенными окнами. Несомненными преимуществами высотного строительства являются вдохновляющие виды из окон на городскую панораму и лесопарковую территорию. В проекте реализована система умного дома.\nВ проекте предусмотрена концепция «Двор без машин». На придомовой территории установлены яркие игровые площадки с антиударным покрытием. Для владельцев автомобилей спроектирован отдельный многоуровневый паркинг. На территории проекта предусмотрены детские сады и школы.\nЖК находится в центре Приволжского района г. Казани вблизи живописной березовой рощи. ЖК входит в состав микрогорода «Волжские просторы». Социальные и спортивные объекты расположены в 5 минутах. Рядом удобная транспортная развязка. До центра города можно доехать за 20 минут, до международного аэропорта Казани — за 30 минут.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 460 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 460 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12460000,
+      "wasLowered": false,
+      "exponent": "12,46 млн",
+      "normalizedPrice": "254 806 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул.  Рауиса Гареева, д. 103А",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 103А",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rauisa_gareeva_103a/100869140?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул.  Рауиса Гареева",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rauisa_gareeva/422-ASgBAgECA0SSA8YQ5geOUujIE8wGAUXcBxcidWxpdHNhX3JhdWlzYV9nYXJlZXZhIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72178",
+      "lng": "49.17439",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул.  Рауиса Гареева, д. 103А"
+    },
+    "developmentId": 38325,
+    "developmentName": "ЖК «Сказочный лес»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8330693797,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_572_m_411_et._8330693797?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 57,2 м², 4/11 эт.",
+    "description": "Жилой комплекс представляет из себя практически мини-город, в состав которого входит множество корпусов высотой до 19 этажей. Новый квартал размещается на территории площадью 60 гектара. В оформлении стен зданий используется современный навесной вентилируемый фасад. В каждом доме выполнена дизайнерская отделка входных групп, установлены современные лифты и предусмотрены колясочные.\nВ жилом комплексе предложено множество планировочных решений: в наличии квартиры, как классического типа, так и европланировки. Сдаются они с подчистовой отделкой, высота потолков — от 2,6 до 2,76 метров. В каждой квартире предусмотрены гардеробные, либо ниши под гардероб. В проекте реализована система умного дома.\nГлавная особенность комплекса — это оздоровительная инфраструктура, которая включает в себя: экстрим-парк, закрытые спорткомплексы, скейт-парки, профессионально оборудованные площадки для спортивных игр, велотреки, теннисные корты, уличные спортивные снаряды для воркаут-тренировок, лыжные трассы, бассейны, салоны красоты, фитнес-центры, тренажерные залы, места для медитации и занятий йогой. Для безопасности предусмотрена система видеонаблюдения по программе «Безопасный город». Система домофонии защищает от проникновения посторонних лиц в дом. На территории комплекса есть 9 детских садов, 3 школы, библиотека на свежем воздухе, поликлиника, магазины, торговый и бизнес-центры.\nКомплекс располагается в Приволжском районе, рядом с Усадским лесом, среди полей и лугов. Рядом есть детский сад, школа супермаркет «Бахетле» и несколько магазинов. До метро «Аментьево» 15 минут транспортом.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 340 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 340 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12340000,
+      "wasLowered": false,
+      "exponent": "12,34 млн",
+      "normalizedPrice": "215 734 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Пр-д Детский, стр. 3.3"
+    },
+    "coords": {
+      "lat": "55.67514",
+      "lng": "49.20284",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "пр-д Детский, стр. 3.3"
+    },
+    "developmentId": 43430,
+    "developmentName": "ЖК «Станция Спортивная»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8230791532,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_605_m_1313_et._8230791532?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 60,5 м², 13/13 эт.",
+    "description": "Жилой комплекс «Парк Маяк» — это 25 корпусов высотой от 13 до 18 этажей. В проекте реализован отсыл к татарской культуре: орнамент на фасадах из кирпичной кладки и использование зеленого глазурованного кирпича в деталях первого этажа.\nВсего в проекте предусмотрено 30 уникальных планировок. Сдаются квартиры с подчистовой отделкой, панорамными окнами и высотой потолков от 2,6 метров.\nНа территории комплекса имеются детские сады, школы, физкультурно-оздоровительный комплекс, поликлиника. Для отдыха жителям предоставляется просторный парк площадью в 3 Га с собственным озером, бульвар для прогулок, места для выгула собак и зоны для йоги. У комплекса располагается набережная с маршрутами для бега и катания на велосипедах, места для настольных игр и зоны для пикника.\nЖилой комплекс находится в Приволжском районе. В пешей доступности располагаются продуктовые и строительные магазины, медицинские учреждения, кафе и рестораны. До метро «Проспект Победы» 25 минут транспортом.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 647 700 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 647 700",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11647700,
+      "wasLowered": false,
+      "exponent": "11,65 млн",
+      "normalizedPrice": "192 524 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Южно-Промышленная, стр. 1"
+    },
+    "coords": {
+      "lat": "55.71741",
+      "lng": "49.12216",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Южно-Промышленная, стр. 1"
+    },
+    "developmentId": 6618407,
+    "developmentName": "ЖК  «Парк Маяк»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8339584315,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_591_m_613_et._8339584315?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 59,1 м², 6/13 эт.",
+    "description": "Жилой комплекс «Парк Маяк» — это 25 корпусов высотой от 13 до 18 этажей. В проекте реализован отсыл к татарской культуре: орнамент на фасадах из кирпичной кладки и использование зеленого глазурованного кирпича в деталях первого этажа.\nВсего в проекте предусмотрено 30 уникальных планировок. Сдаются квартиры с подчистовой отделкой, панорамными окнами и высотой потолков от 2,6 метров.\nНа территории комплекса имеются детские сады, школы, физкультурно-оздоровительный комплекс, поликлиника. Для отдыха жителям предоставляется просторный парк площадью в 3 Га с собственным озером, бульвар для прогулок, места для выгула собак и зоны для йоги. У комплекса располагается набережная с маршрутами для бега и катания на велосипедах, места для настольных игр и зоны для пикника.\nЖилой комплекс находится в Приволжском районе. В пешей доступности располагаются продуктовые и строительные магазины, медицинские учреждения, кафе и рестораны. До метро «Проспект Победы» 25 минут транспортом.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 206 300 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 206 300",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11206300,
+      "wasLowered": false,
+      "exponent": "11,21 млн",
+      "normalizedPrice": "189 616 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Южно-Промышленная, стр. 1"
+    },
+    "coords": {
+      "lat": "55.71741",
+      "lng": "49.12216",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Южно-Промышленная, стр. 1"
+    },
+    "developmentId": 6618407,
+    "developmentName": "ЖК  «Парк Маяк»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8220254907,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_547_m_825_et._8220254907?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 54,7 м², 8/25 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича. Архитектура комплекса выполнена в едином лаконичном стиле с использованием натуральных материалов. В здании имеются комнаты для хранения колясок и спортивного инвентаря.\nВ проекте представлено множество планировочных решений, комнаты в квартирах правильной формы без лишних выступов. В квартирах новых очередей увеличенные окна, пониженный уровень подоконника.\nНа территории комплекса предусмотрена система видеонаблюдения по программе «Безопасный город». Каждый подъезд оборудован современной системой домофонии, которая находится внутри подъезда. Для автовладельцев предусмотрен наземный и многоуровневый подземный паркинг. Выполнено зонирование территорий — есть разделение на тихие зоны и на спортивные площадки.\nИнфраструктура района развита хорошо, в пешей доступности от делового комплекса расположены образовательные учреждения, торговые центры, продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 981 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 981 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11981000,
+      "wasLowered": false,
+      "exponent": "11,98 млн",
+      "normalizedPrice": "219 031 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,2 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Братьев Батталовых, д.20Б, корп. 2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_bratev_battalovyh_20bk2/105085146?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Братьев Батталовых, д.20Б",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_bratev_battalovyh/1495-ASgBAgECA0SSA8YQ5geOUujIE64XAUXcBxoidWxpdHNhX2JyYXRldl9iYXR0YWxvdnloIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72186",
+      "lng": "49.1855",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Братьев Батталовых, д.20Б, корп. 2"
+    },
+    "developmentId": 8074039,
+    "developmentName": "ЖК «Отражение»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8320172244,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_601_m_314_et._8320172244?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 60,1 м², 3/14 эт.",
+    "description": "Хотите купить квартиру с максимальной выгодой? Поставьте «+» — и мы:\n\nсделаем расчёт ипотеки и рассрочки с минимальным первоначальным взносом;\n\nрасскажем про акцию «Ремонт в подарок»;\n\nраскроем все детали по ставке 3,5% на весь срок;\n\nотправим информацию о скидках и эксклюзивных акциях на подборку квартир;\n\nпоможем получить максимальную скидку от застройщика;\n\nподарим сертификат на мебель, если вы примете решение быстро!\n\nОформляем ипотеку по паспорту — без справок с работы. А ещё можем организовать удалённый показ и помочь с покупкой онлайн!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 326 200 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 326 200",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12326200,
+      "wasLowered": false,
+      "exponent": "12,33 млн",
+      "normalizedPrice": "205 095 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Рауиса Гареева, стр. 2"
+    },
+    "coords": {
+      "lat": "55.71842",
+      "lng": "49.15793",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Рауиса Гареева, стр. 2"
+    },
+    "developmentId": 8636294,
+    "developmentName": "ЖК «Фермаполис»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8313463949,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_56_m_1419_et._8313463949?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 56 м², 14/19 эт.",
+    "description": "Жилой комплекс представляет из себя практически мини-город, в состав которого входит множество корпусов высотой до 19 этажей. Новый квартал размещается на территории площадью 60 гектара. В оформлении стен зданий используется современный навесной вентилируемый фасад. В каждом доме выполнена дизайнерская отделка входных групп, установлены современные лифты и предусмотрены колясочные.\nВ жилом комплексе предложено множество планировочных решений: в наличии квартиры, как классического типа, так и европланировки. Сдаются они с подчистовой отделкой, высота потолков — от 2,6 до 2,76 метров. В каждой квартире предусмотрены гардеробные, либо ниши под гардероб. В проекте реализована система умного дома.\nГлавная особенность комплекса — это оздоровительная инфраструктура, которая включает в себя: экстрим-парк, закрытые спорткомплексы, скейт-парки, профессионально оборудованные площадки для спортивных игр, велотреки, теннисные корты, уличные спортивные снаряды для воркаут-тренировок, лыжные трассы, бассейны, салоны красоты, фитнес-центры, тренажерные залы, места для медитации и занятий йогой. Для безопасности предусмотрена система видеонаблюдения по программе «Безопасный город». Система домофонии защищает от проникновения посторонних лиц в дом. На территории комплекса есть 9 детских садов, 3 школы, библиотека на свежем воздухе, поликлиника, магазины, торговый и бизнес-центры.\nКомплекс располагается в Приволжском районе, рядом с Усадским лесом, среди полей и лугов. Рядом есть детский сад, школа супермаркет «Бахетле» и несколько магазинов. До метро «Аментьево» 15 минут транспортом.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 880 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 880 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11880000,
+      "wasLowered": false,
+      "exponent": "11,88 млн",
+      "normalizedPrice": "212 143 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Пр-д Детский, стр. 3.4"
+    },
+    "coords": {
+      "lat": "55.67515",
+      "lng": "49.20462",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "пр-д Детский, стр. 3.4"
+    },
+    "developmentId": 43430,
+    "developmentName": "ЖК «Станция Спортивная»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 4226152540,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_489_m_1825_et._4226152540?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 48,9 м², 18/25 эт.",
+    "description": "Номер квартиры: 201.\n\nЭтаж: 18.\n\nПлощадь: 48.88.\n\nКорпус: Дом 4.1 (Кедр). Жилой комплекс «Сказочный лес» расположен в Приволжском районе и представляет собой группу кирпичных зданий, которые объединили удобства городской жизни с экологически чистым окружением. Комплекс предлагает различные планировки квартир, включая студии и трехкомнатные, площадью от 28,11 до 73,13 кв. М., с возможностью предчистовой или чистовой отделки. Основная отличительная черта комплекса — это видовые квартиры с видами на лес, что добавляет привлекательности сложившейся концепции здорового образа жизни.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 460 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 460 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12460000,
+      "wasLowered": false,
+      "exponent": "12,46 млн",
+      "normalizedPrice": "254 806 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул.  Рауиса Гареева, д. 103А",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 103А",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rauisa_gareeva_103a/100869140?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул.  Рауиса Гареева",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rauisa_gareeva/422-ASgBAgECA0SSA8YQ5geOUujIE8wGAUXcBxcidWxpdHNhX3JhdWlzYV9nYXJlZXZhIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72178",
+      "lng": "49.17439",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул.  Рауиса Гареева, д. 103А"
+    },
+    "developmentId": 38325,
+    "developmentName": "ЖК «Сказочный лес»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8353249294,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_54_m_1025_et._8353249294?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 54 м², 10/25 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича. Архитектура комплекса выполнена в едином лаконичном стиле с использованием натуральных материалов. В здании имеются комнаты для хранения колясок и спортивного инвентаря.\nВ проекте представлено множество планировочных решений, комнаты в квартирах правильной формы без лишних выступов. В квартирах новых очередей увеличенные окна, пониженный уровень подоконника.\nНа территории комплекса предусмотрена система видеонаблюдения по программе «Безопасный город». Каждый подъезд оборудован современной системой домофонии, которая находится внутри подъезда. Для автовладельцев предусмотрен наземный и многоуровневый подземный паркинг. Выполнено зонирование территорий — есть разделение на тихие зоны и на спортивные площадки.\nИнфраструктура района развита хорошо, в пешей доступности от делового комплекса расположены образовательные учреждения, торговые центры, продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 368 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 368 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11368000,
+      "wasLowered": false,
+      "exponent": "11,37 млн",
+      "normalizedPrice": "210 519 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Братьев Батталовых, д.20Б, корп. 3",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 3",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_bratev_battalovyh_20bk3/105156327?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Братьев Батталовых, д.20Б",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_bratev_battalovyh/1495-ASgBAgECA0SSA8YQ5geOUujIE64XAUXcBxoidWxpdHNhX2JyYXRldl9iYXR0YWxvdnloIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72169",
+      "lng": "49.1844",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Братьев Батталовых, д.20Б, корп. 3"
+    },
+    "developmentId": 8074039,
+    "developmentName": "ЖК «Отражение»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8211514361,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_444_m_77_et._8211514361?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 44,4 м², 7/7 эт.",
+    "description": "Жилой комплекс состоит из 13 домов переменной этажности в европейском архитектурном стиле. В оформлении стен зданий используется современный навесной вентилируемый фасад. На первых этажах спроектированы места для хранения колясок.\nВ комплексе представлено множество планировочных решений с террасами, мастер-спальнями, угловыми панорамными окнами, гардеробными и нишами для шкафов-купе. Предусмотрена возможность выбора квартиры с теплой лоджией, балконом или без него.\nНа территории комплекса предусмотрено 2 детских сада и школа, детские эко-площадки, спортивные и прогулочные зоны, велодорожки и уличные тренажеры для занятий спортом. Домофоны расположены в теплых тамбурах. Проектом заложена автоматическая система контроля потребления воды, электричества, отопления и передачи их в сервисную компанию.\nЖилой комплекс расположен в Советском районе, в пешей доступности от продуктовых магазинов, детских садов и тренажёрных залов. До центра города дорога составляет 10 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 720 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 720 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11720000,
+      "wasLowered": false,
+      "exponent": "11,72 млн",
+      "normalizedPrice": "263 964 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "С. Константиновка, ул. Анаса Тазетдинова, д. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_anasa_tazetdinova_4a/97283388?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "с. Константиновка, ул. Анаса Тазетдинова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_anasa_tazetdinova/2218-ASgBAgECA0SSA8YQ5geOUujIE9QiAUXcBxoidWxpdHNhX2FuYXNhX3RhemV0ZGlub3ZhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.80853",
+      "lng": "49.23026",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Константиновка, ул. Анаса Тазетдинова, д. 5"
+    },
+    "developmentId": 1671210,
+    "developmentName": "ЖК «Лето»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8351397888,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_443_m_79_et._8351397888?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 44,3 м², 7/9 эт.",
+    "description": "Жилой комплекс состоит из 13 домов переменной этажности в европейском архитектурном стиле. В оформлении стен зданий используется современный навесной вентилируемый фасад. На первых этажах спроектированы места для хранения колясок.\nВ комплексе представлено множество планировочных решений с террасами, мастер-спальнями, угловыми панорамными окнами, гардеробными и нишами для шкафов-купе. Предусмотрена возможность выбора квартиры с теплой лоджией, балконом или без него.\nНа территории комплекса предусмотрено 2 детских сада и школа, детские эко-площадки, спортивные и прогулочные зоны, велодорожки и уличные тренажеры для занятий спортом. Домофоны расположены в теплых тамбурах. Проектом заложена автоматическая система контроля потребления воды, электричества, отопления и передачи их в сервисную компанию.\nЖилой комплекс расположен в Советском районе, в пешей доступности от продуктовых магазинов, детских садов и тренажёрных залов. До центра города дорога составляет 10 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 750 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 750 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11750000,
+      "wasLowered": false,
+      "exponent": "11,75 млн",
+      "normalizedPrice": "265 237 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "С. Константиновка, ул. Анаса Тазетдинова, д. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_anasa_tazetdinova_4a/97283388?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "с. Константиновка, ул. Анаса Тазетдинова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_anasa_tazetdinova/2218-ASgBAgECA0SSA8YQ5geOUujIE9QiAUXcBxoidWxpdHNhX2FuYXNhX3RhemV0ZGlub3ZhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.80853",
+      "lng": "49.23026",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Константиновка, ул. Анаса Тазетдинова, д. 5"
+    },
+    "developmentId": 1671210,
+    "developmentName": "ЖК «Лето»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8211612472,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_601_m_914_et._8211612472?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 60,1 м², 9/14 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича.\n\nВ проекте представлено множество планировочный решений, от студий до просторных 3х-комнатных квартир. Все лоты сдаются с подчистовой отделкой, высотой потолков до 4,09 метров и панорамными окнами.\n\nТерритория комплекса благоустроена — имеется частный детский сад, зеленые зоны для отдыха и активных прогулок. Для автовладельцев предусмотрен теплый двухуровневый подземный паркинг. Здание оборудовано системой «Умный дом».\n\nЖилой комплекс расположен в экологически чистом районе с хорошо развитой инфраструктурой. В пешей доступности имеется все необходимое — продовольственные магазины, медицинские и образовательные учреждения, аптеки, кафе и рестораны. Вблизи жилого комплекса находятся озера верхний кабан и Фермского леса. До центра города дорога занимает 15 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 390 500 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 390 500",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12390500,
+      "wasLowered": false,
+      "exponent": "12,39 млн",
+      "normalizedPrice": "206 165 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Рауиса Гареева, стр. 2"
+    },
+    "coords": {
+      "lat": "55.71842",
+      "lng": "49.15793",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Рауиса Гареева, стр. 2"
+    },
+    "developmentId": 8636294,
+    "developmentName": "ЖК «Фермаполис»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8163733488,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_547_m_625_et._8163733488?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 54,7 м², 6/25 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича. Архитектура комплекса выполнена в едином лаконичном стиле с использованием натуральных материалов. В здании имеются комнаты для хранения колясок и спортивного инвентаря.\nВ проекте представлено множество планировочных решений, комнаты в квартирах правильной формы без лишних выступов. В квартирах новых очередей увеличенные окна, пониженный уровень подоконника.\nНа территории комплекса предусмотрена система видеонаблюдения по программе «Безопасный город». Каждый подъезд оборудован современной системой домофонии, которая находится внутри подъезда. Для автовладельцев предусмотрен наземный и многоуровневый подземный паркинг. Выполнено зонирование территорий — есть разделение на тихие зоны и на спортивные площадки.\nИнфраструктура района развита хорошо, в пешей доступности от делового комплекса расположены образовательные учреждения, торговые центры, продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 630 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 630 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11630000,
+      "wasLowered": false,
+      "exponent": "11,63 млн",
+      "normalizedPrice": "212 614 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Оренбургский тракт, д. 6, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72174",
+      "lng": "49.18417",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Оренбургский тракт, д. 6, корп. 1"
+    },
+    "developmentId": 8074039,
+    "developmentName": "ЖК «Отражение»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8211218752,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_601_m_514_et._8211218752?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 60,1 м², 5/14 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича.\n\nВ проекте представлено множество планировочный решений, от студий до просторных 3х-комнатных квартир. Все лоты сдаются с подчистовой отделкой, высотой потолков до 4,09 метров и панорамными окнами.\n\nТерритория комплекса благоустроена — имеется частный детский сад, зеленые зоны для отдыха и активных прогулок. Для автовладельцев предусмотрен теплый двухуровневый подземный паркинг. Здание оборудовано системой «Умный дом».\n\nЖилой комплекс расположен в экологически чистом районе с хорошо развитой инфраструктурой. В пешей доступности имеется все необходимое — продовольственные магазины, медицинские и образовательные учреждения, аптеки, кафе и рестораны. Вблизи жилого комплекса находятся озера верхний кабан и Фермского леса. До центра города дорога занимает 15 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 326 200 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 326 200",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12326200,
+      "wasLowered": false,
+      "exponent": "12,33 млн",
+      "normalizedPrice": "205 095 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Рауиса Гареева, стр. 2"
+    },
+    "coords": {
+      "lat": "55.71842",
+      "lng": "49.15793",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Рауиса Гареева, стр. 2"
+    },
+    "developmentId": 8636294,
+    "developmentName": "ЖК «Фермаполис»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8219410558,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_542_m_1925_et._8219410558?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 54,2 м², 19/25 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича. Архитектура комплекса выполнена в едином лаконичном стиле с использованием натуральных материалов. В здании имеются комнаты для хранения колясок и спортивного инвентаря.\nВ проекте представлено множество планировочных решений, комнаты в квартирах правильной формы без лишних выступов. В квартирах новых очередей увеличенные окна, пониженный уровень подоконника.\nНа территории комплекса предусмотрена система видеонаблюдения по программе «Безопасный город». Каждый подъезд оборудован современной системой домофонии, которая находится внутри подъезда. Для автовладельцев предусмотрен наземный и многоуровневый подземный паркинг. Выполнено зонирование территорий — есть разделение на тихие зоны и на спортивные площадки.\nИнфраструктура района развита хорошо, в пешей доступности от делового комплекса расположены образовательные учреждения, торговые центры, продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 870 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 870 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11870000,
+      "wasLowered": false,
+      "exponent": "11,87 млн",
+      "normalizedPrice": "219 004 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,2 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Братьев Батталовых, д.20Б, корп. 2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_bratev_battalovyh_20bk2/105085146?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Братьев Батталовых, д.20Б",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_bratev_battalovyh/1495-ASgBAgECA0SSA8YQ5geOUujIE64XAUXcBxoidWxpdHNhX2JyYXRldl9iYXR0YWxvdnloIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72186",
+      "lng": "49.1855",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Братьев Батталовых, д.20Б, корп. 2"
+    },
+    "developmentId": 8074039,
+    "developmentName": "ЖК «Отражение»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8211891006,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_542_m_2425_et._8211891006?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 54,2 м², 24/25 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича. Архитектура комплекса выполнена в едином лаконичном стиле с использованием натуральных материалов. В здании имеются комнаты для хранения колясок и спортивного инвентаря.\nВ проекте представлено множество планировочных решений, комнаты в квартирах правильной формы без лишних выступов. В квартирах новых очередей увеличенные окна, пониженный уровень подоконника.\nНа территории комплекса предусмотрена система видеонаблюдения по программе «Безопасный город». Каждый подъезд оборудован современной системой домофонии, которая находится внутри подъезда. Для автовладельцев предусмотрен наземный и многоуровневый подземный паркинг. Выполнено зонирование территорий — есть разделение на тихие зоны и на спортивные площадки.\nИнфраструктура района развита хорошо, в пешей доступности от делового комплекса расположены образовательные учреждения, торговые центры, продовольственные магазины, аптеки, кафе и рестораны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 870 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 870 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11870000,
+      "wasLowered": false,
+      "exponent": "11,87 млн",
+      "normalizedPrice": "219 004 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,2 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Братьев Батталовых, д.20Б, корп. 2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_bratev_battalovyh_20bk2/105085146?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Братьев Батталовых, д.20Б",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_bratev_battalovyh/1495-ASgBAgECA0SSA8YQ5geOUujIE64XAUXcBxoidWxpdHNhX2JyYXRldl9iYXR0YWxvdnloIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.72186",
+      "lng": "49.1855",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Братьев Батталовых, д.20Б, корп. 2"
+    },
+    "developmentId": 8074039,
+    "developmentName": "ЖК «Отражение»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8211342447,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_601_m_1314_et._8211342447?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 60,1 м², 13/14 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича.\n\nВ проекте представлено множество планировочный решений, от студий до просторных 3х-комнатных квартир. Все лоты сдаются с подчистовой отделкой, высотой потолков до 4,09 метров и панорамными окнами.\n\nТерритория комплекса благоустроена — имеется частный детский сад, зеленые зоны для отдыха и активных прогулок. Для автовладельцев предусмотрен теплый двухуровневый подземный паркинг. Здание оборудовано системой «Умный дом».\n\nЖилой комплекс расположен в экологически чистом районе с хорошо развитой инфраструктурой. В пешей доступности имеется все необходимое — продовольственные магазины, медицинские и образовательные учреждения, аптеки, кафе и рестораны. Вблизи жилого комплекса находятся озера верхний кабан и Фермского леса. До центра города дорога занимает 15 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 452 600 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 452 600",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12452600,
+      "wasLowered": false,
+      "exponent": "12,45 млн",
+      "normalizedPrice": "207 198 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Рауиса Гареева, стр. 2"
+    },
+    "coords": {
+      "lat": "55.71842",
+      "lng": "49.15793",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Рауиса Гареева, стр. 2"
+    },
+    "developmentId": 8636294,
+    "developmentName": "ЖК «Фермаполис»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  },
+  {
+    "id": 8210893330,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_586_m_310_et._8210893330?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEN3hVc0x5a2pjSGNkV0JoIjt9o9h6Sj8AAAA",
+    "title": "2-к. квартира, 58,6 м², 3/10 эт.",
+    "description": "Современный проект, возведенный по технологии кирпично-монолитного строительства с вентилируемыми фасадами из кирпича.\n\nВ проекте представлено множество планировочный решений, от студий до просторных 3х-комнатных квартир. Все лоты сдаются с подчистовой отделкой, высотой потолков до 4,09 метров и панорамными окнами.\n\nТерритория комплекса благоустроена — имеется частный детский сад, зеленые зоны для отдыха и активных прогулок. Для автовладельцев предусмотрен теплый двухуровневый подземный паркинг. Здание оборудовано системой «Умный дом».\n\nЖилой комплекс расположен в экологически чистом районе с хорошо развитой инфраструктурой. В пешей доступности имеется все необходимое — продовольственные магазины, медицинские и образовательные учреждения, аптеки, кафе и рестораны. Вблизи жилого комплекса находятся озера верхний кабан и Фермского леса. До центра города дорога занимает 15 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 074 500 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 074 500",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12074500,
+      "wasLowered": false,
+      "exponent": "12,07 млн",
+      "normalizedPrice": "206 049 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Рауиса Гареева, стр. 3"
+    },
+    "coords": {
+      "lat": "55.71811",
+      "lng": "49.15834",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Рауиса Гареева, стр. 3"
+    },
+    "developmentId": 8636294,
+    "developmentName": "ЖК «Фермаполис»",
+    "parsed_at": "2026-09-25T15:42:27.978236"
+  }
+]

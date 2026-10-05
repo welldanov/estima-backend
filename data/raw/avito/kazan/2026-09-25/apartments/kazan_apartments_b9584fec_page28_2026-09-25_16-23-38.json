@@ -1,0 +1,2134 @@
+[
+  {
+    "id": 7907503837,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_432_m_1522_et._7907503837?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 43,2 м², 15/22 эт.",
+    "description": "«Минтимер» — красивое продолжение истории Сму-88 на территории Новой Портовой. Это идеальное местоположение для проживания рядом с благоустроенной набережной Волги в 15 минутах от Кремля.\n\nБлагоустроенный двор на стилобате с богатой растительной палитрой, малыми архитектурными формами и продуманными общественными пространствами воплощает идею счастливой и размеренной жизни. В дизайнерском лобби и холлах каждая деталь оправдывает ожидания резидентов: пространство с камином и библиотекой, консьерж-сервис, колясочная.\n\nВизитная карточка проекта — эргономичные планировки. Здесь все устроено максимально удобно, продуманы места хранения, пространства для семейного отдыха и уединения.\n\n— 7-24 этажей.\n\n— Авторская архитектура.\n\n— Концептуальное благоустройство.\n\n— Потолки до 4,5 м.\n\n— Панорамные окна.\n\n— Видовые квартиры.\n\n— Серия квартир с террасами.\n\n— Двухуровневый паркинг.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 331 170 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 331 170",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17331170,
+      "wasLowered": false,
+      "exponent": "17,33 млн",
+      "normalizedPrice": "401 184 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,8 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76699",
+      "lng": "49.09601",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, стр. 1"
+    },
+    "developmentId": 10777802,
+    "developmentName": "ЖК «Минтимер»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8321272671,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_272_m_1425_et._8321272671?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 27,2 м², 14/25 эт.",
+    "description": "Номер квартиры: 139.\n\nЭтаж: 14.\n\nПлощадь: 27.20.\n\nКорпус: ЖК «Аксиум». Жилой комплекс представляет собой современное монолитно-кирпичное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. В комплексе представлены различные варианты квартир: от компактных студий до просторных многокомнатных планировок с высокими потолками.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 792 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 792 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9792000,
+      "wasLowered": false,
+      "exponent": "9,79 млн",
+      "normalizedPrice": "360 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,5 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, ЖК «Аксиум»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Аксиум»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_17a1/73480075?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76989",
+      "lng": "49.096",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, ЖК «Аксиум»"
+    },
+    "developmentId": 16697507,
+    "developmentName": "ЖК «Аксиум»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 7780697655,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_308_m_225_et._7780697655?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 30,8 м², 2/25 эт.",
+    "description": "«Феномен будущего» — современных жилой комплекс класса комфорт плюс, расположенный на Аметьевской магистрали на территории бывшего завода «Кулон».\nВ наличии квартиры:\n1 очередь:\nсекция А — 25 этажей, секция Б — 9 этажей, секция В — 17 этажей.\n\n2 очередь 1 этап:\nКорпус 1 — 25 этажей.\nКорпус 2 — 25 этажей.\n\nОзнакомиться подробнее с жилым комплексом можно у наших менеджеров. Напишите нам в чат, мы отвечаем быстро.\n\nПреимущества ЖК «Феномен будущего»:\nРазвитая инфраструктура Вахитовского и Советского районов.\nУдобное расположение: выезд и выход на улицу Гвардейская и на Аметьевскую Магистраль.\nРядом школы, детские сады, поликлиники и остановки общественного транспорта.\nЗакрытый двор без машин.\nВидеонаблюдение на территории ЖК.\nДизайнерские лобби с зоной для отдыха и встреч.\nОтдельные помещения для блоков кондиционеров. Все трассы проложены на этапе строительства застройщиком.\nБлагоустроенная территория с ландшафтным дизайном, спортивными и детскими площадками, местами отдыха и бесплатным WI-fi на всей территории комплекса.\n\nВарианты покупки, подбор квартиры, акции и скидки уточняйте у менеджеров отдела продаж.\n\nЖК «Феномен будущего» — Жизнь на высоте.\nСЗ «Тектум-1».",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "от 9 768 479 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "от 9 768 479",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9768479,
+      "wasLowered": false,
+      "exponent": "9,77 млн",
+      "normalizedPrice": "317 158 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, секц. Б",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77643",
+      "lng": "49.17127",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, секц. Б"
+    },
+    "developmentId": 13284916,
+    "developmentName": "ЖК «ФЕНОМЕН БУДУЩЕГО»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 7907122534,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_42_m_1320_et._7907122534?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 42 м², 13/20 эт.",
+    "description": "«Минтимер» — красивое продолжение истории Сму-88 на территории Новой Портовой. Это идеальное местоположение для проживания рядом с благоустроенной набережной Волги в 15 минутах от Кремля.\n\nБлагоустроенный двор на стилобате с богатой растительной палитрой, малыми архитектурными формами и продуманными общественными пространствами воплощает идею счастливой и размеренной жизни. В дизайнерском лобби и холлах каждая деталь оправдывает ожидания резидентов: пространство с камином и библиотекой, консьерж-сервис, колясочная.\n\nВизитная карточка проекта — эргономичные планировки. Здесь все устроено максимально удобно, продуманы места хранения, пространства для семейного отдыха и уединения.\n\n— 7-24 этажей.\n\n— Авторская архитектура.\n\n— Концептуальное благоустройство.\n\n— Потолки до 4,5 м.\n\n— Панорамные окна.\n\n— Видовые квартиры.\n\n— Серия квартир с террасами.\n\n— Двухуровневый паркинг.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 119 777 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 119 777",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16119777,
+      "wasLowered": false,
+      "exponent": "16,12 млн",
+      "normalizedPrice": "383 804 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, стр. 2",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76749",
+      "lng": "49.09687",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, стр. 2"
+    },
+    "developmentId": 10777802,
+    "developmentName": "ЖК «Минтимер»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 7780400423,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_308_m_925_et._7780400423?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 30,8 м², 9/25 эт.",
+    "description": "«Феномен будущего» — современных жилой комплекс класса комфорт плюс, расположенный на Аметьевской магистрали на территории бывшего завода «Кулон».\nВ наличии квартиры:\n1 очередь:\nсекция А — 25 этажей, секция Б — 9 этажей, секция В — 17 этажей.\n\n2 очередь 1 этап:\nКорпус 1 — 25 этажей.\nКорпус 2 — 25 этажей.\n\nОзнакомиться подробнее с жилым комплексом можно у наших менеджеров. Напишите нам в чат, мы отвечаем быстро.\n\nПреимущества ЖК «Феномен будущего»:\nРазвитая инфраструктура Вахитовского и Советского районов.\nУдобное расположение: выезд и выход на улицу Гвардейская и на Аметьевскую Магистраль.\nРядом школы, детские сады, поликлиники и остановки общественного транспорта.\nЗакрытый двор без машин.\nВидеонаблюдение на территории ЖК.\nДизайнерские лобби с зоной для отдыха и встреч.\nОтдельные помещения для блоков кондиционеров. Все трассы проложены на этапе строительства застройщиком.\nБлагоустроенная территория с ландшафтным дизайном, спортивными и детскими площадками, местами отдыха и бесплатным WI-fi на всей территории комплекса.\n\nВарианты покупки, подбор квартиры, акции и скидки уточняйте у менеджеров отдела продаж.\n\nЖК «Феномен будущего» — Жизнь на высоте.\nСЗ «Тектум-1».",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "от 10 114 972 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "от 10 114 972",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10114972,
+      "wasLowered": false,
+      "exponent": "10,11 млн",
+      "normalizedPrice": "328 408 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, секц. Б",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77643",
+      "lng": "49.17127",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, секц. Б"
+    },
+    "developmentId": 13284916,
+    "developmentName": "ЖК «ФЕНОМЕН БУДУЩЕГО»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 7907226561,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_335_m_1923_et._7907226561?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 33,5 м², 19/23 эт.",
+    "description": "Жилой комплекс «Адали» — это воплощение современного бизнес-класса, созданного для активных людей, стремящихся к самовыражению. Квартиры с гибкой планировкой станут холстом для реализации ваших идей.\n\n— 3 дома.\n\n— 10/24 этажа.\n\n— потолки от 2,9 м.\n\n— 545 квартир.\n\n— свободные планировки.\n\nКомплекс располагается на улице Аделя Кутуя в динамично развивающейся части Советского района. Рядом находятся метро «Горки», автобусные остановки и удобные транспортные развязки, а до центра города можно доехать всего за 15 минут.\n\nАрхитектура «Адали» отражает амбиции жителей и динамичное развитие территории. Элегантные фасады с четкой геометрией и яркими акцентами придают комплексу современный и эстетичный вид.\n\nСпортивные площадки, коворкинг на свежем воздухе и кинопатио с проектором для киновечеров делают комплекс идеальным местом для гармоничной жизни. Для жителей будет организована спорт-станция, где будут храниться набор для бадминтона, мячи для командных видов спорта и насос для велосипедов и мячей.\n\nВоспользуйтесь привилегией стартовых цен и подберите свою новую квартиру в «Адали»!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 579 433 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 579 433",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11579433,
+      "wasLowered": false,
+      "exponent": "11,58 млн",
+      "normalizedPrice": "345 655 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 600 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, д. 181",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 181",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_adelya_kutuya_181g/103704213?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Аделя Кутуя",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_adelya_kutuya/1888-ASgBAgECA0SSA8YQ5geOUujIE8AdAUXcBxYidWxpdHNhX2FkZWx5YV9rdXR1eWEi"
+        },
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76561",
+      "lng": "49.19391",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, д. 181"
+    },
+    "developmentId": 10846886,
+    "developmentName": "ЖК «Адали»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8122766807,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_293_m_1222_et._8122766807?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 29,3 м², 12/22 эт.",
+    "description": "Продается квартира в ЖК бизнес-класса «Главные роли».\nВ основе архитектурной концепции лежит идея дома в комфортном городском пространстве, но рядом с лесом. Мы гармонично вписали квартал в природу, чтобы радовать вас и менять город к лучшему.\nВесь ЖК переменной этажности с 13 до 23 этаж.\nСекции поддерживают природную цветовую палитру, материал фасада — керамический кирпич и композитные панели.\nПространство между домами открывает потрясающие виды на лес, жители смогут нон-стопом наслаждаться природой на территории квартала.\n\nО расположении ЖК:\nЖилой квартал ограничен улицей Родины с двух сторон и граничит на юго-востоке с Горкинско-Ометьевским лесом.\n\nВокруг развитая инфраструктура:\nДетский сад- ясли № 276, № 183, № 224.\nГимназия №8, школа №2144.\nКазанский технологический колледж.\nРеспубликанская клиническая инфекционная больница.\nТрц «Южный», ТЦ «Мега», ТЦ «Горки Парк».\nКафе и рестораны.\nБанки.\n\nЖилой комплекс будет состоять из двух очередей, в каждой из них два дома, объединенных общим стилобатом, на котором будет расположен закрытый двор.\nСроки сдачи: 1 оч. — 2 кв. 2028 г., 2 оч. — 1 кв. 2029 г.\n\nВ проекте присутствуют базовые преимущества, такие как:\n- Видеонаблюдение.\n- Закрытый двор.\n- Детские площадки.\n- Спортплощадки.\n- Зоны отдыха.\n\nЧто есть на территории самого комплекса:\nПервый этаж будет наполнен торговой галерей, где разместятся кафе, рестораны, ритэйл и магазины.\nПодо всей территорией ЖК будет расположен подземный паркинг в два уровня, что также станет большим преимуществом для наших жителей.\nВ каждом доме мы предусмотрели коворкинг, детскую комнату только для жильцов ЖК.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 848 600 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 848 600",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8848600,
+      "wasLowered": false,
+      "exponent": "8,85 млн",
+      "normalizedPrice": "302 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76903",
+      "lng": "49.20341",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, корп. 1"
+    },
+    "developmentId": 11170805,
+    "developmentName": "ЖК «Главные роли»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 7780791298,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_316_m_1425_et._7780791298?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 31,6 м², 14/25 эт.",
+    "description": "«Феномен будущего» — современных жилой комплекс класса комфорт плюс, расположенный на Аметьевской магистрали на территории бывшего завода «Кулон».\nВ наличии квартиры:\n1 очередь:\nсекция А — 25 этажей, секция Б — 9 этажей, секция В — 17 этажей.\n\n2 очередь 1 этап:\nКорпус 1 — 25 этажей.\nКорпус 2 — 25 этажей.\n\nОзнакомиться подробнее с жилым комплексом можно у наших менеджеров. Напишите нам в чат, мы отвечаем быстро.\n\nПреимущества ЖК «Феномен будущего»:\nРазвитая инфраструктура Вахитовского и Советского районов.\nУдобное расположение: выезд и выход на улицу Гвардейская и на Аметьевскую Магистраль.\nРядом школы, детские сады, поликлиники и остановки общественного транспорта.\nЗакрытый двор без машин.\nВидеонаблюдение на территории ЖК.\nДизайнерские лобби с зоной для отдыха и встреч.\nОтдельные помещения для блоков кондиционеров. Все трассы проложены на этапе строительства застройщиком.\nБлагоустроенная территория с ландшафтным дизайном, спортивными и детскими площадками, местами отдыха и бесплатным WI-fi на всей территории комплекса.\n\nВарианты покупки, подбор квартиры, акции и скидки уточняйте у менеджеров отдела продаж.\n\nЖК «Феномен будущего» — Жизнь на высоте.\nСЗ «Тектум-1».",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "от 10 170 158 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "от 10 170 158",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10170158,
+      "wasLowered": false,
+      "exponent": "10,17 млн",
+      "normalizedPrice": "321 840 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская,  секц. А",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77643",
+      "lng": "49.17111",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская,  секц. А"
+    },
+    "developmentId": 13284916,
+    "developmentName": "ЖК «ФЕНОМЕН БУДУЩЕГО»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 7780056712,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_308_m_625_et._7780056712?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 30,8 м², 6/25 эт.",
+    "description": "«Феномен будущего» — современных жилой комплекс класса комфорт плюс, расположенный на Аметьевской магистрали на территории бывшего завода «Кулон».\nВ наличии квартиры:\n1 очередь:\nсекция А — 25 этажей, секция Б — 9 этажей, секция В — 17 этажей.\n\n2 очередь 1 этап:\nКорпус 1 — 25 этажей.\nКорпус 2 — 25 этажей.\n\nОзнакомиться подробнее с жилым комплексом можно у наших менеджеров. Напишите нам в чат, мы отвечаем быстро.\n\nПреимущества ЖК «Феномен будущего»:\nРазвитая инфраструктура Вахитовского и Советского районов.\nУдобное расположение: выезд и выход на улицу Гвардейская и на Аметьевскую Магистраль.\nРядом школы, детские сады, поликлиники и остановки общественного транспорта.\nЗакрытый двор без машин.\nВидеонаблюдение на территории ЖК.\nДизайнерские лобби с зоной для отдыха и встреч.\nОтдельные помещения для блоков кондиционеров. Все трассы проложены на этапе строительства застройщиком.\nБлагоустроенная территория с ландшафтным дизайном, спортивными и детскими площадками, местами отдыха и бесплатным WI-fi на всей территории комплекса.\n\nВарианты покупки, подбор квартиры, акции и скидки уточняйте у менеджеров отдела продаж.\n\nЖК «Феномен будущего» — Жизнь на высоте.\nСЗ «Тектум-1».",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "от 10 071 660 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "от 10 071 660",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10071660,
+      "wasLowered": false,
+      "exponent": "10,07 млн",
+      "normalizedPrice": "327 002 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, секц. Б",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77643",
+      "lng": "49.17127",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, секц. Б"
+    },
+    "developmentId": 13284916,
+    "developmentName": "ЖК «ФЕНОМЕН БУДУЩЕГО»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 4051858969,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_275_m_510_et._4051858969?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 27,5 м², 5/10 эт.",
+    "description": "Продается студия на 5 этаже на улице Шаляпина.\nКвартира в новом бескомпромиссном проекте Клубный дом «Шаляпин XV». Новая локация на карте жилых комплексов премиум-класса в Казани. Всего 116 квартир, 10 этажей и закрытый двор-парк. Дизайнерские лобби и лаунж-зоны, консьерж-сервис и собственный кинотеатр, детская игровая комната, коворкинг и репетиторская, видеонаблюдение, подземный паркинг и вместительные келлеры — предусмотрено все для вашей безопасности и высочайшего уровня комфорта.\n\nТехнологии особого премиального комфорта:\n\n- Премиальные скоростные лифты.\n- Бесключевой доступ через Face ID или смартфон.\n- Система «Умный дом», связь с консьержем и между квартирами.\n- Приложение для жильцов.\n- WI-FI на всей территории дома и придомовом пространстве.\n- Подземная парковка с системой распознавания номеров.\n- Умная метка, автоматическое дистанционное открывание ворот паркинга.\n- Автоматизированная система учёта энергоресурсов.\n\nАрхитектура дома выполнена в стиле классического минимализма, вместив в себя лучшие решения и технологии. Строгие фасады, панорамные окна в пол, высокие потолки до 3,6м, скрытые ниши для кондиционеров. Все призвано создать эстетику снаружи и несравненный комфорт внутри. Благородный голландский кирпич ручной формовки в отделке фасада, внутренний двор с ландшафтным озеленением и приятными уголками для отдыха огорожен и охраняется 24/7.\n\nМы детально продумываем каждый метр и вкладываем в него смысл. Эргономичные планировки: большие прихожие и кухни-гостиные, мастер-спальни, где каждый метр наполнен ценностью и уютом, просторные детские и вместительные гардеробные.\n\nSky Lounge эксплуатируемое пространство на верхнем этаже с всесезонной лаунж-зоной и зимним садом. Это приятное дополнение к приобретенной недвижимости — доступное только для резидентов «Шаляпин XV». Завораживающие виды и красота природы круглый год.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 056 600 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 056 600",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15056600,
+      "wasLowered": false,
+      "exponent": "15,06 млн",
+      "normalizedPrice": "547 513 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 300 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Шаляпина, д. 93",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 93",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_kachalova_93/79938345?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Шаляпина",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_kachalova/10470-ASgBAgECA0SSA8YQ5geOUujIE8yjAQFF3AcSInVsaXRzYV9rYWNoYWxvdmEi"
+        },
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77413",
+      "lng": "49.14622",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Шаляпина, д. 93"
+    },
+    "developmentId": 8474749,
+    "developmentName": "Клубный дом «Шаляпина XV»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8099003029,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_424_m_519_et._8099003029?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 42,4 м², 5/19 эт.",
+    "description": "Комплекс и архитектура.\nЖилой кoмплекc «Янaлиф» — это уникaльный пpоект на беpегу Bолги, oбъeдиняющий иcкусcтвo и технoлoгичнocть в мнoгофункциональное пpoстpaнcтво. Пpeмиaльнoe лoбби, кoнcьеpж-cеpвиc и безгрaничные вoзможности инфрacтруктуры центpa cтолицы Тaтapcтaна. Bсe этo — для иcтинных цeнителей комфорта, привыкших к высочайшему качеству жизни. Изысканная архитектура — результат работы лучшего российского бюро, успешно зарекомендовавшего себя на рынке «Цимайло Ляшенко и Партнеры».\nРасположение.\nУникальное расположение на берегу Волги, благоустроенная набережная с зонами отдыха, близость к историческому центру города, парки, скверы и бульвары делают локацию привлекательной и востребованной. В стенах комплекса размещена богатая инфраструктура: общественные пространства, набережная с зонами отдыха, детский кластер, арт-объекты, современные музеи и галереи, кафе и рестораны.\nДвор.\nСовременный двор оснащен уникальными игровыми пространствами и приватными зонами отдыха. Для автовладельцев предусмотрены современная подземная парковка, гостевые парковочные места со станцией зарядки для электроавтомобилей. В комплексе холлы нового формата с уютными зонами для отдыха и работы, развлечениями для детей и безупречный консьерж-сервис.\nКвартиры.\nКвартирографию проекта отличает разнообразие форматов и планировок. Высокие потолки от 3,4 м и панорамные окна с открыточным видом на Волгу формируют наполненные светом «воздушные» пространства.\n\nСрок сдачи 1 очереди — 4 квартал 2025 года.\nСрок сдачи 2 очереди — 4 квартал 2026 года.\n\nЗвоните — наши менеджеры расскажут подробную информацию о всех акциях, помогут в подборе ипотеки и предложат лучший для вас вариант в новом жилом комплексе «Яналиф».",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 229 628 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 229 628",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17229628,
+      "wasLowered": false,
+      "exponent": "17,23 млн",
+      "normalizedPrice": "406 359 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,8 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Дулата Али, стр. 15",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76536",
+      "lng": "49.09829",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Дулата Али, стр. 15"
+    },
+    "developmentId": 7441198,
+    "developmentName": "ЖК «Яналиф»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 7780768405,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_345_m_525_et._7780768405?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 34,5 м², 5/25 эт.",
+    "description": "«Феномен будущего» — современных жилой комплекс класса комфорт плюс, расположенный на Аметьевской магистрали на территории бывшего завода «Кулон».\nВ наличии квартиры:\n1 очередь:\nсекция А — 25 этажей, секция Б — 9 этажей, секция В — 17 этажей.\n\n2 очередь 1 этап:\nКорпус 1 — 25 этажей.\nКорпус 2 — 25 этажей.\n\nОзнакомиться подробнее с жилым комплексом можно у наших менеджеров. Напишите нам в чат, мы отвечаем быстро.\n\nПреимущества ЖК «Феномен будущего»:\nРазвитая инфраструктура Вахитовского и Советского районов.\nУдобное расположение: выезд и выход на улицу Гвардейская и на Аметьевскую Магистраль.\nРядом школы, детские сады, поликлиники и остановки общественного транспорта.\nЗакрытый двор без машин.\nВидеонаблюдение на территории ЖК.\nДизайнерские лобби с зоной для отдыха и встреч.\nОтдельные помещения для блоков кондиционеров. Все трассы проложены на этапе строительства застройщиком.\nБлагоустроенная территория с ландшафтным дизайном, спортивными и детскими площадками, местами отдыха и бесплатным WI-fi на всей территории комплекса.\n\nВарианты покупки, подбор квартиры, акции и скидки уточняйте у менеджеров отдела продаж.\n\nЖК «Феномен будущего» — Жизнь на высоте.\nСЗ «Тектум-1».",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "от 9 808 082 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "от 9 808 082",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9808082,
+      "wasLowered": false,
+      "exponent": "9,81 млн",
+      "normalizedPrice": "284 292 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская,  секц. А",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77643",
+      "lng": "49.17111",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская,  секц. А"
+    },
+    "developmentId": 13284916,
+    "developmentName": "ЖК «ФЕНОМЕН БУДУЩЕГО»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8253450382,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_32_m_89_et._8253450382?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 32 м², 8/9 эт.",
+    "description": "Данный проект выполнен в сдержанных цветах в европейском стиле. Архитектурный ансамбль дополняет подсветка вентилируемых фасадов. Вход в подъезд выполнен на уровне земли. Домофоны установлены в теплых тамбурах. На первых этажах находятся колясочные комнаты с вело-парковками и местами для хранения тюбингов.\nВ жилом комплексе представлено множество планировочных решений: студии, 1-комнатные, 2х-комнатные, 3х-комнатные квартиры, в том числе евроформаты, с террасами, теплой лоджией, просторной кухней-гостиной или собственной кладовой для кухни. Также представлен уникальный формат урбан-вилл с личным входом в квартиру с улицы и террасами на первых и последних этажах.\nНа территории комплекса имеются воркуют-зоны, площадки для игр в футбол, волейбол и баскетбол. Все покрытия детских площадок выполнены из природных естественных материалов. Создан просторный двор-парк с прогулочными зонами. Предусмотрен детский сад и школа. Собственная закрытая территория оборудована видеонаблюдением и контролем доступа.\nЖК находится в Приволжском районе. Инфраструктура района развита — в пешей доступности расположены детские сады, медицинские центры, спортивные залы и парки. Жилой комплекс находится в 5 минутах пешком от набережной озера Кабан. До центра города дорога займет 10 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 550 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 550 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10550000,
+      "wasLowered": false,
+      "exponent": "10,55 млн",
+      "normalizedPrice": "329 688 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Ярдем, д. 25А"
+    },
+    "coords": {
+      "lat": "55.73744",
+      "lng": "49.15044",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Ярдем, д. 25А"
+    },
+    "developmentId": 3529216,
+    "developmentName": "ЖК «Аквамарин»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 7780056135,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_345_m_625_et._7780056135?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 34,5 м², 6/25 эт.",
+    "description": "«Феномен будущего» — современных жилой комплекс класса комфорт плюс, расположенный на Аметьевской магистрали на территории бывшего завода «Кулон».\nВ наличии квартиры:\n1 очередь:\nсекция А — 25 этажей, секция Б — 9 этажей, секция В — 17 этажей.\n\n2 очередь 1 этап:\nКорпус 1 — 25 этажей.\nКорпус 2 — 25 этажей.\n\nОзнакомиться подробнее с жилым комплексом можно у наших менеджеров. Напишите нам в чат, мы отвечаем быстро.\n\nПреимущества ЖК «Феномен будущего»:\nРазвитая инфраструктура Вахитовского и Советского районов.\nУдобное расположение: выезд и выход на улицу Гвардейская и на Аметьевскую Магистраль.\nРядом школы, детские сады, поликлиники и остановки общественного транспорта.\nЗакрытый двор без машин.\nВидеонаблюдение на территории ЖК.\nДизайнерские лобби с зоной для отдыха и встреч.\nОтдельные помещения для блоков кондиционеров. Все трассы проложены на этапе строительства застройщиком.\nБлагоустроенная территория с ландшафтным дизайном, спортивными и детскими площадками, местами отдыха и бесплатным WI-fi на всей территории комплекса.\n\nВарианты покупки, подбор квартиры, акции и скидки уточняйте у менеджеров отдела продаж.\n\nЖК «Феномен будущего» — Жизнь на высоте.\nСЗ «Тектум-1».",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "от 9 816 612 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "от 9 816 612",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9816612,
+      "wasLowered": false,
+      "exponent": "9,82 млн",
+      "normalizedPrice": "284 539 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская,  секц. А",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77643",
+      "lng": "49.17111",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская,  секц. А"
+    },
+    "developmentId": 13284916,
+    "developmentName": "ЖК «ФЕНОМЕН БУДУЩЕГО»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8131655264,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_292_m_914_et._8131655264?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 29,2 м², 9/14 эт.",
+    "description": "О прoектe.\nЖилой кoмплекc бизнec-клaссa «Boзнecенский квартал» paспoлoжeн на ул. Бухарская в Coвeтскoм paйoнe Kaзaни. «Вoзнeсeнcкий квартaл» — это нe просто квapтиры, а целый миp внутpи жилoго кoмплекса: квaртиры c пoтолкaми oт 3 м, apоматы цветов во дворе, зимний сад и звуки музыки в лобби, лайфворкинг и пространство для спорта на территории комплекса.\nВсе нужное — рядом.\nДо центра города — 15 минут на авто. Рядом расположены 2 детских сада, 4 школы, спортивные залы, Горкинско-Ометьевский лес, Казанский ипподром, Трц «Мега» и ТЦ «Южный».\nМультиформатные пространства внутри:\n\n— Коворкинг для комфортной работы, занятий и учебы в располагающей обстановке.\n\n— Досуговый центр для детей младших возрастов и подростковый центр с игровыми приставками и активными спортивными зонами.\n\n— Многофункциональное пространство для мероприятий.\n\n— Пространство для спорта.\n\n— Уютный кинозал с мягкими зонами.\n\nЭргономичные квартиры.\nКвартиры в «Вознесенском квартале» — это продуманная конфигурация комнат, функциональное зонирование, высокие потолки и особенная серия квартир с палисадниками в 1 серии проекта. Со свободной планировкой и высотой потолков до 3,9 метров.\n\nСрок сдачи 1 серии проекта — Iii квартал 2026 г.\nСрок сдачи 2 серии проекта — IV квартал 2026 г.\nСрок сдачи 3 серии проекта — IV квартал 2027 г.\n\nЗвоните — наши менеджеры расскажут подробную информацию о всех акциях, помогут в подборе ипотеки и предложат лучший для вас вариант в новом жилом комплексе «Вознесенский квартал».",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 243 156 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 243 156",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11243156,
+      "wasLowered": false,
+      "exponent": "11,24 млн",
+      "normalizedPrice": "385 040 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Бухарская, стр. 4",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77693",
+      "lng": "49.20428",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Бухарская, стр. 4"
+    },
+    "developmentId": 8209361,
+    "developmentName": " ЖК «Вознесенский квартал»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 7907793543,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_414_m_2022_et._7907793543?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 41,4 м², 20/22 эт.",
+    "description": "«Минтимер» — красивое продолжение истории Сму-88 на территории Новой Портовой. Это идеальное местоположение для проживания рядом с благоустроенной набережной Волги в 15 минутах от Кремля.\n\nБлагоустроенный двор на стилобате с богатой растительной палитрой, малыми архитектурными формами и продуманными общественными пространствами воплощает идею счастливой и размеренной жизни. В дизайнерском лобби и холлах каждая деталь оправдывает ожидания резидентов: пространство с камином и библиотекой, консьерж-сервис, колясочная.\n\nВизитная карточка проекта — эргономичные планировки. Здесь все устроено максимально удобно, продуманы места хранения, пространства для семейного отдыха и уединения.\n\n— 7-24 этажей.\n\n— Авторская архитектура.\n\n— Концептуальное благоустройство.\n\n— Потолки до 4,5 м.\n\n— Панорамные окна.\n\n— Видовые квартиры.\n\n— Серия квартир с террасами.\n\n— Двухуровневый паркинг.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 383 441 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 383 441",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17383441,
+      "wasLowered": false,
+      "exponent": "17,38 млн",
+      "normalizedPrice": "419 890 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,8 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76699",
+      "lng": "49.09601",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, стр. 1"
+    },
+    "developmentId": 10777802,
+    "developmentName": "ЖК «Минтимер»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8046810480,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_269_m_2223_et._8046810480?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 26,9 м², 22/23 эт.",
+    "description": "Продаётся квартира-студия в ЖК бизнес-класса «Унай», на ул. Аделя Кутуя!\n\nЖилой комплекс расположен в Советском районе города Казани, вблизи будущей станции метро «Тулпар».\n\nПроект следует принципу «безмятежной жизни», потому что всё в ЖК создано с заботой о комфорте будущих жителей: дом из 5 строений, объединенных общим стилобатом, высотой от 8 до 23 этажей, самодостаточный район с богатой инфраструктурой, закрытый приватный двор с игровыми, спорт- и релакс-зонами, открытая терраса для жителей на кровле стилобата, шикарные лобби в формате «безбарьерной среды», тёплый подземный паркинг и система «Умный дом».\n\nА какие открываются виды: на город, живописный лесной массив или залитую ночными огнями автостраду. В любом из вариантов заключена особая романтика мегаполиса.\n\nКвартира передается с предчистовой отделкой: все капитальные, «грязные» работы будут выполнены, останется только приятная, творческая часть — дизайн и декорирование.\n\nИндивидуальный подход к каждому клиенту.\n\nСкидки | Беспроцентная рассрочка от Застройщика | Ипотека | Материнский капитал.\nУ нас большой выбор квартир, мы подберём варианты под ваши предпочтения!\n\nОфис продаж: г. Казань, проспект Альберта Камалеева, д. 34а.\n\nДобавьте объявление в избранное, чтобы его не потерять!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 199 700 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 199 700",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10199700,
+      "wasLowered": false,
+      "exponent": "10,2 млн",
+      "normalizedPrice": "379 171 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,1 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77706",
+      "lng": "49.20567",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 12546497,
+    "developmentName": "ЖК «Унай»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 7780785429,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_304_m_1025_et._7780785429?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 30,4 м², 10/25 эт.",
+    "description": "«Феномен будущего» — современных жилой комплекс класса комфорт плюс, расположенный на Аметьевской магистрали на территории бывшего завода «Кулон».\nВ наличии квартиры:\n1 очередь:\nсекция А — 25 этажей, секция Б — 9 этажей, секция В — 17 этажей.\n\n2 очередь 1 этап:\nКорпус 1 — 25 этажей.\nКорпус 2 — 25 этажей.\n\nОзнакомиться подробнее с жилым комплексом можно у наших менеджеров. Напишите нам в чат, мы отвечаем быстро.\n\nПреимущества ЖК «Феномен будущего»:\nРазвитая инфраструктура Вахитовского и Советского районов.\nУдобное расположение: выезд и выход на улицу Гвардейская и на Аметьевскую Магистраль.\nРядом школы, детские сады, поликлиники и остановки общественного транспорта.\nЗакрытый двор без машин.\nВидеонаблюдение на территории ЖК.\nДизайнерские лобби с зоной для отдыха и встреч.\nОтдельные помещения для блоков кондиционеров. Все трассы проложены на этапе строительства застройщиком.\nБлагоустроенная территория с ландшафтным дизайном, спортивными и детскими площадками, местами отдыха и бесплатным WI-fi на всей территории комплекса.\n\nВарианты покупки, подбор квартиры, акции и скидки уточняйте у менеджеров отдела продаж.\n\nЖК «Феномен будущего» — Жизнь на высоте.\nСЗ «Тектум-1».",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "от 9 885 046 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "от 9 885 046",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9885046,
+      "wasLowered": false,
+      "exponent": "9,89 млн",
+      "normalizedPrice": "325 166 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская,  секц. А",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77643",
+      "lng": "49.17111",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская,  секц. А"
+    },
+    "developmentId": 13284916,
+    "developmentName": "ЖК «ФЕНОМЕН БУДУЩЕГО»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 4430837353,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_479_m_34_et._4430837353?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 47,9 м², 3/4 эт.",
+    "description": "Продается квартира формата «free-layout» или «свободная планировка» в клубном доме премиум-класса «Комос на Тукая».\n\n«Комос на Тукая» расположился в 10 минутах от Казанского Кремля и живописной набережной.\nВ шаговой доступности: множество образовательных учреждений, скверы Тинчурина и Тукая, парк Тысячелетия и Зооботанический Сад, набережная озера Нижний Кабан, театр им. Камала, фитнес- и торговые центры, офисы ведущих предприятий города.\n\nАвторский дизайн-проект лобби, приватный двор-патио, тёплый подземный паркинг, интеллектуальная система «Умный дом» с широкой сетью видеонаблюдения и приложением жильца — то, что сделает жизнь в комплексе свободной, защищенной и спокойной.\n\nКвартира передается со свободной планировкой и с подготовкой под предчистовую отделку: внутриквартирные перегородки выполняются только для санузлов, остальная площадь квартиры может быть оформлена вами, согласно любому дизайн-проекту!\n\nИндивидуальный подход к каждому клиенту.\n\nСкидки | Беспроцентная рассрочка от Застройщика | Ипотека | Материнский капитал.\nУ нас большой выбор квартир, мы подберём варианты под ваши предпочтения!\n\nОфис продаж: г. Казань, проспект Альберта Камалеева, д. 34а.\n\nДобавьте объявление в избранное, чтобы его не потерять!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "20 480 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "20 480 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 20480000,
+      "wasLowered": false,
+      "exponent": "20,48 млн",
+      "normalizedPrice": "427 557 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,6 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Габдуллы Тукая, стр. 1,2",
+      "addressLinks": {
+        "houseLink": {
+          "text": "2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_sary_sadykovoy_51a/4346373?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Габдуллы Тукая, стр. 1",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_sary_sadykovoy/22877-ASgBAgECA0SSA8YQ5geOUujIE7rlAgFF3AcXInVsaXRzYV9zYXJ5X3NhZHlrb3ZveSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77296",
+      "lng": "49.11867",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Габдуллы Тукая, стр. 1,2"
+    },
+    "developmentId": 7695267,
+    "developmentName": "Клубный дом «КОМОС на Тукая»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 7780634578,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_316_m_1325_et._7780634578?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 31,6 м², 13/25 эт.",
+    "description": "«Феномен будущего» — современных жилой комплекс класса комфорт плюс, расположенный на Аметьевской магистрали на территории бывшего завода «Кулон».\nВ наличии квартиры:\n1 очередь:\nсекция А — 25 этажей, секция Б — 9 этажей, секция В — 17 этажей.\n\n2 очередь 1 этап:\nКорпус 1 — 25 этажей.\nКорпус 2 — 25 этажей.\n\nОзнакомиться подробнее с жилым комплексом можно у наших менеджеров. Напишите нам в чат, мы отвечаем быстро.\n\nПреимущества ЖК «Феномен будущего»:\nРазвитая инфраструктура Вахитовского и Советского районов.\nУдобное расположение: выезд и выход на улицу Гвардейская и на Аметьевскую Магистраль.\nРядом школы, детские сады, поликлиники и остановки общественного транспорта.\nЗакрытый двор без машин.\nВидеонаблюдение на территории ЖК.\nДизайнерские лобби с зоной для отдыха и встреч.\nОтдельные помещения для блоков кондиционеров. Все трассы проложены на этапе строительства застройщиком.\nБлагоустроенная территория с ландшафтным дизайном, спортивными и детскими площадками, местами отдыха и бесплатным WI-fi на всей территории комплекса.\n\nВарианты покупки, подбор квартиры, акции и скидки уточняйте у менеджеров отдела продаж.\n\nЖК «Феномен будущего» — Жизнь на высоте.\nСЗ «Тектум-1».",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "от 10 161 251 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "от 10 161 251",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10161251,
+      "wasLowered": false,
+      "exponent": "10,16 млн",
+      "normalizedPrice": "321 559 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская,  секц. А",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77643",
+      "lng": "49.17111",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская,  секц. А"
+    },
+    "developmentId": 13284916,
+    "developmentName": "ЖК «ФЕНОМЕН БУДУЩЕГО»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8046005232,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_273_m_1323_et._8046005232?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 27,3 м², 13/23 эт.",
+    "description": "Продаётся квартира-студия в ЖК бизнес-класса «Унай», на ул. Аделя Кутуя!\n\nЖилой комплекс расположен в Советском районе города Казани, вблизи будущей станции метро «Тулпар».\n\nПроект следует принципу «безмятежной жизни», потому что всё в ЖК создано с заботой о комфорте будущих жителей: дом из 5 строений, объединенных общим стилобатом, высотой от 8 до 23 этажей, самодостаточный район с богатой инфраструктурой, закрытый приватный двор с игровыми, спорт- и релакс-зонами, открытая терраса для жителей на кровле стилобата, шикарные лобби в формате «безбарьерной среды», тёплый подземный паркинг и система «Умный дом».\n\nА какие открываются виды: на город, живописный лесной массив или залитую ночными огнями автостраду. В любом из вариантов заключена особая романтика мегаполиса.\n\nКвартира передается с предчистовой отделкой: все капитальные, «грязные» работы будут выполнены, останется только приятная, творческая часть — дизайн и декорирование.\n\nИндивидуальный подход к каждому клиенту.\n\nСкидки | Беспроцентная рассрочка от Застройщика | Ипотека | Материнский капитал.\nУ нас большой выбор квартир, мы подберём варианты под ваши предпочтения!\n\nОфис продаж: г. Казань, проспект Альберта Камалеева, д. 34а.\n\nДобавьте объявление в избранное, чтобы его не потерять!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 112 300 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 112 300",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10112300,
+      "wasLowered": false,
+      "exponent": "10,11 млн",
+      "normalizedPrice": "370 414 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,1 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аделя Кутуя, жилой дом",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77706",
+      "lng": "49.20567",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аделя Кутуя, жилой дом"
+    },
+    "developmentId": 12546497,
+    "developmentName": "ЖК «Унай»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8122817164,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_287_m_2222_et._8122817164?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 28,7 м², 22/22 эт.",
+    "description": "Продается квартира в ЖК бизнес-класса «Главные роли».\nВ основе архитектурной концепции лежит идея дома в комфортном городском пространстве, но рядом с лесом. Мы гармонично вписали квартал в природу, чтобы радовать вас и менять город к лучшему.\nВесь ЖК переменной этажности с 13 до 23 этаж.\nСекции поддерживают природную цветовую палитру, материал фасада — керамический кирпич и композитные панели.\nПространство между домами открывает потрясающие виды на лес, жители смогут нон-стопом наслаждаться природой на территории квартала.\n\nО расположении ЖК:\nЖилой квартал ограничен улицей Родины с двух сторон и граничит на юго-востоке с Горкинско-Ометьевским лесом.\n\nВокруг развитая инфраструктура:\nДетский сад- ясли № 276, № 183, № 224.\nГимназия №8, школа №2144.\nКазанский технологический колледж.\nРеспубликанская клиническая инфекционная больница.\nТрц «Южный», ТЦ «Мега», ТЦ «Горки Парк».\nКафе и рестораны.\nБанки.\n\nЖилой комплекс будет состоять из двух очередей, в каждой из них два дома, объединенных общим стилобатом, на котором будет расположен закрытый двор.\nСроки сдачи: 1 оч. — 2 кв. 2028 г., 2 оч. — 1 кв. 2029 г.\n\nВ проекте присутствуют базовые преимущества, такие как:\n- Видеонаблюдение.\n- Закрытый двор.\n- Детские площадки.\n- Спортплощадки.\n- Зоны отдыха.\n\nЧто есть на территории самого комплекса:\nПервый этаж будет наполнен торговой галерей, где разместятся кафе, рестораны, ритэйл и магазины.\nПодо всей территорией ЖК будет расположен подземный паркинг в два уровня, что также станет большим преимуществом для наших жителей.\nВ каждом доме мы предусмотрели коворкинг, детскую комнату только для жильцов ЖК.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 298 800 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 298 800",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9298800,
+      "wasLowered": false,
+      "exponent": "9,3 млн",
+      "normalizedPrice": "324 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76903",
+      "lng": "49.20341",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, корп. 1"
+    },
+    "developmentId": 11170805,
+    "developmentName": "ЖК «Главные роли»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8290146789,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_32_m_49_et._8290146789?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 32 м², 4/9 эт.",
+    "description": "Данный проект выполнен в сдержанных цветах в европейском стиле. Архитектурный ансамбль дополняет подсветка вентилируемых фасадов. Вход в подъезд выполнен на уровне земли. Домофоны установлены в теплых тамбурах. На первых этажах находятся колясочные комнаты с вело-парковками и местами для хранения тюбингов.\nВ жилом комплексе представлено множество планировочных решений: студии, 1-комнатные, 2х-комнатные, 3х-комнатные квартиры, в том числе евроформаты, с террасами, теплой лоджией, просторной кухней-гостиной или собственной кладовой для кухни. Также представлен уникальный формат урбан-вилл с личным входом в квартиру с улицы и террасами на первых и последних этажах.\nНа территории комплекса имеются воркуют-зоны, площадки для игр в футбол, волейбол и баскетбол. Все покрытия детских площадок выполнены из природных естественных материалов. Создан просторный двор-парк с прогулочными зонами. Предусмотрен детский сад и школа. Собственная закрытая территория оборудована видеонаблюдением и контролем доступа.\nЖК находится в Приволжском районе. Инфраструктура района развита — в пешей доступности расположены детские сады, медицинские центры, спортивные залы и парки. Жилой комплекс находится в 5 минутах пешком от набережной озера Кабан. До центра города дорога займет 10 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 520 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 520 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10520000,
+      "wasLowered": false,
+      "exponent": "10,52 млн",
+      "normalizedPrice": "328 750 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Ярдем, д. 25А"
+    },
+    "coords": {
+      "lat": "55.73744",
+      "lng": "49.15044",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Ярдем, д. 25А"
+    },
+    "developmentId": 3529216,
+    "developmentName": "ЖК «Аквамарин»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8338939850,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_32_m_59_et._8338939850?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 32 м², 5/9 эт.",
+    "description": "Данный проект выполнен в сдержанных цветах в европейском стиле. Архитектурный ансамбль дополняет подсветка вентилируемых фасадов. Вход в подъезд выполнен на уровне земли. Домофоны установлены в теплых тамбурах. На первых этажах находятся колясочные комнаты с вело-парковками и местами для хранения тюбингов.\nВ жилом комплексе представлено множество планировочных решений: студии, 1-комнатные, 2х-комнатные, 3х-комнатные квартиры, в том числе евроформаты, с террасами, теплой лоджией, просторной кухней-гостиной или собственной кладовой для кухни. Также представлен уникальный формат урбан-вилл с личным входом в квартиру с улицы и террасами на первых и последних этажах.\nНа территории комплекса имеются воркуют-зоны, площадки для игр в футбол, волейбол и баскетбол. Все покрытия детских площадок выполнены из природных естественных материалов. Создан просторный двор-парк с прогулочными зонами. Предусмотрен детский сад и школа. Собственная закрытая территория оборудована видеонаблюдением и контролем доступа.\nЖК находится в Приволжском районе. Инфраструктура района развита — в пешей доступности расположены детские сады, медицинские центры, спортивные залы и парки. Жилой комплекс находится в 5 минутах пешком от набережной озера Кабан. До центра города дорога займет 10 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 460 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 460 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10460000,
+      "wasLowered": false,
+      "exponent": "10,46 млн",
+      "normalizedPrice": "326 875 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Ярдем, д. 25А"
+    },
+    "coords": {
+      "lat": "55.73744",
+      "lng": "49.15044",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Ярдем, д. 25А"
+    },
+    "developmentId": 3529216,
+    "developmentName": "ЖК «Аквамарин»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8241139040,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_32_m_99_et._8241139040?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 32 м², 9/9 эт.",
+    "description": "Данный проект выполнен в сдержанных цветах в европейском стиле. Архитектурный ансамбль дополняет подсветка вентилируемых фасадов. Вход в подъезд выполнен на уровне земли. Домофоны установлены в теплых тамбурах. На первых этажах находятся колясочные комнаты с вело-парковками и местами для хранения тюбингов.\nВ жилом комплексе представлено множество планировочных решений: студии, 1-комнатные, 2х-комнатные, 3х-комнатные квартиры, в том числе евроформаты, с террасами, теплой лоджией, просторной кухней-гостиной или собственной кладовой для кухни. Также представлен уникальный формат урбан-вилл с личным входом в квартиру с улицы и террасами на первых и последних этажах.\nНа территории комплекса имеются воркуют-зоны, площадки для игр в футбол, волейбол и баскетбол. Все покрытия детских площадок выполнены из природных естественных материалов. Создан просторный двор-парк с прогулочными зонами. Предусмотрен детский сад и школа. Собственная закрытая территория оборудована видеонаблюдением и контролем доступа.\nЖК находится в Приволжском районе. Инфраструктура района развита — в пешей доступности расположены детские сады, медицинские центры, спортивные залы и парки. Жилой комплекс находится в 5 минутах пешком от набережной озера Кабан. До центра города дорога займет 10 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 660 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 660 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10660000,
+      "wasLowered": false,
+      "exponent": "10,66 млн",
+      "normalizedPrice": "333 125 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Ярдем, д. 25А"
+    },
+    "coords": {
+      "lat": "55.73744",
+      "lng": "49.15044",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Ярдем, д. 25А"
+    },
+    "developmentId": 3529216,
+    "developmentName": "ЖК «Аквамарин»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8122609578,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_293_m_1222_et._8122609578?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 29,3 м², 12/22 эт.",
+    "description": "Продается квартира в ЖК бизнес-класса «Главные роли».\nВ основе архитектурной концепции лежит идея дома в комфортном городском пространстве, но рядом с лесом. Мы гармонично вписали квартал в природу, чтобы радовать вас и менять город к лучшему.\nВесь ЖК переменной этажности с 13 до 23 этаж.\nСекции поддерживают природную цветовую палитру, материал фасада — керамический кирпич и композитные панели.\nПространство между домами открывает потрясающие виды на лес, жители смогут нон-стопом наслаждаться природой на территории квартала.\n\nО расположении ЖК:\nЖилой квартал ограничен улицей Родины с двух сторон и граничит на юго-востоке с Горкинско-Ометьевским лесом.\n\nВокруг развитая инфраструктура:\nДетский сад- ясли № 276, № 183, № 224.\nГимназия №8, школа №2144.\nКазанский технологический колледж.\nРеспубликанская клиническая инфекционная больница.\nТрц «Южный», ТЦ «Мега», ТЦ «Горки Парк».\nКафе и рестораны.\nБанки.\n\nЖилой комплекс будет состоять из двух очередей, в каждой из них два дома, объединенных общим стилобатом, на котором будет расположен закрытый двор.\nСроки сдачи: 1 оч. — 2 кв. 2028 г., 2 оч. — 1 кв. 2029 г.\n\nВ проекте присутствуют базовые преимущества, такие как:\n- Видеонаблюдение.\n- Закрытый двор.\n- Детские площадки.\n- Спортплощадки.\n- Зоны отдыха.\n\nЧто есть на территории самого комплекса:\nПервый этаж будет наполнен торговой галерей, где разместятся кафе, рестораны, ритэйл и магазины.\nПодо всей территорией ЖК будет расположен подземный паркинг в два уровня, что также станет большим преимуществом для наших жителей.\nВ каждом доме мы предусмотрели коворкинг, детскую комнату только для жильцов ЖК.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 848 600 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 848 600",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8848600,
+      "wasLowered": false,
+      "exponent": "8,85 млн",
+      "normalizedPrice": "302 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76903",
+      "lng": "49.20341",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, корп. 1"
+    },
+    "developmentId": 11170805,
+    "developmentName": "ЖК «Главные роли»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8282587809,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_264_m_1923_et._8282587809?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 26,4 м², 19/23 эт.",
+    "description": "Продается квартира в ЖК бизнес-класса «Главные роли».\nВ основе архитектурной концепции лежит идея дома в комфортном городском пространстве, но рядом с лесом. Мы гармонично вписали квартал в природу, чтобы радовать вас и менять город к лучшему.\nВесь ЖК переменной этажности с 13 до 23 этаж.\nСекции поддерживают природную цветовую палитру, материал фасада — керамический кирпич и композитные панели.\nПространство между домами открывает потрясающие виды на лес, жители смогут нон-стопом наслаждаться природой на территории квартала.\n\nО расположении ЖК:\nЖилой квартал ограничен улицей Родины с двух сторон и граничит на юго-востоке с Горкинско-Ометьевским лесом.\n\nВокруг развитая инфраструктура:\nДетский сад- ясли № 276, № 183, № 224.\nГимназия №8, школа №2144.\nКазанский технологический колледж.\nРеспубликанская клиническая инфекционная больница.\nТрц «Южный», ТЦ «Мега», ТЦ «Горки Парк».\nКафе и рестораны.\nБанки.\n\nЖилой комплекс будет состоять из двух очередей, в каждой из них два дома, объединенных общим стилобатом, на котором будет расположен закрытый двор.\nСроки сдачи: 1 оч. — 2 кв. 2028 г., 2 оч. — 1 кв. 2029 г.\n\nВ проекте присутствуют базовые преимущества, такие как:\n- Видеонаблюдение.\n- Закрытый двор.\n- Детские площадки.\n- Спортплощадки.\n- Зоны отдыха.\n\nЧто есть на территории самого комплекса:\nПервый этаж будет наполнен торговой галерей, где разместятся кафе, рестораны, ритэйл и магазины.\nПодо всей территорией ЖК будет расположен подземный паркинг в два уровня, что также станет большим преимуществом для наших жителей.\nВ каждом доме мы предусмотрели коворкинг, детскую комнату только для жильцов ЖК.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 451 200 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 451 200",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9451200,
+      "wasLowered": false,
+      "exponent": "9,45 млн",
+      "normalizedPrice": "358 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.768",
+      "lng": "49.20545",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, стр. 1"
+    },
+    "developmentId": 11170805,
+    "developmentName": "ЖК «Главные роли»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8122264292,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_287_m_1222_et._8122264292?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 28,7 м², 12/22 эт.",
+    "description": "Продается квартира в ЖК бизнес-класса «Главные роли».\nВ основе архитектурной концепции лежит идея дома в комфортном городском пространстве, но рядом с лесом. Мы гармонично вписали квартал в природу, чтобы радовать вас и менять город к лучшему.\nВесь ЖК переменной этажности с 13 до 23 этаж.\nСекции поддерживают природную цветовую палитру, материал фасада — керамический кирпич и композитные панели.\nПространство между домами открывает потрясающие виды на лес, жители смогут нон-стопом наслаждаться природой на территории квартала.\n\nО расположении ЖК:\nЖилой квартал ограничен улицей Родины с двух сторон и граничит на юго-востоке с Горкинско-Ометьевским лесом.\n\nВокруг развитая инфраструктура:\nДетский сад- ясли № 276, № 183, № 224.\nГимназия №8, школа №2144.\nКазанский технологический колледж.\nРеспубликанская клиническая инфекционная больница.\nТрц «Южный», ТЦ «Мега», ТЦ «Горки Парк».\nКафе и рестораны.\nБанки.\n\nЖилой комплекс будет состоять из двух очередей, в каждой из них два дома, объединенных общим стилобатом, на котором будет расположен закрытый двор.\nСроки сдачи: 1 оч. — 2 кв. 2028 г., 2 оч. — 1 кв. 2029 г.\n\nВ проекте присутствуют базовые преимущества, такие как:\n- Видеонаблюдение.\n- Закрытый двор.\n- Детские площадки.\n- Спортплощадки.\n- Зоны отдыха.\n\nЧто есть на территории самого комплекса:\nПервый этаж будет наполнен торговой галерей, где разместятся кафе, рестораны, ритэйл и магазины.\nПодо всей территорией ЖК будет расположен подземный паркинг в два уровня, что также станет большим преимуществом для наших жителей.\nВ каждом доме мы предусмотрели коворкинг, детскую комнату только для жильцов ЖК.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 667 400 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 667 400",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8667400,
+      "wasLowered": false,
+      "exponent": "8,67 млн",
+      "normalizedPrice": "302 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76903",
+      "lng": "49.20341",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, корп. 1"
+    },
+    "developmentId": 11170805,
+    "developmentName": "ЖК «Главные роли»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8320178462,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_337_m_89_et._8320178462?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 33,7 м², 8/9 эт.",
+    "description": "Жилой комплекс состоит из 13 домов переменной этажности в европейском архитектурном стиле. В оформлении стен зданий используется современный навесной вентилируемый фасад. На первых этажах спроектированы места для хранения колясок.\nВ комплексе представлено множество планировочных решений с террасами, мастер-спальнями, угловыми панорамными окнами, гардеробными и нишами для шкафов-купе. Предусмотрена возможность выбора квартиры с теплой лоджией, балконом или без него.\nНа территории комплекса предусмотрено 2 детских сада и школа, детские эко-площадки, спортивные и прогулочные зоны, велодорожки и уличные тренажеры для занятий спортом. Домофоны расположены в теплых тамбурах. Проектом заложена автоматическая система контроля потребления воды, электричества, отопления и передачи их в сервисную компанию.\nЖилой комплекс расположен в Советском районе, в пешей доступности от продуктовых магазинов, детских садов и тренажёрных залов. До центра города дорога составляет 10 минут на автомобиле.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 547 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 547 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10547000,
+      "wasLowered": false,
+      "exponent": "10,55 млн",
+      "normalizedPrice": "312 967 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "С. Константиновка, ул. Анаса Тазетдинова, д. 4А",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 4А",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_anasa_tazetdinova_4a/97283388?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "с. Константиновка, ул. Анаса Тазетдинова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_anasa_tazetdinova/2218-ASgBAgECA0SSA8YQ5geOUujIE9QiAUXcBxoidWxpdHNhX2FuYXNhX3RhemV0ZGlub3ZhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.80855",
+      "lng": "49.2309",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "с. Константиновка, ул. Анаса Тазетдинова, д. 4А"
+    },
+    "developmentId": 1671210,
+    "developmentName": "ЖК «Лето»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  },
+  {
+    "id": 8122339683,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_293_m_2022_et._8122339683?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJYR21Na0RwcWduVmhUQThzIjt9C97OkT8AAAA",
+    "title": "Квартира-студия, 29,3 м², 20/22 эт.",
+    "description": "Продается квартира в ЖК бизнес-класса «Главные роли».\nВ основе архитектурной концепции лежит идея дома в комфортном городском пространстве, но рядом с лесом. Мы гармонично вписали квартал в природу, чтобы радовать вас и менять город к лучшему.\nВесь ЖК переменной этажности с 13 до 23 этаж.\nСекции поддерживают природную цветовую палитру, материал фасада — керамический кирпич и композитные панели.\nПространство между домами открывает потрясающие виды на лес, жители смогут нон-стопом наслаждаться природой на территории квартала.\n\nО расположении ЖК:\nЖилой квартал ограничен улицей Родины с двух сторон и граничит на юго-востоке с Горкинско-Ометьевским лесом.\n\nВокруг развитая инфраструктура:\nДетский сад- ясли № 276, № 183, № 224.\nГимназия №8, школа №2144.\nКазанский технологический колледж.\nРеспубликанская клиническая инфекционная больница.\nТрц «Южный», ТЦ «Мега», ТЦ «Горки Парк».\nКафе и рестораны.\nБанки.\n\nЖилой комплекс будет состоять из двух очередей, в каждой из них два дома, объединенных общим стилобатом, на котором будет расположен закрытый двор.\nСроки сдачи: 1 оч. — 2 кв. 2028 г., 2 оч. — 1 кв. 2029 г.\n\nВ проекте присутствуют базовые преимущества, такие как:\n- Видеонаблюдение.\n- Закрытый двор.\n- Детские площадки.\n- Спортплощадки.\n- Зоны отдыха.\n\nЧто есть на территории самого комплекса:\nПервый этаж будет наполнен торговой галерей, где разместятся кафе, рестораны, ритэйл и магазины.\nПодо всей территорией ЖК будет расположен подземный паркинг в два уровня, что также станет большим преимуществом для наших жителей.\nВ каждом доме мы предусмотрели коворкинг, детскую комнату только для жильцов ЖК.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 376 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 376 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9376000,
+      "wasLowered": false,
+      "exponent": "9,38 млн",
+      "normalizedPrice": "320 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,3 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76903",
+      "lng": "49.20341",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, корп. 1"
+    },
+    "developmentId": 11170805,
+    "developmentName": "ЖК «Главные роли»",
+    "parsed_at": "2026-09-25T16:23:38.937708"
+  }
+]

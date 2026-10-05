@@ -1,0 +1,2112 @@
+[
+  {
+    "id": 8417065177,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_464_m_1923_et._8417065177?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 46,4 м², 19/23 эт.",
+    "description": "Номер квартиры: 417.\n\nЭтаж: 19.\n\nПлощадь: 46.38.\n\nКорпус: Корпус 2 (1 этап). Казань окружена легендами, поэтому поверить в чудеса здесь очень просто. И мечтать свободно. Например, о собственной квартире с видом на тихий двор, где хочется печь блины и смотреть любимые фильмы. Все сбудется в жилом комплексе «Манзара».\n\nВыбирайте эргономичную 1-комнатную квартиру или просторную 4-комнатную евроформата. Все варианты с увеличенными окнами, есть лоты с видом на город, балконами, французскими балконами и террасами. Если хотите реализовать свои интерьерные идеи — для вас лоты без отделки или предчистовой вариант.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 459 581 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 459 581",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11459581,
+      "wasLowered": false,
+      "exponent": "11,46 млн",
+      "normalizedPrice": "246 974 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт, 34к9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 34к9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_sibirskiy_trakt_34k9/70780306?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_sibirskiy_trakt/4024-ASgBAgECA0SSA8YQ5geOUujIE_A~AUXcBxgidWxpdHNhX3NpYmlyc2tpeV90cmFrdCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.81747",
+      "lng": "49.18425",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт, 34к9"
+    },
+    "developmentId": 11114669,
+    "developmentName": "ЖК «Манзара»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8321460589,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_425_m_1114_et._8321460589?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 42,5 м², 11/14 эт.",
+    "description": "Номер квартиры: 455.\n\nЭтаж: 11.\n\nПлощадь: 42.54.\n\nКорпус: Урбан-блок. Жилой комплекс представляет собой современное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. Фасады здания выполнены с применением современных отделочных материалов, обеспечивающих эстетичный внешний вид.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 625 665 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 625 665",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11625665,
+      "wasLowered": false,
+      "exponent": "11,63 млн",
+      "normalizedPrice": "273 545 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7731",
+      "lng": "49.17704",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, стр. 1"
+    },
+    "developmentId": 16335836,
+    "developmentName": "ЖК «Город Солнца»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8073913816,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_43_m_1624_et._8073913816?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 43 м², 16/24 эт.",
+    "description": "Продается 1-комнатная квартира площадью 42,98 кв. М. На 16 этаже в строящемся 25-ти этажном доме проекта «Мой Ритм» компании «Ак Барс Дом».\n\nМой Ритм — Лучший жилой комплекс в Татарстане в 2023, занял призовые места в номинациях «Лучший жилой комплекс-новостройка в Татарстане» и «Лучший проект в РФ, масштабная застройка свободных территорий» по версии Единого ресурса застройщиков РФ.\n\nСовременный жилой комплекс на пр. Победы рядом с Вознесенским трактом, торговым центром Мега и станцией метро на территории.\n\nПреимущества:\n\nшколы, детские сады — на территории ЖК;\n\nкафе и магазины, салоны красоты, спортивные залы, аптеки;\n\nметро станция Тулпар — планируется на территории ЖК;\n\nгоркинско-ометьевский парк рядом;\n\nрядом торговые центры: «Мега», «Южный», «Агропарк», «Максидом»;\n\nтерритория благоустроена: экологичные детские площадки, спортивные зоны с резиновым покрытием, озеленение;\n\nигровой парк Озеро дракона на 1 гектар с зонами активности и отдыха;\n\nзакрытый двор, повышенная безопасность;\n\nдля комфорта наземный многоуровневый паркинг;\n\nпросторный подъезд с колясочной, вход на уровне земли.\n\nУдобные Планировки:\n\nКомнаты правильной формы, функциональная прихожая и кухня, высокие потолки, места для хранения.\n\nВстроенный функционал «умной квартиры» — системы, которая позволяет управлять жильём дистанционно.\n\nПриобрести Квартиру Можно:\n\n— наличным и безналичным расчётом по 100% оплате и рассрочке;\n\n— с использованием маткапитала;\n\n— с использованием жилищных сертификатов;\n\n— в ипотеку;\n\n— онлайн покупка.\n\nПодбор Квартиры:\n\nПодбор квартиры, полное юридическое сопровождение сделки — Бесплатно.\n\nНаши специалисты помогут вам в решении вопроса приобретения недвижимости с момента консультации до момента передачи ключа от квартиры.\n\nМой Ритм — это не просто комфортные квартиры, это образ жизни, продуманный до мелочей.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 050 158 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 050 158",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11050158,
+      "wasLowered": false,
+      "exponent": "11,05 млн",
+      "normalizedPrice": "256 980 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Ул. Патриса Лумумбы, стр. 12"
+    },
+    "coords": {
+      "lat": "55.78585",
+      "lng": "49.21334",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Патриса Лумумбы, стр. 12"
+    },
+    "developmentId": 66833,
+    "developmentName": "ЖК «Мой Ритм»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8321850943,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_425_m_1414_et._8321850943?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 42,5 м², 14/14 эт.",
+    "description": "Номер квартиры: 476.\n\nЭтаж: 14.\n\nПлощадь: 42.54.\n\nКорпус: Урбан-блок. Жилой комплекс представляет собой современное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. Фасады здания выполнены с применением современных отделочных материалов, обеспечивающих эстетичный внешний вид.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 670 348 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 670 348",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11670348,
+      "wasLowered": false,
+      "exponent": "11,67 млн",
+      "normalizedPrice": "274 596 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7731",
+      "lng": "49.17704",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, стр. 1"
+    },
+    "developmentId": 16335836,
+    "developmentName": "ЖК «Город Солнца»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8277643785,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_392_m_2223_et._8277643785?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 39,2 м², 22/23 эт.",
+    "description": "Жилой комплекс представляет собой 23-этажный дом, возведенный по долговечной кирпично-монолитной технологии. Архитектурный облик здания спроектирован выдающимся казанским архитектором Тимуром Нугаевым. В отделке фасада использованы клинкерный кирпич с имитацией камня и архитектурное стекло от компании Ларта Гласс. В ночное и вечернее время работает художественное освещение фасада. Входные группы представлены дизайнерскими лобби.\n\nВ проекте предложено множество планировочных решений классического типа. Квартиры идут с подчистовой отделкой, увеличенными окнами и высотой потолков 3 метра. Из окон открываются прекрасные виды на исторический и современный центр города.\n\nТерритория проекта закрыта, ведется круглосуточное видеонаблюдение, обустроены зоны отдыха для детей и взрослых, ландшафтный дизайн из деревьев и декоративных кустарников, а также спортивные и детские площадки. Для владельцев автомобилей спроектирован подземный паркинг. Для удобства жильцов предусмотрены пространства для хранения колясок и велосипедов, а также лапомойки для животных.\n\nЖилой комплекс находится в Советском районе, в 10 минутах транспортом от центра города. В пешей доступности есть вся необходимая инфраструктура: детские сады и школы, крупные торговые центры и продуктовые супермаркеты, фитнес центры, бассейны и парки. До ближайшей станции метро Аметьево можно добраться за 10 минут транспортом.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 285 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 285 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12285000,
+      "wasLowered": false,
+      "exponent": "12,29 млн",
+      "normalizedPrice": "313 393 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Хади Атласи, д. 11",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 11",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_hadi_atlasi_11/73073105?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Хади Атласи",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_hadi_atlasi/19123-ASgBAgECA0SSA8YQ5geOUujIE~aqAgFF3AcUInVsaXRzYV9oYWRpX2F0bGFzaSI"
+        },
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78559",
+      "lng": "49.1487",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Хади Атласи, д. 11"
+    },
+    "developmentId": 8546543,
+    "developmentName": "ЖК «Аристократ»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8385842201,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_439_m_2225_et._8385842201?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 43,9 м², 22/25 эт.",
+    "description": "Номер квартиры: 682.\n\nЭтаж: 22.\n\nПлощадь: 43.89.\n\nКорпус: Корпус 8. Жилой комплекс «Зилант Премьер» — место в молодом районе Казани для таких же активных, предприимчивых, открытых новому людей. Новый проект вдохновлен символами города — мифическим существом Зилантом и грациозным снежным барсом. Рядом скоро откроются коворкинги для удаленной работы, зоны отдыха для выходных с семьей, кафе и рестораны для встреч с друзьями. Горкинско-Ометьевский лес станет любимым местом для прогулок и спорта.\n\nТранспортная доступность.\nДо кремля можно добраться за 20 минут приятной поездки на авто под любимую музыку. Остановка общественного транспорта находится прямо рядом с жилым комплексом. В получасе пешей прогулки находится станция метро «Горки». А уже к 2027 году в пешей доступности от жилого комплекса планируется открытие новой станции «Тулпар».\n\nИнфраструктура.\nВ шаговой доступности уже работают 3 школы, 2 детских сада и поликлиника. Скоро рядом с проектом появится еще одна школа, поликлиника и собственный детский сад прямо в жилом комплексе. А на первых этажах секций откроются магазины, кафе и сервисы. Еще в пешей доступности находятся торгово-развлекательные центры «Мега Казань» и «Южный».\n\nПарки.\nТочкой притяжения для прогулок и занятий спортом на свежем воздухе станет парк «Горкинско-Ометьевский лес». Летом в парке занимаются бегом и велоспортом, а зимой открывают сезон лыжных кроссов. Для семей с детьми предусмотрены игровые площадки с горками и качелями из природных материалов и экологические тропы для долгих прогулок со стаканчиком любимого горячего напитка.\n\nАрхитектура.\nВ основу выбора цветового и фасадного решения легли два образа и символа Казани: снежный барс и Зилант, сказочный дракон с птичьими и змеиными чертами. Жилой комплекс состоит из 9 секций переменной этажности от 1 до 25 этажей — башни соседствуют с малоэтажными секциями, создают противопоставление высот и основных цветов. Облик сдержанных фасадов с простыми геометрическими формами оживляют открытые французские балконы.\n\nДворы.\nЖители проекта будут выходить в уютный внутренний двор, где для каждого найдется занятие по душе. Для детей — игровые пространства, для спортсменов всех возрастов — воркаут-площадки, чтобы оставаться в форме круглый год. Отрабатывайте любимые асаны йоги, сыграйте в бадминтон или соберите соседей на утреннюю зарядку.\nВходные группы.\nВозвращаться домой из путешествия с чемоданом или заходить в подъезд с коляской будет комфортно — на пути не будет ступеней и порогов. В сквозные подъезды удобно заходить и со стороны улицы, и с внутренней территории. Для легкого «транспорта» предусмотрены колясочные и велобоксы на первом этаже рядом с лифтовым холлом. А на подземном этаже расположились индивидуальные кладовые — храните здесь габаритный спортинвентарь или сезонную одежду.\n\nОтделка.\nПрисмотритесь к компактной студии или остановитесь на просторном 4-комнатном варианте. Все квартиры с увеличенной площадью остекления, из окон открывается панорамный вид на город. Есть лоты с мастер-спальнями, функциональными гардеробными, французскими балконами и лоджиями. В вашей будущей квартире будет предчистовая отделка.\n\nЛифт.\nВ доме будут безопасные и скоростные пассажирский и грузовой лифты.\n\nПарковка.\nАвтомобиль можно оставить на подземном паркинге для 639 машин.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 038 083 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 038 083",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12038083,
+      "wasLowered": false,
+      "exponent": "12,04 млн",
+      "normalizedPrice": "274 216 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Тракт Вознесенский, стр. 8",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77466",
+      "lng": "49.21044",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "тракт Вознесенский, стр. 8"
+    },
+    "developmentId": 12327117,
+    "developmentName": "ЖК «Зилант Премьер» ",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 3466925656,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_445_m_924_et._3466925656?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 44,5 м², 9/24 эт.",
+    "description": "Продается 1-комнатная квартира площадью 44,47 кв. М. На 9 этаже в строящемся 25-ти этажном доме проекта «Мой Ритм» компании «Ак Барс Дом».\n\nМой Ритм — Лучший жилой комплекс в Татарстане в 2023, занял призовые места в номинациях «Лучший жилой комплекс-новостройка в Татарстане» и «Лучший проект в РФ, масштабная застройка свободных территорий» по версии Единого ресурса застройщиков РФ.\n\nСовременный жилой комплекс на пр. Победы рядом с Вознесенским трактом, торговым центром Мега и станцией метро на территории.\n\nПреимущества:\n\nшколы, детские сады — на территории ЖК;\n\nкафе и магазины, салоны красоты, спортивные залы, аптеки;\n\nметро станция Тулпар — планируется на территории ЖК;\n\nгоркинско-ометьевский парк рядом;\n\nрядом торговые центры: «Мега», «Южный», «Агропарк», «Максидом»;\n\nтерритория благоустроена: экологичные детские площадки, спортивные зоны с резиновым покрытием, озеленение;\n\nигровой парк Озеро дракона на 1 гектар с зонами активности и отдыха;\n\nзакрытый двор, повышенная безопасность;\n\nдля комфорта наземный многоуровневый паркинг;\n\nпросторный подъезд с колясочной, вход на уровне земли.\n\nУдобные Планировки:\n\nКомнаты правильной формы, функциональная прихожая и кухня, высокие потолки, места для хранения.\n\nВстроенный функционал «умной квартиры» — системы, которая позволяет управлять жильём дистанционно.\n\nПриобрести Квартиру Можно:\n\n— наличным и безналичным расчётом по 100% оплате и рассрочке;\n\n— с использованием маткапитала;\n\n— с использованием жилищных сертификатов;\n\n— в ипотеку;\n\n— онлайн покупка.\n\nПодбор Квартиры:\n\nПодбор квартиры, полное юридическое сопровождение сделки — Бесплатно.\n\nНаши специалисты помогут вам в решении вопроса приобретения недвижимости с момента консультации до момента передачи ключа от квартиры.\n\nМой Ритм — это не просто комфортные квартиры, это образ жизни, продуманный до мелочей.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 157 523 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 157 523",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11157523,
+      "wasLowered": false,
+      "exponent": "11,16 млн",
+      "normalizedPrice": "250 731 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Ул. Патриса Лумумбы, стр. 4"
+    },
+    "coords": {
+      "lat": "55.78844",
+      "lng": "49.20808",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Патриса Лумумбы, стр. 4"
+    },
+    "developmentId": 66833,
+    "developmentName": "ЖК «Мой Ритм»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8257725981,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_453_m_1019_et._8257725981?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 45,3 м², 10/19 эт.",
+    "description": "Номер квартиры: 296.\n\nЭтаж: 10.\n\nПлощадь: 45.29.\n\nКорпус: ЖК «Октава». Жилой комплекс «Октава» реализован с использованием качественных строительных материалов, что обеспечивает тепло- и шумоизоляцию помещений. Это современное пространство, созданное для комфортной жизни. В комплексе представлены различные варианты планировок. Внутри квартиры предоставляются без отделки, что позволяет будущим владельцам оформить их по своему усмотрению.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 160 180 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 160 180",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11160180,
+      "wasLowered": false,
+      "exponent": "11,16 млн",
+      "normalizedPrice": "246 362 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 700 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, д. 20И",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 20И",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rodiny_20/70808841?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Родины",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rodiny/5612-ASgBAgECA0SSA8YQ5geOUujIE9hXAUXcBw8idWxpdHNhX3JvZGlueSI"
+        },
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76399",
+      "lng": "49.19962",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, д. 20И"
+    },
+    "developmentId": 16397020,
+    "developmentName": "ЖК «Октава»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8321409265,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_473_m_222_et._8321409265?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 47,3 м², 2/22 эт.",
+    "description": "Номер квартиры: 146.\n\nЭтаж: 2.\n\nПлощадь: 47.34.\n\nКорпус: Башня 2. Жилой комплекс представляет собой современное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. Фасады здания выполнены с применением современных отделочных материалов, обеспечивающих эстетичный внешний вид.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 235 365 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 235 365",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12235365,
+      "wasLowered": false,
+      "exponent": "12,24 млн",
+      "normalizedPrice": "258 676 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7731",
+      "lng": "49.17704",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, стр. 1"
+    },
+    "developmentId": 16335836,
+    "developmentName": "ЖК «Город Солнца»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8257711685,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_469_m_79_et._8257711685?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 46,9 м², 7/9 эт.",
+    "description": "Номер квартиры: 529.\n\nЭтаж: 7.\n\nПлощадь: 46.93.\n\nКорпус: ЖК «Октава». Жилой комплекс «Октава» реализован с использованием качественных строительных материалов, что обеспечивает тепло- и шумоизоляцию помещений. Это современное пространство, созданное для комфортной жизни. В комплексе представлены различные варианты планировок. Внутри квартиры предоставляются без отделки, что позволяет будущим владельцам оформить их по своему усмотрению.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 413 200 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 413 200",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11413200,
+      "wasLowered": false,
+      "exponent": "11,41 млн",
+      "normalizedPrice": "243 352 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 700 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, д. 20И",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 20И",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rodiny_20/70808841?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Родины",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rodiny/5612-ASgBAgECA0SSA8YQ5geOUujIE9hXAUXcBw8idWxpdHNhX3JvZGlueSI"
+        },
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76399",
+      "lng": "49.19962",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, д. 20И"
+    },
+    "developmentId": 16397020,
+    "developmentName": "ЖК «Октава»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8417716789,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_443_m_1317_et._8417716789?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 44,3 м², 13/17 эт.",
+    "description": "Номер квартиры: 876.\n\nЭтаж: 13.\n\nПлощадь: 44.26.\n\nКорпус: Корпус 5 (2 этап). Казань окружена легендами, поэтому поверить в чудеса здесь очень просто. И мечтать свободно. Например, о собственной квартире с видом на тихий двор, где хочется печь блины и смотреть любимые фильмы. Все сбудется в жилом комплексе «Манзара».\n\nВыбирайте эргономичную 1-комнатную квартиру или просторную 4-комнатную евроформата. Все варианты с увеличенными окнами, есть лоты с видом на город, балконами, французскими балконами и террасами. Если хотите реализовать свои интерьерные идеи — для вас лоты без отделки или предчистовой вариант.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 120 257 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 120 257",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11120257,
+      "wasLowered": false,
+      "exponent": "11,12 млн",
+      "normalizedPrice": "251 022 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Ул. Сибирский Тракт, корп. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/pr_vladimira_shneppa/70753890?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Сибирский Тракт",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/proezd_vladimira_shneppa/911703-ASgBAgECA0SSA8YQ5geOUujIE66lbwFF3AcaInByb2V6ZF92bGFkaW1pcmFfc2huZXBwYSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.81792",
+      "lng": "49.18438",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Сибирский Тракт, корп. 5"
+    },
+    "developmentId": 11114669,
+    "developmentName": "ЖК «Манзара»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8385004414,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_347_m_1825_et._8385004414?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 34,7 м², 18/25 эт.",
+    "description": "Номер квартиры: 467.\n\nЭтаж: 18.\n\nПлощадь: 34.73.\n\nКорпус: Корпус 7. Жилой комплекс «Зилант Премьер» — место в молодом районе Казани для таких же активных, предприимчивых, открытых новому людей. Новый проект вдохновлен символами города — мифическим существом Зилантом и грациозным снежным барсом. Рядом скоро откроются коворкинги для удаленной работы, зоны отдыха для выходных с семьей, кафе и рестораны для встреч с друзьями. Горкинско-Ометьевский лес станет любимым местом для прогулок и спорта.\n\nТранспортная доступность.\nДо кремля можно добраться за 20 минут приятной поездки на авто под любимую музыку. Остановка общественного транспорта находится прямо рядом с жилым комплексом. В получасе пешей прогулки находится станция метро «Горки». А уже к 2027 году в пешей доступности от жилого комплекса планируется открытие новой станции «Тулпар».\n\nИнфраструктура.\nВ шаговой доступности уже работают 3 школы, 2 детских сада и поликлиника. Скоро рядом с проектом появится еще одна школа, поликлиника и собственный детский сад прямо в жилом комплексе. А на первых этажах секций откроются магазины, кафе и сервисы. Еще в пешей доступности находятся торгово-развлекательные центры «Мега Казань» и «Южный».\n\nПарки.\nТочкой притяжения для прогулок и занятий спортом на свежем воздухе станет парк «Горкинско-Ометьевский лес». Летом в парке занимаются бегом и велоспортом, а зимой открывают сезон лыжных кроссов. Для семей с детьми предусмотрены игровые площадки с горками и качелями из природных материалов и экологические тропы для долгих прогулок со стаканчиком любимого горячего напитка.\n\nАрхитектура.\nВ основу выбора цветового и фасадного решения легли два образа и символа Казани: снежный барс и Зилант, сказочный дракон с птичьими и змеиными чертами. Жилой комплекс состоит из 9 секций переменной этажности от 1 до 25 этажей — башни соседствуют с малоэтажными секциями, создают противопоставление высот и основных цветов. Облик сдержанных фасадов с простыми геометрическими формами оживляют открытые французские балконы.\n\nДворы.\nЖители проекта будут выходить в уютный внутренний двор, где для каждого найдется занятие по душе. Для детей — игровые пространства, для спортсменов всех возрастов — воркаут-площадки, чтобы оставаться в форме круглый год. Отрабатывайте любимые асаны йоги, сыграйте в бадминтон или соберите соседей на утреннюю зарядку.\nВходные группы.\nВозвращаться домой из путешествия с чемоданом или заходить в подъезд с коляской будет комфортно — на пути не будет ступеней и порогов. В сквозные подъезды удобно заходить и со стороны улицы, и с внутренней территории. Для легкого «транспорта» предусмотрены колясочные и велобоксы на первом этаже рядом с лифтовым холлом. А на подземном этаже расположились индивидуальные кладовые — храните здесь габаритный спортинвентарь или сезонную одежду.\n\nОтделка.\nПрисмотритесь к компактной студии или остановитесь на просторном 4-комнатном варианте. Все квартиры с увеличенной площадью остекления, из окон открывается панорамный вид на город. Есть лоты с мастер-спальнями, функциональными гардеробными, французскими балконами и лоджиями. В вашей будущей квартире будет предчистовая отделка.\n\nЛифт.\nВ доме будут безопасные и скоростные пассажирский и грузовой лифты.\n\nПарковка.\nАвтомобиль можно оставить на подземном паркинге для 639 машин.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 637 679 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 637 679",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11637679,
+      "wasLowered": false,
+      "exponent": "11,64 млн",
+      "normalizedPrice": "335 380 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Тракт Вознесенский, стр. 7",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77489",
+      "lng": "49.20946",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "тракт Вознесенский, стр. 7"
+    },
+    "developmentId": 12327117,
+    "developmentName": "ЖК «Зилант Премьер» ",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 3563164712,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_37_m_417_et._3563164712?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 37 м², 4/17 эт.",
+    "description": "Продается 1-комнатная квартира № 18 площадью 36,97 кв. М на 4 этаже 17-ти этажного дома проекта «Мой Ритм» от «Ак Барс Дом». Купить квартиру можно в ипотеку со ставкой от 4,5%.\n\n«Мой Ритм» — современный жилой комплекс комфорт-класса в Советском районе Казани, на пересечении пр. Победы и ул. Сахарова. Удобная транспортная развязка, развитая сеть общественного транспорта, скоро откроется станция метро «Тулпар». На территории ЖК — Многопрофильный лицей и 2 детских сада, поликлиника. Рядом Трц «Мега» и Горкинско-Ометьевский парк.\n\n«Мой Ритм» — призер Всероссийского конкурса от Единого ресурса застройщиков РФ «Топ ЖК». Авторское благоустройство: детские эко-площадки, спортивные зоны с резиновым покрытием, пешеходный бульвар и озеленение. Скоро появится большой игровой парк «Озеро дракона» с зонами активности и отдыха.\n\nДля безопасности дворы закрыты от машин и посторонних, а по периметру установлено видеонаблюдение. Паркинги с заездом по считыванию номеров, система IP-домофонии с функцией Face-ID, возможности «умного» дома для вашей будущей квартиры.\n\nПросторная 1-комнатная квартира с гостиной в 16 кв. М. Отдельная кухня, из которой открывается выход на лоджию увеличенного размера. Высокие потолки 2,7 м, правильная геометрия комнат для удобной меблировки. В прихожей есть отдельная кладовая комната, где будет удобно разместить полки и хранить вещи.\n\nУход за домом возьмёт на себя УК «Всегда рядом». Благодаря грамотно выстроенной системе, обслуживание квартиры через управляющую компанию «Всегда рядом» будет обходиться дешевле по сравнению с другими. Опытные специалисты помогут вам обеспечить комфортное проживание.\n\nДом там, где мы.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 294 335 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 294 335",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11294335,
+      "wasLowered": false,
+      "exponent": "11,29 млн",
+      "normalizedPrice": "305 252 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,9 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Патриса Лумумбы, стр. 1.2",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78412",
+      "lng": "49.20889",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Патриса Лумумбы, стр. 1.2"
+    },
+    "developmentId": 66833,
+    "developmentName": "ЖК «Мой Ритм»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 7937745405,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_347_m_2025_et._7937745405?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 34,7 м², 20/25 эт.",
+    "description": "Номер квартиры: 849.\n\nЭтаж: 20.\n\nПлощадь: 34.73.\n\nКорпус: Корпус 9. Жилой комплекс «Зилант Премьер» — место в молодом районе Казани для таких же активных, предприимчивых, открытых новому людей. Новый проект вдохновлен символами города — мифическим существом Зилантом и грациозным снежным барсом. Рядом скоро откроются коворкинги для удаленной работы, зоны отдыха для выходных с семьей, кафе и рестораны для встреч с друзьями. Горкинско-Ометьевский лес станет любимым местом для прогулок и спорта.\n\nТранспортная доступность.\nДо кремля можно добраться за 20 минут приятной поездки на авто под любимую музыку. Остановка общественного транспорта находится прямо рядом с жилым комплексом. В получасе пешей прогулки находится станция метро «Горки». А уже к 2027 году в пешей доступности от жилого комплекса планируется открытие новой станции «Тулпар».\n\nИнфраструктура.\nВ шаговой доступности уже работают 3 школы, 2 детских сада и поликлиника. Скоро рядом с проектом появится еще одна школа, поликлиника и собственный детский сад прямо в жилом комплексе. А на первых этажах секций откроются магазины, кафе и сервисы. Еще в пешей доступности находятся торгово-развлекательные центры «Мега Казань» и «Южный».\n\nПарки.\nТочкой притяжения для прогулок и занятий спортом на свежем воздухе станет парк «Горкинско-Ометьевский лес». Летом в парке занимаются бегом и велоспортом, а зимой открывают сезон лыжных кроссов. Для семей с детьми предусмотрены игровые площадки с горками и качелями из природных материалов и экологические тропы для долгих прогулок со стаканчиком любимого горячего напитка.\n\nАрхитектура.\nВ основу выбора цветового и фасадного решения легли два образа и символа Казани: снежный барс и Зилант, сказочный дракон с птичьими и змеиными чертами. Жилой комплекс состоит из 9 секций переменной этажности от 1 до 25 этажей — башни соседствуют с малоэтажными секциями, создают противопоставление высот и основных цветов. Облик сдержанных фасадов с простыми геометрическими формами оживляют открытые французские балконы.\n\nДворы.\nЖители проекта будут выходить в уютный внутренний двор, где для каждого найдется занятие по душе. Для детей — игровые пространства, для спортсменов всех возрастов — воркаут-площадки, чтобы оставаться в форме круглый год. Отрабатывайте любимые асаны йоги, сыграйте в бадминтон или соберите соседей на утреннюю зарядку.\nВходные группы.\nВозвращаться домой из путешествия с чемоданом или заходить в подъезд с коляской будет комфортно — на пути не будет ступеней и порогов. В сквозные подъезды удобно заходить и со стороны улицы, и с внутренней территории. Для легкого «транспорта» предусмотрены колясочные и велобоксы на первом этаже рядом с лифтовым холлом. А на подземном этаже расположились индивидуальные кладовые — храните здесь габаритный спортинвентарь или сезонную одежду.\n\nОтделка.\nПрисмотритесь к компактной студии или остановитесь на просторном 4-комнатном варианте. Все квартиры с увеличенной площадью остекления, из окон открывается панорамный вид на город. Есть лоты с мастер-спальнями, функциональными гардеробными, французскими балконами и лоджиями. В вашей будущей квартире будет предчистовая отделка.\n\nЛифт.\nВ доме будут безопасные и скоростные пассажирский и грузовой лифты.\n\nПарковка.\nАвтомобиль можно оставить на подземном паркинге для 639 машин.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 599 831 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 599 831",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11599831,
+      "wasLowered": false,
+      "exponent": "11,6 млн",
+      "normalizedPrice": "334 289 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Тракт Вознесенский, стр. 9",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77438",
+      "lng": "49.21135",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "тракт Вознесенский, стр. 9"
+    },
+    "developmentId": 12327117,
+    "developmentName": "ЖК «Зилант Премьер» ",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8417832678,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_496_m_417_et._8417832678?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 49,6 м², 4/17 эт.",
+    "description": "Номер квартиры: 839.\n\nЭтаж: 4.\n\nПлощадь: 49.57.\n\nКорпус: Корпус 5 (2 этап). Казань окружена легендами, поэтому поверить в чудеса здесь очень просто. И мечтать свободно. Например, о собственной квартире с видом на тихий двор, где хочется печь блины и смотреть любимые фильмы. Все сбудется в жилом комплексе «Манзара».\n\nВыбирайте эргономичную 1-комнатную квартиру или просторную 4-комнатную евроформата. Все варианты с увеличенными окнами, есть лоты с видом на город, балконами, французскими балконами и террасами. Если хотите реализовать свои интерьерные идеи — для вас лоты без отделки или предчистовой вариант.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 188 973 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 188 973",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12188973,
+      "wasLowered": false,
+      "exponent": "12,19 млн",
+      "normalizedPrice": "245 745 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Ул. Сибирский Тракт, корп. 5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " корп. 5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/pr_vladimira_shneppa/70753890?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Сибирский Тракт",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/proezd_vladimira_shneppa/911703-ASgBAgECA0SSA8YQ5geOUujIE66lbwFF3AcaInByb2V6ZF92bGFkaW1pcmFfc2huZXBwYSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.81792",
+      "lng": "49.18438",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Сибирский Тракт, корп. 5"
+    },
+    "developmentId": 11114669,
+    "developmentName": "ЖК «Манзара»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8321660670,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_447_m_1011_et._8321660670?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 44,7 м², 10/11 эт.",
+    "description": "Номер квартиры: 382.\n\nЭтаж: 10.\n\nПлощадь: 44.70.\n\nКорпус: Урбан-блок. Жилой комплекс представляет собой современное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. Фасады здания выполнены с применением современных отделочных материалов, обеспечивающих эстетичный внешний вид.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 208 822 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 208 822",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12208822,
+      "wasLowered": false,
+      "exponent": "12,21 млн",
+      "normalizedPrice": "273 128 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7731",
+      "lng": "49.17704",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, стр. 1"
+    },
+    "developmentId": 16335836,
+    "developmentName": "ЖК «Город Солнца»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8257302727,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_343_m_2122_et._8257302727?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 34,3 м², 21/22 эт.",
+    "description": "Номер квартиры: 235.\n\nЭтаж: 21.\n\nПлощадь: 34.30.\n\nКорпус: ЖК «Эдельвейс». Жилой комплекс «Эдельвейс» представляет собой односекционное здание, построенное по монолитно-кирпичной технологии. Здание спроектировано с учетом функциональных потребностей будущих жильцов, в нем предусмотрены квартиры с различными планировочными решениями. Все квартиры сдаются с предчистовой отделкой, что позволяет владельцам самостоятельно реализовать индивидуальные проекты внутренней отделки.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 290 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 290 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11290000,
+      "wasLowered": false,
+      "exponent": "11,29 млн",
+      "normalizedPrice": "329 155 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 300 м",
+          "afterWithIcon": {
+            "text": "до 5 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Улица Юлиуса Фучика, 30А",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 30А",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_yuliusa_fuchika_30a/1485106?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "улица Юлиуса Фучика",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_yuliusa_fuchika/7401-ASgBAgECA0SSA8YQ5geOUujIE9JzAUXcBxgidWxpdHNhX3l1bGl1c2FfZnVjaGlrYSI"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.74283",
+      "lng": "49.21424",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "улица Юлиуса Фучика, 30А"
+    },
+    "developmentId": 9121408,
+    "developmentName": "ЖК «Эдельвейс»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8222247436,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_405_m_314_et._8222247436?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 40,5 м², 3/14 эт.",
+    "description": "Хотите купить квартиру с максимальной выгодой? Поставьте «+» — и мы:\n\nсделаем расчёт ипотеки и рассрочки с минимальным первоначальным взносом;\n\nрасскажем про акцию «Ремонт в подарок»;\n\nраскроем все детали по ставке 3,5% на весь срок;\n\nотправим информацию о скидках и эксклюзивных акциях на подборку квартир;\n\nпоможем получить максимальную скидку от застройщика;\n\nподарим сертификат на мебель, если вы примете решение быстро!\n\nОформляем ипотеку по паспорту — без справок с работы. А ещё можем организовать удалённый показ и помочь с покупкой онлайн!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 025 500 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 025 500",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11025500,
+      "wasLowered": false,
+      "exponent": "11,03 млн",
+      "normalizedPrice": "272 235 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Приволжский"
+        }
+      ],
+      "formattedAddress": "Ул. Рауиса Гареева, стр. 2"
+    },
+    "coords": {
+      "lat": "55.71842",
+      "lng": "49.15793",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Рауиса Гареева, стр. 2"
+    },
+    "developmentId": 8636294,
+    "developmentName": "ЖК «Фермаполис»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8385268448,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_439_m_2425_et._8385268448?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 43,9 м², 24/25 эт.",
+    "description": "Номер квартиры: 512.\n\nЭтаж: 24.\n\nПлощадь: 43.89.\n\nКорпус: Корпус 7. Жилой комплекс «Зилант Премьер» — место в молодом районе Казани для таких же активных, предприимчивых, открытых новому людей. Новый проект вдохновлен символами города — мифическим существом Зилантом и грациозным снежным барсом. Рядом скоро откроются коворкинги для удаленной работы, зоны отдыха для выходных с семьей, кафе и рестораны для встреч с друзьями. Горкинско-Ометьевский лес станет любимым местом для прогулок и спорта.\n\nТранспортная доступность.\nДо кремля можно добраться за 20 минут приятной поездки на авто под любимую музыку. Остановка общественного транспорта находится прямо рядом с жилым комплексом. В получасе пешей прогулки находится станция метро «Горки». А уже к 2027 году в пешей доступности от жилого комплекса планируется открытие новой станции «Тулпар».\n\nИнфраструктура.\nВ шаговой доступности уже работают 3 школы, 2 детских сада и поликлиника. Скоро рядом с проектом появится еще одна школа, поликлиника и собственный детский сад прямо в жилом комплексе. А на первых этажах секций откроются магазины, кафе и сервисы. Еще в пешей доступности находятся торгово-развлекательные центры «Мега Казань» и «Южный».\n\nПарки.\nТочкой притяжения для прогулок и занятий спортом на свежем воздухе станет парк «Горкинско-Ометьевский лес». Летом в парке занимаются бегом и велоспортом, а зимой открывают сезон лыжных кроссов. Для семей с детьми предусмотрены игровые площадки с горками и качелями из природных материалов и экологические тропы для долгих прогулок со стаканчиком любимого горячего напитка.\n\nАрхитектура.\nВ основу выбора цветового и фасадного решения легли два образа и символа Казани: снежный барс и Зилант, сказочный дракон с птичьими и змеиными чертами. Жилой комплекс состоит из 9 секций переменной этажности от 1 до 25 этажей — башни соседствуют с малоэтажными секциями, создают противопоставление высот и основных цветов. Облик сдержанных фасадов с простыми геометрическими формами оживляют открытые французские балконы.\n\nДворы.\nЖители проекта будут выходить в уютный внутренний двор, где для каждого найдется занятие по душе. Для детей — игровые пространства, для спортсменов всех возрастов — воркаут-площадки, чтобы оставаться в форме круглый год. Отрабатывайте любимые асаны йоги, сыграйте в бадминтон или соберите соседей на утреннюю зарядку.\nВходные группы.\nВозвращаться домой из путешествия с чемоданом или заходить в подъезд с коляской будет комфортно — на пути не будет ступеней и порогов. В сквозные подъезды удобно заходить и со стороны улицы, и с внутренней территории. Для легкого «транспорта» предусмотрены колясочные и велобоксы на первом этаже рядом с лифтовым холлом. А на подземном этаже расположились индивидуальные кладовые — храните здесь габаритный спортинвентарь или сезонную одежду.\n\nОтделка.\nПрисмотритесь к компактной студии или остановитесь на просторном 4-комнатном варианте. Все квартиры с увеличенной площадью остекления, из окон открывается панорамный вид на город. Есть лоты с мастер-спальнями, функциональными гардеробными, французскими балконами и лоджиями. В вашей будущей квартире будет предчистовая отделка.\n\nЛифт.\nВ доме будут безопасные и скоростные пассажирский и грузовой лифты.\n\nПарковка.\nАвтомобиль можно оставить на подземном паркинге для 639 машин.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 096 296 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 096 296",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12096296,
+      "wasLowered": false,
+      "exponent": "12,1 млн",
+      "normalizedPrice": "275 542 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Тракт Вознесенский, стр. 7",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77489",
+      "lng": "49.20946",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "тракт Вознесенский, стр. 7"
+    },
+    "developmentId": 12327117,
+    "developmentName": "ЖК «Зилант Премьер» ",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8161756077,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_327_m_1825_et._8161756077?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 32,7 м², 18/25 эт.",
+    "description": "Номер квартиры: 655.\n\nЭтаж: 18.\n\nПлощадь: 32.73.\n\nКорпус: Корпус 8. Жилой комплекс «Зилант Премьер» — место в молодом районе Казани для таких же активных, предприимчивых, открытых новому людей. Новый проект вдохновлен символами города — мифическим существом Зилантом и грациозным снежным барсом. Рядом скоро откроются коворкинги для удаленной работы, зоны отдыха для выходных с семьей, кафе и рестораны для встреч с друзьями. Горкинско-Ометьевский лес станет любимым местом для прогулок и спорта.\n\nТранспортная доступность.\nДо кремля можно добраться за 20 минут приятной поездки на авто под любимую музыку. Остановка общественного транспорта находится прямо рядом с жилым комплексом. В получасе пешей прогулки находится станция метро «Горки». А уже к 2027 году в пешей доступности от жилого комплекса планируется открытие новой станции «Тулпар».\n\nИнфраструктура.\nВ шаговой доступности уже работают 3 школы, 2 детских сада и поликлиника. Скоро рядом с проектом появится еще одна школа, поликлиника и собственный детский сад прямо в жилом комплексе. А на первых этажах секций откроются магазины, кафе и сервисы. Еще в пешей доступности находятся торгово-развлекательные центры «Мега Казань» и «Южный».\n\nПарки.\nТочкой притяжения для прогулок и занятий спортом на свежем воздухе станет парк «Горкинско-Ометьевский лес». Летом в парке занимаются бегом и велоспортом, а зимой открывают сезон лыжных кроссов. Для семей с детьми предусмотрены игровые площадки с горками и качелями из природных материалов и экологические тропы для долгих прогулок со стаканчиком любимого горячего напитка.\n\nАрхитектура.\nВ основу выбора цветового и фасадного решения легли два образа и символа Казани: снежный барс и Зилант, сказочный дракон с птичьими и змеиными чертами. Жилой комплекс состоит из 9 секций переменной этажности от 1 до 25 этажей — башни соседствуют с малоэтажными секциями, создают противопоставление высот и основных цветов. Облик сдержанных фасадов с простыми геометрическими формами оживляют открытые французские балконы.\n\nДворы.\nЖители проекта будут выходить в уютный внутренний двор, где для каждого найдется занятие по душе. Для детей — игровые пространства, для спортсменов всех возрастов — воркаут-площадки, чтобы оставаться в форме круглый год. Отрабатывайте любимые асаны йоги, сыграйте в бадминтон или соберите соседей на утреннюю зарядку.\nВходные группы.\nВозвращаться домой из путешествия с чемоданом или заходить в подъезд с коляской будет комфортно — на пути не будет ступеней и порогов. В сквозные подъезды удобно заходить и со стороны улицы, и с внутренней территории. Для легкого «транспорта» предусмотрены колясочные и велобоксы на первом этаже рядом с лифтовым холлом. А на подземном этаже расположились индивидуальные кладовые — храните здесь габаритный спортинвентарь или сезонную одежду.\n\nОтделка.\nПрисмотритесь к компактной студии или остановитесь на просторном 4-комнатном варианте. Все квартиры с увеличенной площадью остекления, из окон открывается панорамный вид на город. Есть лоты с мастер-спальнями, функциональными гардеробными, французскими балконами и лоджиями. В вашей будущей квартире будет предчистовая отделка.\n\nЛифт.\nВ доме будут безопасные и скоростные пассажирский и грузовой лифты.\n\nПарковка.\nАвтомобиль можно оставить на подземном паркинге для 639 машин.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 378 085 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 378 085",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11378085,
+      "wasLowered": false,
+      "exponent": "11,38 млн",
+      "normalizedPrice": "347 954 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Тракт Вознесенский, стр. 8",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77466",
+      "lng": "49.21044",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "тракт Вознесенский, стр. 8"
+    },
+    "developmentId": 12327117,
+    "developmentName": "ЖК «Зилант Премьер» ",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 7936971572,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_466_m_225_et._7936971572?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 46,6 м², 2/25 эт.",
+    "description": "Номер квартиры: 524.\n\nЭтаж: 2.\n\nПлощадь: 46.63.\n\nКорпус: Корпус 8. Жилой комплекс «Зилант Премьер» — место в молодом районе Казани для таких же активных, предприимчивых, открытых новому людей. Новый проект вдохновлен символами города — мифическим существом Зилантом и грациозным снежным барсом. Рядом скоро откроются коворкинги для удаленной работы, зоны отдыха для выходных с семьей, кафе и рестораны для встреч с друзьями. Горкинско-Ометьевский лес станет любимым местом для прогулок и спорта.\n\nТранспортная доступность.\nДо кремля можно добраться за 20 минут приятной поездки на авто под любимую музыку. Остановка общественного транспорта находится прямо рядом с жилым комплексом. В получасе пешей прогулки находится станция метро «Горки». А уже к 2027 году в пешей доступности от жилого комплекса планируется открытие новой станции «Тулпар».\n\nИнфраструктура.\nВ шаговой доступности уже работают 3 школы, 2 детских сада и поликлиника. Скоро рядом с проектом появится еще одна школа, поликлиника и собственный детский сад прямо в жилом комплексе. А на первых этажах секций откроются магазины, кафе и сервисы. Еще в пешей доступности находятся торгово-развлекательные центры «Мега Казань» и «Южный».\n\nПарки.\nТочкой притяжения для прогулок и занятий спортом на свежем воздухе станет парк «Горкинско-Ометьевский лес». Летом в парке занимаются бегом и велоспортом, а зимой открывают сезон лыжных кроссов. Для семей с детьми предусмотрены игровые площадки с горками и качелями из природных материалов и экологические тропы для долгих прогулок со стаканчиком любимого горячего напитка.\n\nАрхитектура.\nВ основу выбора цветового и фасадного решения легли два образа и символа Казани: снежный барс и Зилант, сказочный дракон с птичьими и змеиными чертами. Жилой комплекс состоит из 9 секций переменной этажности от 1 до 25 этажей — башни соседствуют с малоэтажными секциями, создают противопоставление высот и основных цветов. Облик сдержанных фасадов с простыми геометрическими формами оживляют открытые французские балконы.\n\nДворы.\nЖители проекта будут выходить в уютный внутренний двор, где для каждого найдется занятие по душе. Для детей — игровые пространства, для спортсменов всех возрастов — воркаут-площадки, чтобы оставаться в форме круглый год. Отрабатывайте любимые асаны йоги, сыграйте в бадминтон или соберите соседей на утреннюю зарядку.\nВходные группы.\nВозвращаться домой из путешествия с чемоданом или заходить в подъезд с коляской будет комфортно — на пути не будет ступеней и порогов. В сквозные подъезды удобно заходить и со стороны улицы, и с внутренней территории. Для легкого «транспорта» предусмотрены колясочные и велобоксы на первом этаже рядом с лифтовым холлом. А на подземном этаже расположились индивидуальные кладовые — храните здесь габаритный спортинвентарь или сезонную одежду.\n\nОтделка.\nПрисмотритесь к компактной студии или остановитесь на просторном 4-комнатном варианте. Все квартиры с увеличенной площадью остекления, из окон открывается панорамный вид на город. Есть лоты с мастер-спальнями, функциональными гардеробными, французскими балконами и лоджиями. В вашей будущей квартире будет предчистовая отделка.\n\nЛифт.\nВ доме будут безопасные и скоростные пассажирский и грузовой лифты.\n\nПарковка.\nАвтомобиль можно оставить на подземном паркинге для 639 машин.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 866 774 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 866 774",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11866774,
+      "wasLowered": false,
+      "exponent": "11,87 млн",
+      "normalizedPrice": "254 652 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Тракт Вознесенский, стр. 8",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77466",
+      "lng": "49.21044",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "тракт Вознесенский, стр. 8"
+    },
+    "developmentId": 12327117,
+    "developmentName": "ЖК «Зилант Премьер» ",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8161621959,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_439_m_2425_et._8161621959?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 43,9 м², 24/25 эт.",
+    "description": "Номер квартиры: 696.\n\nЭтаж: 24.\n\nПлощадь: 43.89.\n\nКорпус: Корпус 8. Жилой комплекс «Зилант Премьер» — место в молодом районе Казани для таких же активных, предприимчивых, открытых новому людей. Новый проект вдохновлен символами города — мифическим существом Зилантом и грациозным снежным барсом. Рядом скоро откроются коворкинги для удаленной работы, зоны отдыха для выходных с семьей, кафе и рестораны для встреч с друзьями. Горкинско-Ометьевский лес станет любимым местом для прогулок и спорта.\n\nТранспортная доступность.\nДо кремля можно добраться за 20 минут приятной поездки на авто под любимую музыку. Остановка общественного транспорта находится прямо рядом с жилым комплексом. В получасе пешей прогулки находится станция метро «Горки». А уже к 2027 году в пешей доступности от жилого комплекса планируется открытие новой станции «Тулпар».\n\nИнфраструктура.\nВ шаговой доступности уже работают 3 школы, 2 детских сада и поликлиника. Скоро рядом с проектом появится еще одна школа, поликлиника и собственный детский сад прямо в жилом комплексе. А на первых этажах секций откроются магазины, кафе и сервисы. Еще в пешей доступности находятся торгово-развлекательные центры «Мега Казань» и «Южный».\n\nПарки.\nТочкой притяжения для прогулок и занятий спортом на свежем воздухе станет парк «Горкинско-Ометьевский лес». Летом в парке занимаются бегом и велоспортом, а зимой открывают сезон лыжных кроссов. Для семей с детьми предусмотрены игровые площадки с горками и качелями из природных материалов и экологические тропы для долгих прогулок со стаканчиком любимого горячего напитка.\n\nАрхитектура.\nВ основу выбора цветового и фасадного решения легли два образа и символа Казани: снежный барс и Зилант, сказочный дракон с птичьими и змеиными чертами. Жилой комплекс состоит из 9 секций переменной этажности от 1 до 25 этажей — башни соседствуют с малоэтажными секциями, создают противопоставление высот и основных цветов. Облик сдержанных фасадов с простыми геометрическими формами оживляют открытые французские балконы.\n\nДворы.\nЖители проекта будут выходить в уютный внутренний двор, где для каждого найдется занятие по душе. Для детей — игровые пространства, для спортсменов всех возрастов — воркаут-площадки, чтобы оставаться в форме круглый год. Отрабатывайте любимые асаны йоги, сыграйте в бадминтон или соберите соседей на утреннюю зарядку.\nВходные группы.\nВозвращаться домой из путешествия с чемоданом или заходить в подъезд с коляской будет комфортно — на пути не будет ступеней и порогов. В сквозные подъезды удобно заходить и со стороны улицы, и с внутренней территории. Для легкого «транспорта» предусмотрены колясочные и велобоксы на первом этаже рядом с лифтовым холлом. А на подземном этаже расположились индивидуальные кладовые — храните здесь габаритный спортинвентарь или сезонную одежду.\n\nОтделка.\nПрисмотритесь к компактной студии или остановитесь на просторном 4-комнатном варианте. Все квартиры с увеличенной площадью остекления, из окон открывается панорамный вид на город. Есть лоты с мастер-спальнями, функциональными гардеробными, французскими балконами и лоджиями. В вашей будущей квартире будет предчистовая отделка.\n\nЛифт.\nВ доме будут безопасные и скоростные пассажирский и грузовой лифты.\n\nПарковка.\nАвтомобиль можно оставить на подземном паркинге для 639 машин.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 069 922 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 069 922",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12069922,
+      "wasLowered": false,
+      "exponent": "12,07 млн",
+      "normalizedPrice": "274 941 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Тракт Вознесенский, стр. 8",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77466",
+      "lng": "49.21044",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "тракт Вознесенский, стр. 8"
+    },
+    "developmentId": 12327117,
+    "developmentName": "ЖК «Зилант Премьер» ",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8321366341,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_447_m_711_et._8321366341?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 44,7 м², 7/11 эт.",
+    "description": "Номер квартиры: 364.\n\nЭтаж: 7.\n\nПлощадь: 44.70.\n\nКорпус: Урбан-блок. Жилой комплекс представляет собой современное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. Фасады здания выполнены с применением современных отделочных материалов, обеспечивающих эстетичный внешний вид.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 161 887 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 161 887",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12161887,
+      "wasLowered": false,
+      "exponent": "12,16 млн",
+      "normalizedPrice": "272 078 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7731",
+      "lng": "49.17704",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, стр. 1"
+    },
+    "developmentId": 16335836,
+    "developmentName": "ЖК «Город Солнца»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8321013609,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_405_m_924_et._8321013609?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 40,5 м², 9/24 эт.",
+    "description": "Номер квартиры: 49.\n\nЭтаж: 9.\n\nПлощадь: 40.49.\n\nКорпус: Башня 1. Жилой комплекс представляет собой современное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. Фасады здания выполнены с применением современных отделочных материалов, обеспечивающих эстетичный внешний вид.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 110 501 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 110 501",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11110501,
+      "wasLowered": false,
+      "exponent": "11,11 млн",
+      "normalizedPrice": "274 333 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7731",
+      "lng": "49.17704",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, стр. 1"
+    },
+    "developmentId": 16335836,
+    "developmentName": "ЖК «Город Солнца»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 7937642276,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_444_m_425_et._7937642276?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 44,4 м², 4/25 эт.",
+    "description": "Номер квартиры: 543.\n\nЭтаж: 4.\n\nПлощадь: 44.39.\n\nКорпус: Корпус 8. Жилой комплекс «Зилант Премьер» — место в молодом районе Казани для таких же активных, предприимчивых, открытых новому людей. Новый проект вдохновлен символами города — мифическим существом Зилантом и грациозным снежным барсом. Рядом скоро откроются коворкинги для удаленной работы, зоны отдыха для выходных с семьей, кафе и рестораны для встреч с друзьями. Горкинско-Ометьевский лес станет любимым местом для прогулок и спорта.\n\nТранспортная доступность.\nДо кремля можно добраться за 20 минут приятной поездки на авто под любимую музыку. Остановка общественного транспорта находится прямо рядом с жилым комплексом. В получасе пешей прогулки находится станция метро «Горки». А уже к 2027 году в пешей доступности от жилого комплекса планируется открытие новой станции «Тулпар».\n\nИнфраструктура.\nВ шаговой доступности уже работают 3 школы, 2 детских сада и поликлиника. Скоро рядом с проектом появится еще одна школа, поликлиника и собственный детский сад прямо в жилом комплексе. А на первых этажах секций откроются магазины, кафе и сервисы. Еще в пешей доступности находятся торгово-развлекательные центры «Мега Казань» и «Южный».\n\nПарки.\nТочкой притяжения для прогулок и занятий спортом на свежем воздухе станет парк «Горкинско-Ометьевский лес». Летом в парке занимаются бегом и велоспортом, а зимой открывают сезон лыжных кроссов. Для семей с детьми предусмотрены игровые площадки с горками и качелями из природных материалов и экологические тропы для долгих прогулок со стаканчиком любимого горячего напитка.\n\nАрхитектура.\nВ основу выбора цветового и фасадного решения легли два образа и символа Казани: снежный барс и Зилант, сказочный дракон с птичьими и змеиными чертами. Жилой комплекс состоит из 9 секций переменной этажности от 1 до 25 этажей — башни соседствуют с малоэтажными секциями, создают противопоставление высот и основных цветов. Облик сдержанных фасадов с простыми геометрическими формами оживляют открытые французские балконы.\n\nДворы.\nЖители проекта будут выходить в уютный внутренний двор, где для каждого найдется занятие по душе. Для детей — игровые пространства, для спортсменов всех возрастов — воркаут-площадки, чтобы оставаться в форме круглый год. Отрабатывайте любимые асаны йоги, сыграйте в бадминтон или соберите соседей на утреннюю зарядку.\nВходные группы.\nВозвращаться домой из путешествия с чемоданом или заходить в подъезд с коляской будет комфортно — на пути не будет ступеней и порогов. В сквозные подъезды удобно заходить и со стороны улицы, и с внутренней территории. Для легкого «транспорта» предусмотрены колясочные и велобоксы на первом этаже рядом с лифтовым холлом. А на подземном этаже расположились индивидуальные кладовые — храните здесь габаритный спортинвентарь или сезонную одежду.\n\nОтделка.\nПрисмотритесь к компактной студии или остановитесь на просторном 4-комнатном варианте. Все квартиры с увеличенной площадью остекления, из окон открывается панорамный вид на город. Есть лоты с мастер-спальнями, функциональными гардеробными, французскими балконами и лоджиями. В вашей будущей квартире будет предчистовая отделка.\n\nЛифт.\nВ доме будут безопасные и скоростные пассажирский и грузовой лифты.\n\nПарковка.\nАвтомобиль можно оставить на подземном паркинге для 639 машин.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 799 306 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 799 306",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11799306,
+      "wasLowered": false,
+      "exponent": "11,8 млн",
+      "normalizedPrice": "265 750 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Тракт Вознесенский, стр. 8",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77466",
+      "lng": "49.21044",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "тракт Вознесенский, стр. 8"
+    },
+    "developmentId": 12327117,
+    "developmentName": "ЖК «Зилант Премьер» ",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8321042078,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_405_m_1424_et._8321042078?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 40,5 м², 14/24 эт.",
+    "description": "Номер квартиры: 79.\n\nЭтаж: 14.\n\nПлощадь: 40.49.\n\nКорпус: Башня 1. Жилой комплекс представляет собой современное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. Фасады здания выполнены с применением современных отделочных материалов, обеспечивающих эстетичный внешний вид.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 153 032 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 153 032",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11153032,
+      "wasLowered": false,
+      "exponent": "11,15 млн",
+      "normalizedPrice": "275 384 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7731",
+      "lng": "49.17704",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, стр. 1"
+    },
+    "developmentId": 16335836,
+    "developmentName": "ЖК «Город Солнца»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8321133723,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_405_m_1024_et._8321133723?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 40,5 м², 10/24 эт.",
+    "description": "Номер квартиры: 55.\n\nЭтаж: 10.\n\nПлощадь: 40.49.\n\nКорпус: Башня 1. Жилой комплекс представляет собой современное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. Фасады здания выполнены с применением современных отделочных материалов, обеспечивающих эстетичный внешний вид.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 153 032 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 153 032",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11153032,
+      "wasLowered": false,
+      "exponent": "11,15 млн",
+      "normalizedPrice": "275 384 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7731",
+      "lng": "49.17704",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, стр. 1"
+    },
+    "developmentId": 16335836,
+    "developmentName": "ЖК «Город Солнца»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8417661371,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_471_m_817_et._8417661371?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 47,1 м², 8/17 эт.",
+    "description": "Номер квартиры: 577.\n\nЭтаж: 8.\n\nПлощадь: 47.07.\n\nКорпус: Корпус 4 (2 этап). Казань окружена легендами, поэтому поверить в чудеса здесь очень просто. И мечтать свободно. Например, о собственной квартире с видом на тихий двор, где хочется печь блины и смотреть любимые фильмы. Все сбудется в жилом комплексе «Манзара».\n\nВыбирайте эргономичную 1-комнатную квартиру или просторную 4-комнатную евроформата. Все варианты с увеличенными окнами, есть лоты с видом на город, балконами, французскими балконами и террасами. Если хотите реализовать свои интерьерные идеи — для вас лоты без отделки или предчистовой вариант.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 883 501 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 883 501",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11883501,
+      "wasLowered": false,
+      "exponent": "11,88 млн",
+      "normalizedPrice": "252 304 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Ул. Сибирский Тракт, корп. 4"
+    },
+    "coords": {
+      "lat": "55.81736",
+      "lng": "49.18378",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Сибирский Тракт, корп. 4"
+    },
+    "developmentId": 11114669,
+    "developmentName": "ЖК «Манзара»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8074487537,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_48_m_1724_et._8074487537?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 48 м², 17/24 эт.",
+    "description": "Продается 1-комнатная квартира площадью 47,99 кв. М. На 17 этаже в строящемся 25-ти этажном доме проекта «Мой Ритм» компании «Ак Барс Дом».\n\nМой Ритм — Лучший жилой комплекс в Татарстане в 2023, занял призовые места в номинациях «Лучший жилой комплекс-новостройка в Татарстане» и «Лучший проект в РФ, масштабная застройка свободных территорий» по версии Единого ресурса застройщиков РФ.\n\nСовременный жилой комплекс на пр. Победы рядом с Вознесенским трактом, торговым центром Мега и станцией метро на территории.\n\nПреимущества:\n\nшколы, детские сады — на территории ЖК;\n\nкафе и магазины, салоны красоты, спортивные залы, аптеки;\n\nметро станция Тулпар — планируется на территории ЖК;\n\nгоркинско-ометьевский парк рядом;\n\nрядом торговые центры: «Мега», «Южный», «Агропарк», «Максидом»;\n\nтерритория благоустроена: экологичные детские площадки, спортивные зоны с резиновым покрытием, озеленение;\n\nигровой парк Озеро дракона на 1 гектар с зонами активности и отдыха;\n\nзакрытый двор, повышенная безопасность;\n\nдля комфорта наземный многоуровневый паркинг;\n\nпросторный подъезд с колясочной, вход на уровне земли.\n\nУдобные Планировки:\n\nКомнаты правильной формы, функциональная прихожая и кухня, высокие потолки, места для хранения.\n\nВстроенный функционал «умной квартиры» — системы, которая позволяет управлять жильём дистанционно.\n\nПриобрести Квартиру Можно:\n\n— наличным и безналичным расчётом по 100% оплате и рассрочке;\n\n— с использованием маткапитала;\n\n— с использованием жилищных сертификатов;\n\n— в ипотеку;\n\n— онлайн покупка.\n\nПодбор Квартиры:\n\nПодбор квартиры, полное юридическое сопровождение сделки — Бесплатно.\n\nНаши специалисты помогут вам в решении вопроса приобретения недвижимости с момента консультации до момента передачи ключа от квартиры.\n\nМой Ритм — это не просто комфортные квартиры, это образ жизни, продуманный до мелочей.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 354 434 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 354 434",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11354434,
+      "wasLowered": false,
+      "exponent": "11,35 млн",
+      "normalizedPrice": "236 551 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Ул. Патриса Лумумбы, стр. 12"
+    },
+    "coords": {
+      "lat": "55.78585",
+      "lng": "49.21334",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Патриса Лумумбы, стр. 12"
+    },
+    "developmentId": 66833,
+    "developmentName": "ЖК «Мой Ритм»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  },
+  {
+    "id": 8321507937,
+    "microCategoryId": 4918,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/1-k._kvartira_425_m_1014_et._8321507937?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5aFZmVGNLY3dsQkxsd0M0Ijt9AZ9l3T8AAAA",
+    "title": "1-к. квартира, 42,5 м², 10/14 эт.",
+    "description": "Номер квартиры: 448.\n\nЭтаж: 10.\n\nПлощадь: 42.54.\n\nКорпус: Урбан-блок. Жилой комплекс представляет собой современное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. Фасады здания выполнены с применением современных отделочных материалов, обеспечивающих эстетичный внешний вид.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 625 665 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 625 665",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11625665,
+      "wasLowered": false,
+      "exponent": "11,63 млн",
+      "normalizedPrice": "273 545 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7731",
+      "lng": "49.17704",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, стр. 1"
+    },
+    "developmentId": 16335836,
+    "developmentName": "ЖК «Город Солнца»",
+    "parsed_at": "2026-09-25T11:41:08.182697"
+  }
+]

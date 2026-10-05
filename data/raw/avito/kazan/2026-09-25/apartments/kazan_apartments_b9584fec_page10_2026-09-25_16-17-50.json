@@ -1,0 +1,2336 @@
+[
+  {
+    "id": 8320918432,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_317_m_510_et._8320918432?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 31,7 м², 5/10 эт.",
+    "description": "Номер квартиры: 17.\n\nЭтаж: 5.\n\nПлощадь: 31.66.\n\nКорпус: ЖК «Октава». Жилой комплекс «Октава» реализован с использованием качественных строительных материалов, что обеспечивает тепло- и шумоизоляцию помещений. Это современное пространство, созданное для комфортной жизни. В комплексе представлены различные варианты планировок. Внутри квартиры предоставляются без отделки, что позволяет будущим владельцам оформить их по своему усмотрению.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 439 500 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 439 500",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10439500,
+      "wasLowered": false,
+      "exponent": "10,44 млн",
+      "normalizedPrice": "329 322 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 700 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, д. 20И",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 20И",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rodiny_20/70808841?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Родины",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rodiny/5612-ASgBAgECA0SSA8YQ5geOUujIE9hXAUXcBw8idWxpdHNhX3JvZGlueSI"
+        },
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76399",
+      "lng": "49.19962",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, д. 20И"
+    },
+    "developmentId": 16397020,
+    "developmentName": "ЖК «Октава»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321333465,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_28_m_825_et._8321333465?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 28 м², 8/25 эт.",
+    "description": "Номер квартиры: 511.\n\nЭтаж: 8.\n\nПлощадь: 28.00.\n\nКорпус: ЖК «Аксиум». Жилой комплекс представляет собой современное монолитно-кирпичное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. В комплексе представлены различные варианты квартир: от компактных студий до просторных многокомнатных планировок с высокими потолками.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 052 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 052 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10052000,
+      "wasLowered": false,
+      "exponent": "10,05 млн",
+      "normalizedPrice": "359 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,5 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, ЖК «Аксиум»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Аксиум»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_17a1/73480075?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76989",
+      "lng": "49.096",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, ЖК «Аксиум»"
+    },
+    "developmentId": 16697507,
+    "developmentName": "ЖК «Аксиум»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8417781551,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_294_m_77_et._8417781551?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 29,4 м², 7/7 эт.",
+    "description": "Номер квартиры: 719.\n\nЭтаж: 7.\n\nПлощадь: 29.38.\n\nКорпус: Корпус 4 (2 этап). Казань окружена легендами, поэтому поверить в чудеса здесь очень просто. И мечтать свободно. Например, о собственной квартире с видом на тихий двор, где хочется печь блины и смотреть любимые фильмы. Все сбудется в жилом комплексе «Манзара».\n\nВыбирайте эргономичную 1-комнатную квартиру или просторную 4-комнатную евроформата. Все варианты с увеличенными окнами, есть лоты с видом на город, балконами, французскими балконами и террасами. Если хотите реализовать свои интерьерные идеи — для вас лоты без отделки или предчистовой вариант.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 862 993 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 862 993",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9862993,
+      "wasLowered": false,
+      "exponent": "9,86 млн",
+      "normalizedPrice": "335 476 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Ул. Сибирский Тракт, корп. 4"
+    },
+    "coords": {
+      "lat": "55.81736",
+      "lng": "49.18378",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Сибирский Тракт, корп. 4"
+    },
+    "developmentId": 11114669,
+    "developmentName": "ЖК «Манзара»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321677975,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_281_m_2025_et._8321677975?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 28,1 м², 20/25 эт.",
+    "description": "Номер квартиры: 394.\n\nЭтаж: 20.\n\nПлощадь: 28.10.\n\nКорпус: ЖК «Аксиум». Жилой комплекс представляет собой современное монолитно-кирпичное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. В комплексе представлены различные варианты квартир: от компактных студий до просторных многокомнатных планировок с высокими потолками.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 621 800 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 621 800",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10621800,
+      "wasLowered": false,
+      "exponent": "10,62 млн",
+      "normalizedPrice": "378 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,5 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, ЖК «Аксиум»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Аксиум»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_17a1/73480075?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76989",
+      "lng": "49.096",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, ЖК «Аксиум»"
+    },
+    "developmentId": 16697507,
+    "developmentName": "ЖК «Аксиум»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321653972,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_279_m_1225_et._8321653972?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 27,9 м², 12/25 эт.",
+    "description": "Номер квартиры: 318.\n\nЭтаж: 12.\n\nПлощадь: 27.90.\n\nКорпус: ЖК «Аксиум». Жилой комплекс представляет собой современное монолитно-кирпичное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. В комплексе представлены различные варианты квартир: от компактных студий до просторных многокомнатных планировок с высокими потолками.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 904 500 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 904 500",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9904500,
+      "wasLowered": false,
+      "exponent": "9,9 млн",
+      "normalizedPrice": "355 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,5 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, ЖК «Аксиум»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Аксиум»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_17a1/73480075?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76989",
+      "lng": "49.096",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, ЖК «Аксиум»"
+    },
+    "developmentId": 16697507,
+    "developmentName": "ЖК «Аксиум»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 7499735421,
+    "microCategoryId": 4930,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_336_m_1825_et._7499735421?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 33,6 м², 18/25 эт.",
+    "description": "Дом стан!\n\nКвартира с шикарным панорамным видом на Кремль, реку Казанку!\n\n«Kpыловкa Парк» — уникальный жилой комплекс бизнеc-клаcсa oт зacтрoйщика Сmу-88. Свободная планировка дает возможность зонирования, создание уникального интерьера, адаптация под любые потребности.\n\nБольшой двоp-пaрк, дизайнepские xоллы-лобби, функциoнальныe плaнировки, удобное расположение на стыке трех районов (Ново-Савиновского, Московского, Кировского) в 10 минутах от центра города и развитая инфраструктура — всё это призвано создать для вас атмосферу спокойствия и надёжности.\n\nЧистая продажа! Квартира без обременений.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 200 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 200 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9200000,
+      "wasLowered": false,
+      "exponent": "9,2 млн",
+      "normalizedPrice": "273 810 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Козья Слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,6 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Краснококшайская ул., 60",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 60",
+          "link": "https://m.avito.ru/catalog/houses/kazan/krasnokokshayskaya_ul_60/80679063?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Краснококшайская ул.",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/krasnokokshayskaya_ulitsa/14856-ASgBAgECA0SSA8YQ5geMUujIE5DoAQFF3AcbImtyYXNub2tva3NoYXlza2F5YV91bGl0c2Ei"
+        },
+        "metroLink": {
+          "text": "Козья Слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2123"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,2 · 10 отзывов",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.81129348682577",
+      "lng": "49.07449910382387",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, Краснококшайская улица, 60"
+    },
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8355622871,
+    "microCategoryId": 4930,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_323_m_1724_et._8355622871?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 32,3 м², 17/24 эт.",
+    "description": "Пpoдаю видовую студию в ЖK «Кpылoвкa Пapк» на 17 этaже (из 24), площадью 32,3 кв. М. От застройщика Сму-88.\n\nДом монолитно-кирпичный, 2025 года постройки, корпус №1. Практичная планировка без потерянных метров: каждый квадрат работает на вас.\n\nОкна выходят на Кремль, р. Казанка и р. Волга, сторона солнечная. При этом дом расположен вдали от дороги — здесь тихо даже днём. Панорамные виды и естественный свет — то, ради чего выбирают студии в высотках.\n\nИмеется 2-х уровневый подземный паркинг. Охрана 24\\7.\n\nВ ЖК «Крыловка парк» — это комплекс бизнес класса: закрытый двор с зонами отдыха, большая площадь озеленения, дизайнерские подъезды, детские игровые площадки, воркаут-зоны с уличными тренажерами.\n\nУдобная транспортная развязка, остановка общественного транспорта рядом с ЖК, до станции метро «Козья Слобода» 20 минут пешком. 10 минут на авто до Кремля.\n\nРазвитая инфраструктура: на территории новый муниципальный детский сад, ресторан 1gallery Lounge. В пешей доступности набережная Казанки, парк Петрова, Казанский государственный энергетический университета, магазин «Метро», спортивные комплексы, бассейн. Рядом также имеется всё необходимое для комфортной жизни: аптека, супермаркет, салон красоты, кафе и т. Д.\n\nОдин взрослый собственник.\n\nКод пользователя: 6884.\nНомер в базе: 13994292.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 800 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 800 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9800000,
+      "wasLowered": false,
+      "exponent": "9,8 млн",
+      "normalizedPrice": "303 406 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Козья Слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,7 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Краснококшайская ул., 60",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 60",
+          "link": "https://m.avito.ru/catalog/houses/kazan/krasnokokshayskaya_ul_60/80679063?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Краснококшайская ул.",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/krasnokokshayskaya_ulitsa/14856-ASgBAgECA0SSA8YQ5geMUujIE5DoAQFF3AcbImtyYXNub2tva3NoYXlza2F5YV91bGl0c2Ei"
+        },
+        "metroLink": {
+          "text": "Козья Слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2123"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,2 · 10 отзывов",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.810536",
+      "lng": "49.074209",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), г.о. Казань, Казань, Краснококшайская ул., 60"
+    },
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8254497870,
+    "microCategoryId": 4930,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_304_m_1719_et._8254497870?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 30,4 м², 17/19 эт.",
+    "description": "Продаётся уютная квартира студия площадью 30.4 квадратных метра, расположенная по адресу: Казань, микрорайон Волжские просторы, улица Рауиса Гареева, дом 111 корпус 2. Квартира студия расположена на 17-м этаже монолитного дома, построенного в 2019 году.\n\nЖильё идеально подойдёт тем, кто ценит комфорт и удобство проживания вдали от городской суеты. Окна квартиры выходят во двор, где расположены детская и спортивная площадки — прекрасное место для активного отдыха всей семьи. Безопасность жителей обеспечивает закрытая территория двора.\n\nДля автовладельцев предусмотрена парковка во дворе, что значительно упрощает вопрос размещения автомобиля вблизи дома. Инфраструктура района включает в себя школу, детский сад, торговый центр и парк, что делает проживание здесь максимально комфортным как для молодых семей с детьми, так и для тех, кто предпочитает активный образ жизни.\n\nИнтерьер квартиры дополнен современным качественным ремонтом, а также совмещённым санузлом. Наличие балкона позволяет обустроить дополнительное пространство под личные нужды владельца.\n\nЭта квартира станет прекрасным выбором для тех, кто мечтает о собственном уголке уединения и спокойствия среди живописной природы Казани. Приглашаем вас ознакомиться с квартирой и убедиться лично в её преимуществах. Хорошая транспортная доступность позволяет быстро добраться до любой части города.\n\nКвартира без обременений и подходит под ипотеку, что упрощает процесс покупки, полная стоимость в договоре. Все документы готовы к сделке, а мы поможем вам с оформлением.\n\nЗвоните и записывайтесь на просмотр, чтобы оценить все преимущества этого предложения. Мы всегда рады ответить на ваши вопросы и помочь с выбором вашего нового дома.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 499 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 499 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8499000,
+      "wasLowered": false,
+      "exponent": "8,5 млн",
+      "normalizedPrice": "279 572 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,5 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Рауиса Гареева, 111к2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 111к2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rauisa_gareeva_111k2/70863644?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Рауиса Гареева",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_rauisa_gareeva/422-ASgBAgECA0SSA8YQ5geMUujIE8wGAUXcBxcidWxpdHNhX3JhdWlzYV9nYXJlZXZhIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.724231",
+      "lng": "49.174884",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Рауиса Гареева, 111к2"
+    },
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8114840764,
+    "microCategoryId": 4930,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_25_m_1324_et._8114840764?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 25 м², 13/24 эт.",
+    "description": "Арт. 137658687 Представляем вашему вниманию видовую уютную квартиру с дизайнерским ремонтом в новом доме бизнес-класса «Пять звёзд»!\n\nСовременное пространство для жизни в одном из самых престижных жилых комплексов Казани.\n\nКвартира расположена на 13 этаже — открывается красивый вид на городскую панораму, много естественного света и ощущение свободы.\n\nЭта квартира идеально подходит для тех, кто ценит комфорт и стиль.\n\nВ ней уже есть вся необходимая бытовая техника и мебель, что позволит вам сразу же наслаждаться жизнью без лишних хлопот:\nСовременная техника: стиральная машина и сушилка, холодильник, плазменный телевизор со Smart TV (с активными подписками), Яндекс Станция Алиса.\nПолностью оборудованная кухня: оснащена всем необходимым для приготовления и употребления пищи.\nКомфорт круглый год: кондиционер обеспечит идеальный микроклимат в любое время.\nУстановлен водонагреватель -нет проблем с горячей водой.\nКачественный и стильный ремонт: современный дизайн создает атмосферу уюта и роскоши.\nВам останется только привезти свою мебель, чтобы жить в уюте и комфорте.\n\nЖК «Пять звёзд» — жилой комплекс бизнес-класса в центре Казани.\n\nЗакрытая охраняемая территория, двор без машин, видеонаблюдение, детские и прогулочные зоны. Четыре скоростных лифта Otis.\n\nИдеальное расположение:\n\nДом расположен в самом сердце событий-Центр семьи «Чаша», «Набережная», «Кремль», аквапарк «Ривьера».\n\nРазвитая инфраструктура района предлагает всё для комфортной жизни: кафе и рестораны, супермаркет прямо в доме, аптеки, парки и торговые центры.\n\nВ шаговой доступности метро «Козья Слобода» и остановки общественного транспорта что позволит быстро добраться в любую точку города.\n\nНе упустите свой шанс стать обладателем этой уникальной квартиры!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 700 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 700 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12700000,
+      "wasLowered": false,
+      "exponent": "12,7 млн",
+      "normalizedPrice": "508 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Козья Слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 700 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Комсомольская ул., 2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/komsomolskaya_ul_2/284146?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Комсомольская ул.",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/komsomolskaya_ulitsa/6616-ASgBAgECA0SSA8YQ5geMUujIE7BnAUXcBxYia29tc29tb2xza2F5YV91bGl0c2Ei"
+        },
+        "metroLink": {
+          "text": "Козья Слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2123"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,3 · 15 отзывов",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.8117",
+      "lng": "49.095419",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, г.о. Казань, Казань, Комсомольская ул., 2"
+    },
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8115924505,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_30_m_211_et._8115924505?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 30 м², 2/11 эт.",
+    "description": "В продаже студия на 2 этаже на улице Шаляпина.\n\nКвартира в новом проекте Клубный дом «Шаляпин XV».\n\nНовая локация на карте жилых комплексов премиум-класса в Казани. Всего 116 квартир, 10 этажей и закрытый двор-парк.\n\nДизайнерские лобби и лаунж-зоны, консьерж-сервис и собственный кинотеатр, детская игровая комната, коворкинг и репетиторская, видеонаблюдение, подземный паркинг и вместительные келлеры — предусмотрено все для вашей безопасности и высочайшего уровня комфорта. Технологии особого премиального комфорта: — Премиальные скоростные лифты - Бесключевой доступ через Face ID или смартфон - Система «Умный дом», связь с консьержем и между квартирами - Приложение для жильцов - WI-FI на всей территории дома и придомовом пространстве - Подземная парковка с системой распознавания номеров - Умная метка, автоматическое дистанционное открывание ворот паркинга - Автоматизированная система учёта энергоресурсов Архитектура дома выполнена в стиле классического минимализма, вместив в себя лучшие решения и технологии. Строгие фасады, панорамные окна в пол, высокие потолки до 3,6м, скрытые ниши для кондиционеров. Все призвано создать эстетику снаружи и несравненный комфорт внутри. Благородный голландский кирпич ручной формовки в отделке фасада, внутренний двор с ландшафтным озеленением и приятными уголками для отдыха огорожен и охраняется 24/7.\n\nSky Lounge эксплуатируемое пространство на верхнем этаже с всесезонной лаунж-зоной и зимним садом. Это приятное дополнение к приобретенной недвижимости — доступное только для резидентов «Шаляпин XV». Завораживающие виды и красота природы круглый год.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "14 100 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "14 100 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 14100000,
+      "wasLowered": false,
+      "exponent": "14,1 млн",
+      "normalizedPrice": "470 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 300 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Шаляпина, д. 93",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 93",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_kachalova_93/79938345?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Шаляпина",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_kachalova/10470-ASgBAgECA0SSA8YQ5geOUujIE8yjAQFF3AcSInVsaXRzYV9rYWNoYWxvdmEi"
+        },
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77413",
+      "lng": "49.14622",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Шаляпина, д. 93"
+    },
+    "developmentId": 8474749,
+    "developmentName": "Клубный дом «Шаляпина XV»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8259160029,
+    "microCategoryId": 4930,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_30_m_823_et._8259160029?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 30 м², 8/23 эт.",
+    "description": "Арт. 139221092 Предлагаю вашему вниманию уютную студию в жилищном комплексе бизнес класса Легенда.\n\nВ пешей доступности остановки общественного транспорта в том числе остановка метро и электричка Аметьево. Очень развитая инфраструктура. По близости есть все что нужно для комфортного проживания. Поможем с одобрением ипотеки.\n\nПримем в оплату ваше жилье.\n\nПоможем с одобрением ипатеки.\n\n. Двор Без Машин. Огороженная территория, во дворе детские и спортивные площадки, вход в магазин Магнит со двора.\n\n. Отличное Месторасположение. Вся инфраструктура в пяти минутах ходьбы: школа, детский садик, остановка транспорта, магазины, до ст. Метро «Аметьево» 7 минут пешком. Рядом улицы Даурская, Гвардейская, Зорге, Проспект Универсиады.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 600 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 600 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8600000,
+      "wasLowered": false,
+      "exponent": "8,6 млн",
+      "normalizedPrice": "286 667 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 600 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аметьевская Магистраль, 16к2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 16к2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_ametevskaya_magistral_16k2/1554397?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Аметьевская Магистраль",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_ametevskaya_magistral/679-ASgBAgECA0SSA8YQ5geMUujIE84KAUXcBx4idWxpdHNhX2FtZXRldnNrYXlhX21hZ2lzdHJhbCI"
+        },
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,4 · 5 отзывов",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.768025",
+      "lng": "49.173824",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, г.о. Казань, Казань, ул. Аметьевская Магистраль, 16к2"
+    },
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8294116904,
+    "microCategoryId": 4930,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_286_m_721_et._8294116904?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 28,6 м², 7/21 эт.",
+    "description": "Продам студию с идеальным ремонтом 28,5м! В ней очень комфортно находится и хочется остаться жить! Студия 28.5 с балконом (обшит, застеклен). Квартира полностью оборудована мебелью и техникой, Абсолютно Никаких Вложений не требует! В договоре указываем Всю Сумму, собственник один, взрослый! Нет никаких арестов и обременений! 1259235.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8000000,
+      "wasLowered": false,
+      "exponent": "8 млн",
+      "normalizedPrice": "279 720 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,1 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Братьев Батталовых, 20к2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 20к2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_bratev_battalovyh_20k2/70824363?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Братьев Батталовых",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_bratev_battalovyh/1495-ASgBAgECA0SSA8YQ5geMUujIE64XAUXcBxoidWxpdHNhX2JyYXRldl9iYXR0YWxvdnloIg"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.722056",
+      "lng": "49.186732",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), г.о. Казань, Казань, ул. Братьев Батталовых, 20к2"
+    },
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321205524,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_284_m_1025_et._8321205524?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 28,4 м², 10/25 эт.",
+    "description": "Номер квартиры: 298.\n\nЭтаж: 10.\n\nПлощадь: 28.40.\n\nКорпус: ЖК «Аксиум». Жилой комплекс представляет собой современное монолитно-кирпичное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. В комплексе представлены различные варианты квартир: от компактных студий до просторных многокомнатных планировок с высокими потолками.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 883 200 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 883 200",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9883200,
+      "wasLowered": false,
+      "exponent": "9,88 млн",
+      "normalizedPrice": "348 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,5 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, ЖК «Аксиум»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Аксиум»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_17a1/73480075?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76989",
+      "lng": "49.096",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, ЖК «Аксиум»"
+    },
+    "developmentId": 16697507,
+    "developmentName": "ЖК «Аксиум»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 4653578986,
+    "microCategoryId": 4930,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_299_m_821_et._4653578986?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 29,9 м², 8/21 эт.",
+    "description": "ЖК «Континент» по ул. Габишева, 16, 16а. Дом сдан! Проходят все виды ипотечных программ: семейная ипотека, военная ипотека, IT ипотека!\n\nДанная квартира находится на 8 этаже (также есть другие этажи и планировки). Панорамный вид из окон. Вид в сторону города.\n\nВ квартире выполнена качественная предчистовая отделка:\n\n- стяжка пола — штукатурка стен — разведена электропроводка, установлены счётчики.\n- разводка труб отопления проложена под стяжкой пола.\n- установлены конвекторные батареи.\n- квартира оснащена пластиковыми окнами.\n- сплошное остекление из алюминиевых конструкций.\n\nИнфраструктура:\nВ шаговой доступности находятся все основные объекты для комфортной жизни: больницы, магазины, школы, стадионы, парки и т. Д.\n\nТранспортная доступность:\nВ любую точку города с лёгкостью добраться позволяют многочисленные транспортные развязки и станции метро «Дубравная» и «Проспект Победы». Дом находится не далеко от улиц: Зорге, Дубравная, Сафиуллина, Фучика. Проспект Победы.\n\nБлагоустройство:\nУникальность ЖК «Континент» проявляется в комплексном подходе к застройке всей территории комплекса. Детская игровая площадка с зонами отдыха по периметру, спортивная площадка, безопасные зоны отдыха — облагороженная территория с зелеными насаждениями, удаленность зон отдыха от проезжей части, ночное освещение двора и всех площадок. Гостевая и подземная парковки.\n\nСпособы оплаты:\n100% оплата, ипотека, рассрочка. Действуют программы господдержки ипотеки! Приезжайте к нам в офис, и мы поможем в оформление ипотеки.\n\nЖдем Вашего звонка!\n\nСейчас компания осуществляет продажу квартир в ЖК «Континент» по ул. Комиссара Габишева, 16 и 16а (ст. Метро Дубравная) и ЖК «Энергия» по ул. Проточная, 12 (ст. Метро Козья Слобода).",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 970 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 970 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8970000,
+      "wasLowered": false,
+      "exponent": "8,97 млн",
+      "normalizedPrice": "300 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Дубравная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 800 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Комиссара Габишева, 16",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 16",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_komissara_gabisheva_16/70801453?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Комиссара Габишева",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_komissara_gabisheva/3100-ASgBAgECA0SSA8YQ5geMUujIE7gwAUXcBxwidWxpdHNhX2tvbWlzc2FyYV9nYWJpc2hldmEi"
+        },
+        "metroLink": {
+          "text": "Дубравная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2206"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.742671",
+      "lng": "49.231558",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Комиссара Габишева, ЖК «Континент»"
+    },
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 7937540594,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_289_m_823_et._7937540594?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 28,9 м², 8/23 эт.",
+    "description": "Номер квартиры: 309.\n\nЭтаж: 8.\n\nПлощадь: 28.94.\n\nКорпус: Корпус 2 (1 этап). Казань окружена легендами, поэтому поверить в чудеса здесь очень просто. И мечтать свободно. Например, о собственной квартире с видом на тихий двор, где хочется печь блины и смотреть любимые фильмы. Все сбудется в жилом комплексе «Манзара».\n\nВыбирайте эргономичную 1-комнатную квартиру или просторную 4-комнатную евроформата. Все варианты с увеличенными окнами, есть лоты с видом на город, балконами, французскими балконами и террасами. Если хотите реализовать свои интерьерные идеи — для вас лоты без отделки или предчистовой вариант.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 500 446 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 500 446",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9500446,
+      "wasLowered": false,
+      "exponent": "9,5 млн",
+      "normalizedPrice": "328 735 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт, 34к9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 34к9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_sibirskiy_trakt_34k9/70780306?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_sibirskiy_trakt/4024-ASgBAgECA0SSA8YQ5geOUujIE_A~AUXcBxgidWxpdHNhX3NpYmlyc2tpeV90cmFrdCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.81747",
+      "lng": "49.18425",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт, 34к9"
+    },
+    "developmentId": 11114669,
+    "developmentName": "ЖК «Манзара»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321780094,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_277_m_1825_et._8321780094?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 27,7 м², 18/25 эт.",
+    "description": "Номер квартиры: 377.\n\nЭтаж: 18.\n\nПлощадь: 27.70.\n\nКорпус: ЖК «Аксиум». Жилой комплекс представляет собой современное монолитно-кирпичное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. В комплексе представлены различные варианты квартир: от компактных студий до просторных многокомнатных планировок с высокими потолками.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 332 100 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 332 100",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10332100,
+      "wasLowered": false,
+      "exponent": "10,33 млн",
+      "normalizedPrice": "373 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,5 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, ЖК «Аксиум»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Аксиум»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_17a1/73480075?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76989",
+      "lng": "49.096",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, ЖК «Аксиум»"
+    },
+    "developmentId": 16697507,
+    "developmentName": "ЖК «Аксиум»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321735401,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_317_m_1020_et._8321735401?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 31,7 м², 10/20 эт.",
+    "description": "Номер квартиры: 317.\n\nЭтаж: 10.\n\nПлощадь: 31.71.\n\nКорпус: Корпус 1. Московский — новый проект в самом сердце Московского района. Здесь ритм мегаполиса плавно перетекает в умиротворение зеленых аллей. Проект создан для тех, кто ценит динамичную городскую жизнь, но мечтает о тихой гавани, полной комфорта и гармонии.\nВ основе концепции — единство современности и природы. Элегантная архитектура комплекса идеально дополняется живописным ландшафтным дизайном двора, превращая его в настоящий оазис для отдыха и общения. Здесь каждый найдет занятие по душе: от активных тренировок на свежем воздухе до неспешных прогулок по тенистым дорожкам.\nМосковский — это новая архитектурная доминанта района, воплощающая высочайшие стандарты качества городской среды. Выразительные фасады и переменная этажность открывают захватывающие виды на город, создавая неповторимый облик комплекса. Это больше, чем просто жилье — это новая глава в истории вашей жизни.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 999 998 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 999 998",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11999998,
+      "wasLowered": false,
+      "exponent": "12 млн",
+      "normalizedPrice": "378 549 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 500 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Профессора Мухамедьярова, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84079",
+      "lng": "49.07398",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Профессора Мухамедьярова, корп. 1"
+    },
+    "developmentId": 13747316,
+    "developmentName": "Московский",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8349267520,
+    "microCategoryId": 4930,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_301_m_1922_et._8349267520?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 30,1 м², 19/22 эт.",
+    "description": "Номер объекта: 550250. Предлагаем Вашему вниманию квартиру в новом, современном жилом комплексе Грин, В Советском районе!\nКвартира полностью обставлена и готова к проживанию!\n- Качественный ремонт.,\n- мебель, техника, есть все необходимое для комфортного проживания!\n\nКомплекс находится в районе с развитой инфраструктурой, рядом новые школы, детские сады, парк со своей набережной на берегу реки!\n- Удобные подъездные пути, остановки общественного транспорта!\n\nКвартира подходит, как для собственного проживания, так же для сдачи в аренду!\n\nФорма оплаты:\n- Проходит ипотека, подберем удобную программу и банк.,\n- Наличные.,\n- примем в оплату вторичное жилье!\n\nРядом: ЖК. Светлая Долина, ЖК. Нокса-Парк, ЖК. Лето.\n# Фарида.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8000000,
+      "wasLowered": false,
+      "exponent": "8 млн",
+      "normalizedPrice": "265 781 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Ул. Архитектора Гайнутдинова, 26к5",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 26к5",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_arhitektora_gaynutdinova_26k5/22615425?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Архитектора Гайнутдинова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/vtorichka/street/ulitsa_arhitektora_gaynutdinova/15542-ASgBAgECA0SSA8YQ5geMUujIE~zyAQFF3AchInVsaXRzYV9hcmhpdGVrdG9yYV9nYXludXRkaW5vdmEi"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "5,0 · 3 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.804066",
+      "lng": "49.225549",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, г.о. Казань, Казань, ул. Архитектора Гайнутдинова, 26к5"
+    },
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321105377,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_281_m_510_et._8321105377?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 28,1 м², 5/10 эт.",
+    "description": "Номер квартиры: 18.\n\nЭтаж: 5.\n\nПлощадь: 28.12.\n\nКорпус: ЖК «Октава». Жилой комплекс «Октава» реализован с использованием качественных строительных материалов, что обеспечивает тепло- и шумоизоляцию помещений. Это современное пространство, созданное для комфортной жизни. В комплексе представлены различные варианты планировок. Внутри квартиры предоставляются без отделки, что позволяет будущим владельцам оформить их по своему усмотрению.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 570 200 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 570 200",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9570200,
+      "wasLowered": false,
+      "exponent": "9,57 млн",
+      "normalizedPrice": "340 577 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Горки",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 700 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Родины, д. 20И",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 20И",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_rodiny_20/70808841?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Родины",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_rodiny/5612-ASgBAgECA0SSA8YQ5geOUujIE9hXAUXcBw8idWxpdHNhX3JvZGlueSI"
+        },
+        "metroLink": {
+          "text": "Горки",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2050"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76399",
+      "lng": "49.19962",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Родины, д. 20И"
+    },
+    "developmentId": 16397020,
+    "developmentName": "ЖК «Октава»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321770719,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_316_m_225_et._8321770719?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 31,6 м², 2/25 эт.",
+    "description": "Номер квартиры: 415.\n\nЭтаж: 2.\n\nПлощадь: 31.60.\n\nКорпус: ЖК «Аксиум». Жилой комплекс представляет собой современное монолитно-кирпичное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. В комплексе представлены различные варианты квартир: от компактных студий до просторных многокомнатных планировок с высокими потолками.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 859 200 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 859 200",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9859200,
+      "wasLowered": false,
+      "exponent": "9,86 млн",
+      "normalizedPrice": "312 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,5 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, ЖК «Аксиум»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Аксиум»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_17a1/73480075?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76989",
+      "lng": "49.096",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, ЖК «Аксиум»"
+    },
+    "developmentId": 16697507,
+    "developmentName": "ЖК «Аксиум»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 7937657121,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_289_m_1023_et._7937657121?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 28,9 м², 10/23 эт.",
+    "description": "Номер квартиры: 322.\n\nЭтаж: 10.\n\nПлощадь: 28.94.\n\nКорпус: Корпус 2 (1 этап). Казань окружена легендами, поэтому поверить в чудеса здесь очень просто. И мечтать свободно. Например, о собственной квартире с видом на тихий двор, где хочется печь блины и смотреть любимые фильмы. Все сбудется в жилом комплексе «Манзара».\n\nВыбирайте эргономичную 1-комнатную квартиру или просторную 4-комнатную евроформата. Все варианты с увеличенными окнами, есть лоты с видом на город, балконами, французскими балконами и террасами. Если хотите реализовать свои интерьерные идеи — для вас лоты без отделки или предчистовой вариант.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 633 974 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 633 974",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9633974,
+      "wasLowered": false,
+      "exponent": "9,63 млн",
+      "normalizedPrice": "333 356 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт, 34к9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 34к9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_sibirskiy_trakt_34k9/70780306?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_sibirskiy_trakt/4024-ASgBAgECA0SSA8YQ5geOUujIE_A~AUXcBxgidWxpdHNhX3NpYmlyc2tpeV90cmFrdCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.81747",
+      "lng": "49.18425",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт, 34к9"
+    },
+    "developmentId": 11114669,
+    "developmentName": "ЖК «Манзара»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321756682,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_284_m_1425_et._8321756682?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 28,4 м², 14/25 эт.",
+    "description": "Номер квартиры: 338.\n\nЭтаж: 14.\n\nПлощадь: 28.40.\n\nКорпус: ЖК «Аксиум». Жилой комплекс представляет собой современное монолитно-кирпичное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. В комплексе представлены различные варианты квартир: от компактных студий до просторных многокомнатных планировок с высокими потолками.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 224 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 224 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10224000,
+      "wasLowered": false,
+      "exponent": "10,22 млн",
+      "normalizedPrice": "360 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,5 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, ЖК «Аксиум»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Аксиум»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_17a1/73480075?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76989",
+      "lng": "49.096",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, ЖК «Аксиум»"
+    },
+    "developmentId": 16697507,
+    "developmentName": "ЖК «Аксиум»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8320979060,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_292_m_712_et._8320979060?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 29,2 м², 7/12 эт.",
+    "description": "Номер квартиры: 425.\n\nЭтаж: 7.\n\nПлощадь: 29.18.\n\nКорпус: Корпус 1. Московский — новый проект в самом сердце Московского района. Здесь ритм мегаполиса плавно перетекает в умиротворение зеленых аллей. Проект создан для тех, кто ценит динамичную городскую жизнь, но мечтает о тихой гавани, полной комфорта и гармонии.\nВ основе концепции — единство современности и природы. Элегантная архитектура комплекса идеально дополняется живописным ландшафтным дизайном двора, превращая его в настоящий оазис для отдыха и общения. Здесь каждый найдет занятие по душе: от активных тренировок на свежем воздухе до неспешных прогулок по тенистым дорожкам.\nМосковский — это новая архитектурная доминанта района, воплощающая высочайшие стандарты качества городской среды. Выразительные фасады и переменная этажность открывают захватывающие виды на город, создавая неповторимый облик комплекса. Это больше, чем просто жилье — это новая глава в истории вашей жизни.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 512 498 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 512 498",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11512498,
+      "wasLowered": false,
+      "exponent": "11,51 млн",
+      "normalizedPrice": "394 264 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 500 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Профессора Мухамедьярова, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84079",
+      "lng": "49.07398",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Профессора Мухамедьярова, корп. 1"
+    },
+    "developmentId": 13747316,
+    "developmentName": "Московский",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321253106,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_317_m_620_et._8321253106?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 31,7 м², 6/20 эт.",
+    "description": "Номер квартиры: 289.\n\nЭтаж: 6.\n\nПлощадь: 31.71.\n\nКорпус: Корпус 1. Московский — новый проект в самом сердце Московского района. Здесь ритм мегаполиса плавно перетекает в умиротворение зеленых аллей. Проект создан для тех, кто ценит динамичную городскую жизнь, но мечтает о тихой гавани, полной комфорта и гармонии.\nВ основе концепции — единство современности и природы. Элегантная архитектура комплекса идеально дополняется живописным ландшафтным дизайном двора, превращая его в настоящий оазис для отдыха и общения. Здесь каждый найдет занятие по душе: от активных тренировок на свежем воздухе до неспешных прогулок по тенистым дорожкам.\nМосковский — это новая архитектурная доминанта района, воплощающая высочайшие стандарты качества городской среды. Выразительные фасады и переменная этажность открывают захватывающие виды на город, создавая неповторимый облик комплекса. Это больше, чем просто жилье — это новая глава в истории вашей жизни.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 762 498 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 762 498",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11762498,
+      "wasLowered": false,
+      "exponent": "11,76 млн",
+      "normalizedPrice": "371 057 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 500 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Профессора Мухамедьярова, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84079",
+      "lng": "49.07398",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Профессора Мухамедьярова, корп. 1"
+    },
+    "developmentId": 13747316,
+    "developmentName": "Московский",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321143730,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_274_m_1425_et._8321143730?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 27,4 м², 14/25 эт.",
+    "description": "Номер квартиры: 138.\n\nЭтаж: 14.\n\nПлощадь: 27.40.\n\nКорпус: ЖК «Аксиум». Жилой комплекс представляет собой современное монолитно-кирпичное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. В комплексе представлены различные варианты квартир: от компактных студий до просторных многокомнатных планировок с высокими потолками.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 864 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 864 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9864000,
+      "wasLowered": false,
+      "exponent": "9,86 млн",
+      "normalizedPrice": "360 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,5 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, ЖК «Аксиум»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Аксиум»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_17a1/73480075?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76989",
+      "lng": "49.096",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, ЖК «Аксиум»"
+    },
+    "developmentId": 16697507,
+    "developmentName": "ЖК «Аксиум»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 7937397381,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_314_m_223_et._7937397381?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 31,4 м², 2/23 эт.",
+    "description": "Номер квартиры: 242.\n\nЭтаж: 2.\n\nПлощадь: 31.43.\n\nКорпус: Корпус 2 (1 этап). Казань окружена легендами, поэтому поверить в чудеса здесь очень просто. И мечтать свободно. Например, о собственной квартире с видом на тихий двор, где хочется печь блины и смотреть любимые фильмы. Все сбудется в жилом комплексе «Манзара».\n\nВыбирайте эргономичную 1-комнатную квартиру или просторную 4-комнатную евроформата. Все варианты с увеличенными окнами, есть лоты с видом на город, балконами, французскими балконами и террасами. Если хотите реализовать свои интерьерные идеи — для вас лоты без отделки или предчистовой вариант.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 430 169 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 430 169",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10430169,
+      "wasLowered": false,
+      "exponent": "10,43 млн",
+      "normalizedPrice": "332 171 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт, 34к9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 34к9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_sibirskiy_trakt_34k9/70780306?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_sibirskiy_trakt/4024-ASgBAgECA0SSA8YQ5geOUujIE_A~AUXcBxgidWxpdHNhX3NpYmlyc2tpeV90cmFrdCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.81747",
+      "lng": "49.18425",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт, 34к9"
+    },
+    "developmentId": 11114669,
+    "developmentName": "ЖК «Манзара»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321576702,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_343_m_811_et._8321576702?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 34,3 м², 8/11 эт.",
+    "description": "Номер квартиры: 75.\n\nЭтаж: 8.\n\nПлощадь: 34.32.\n\nКорпус: Секция 1-2. Жилой комплекс «Северный» — уникальный дом комфорт-класса в Авиастроительном районе Казани, на улице Побежимова. Квартиры практично зонированы. Комнаты имеют правильную геометрию и легко адаптируются под любой образ жизни — для себя, для большой семьи или под аренду, создавая ни с чем не сравнимую атмосферу родного дома. Квартиры в чистовой отделке. За всю работу отвечает «Северный». Для вас оставили лишь самое приятное — обустройство вашего пространства.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 622 040 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 622 040",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10622040,
+      "wasLowered": false,
+      "exponent": "10,62 млн",
+      "normalizedPrice": "309 680 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Авиастроительная",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 400 м",
+          "afterWithIcon": {
+            "text": "до 5 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Побежимова, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Авиастроительная",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2139"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.85899",
+      "lng": "49.08771",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Побежимова, стр. 1"
+    },
+    "developmentId": 15852459,
+    "developmentName": "ЖК «Северный»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321825418,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_28_m_1425_et._8321825418?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 28 м², 14/25 эт.",
+    "description": "Номер квартиры: 565.\n\nЭтаж: 14.\n\nПлощадь: 28.00.\n\nКорпус: ЖК «Аксиум». Жилой комплекс представляет собой современное монолитно-кирпичное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. В комплексе представлены различные варианты квартир: от компактных студий до просторных многокомнатных планировок с высокими потолками.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 584 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 584 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10584000,
+      "wasLowered": false,
+      "exponent": "10,58 млн",
+      "normalizedPrice": "378 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,5 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Портовая, ЖК «Аксиум»",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ЖК «Аксиум»",
+          "link": "https://m.avito.ru/catalog/houses/kazan/portovaya_ul_17a1/73480075?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Портовая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/portovaya_ulitsa/7847-ASgBAgECA0SSA8YQ5geOUujIE856AUXcBxIicG9ydG92YXlhX3VsaXRzYSI"
+        },
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76989",
+      "lng": "49.096",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Портовая, ЖК «Аксиум»"
+    },
+    "developmentId": 16697507,
+    "developmentName": "ЖК «Аксиум»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 7937044528,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_298_m_29_et._7937044528?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 29,8 м², 2/9 эт.",
+    "description": "Номер квартиры: 463.\n\nЭтаж: 2.\n\nПлощадь: 29.77.\n\nКорпус: Корпус 3 (1 этап). Казань окружена легендами, поэтому поверить в чудеса здесь очень просто. И мечтать свободно. Например, о собственной квартире с видом на тихий двор, где хочется печь блины и смотреть любимые фильмы. Все сбудется в жилом комплексе «Манзара».\n\nВыбирайте эргономичную 1-комнатную квартиру или просторную 4-комнатную евроформата. Все варианты с увеличенными окнами, есть лоты с видом на город, балконами, французскими балконами и террасами. Если хотите реализовать свои интерьерные идеи — для вас лоты без отделки или предчистовой вариант.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 113 855 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 113 855",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10113855,
+      "wasLowered": false,
+      "exponent": "10,11 млн",
+      "normalizedPrice": "339 391 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт, 34к9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 34к9",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_sibirskiy_trakt_34k9/70780306?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_sibirskiy_trakt/4024-ASgBAgECA0SSA8YQ5geOUujIE_A~AUXcBxgidWxpdHNhX3NpYmlyc2tpeV90cmFrdCI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.81747",
+      "lng": "49.18425",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Казань, улица Сибирский Тракт, 34к9"
+    },
+    "developmentId": 11114669,
+    "developmentName": "ЖК «Манзара»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  },
+  {
+    "id": 8321849758,
+    "microCategoryId": 4919,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/kvartira-studiya_275_m_922_et._8321849758?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ4TVhINWh0MzdZdGUwaFBEIjt9y5on1D8AAAA",
+    "title": "Квартира-студия, 27,5 м², 9/22 эт.",
+    "description": "Номер квартиры: 199.\n\nЭтаж: 9.\n\nПлощадь: 27.54.\n\nКорпус: Башня 2. Жилой комплекс представляет собой современное многоэтажное здание, построенное с использованием качественных строительных материалов. В состав входят несколько корпусов различной этажности, оснащенные современными инженерными системами. Фасады здания выполнены с применением современных отделочных материалов, обеспечивающих эстетичный внешний вид.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 551 300 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 551 300",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9551300,
+      "wasLowered": false,
+      "exponent": "9,55 млн",
+      "normalizedPrice": "347 320 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Аметьево",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,1 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Гвардейская, стр. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Аметьево",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2049"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.7731",
+      "lng": "49.17704",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гвардейская, стр. 1"
+    },
+    "developmentId": 16335836,
+    "developmentName": "ЖК «Город Солнца»",
+    "parsed_at": "2026-09-25T16:17:50.788353"
+  }
+]

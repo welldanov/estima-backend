@@ -1,0 +1,73 @@
+{
+  "listing_type": "land",
+  "target_transform": "log1p",
+  "features": [
+    "city_id",
+    "lat",
+    "lon",
+    "distance_to_center_km",
+    "distance_to_metro_km",
+    "land_area_m2",
+    "land_type"
+  ],
+  "categorical_features": [
+    "city_id",
+    "land_type"
+  ],
+  "city_ids": [
+    650210
+  ],
+  "coverage_radius_km": {
+    "650210": 24.9
+  },
+  "trained_at": "2026-10-05T06:24:12+00:00",
+  "data_last_seen_at": "2026-09-08T10:57:41",
+  "rows": {
+    "loaded": 533,
+    "after_duplicates": 529,
+    "after_outliers": 523,
+    "train": 340,
+    "valid": 81,
+    "test": 102
+  },
+  "best_iteration": 1038,
+  "config": {
+    "random_seed": 42,
+    "test_size": 0.2,
+    "valid_size": 0.2,
+    "outlier_quantile": 0.005,
+    "coverage_quantile": 0.99,
+    "coverage_margin": 1.25,
+    "iterations": 3000,
+    "learning_rate": 0.03,
+    "depth": 6,
+    "l2_leaf_reg": 5.0,
+    "random_strength": 1.0,
+    "loss_function": "RMSE",
+    "eval_metric": "RMSE",
+    "early_stopping_rounds": 200
+  },
+  "metrics": {
+    "median_price_baseline": {
+      "mae": 1382568.6470588236,
+      "rmse": 3202936.9579907074,
+      "r2": -0.02989162990534444,
+      "median_absolute_percentage_error": 46.25669275643891,
+      "mean_absolute_percentage_error": 84.44347795522017
+    },
+    "price_per_area_baseline": {
+      "mae": 1857408.374254049,
+      "rmse": 3136614.21942805,
+      "r2": 0.012318404858384868,
+      "median_absolute_percentage_error": 65.88628762541806,
+      "mean_absolute_percentage_error": 121.74857111957871
+    },
+    "model": {
+      "mae": 688506.9097532347,
+      "rmse": 1257042.183826257,
+      "r2": 0.8413666662891013,
+      "median_absolute_percentage_error": 22.18033742955459,
+      "mean_absolute_percentage_error": 36.610771263139235
+    }
+  }
+}

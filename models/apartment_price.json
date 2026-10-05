@@ -1,0 +1,81 @@
+{
+  "listing_type": "apartment",
+  "target_transform": "log1p",
+  "features": [
+    "city_id",
+    "lat",
+    "lon",
+    "distance_to_center_km",
+    "distance_to_metro_km",
+    "area_m2",
+    "rooms",
+    "is_studio",
+    "floor",
+    "floors_total",
+    "floor_ratio",
+    "area_per_room",
+    "is_top_floor",
+    "is_first_floor"
+  ],
+  "categorical_features": [
+    "city_id"
+  ],
+  "city_ids": [
+    650210,
+    650400
+  ],
+  "coverage_radius_km": {
+    "650210": 6.0,
+    "650400": 27.9
+  },
+  "trained_at": "2026-10-05T06:23:46+00:00",
+  "data_last_seen_at": "2026-09-25T16:49:03",
+  "rows": {
+    "loaded": 21730,
+    "after_duplicates": 18695,
+    "after_outliers": 18506,
+    "train": 11939,
+    "valid": 3111,
+    "test": 3456
+  },
+  "best_iteration": 1949,
+  "config": {
+    "random_seed": 42,
+    "test_size": 0.2,
+    "valid_size": 0.2,
+    "outlier_quantile": 0.005,
+    "coverage_quantile": 0.99,
+    "coverage_margin": 1.25,
+    "iterations": 3000,
+    "learning_rate": 0.03,
+    "depth": 6,
+    "l2_leaf_reg": 5.0,
+    "random_strength": 1.0,
+    "loss_function": "RMSE",
+    "eval_metric": "RMSE",
+    "early_stopping_rounds": 200
+  },
+  "metrics": {
+    "median_price_baseline": {
+      "mae": 5313801.060763889,
+      "rmse": 10177154.58971804,
+      "r2": -0.009596022588818753,
+      "median_absolute_percentage_error": 27.699395283936944,
+      "mean_absolute_percentage_error": 38.799058734121864
+    },
+    "price_per_area_baseline": {
+      "mae": 3539704.22408998,
+      "rmse": 7229869.91243766,
+      "r2": 0.49048631380764507,
+      "median_absolute_percentage_error": 18.923454514892452,
+      "mean_absolute_percentage_error": 22.435985920291674
+    },
+    "model": {
+      "mae": 2038192.2847156597,
+      "rmse": 4668806.02782539,
+      "r2": 0.7875256301436043,
+      "median_absolute_percentage_error": 7.655874882569996,
+      "mean_absolute_percentage_error": 11.323006017157638
+    }
+  }
+}

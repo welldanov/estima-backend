@@ -2,148 +2,71 @@
 
 CREATE TABLE IF NOT EXISTS cities (
     id INTEGER PRIMARY KEY NOT NULL,
-
-    name TEXT NOT NULL,
-
-    lat REAL NOT NULL,
-    lon REAL NOT NULL,
-
-    CHECK (lat BETWEEN -90 AND 90),
-
-    CHECK (lon BETWEEN -180 AND 180)
-);
-
-
--- CATEGORIES
-
-CREATE TABLE IF NOT EXISTS categories (
-    id INTEGER PRIMARY KEY NOT NULL,
-
     name TEXT NOT NULL
-);
+) STRICT;
 
 
 -- LISTINGS
 
 CREATE TABLE IF NOT EXISTS listings (
     id INTEGER PRIMARY KEY NOT NULL,
+    city_id INTEGER NOT NULL REFERENCES cities(id),
+    property_type  TEXT NOT NULL CHECK (property_type IN ('apartment', 'house', 'land')),
 
-    city_id INTEGER NOT NULL,
-    category_id INTEGER NOT NULL,
+    title TEXT NOT NULL,
+    description TEXT NOT NULL,
+    price INTEGER NOT NULL CHECK (price > 0),
 
-    price INTEGER NOT NULL,
-
-    formatted_address TEXT NOT NULL,
+    address TEXT NOT NULL,
     district TEXT,
 
-    lat REAL NOT NULL,
-    lon REAL NOT NULL,
-
-    distance_to_center_km REAL NOT NULL,
-
-    description TEXT NOT NULL,
+    lat REAL NOT NULL CHECK (lat BETWEEN -90 AND 90),
+    lon REAL NOT NULL CHECK (lon BETWEEN -180 AND 180),
 
     url TEXT NOT NULL,
-    parsed_at TEXT NOT NULL,
 
-    FOREIGN KEY (city_id)
-        REFERENCES cities(id),
-
-    FOREIGN KEY (category_id)
-        REFERENCES categories(id),
-
-
-    -- INSPECTIONS
-
-    CHECK (price > 0),
-
-    CHECK (lat BETWEEN -90 AND 90),
-
-    CHECK (lon BETWEEN -180 AND 180),
-
-    CHECK (distance_to_center_km >= 0)
-);
+    first_seen_at  TEXT NOT NULL,
+    last_seen_at   TEXT NOT NULL,
+    CHECK (first_seen_at <= last_seen_at)
+) STRICT;
 
 
 -- APARTMENTS
 
 CREATE TABLE IF NOT EXISTS apartments (
-    listing_id INTEGER PRIMARY KEY NOT NULL,
-
-    area_m2 REAL NOT NULL,
-    rooms INTEGER,
-    is_studio BOOLEAN NOT NULL,
-    floor INTEGER NOT NULL,
-    floors_total INTEGER NOT NULL,
-
-    FOREIGN KEY (listing_id)
-        REFERENCES listings(id)
-        ON DELETE CASCADE,
-
-
-    -- INSPECTIONS
-
-    CHECK (area_m2 > 0),
-
-    CHECK (
-        rooms IS NULL
-        OR rooms > 0
-    ),
-
-    CHECK (floor > 0),
-
-    CHECK (floors_total > 0),
-
-    CHECK (floor <= floors_total)
-);
+    listing_id   INTEGER PRIMARY KEY REFERENCES listings(id) ON DELETE CASCADE,
+    area_m2      REAL NOT NULL CHECK (area_m2 > 0),
+    rooms        INTEGER CHECK (rooms IS NULL OR rooms > 0),
+    is_studio    INTEGER NOT NULL CHECK (is_studio IN (0, 1)),
+    floor        INTEGER NOT NULL CHECK (floor > 0),
+    floors_total INTEGER NOT NULL CHECK (floors_total > 0),
+    CHECK (floor <= floors_total),
+    CHECK ((is_studio = 1) = (rooms IS NULL))
+) STRICT;
 
 
 -- HOUSES
 
 CREATE TABLE IF NOT EXISTS houses (
-    listing_id INTEGER PRIMARY KEY NOT NULL,
-
-    house_area_m2 REAL NOT NULL,
-    land_area_m2 REAL NOT NULL,
-
-    FOREIGN KEY (listing_id)
-        REFERENCES listings(id)
-        ON DELETE CASCADE,
-
-
-    -- INSPECTIONS
-
-    CHECK (house_area_m2 > 0),
-
-    CHECK (land_area_m2 > 0)
-);
+    listing_id    INTEGER PRIMARY KEY REFERENCES listings(id) ON DELETE CASCADE,
+    house_kind    TEXT NOT NULL CHECK (house_kind IN ('house', 'dacha', 'cottage', 'townhouse')),
+    house_area_m2 REAL NOT NULL CHECK (house_area_m2 > 0),
+    land_area_m2  REAL NOT NULL CHECK (land_area_m2 > 0)
+) STRICT;
 
 
 -- LANDS
 
 CREATE TABLE IF NOT EXISTS lands (
-    listing_id INTEGER PRIMARY KEY NOT NULL,
-
-    land_area_m2 REAL NOT NULL,
-    land_type TEXT NOT NULL,
-
-    FOREIGN KEY (listing_id)
-        REFERENCES listings(id)
-        ON DELETE CASCADE,
-
-
-    -- INSPECTIONS
-
-    CHECK (land_area_m2 > 0)
-);
+    listing_id   INTEGER PRIMARY KEY REFERENCES listings(id) ON DELETE CASCADE,
+    land_area_m2 REAL NOT NULL CHECK (land_area_m2 > 0),
+    land_type    TEXT NOT NULL CHECK (land_type IN ('izhs', 'snt_dnp', 'lph', 'industrial'))
+) STRICT;
 
 
 -- ============================================================
 
 -- INDEXES
 
-CREATE INDEX IF NOT EXISTS idx_listings_city_id
-    ON listings(city_id);
-
-CREATE INDEX IF NOT EXISTS idx_listings_category_id
-    ON listings(category_id);
+CREATE INDEX IF NOT EXISTS idx_listings_city_type
+    ON listings(city_id, property_type);

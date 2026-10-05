@@ -1,7 +1,7 @@
 [project]
-name = "real-estate-price-predictor"
+name = "estima-backend"
 version = "0.1.0"
-description = "Add your description here"
+description = "Estima backend: real estate price prediction API, ML and data pipeline"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -19,7 +19,7 @@ dependencies = [
 ]
 
 [project.scripts]
-real-estate-price-predictor = "real_estate_price_predictor:main"
+estima-backend = "estima_backend:main"
 
 [build-system]
 requires = ["uv_build>=0.12.11,<0.13.0"]

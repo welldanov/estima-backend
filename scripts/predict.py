@@ -1,4 +1,4 @@
-from real_estate_price_predictor.ml.predictor import (
+from estima_backend.ml.predictor import (
     RealEstatePredictor,
 )
 
@@ -7,13 +7,12 @@ def main() -> None:
     predictor = RealEstatePredictor()
 
     price = predictor.predict_apartment(
-        city_name="Альметьевск",
+        city_id=650210,
         lat=54.890438,
         lon=52.268565,
-        distance_to_center_km=2.3,
         area_m2=42,
         rooms=1,
-        is_studio=0,
+        is_studio=False,
         floor=8,
         floors_total=18,
     )

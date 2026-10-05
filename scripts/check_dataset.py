@@ -1,8 +1,10 @@
-from real_estate_price_predictor.config import DB_PATH
+from contextlib import closing
 
-from real_estate_price_predictor.database.connection import create_connection
+from estima_backend.config import DB_PATH
 
-from real_estate_price_predictor.ml.dataset import (
+from estima_backend.database.connection import create_connection
+
+from estima_backend.ml.dataset import (
     load_apartments,
     load_houses,
     load_lands,
@@ -10,11 +12,10 @@ from real_estate_price_predictor.ml.dataset import (
 
 
 def main():
-    conn = create_connection(DB_PATH)
-
-    apartments = load_apartments(conn)
-    houses = load_houses(conn)
-    lands = load_lands(conn)
+    with closing(create_connection(DB_PATH)) as conn:
+        apartments = load_apartments(conn)
+        houses = load_houses(conn)
+        lands = load_lands(conn)
 
     print("APARTMENTS")
     print(apartments.shape)

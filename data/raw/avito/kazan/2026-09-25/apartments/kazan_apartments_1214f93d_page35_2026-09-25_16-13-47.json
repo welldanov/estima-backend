@@ -1,0 +1,2134 @@
+[
+  {
+    "id": 8321462199,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_546_m_78_et._8321462199?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 54,6 м², 7/8 эт.",
+    "description": "Номер квартиры: 535.\n\nЭтаж: 7.\n\nПлощадь: 54.60.\n\nКорпус: Корпус 1. Московский — новый проект в самом сердце Московского района. Здесь ритм мегаполиса плавно перетекает в умиротворение зеленых аллей. Проект создан для тех, кто ценит динамичную городскую жизнь, но мечтает о тихой гавани, полной комфорта и гармонии.\nВ основе концепции — единство современности и природы. Элегантная архитектура комплекса идеально дополняется живописным ландшафтным дизайном двора, превращая его в настоящий оазис для отдыха и общения. Здесь каждый найдет занятие по душе: от активных тренировок на свежем воздухе до неспешных прогулок по тенистым дорожкам.\nМосковский — это новая архитектурная доминанта района, воплощающая высочайшие стандарты качества городской среды. Выразительные фасады и переменная этажность открывают захватывающие виды на город, создавая неповторимый облик комплекса. Это больше, чем просто жилье — это новая глава в истории вашей жизни.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "18 099 998 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "18 099 998",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 18099998,
+      "wasLowered": false,
+      "exponent": "18,1 млн",
+      "normalizedPrice": "331 502 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 500 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Профессора Мухамедьярова, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84079",
+      "lng": "49.07398",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Профессора Мухамедьярова, корп. 1"
+    },
+    "developmentId": 13747316,
+    "developmentName": "Московский",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 8449625009,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_57_m_1120_et._8449625009?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 57 м², 11/20 эт.",
+    "description": "Номер квартиры: 95.\n\nЭтаж: 11.\n\nПлощадь: 57.03.\n\nКорпус: 2 очередь. Жилой комплекс «Nova» представляет собой комплексную застройку от застройщика новастрой, выполненную в монолитно-кирпичном стиле. Это проект бизнес-класса, предлагающий разнообразие форматов жилья: от квартир с террасами и патио до просторных пентхаусов с отдельным доступом лифта на верхние этажи. Предчистовая отделка позволяет жильцам самостоятельно выбирать интерьерное решение. Жилой комплекс разделён на зоны, доступные только для жителей, что способствует сохранению приватности и комфорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "19 219 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "19 219 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 19219000,
+      "wasLowered": false,
+      "exponent": "19,22 млн",
+      "normalizedPrice": "337 175 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,8 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, д. 54",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 54",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_nikolaya_ershova_54/73060313?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Николая Ершова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_nikolaya_ershova/3371-ASgBAgECA0SSA8YQ5geOUujIE9Y0AUXcBxkidWxpdHNhX25pa29sYXlhX2Vyc2hvdmEi"
+        },
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79439",
+      "lng": "49.17445",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, д. 54"
+    },
+    "developmentId": 7960775,
+    "developmentName": "ЖК «НОВА»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7578438736,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_971_m_88_et._7578438736?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 97,1 м², 8/8 эт.",
+    "description": "Квартира в ЖК бизнес-класса Costura Town по ул. Островского.\n\nДом располагается в историческом районе Казани «Суконная Слобода». Развитая инфраструктура района обеспечивает высокое качество жизни и неограниченные возможности.\n\nПреимущества проекта:\n\nРасположение в центре города («Суконная Слобода»).\n\nЗакрытая придомовая территория.\n\nКонсьерж-сервис.\n\nСовременная авторская архитектура.\n\nПодземный паркинг.\n\nПанорамные виды.\n\nДизайнерская отделка мест общего пользования.\n\nКвартиры с террасами.\n\nВысокие потолки.\n\nВозможность установки каминов.\n\nВидеонаблюдение 24/7.\n\nРазвитая инфраструктура:\n\nКремлевская Набережная — 6 км, 12 мин. На машине Казанский Кремль — 3 км, 8 мин. На машине Сквер Филармонии — 900 м, 10 мин. Пешком Набережная озера Кабан — 900 м, 10 мин. Пешком Парк Урам — 2 км, 10 мин. На машине Театр оперы и балета — 900 м, 12 мин. Пешком.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "48 064 500 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "48 064 500",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 48064500,
+      "wasLowered": false,
+      "exponent": "48,06 млн",
+      "normalizedPrice": "495 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 400 м",
+          "afterWithIcon": {
+            "text": "до 5 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Островского, д. 110",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.77756",
+      "lng": "49.1367",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Островского, д. 110"
+    },
+    "developmentId": 5496235,
+    "developmentName": "ЖК «Costura Town» (Костура Таун)",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 8321711279,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_512_m_1012_et._8321711279?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 51,2 м², 10/12 эт.",
+    "description": "Номер квартиры: 74.\n\nЭтаж: 10.\n\nПлощадь: 51.21.\n\nКорпус: Корпус 1. Московский — новый проект в самом сердце Московского района. Здесь ритм мегаполиса плавно перетекает в умиротворение зеленых аллей. Проект создан для тех, кто ценит динамичную городскую жизнь, но мечтает о тихой гавани, полной комфорта и гармонии.\nВ основе концепции — единство современности и природы. Элегантная архитектура комплекса идеально дополняется живописным ландшафтным дизайном двора, превращая его в настоящий оазис для отдыха и общения. Здесь каждый найдет занятие по душе: от активных тренировок на свежем воздухе до неспешных прогулок по тенистым дорожкам.\nМосковский — это новая архитектурная доминанта района, воплощающая высочайшие стандарты качества городской среды. Выразительные фасады и переменная этажность открывают захватывающие виды на город, создавая неповторимый облик комплекса. Это больше, чем просто жилье — это новая глава в истории вашей жизни.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "19 149 998 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "19 149 998",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 19149998,
+      "wasLowered": false,
+      "exponent": "19,15 млн",
+      "normalizedPrice": "374 023 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Северный вокзал",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 500 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Профессора Мухамедьярова, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Северный вокзал",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2140"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.84079",
+      "lng": "49.07398",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Профессора Мухамедьярова, корп. 1"
+    },
+    "developmentId": 13747316,
+    "developmentName": "Московский",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7937825542,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_652_m_57_et._7937825542?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 65,2 м², 5/7 эт.",
+    "description": "Номер квартиры: 304.\n\nЭтаж: 5.\n\nПлощадь: 65.17.\n\nКорпус: 1 очередь. Жилой комплекс «Nova» представляет собой комплексную застройку от застройщика новастрой, выполненную в монолитно-кирпичном стиле. Это проект бизнес-класса, предлагающий разнообразие форматов жилья: от квартир с террасами и патио до просторных пентхаусов с отдельным доступом лифта на верхние этажи. Предчистовая отделка позволяет жильцам самостоятельно выбирать интерьерное решение. Жилой комплекс разделён на зоны, доступные только для жителей, что способствует сохранению приватности и комфорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "21 702 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "21 702 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 21702000,
+      "wasLowered": false,
+      "exponent": "21,7 млн",
+      "normalizedPrice": "332 853 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, д. 34/1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79403",
+      "lng": "49.17312",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, д. 34/1"
+    },
+    "developmentId": 7960775,
+    "developmentName": "ЖК «НОВА»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 4258328003,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_753_m_719_et._4258328003?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 75,3 м², 7/19 эт.",
+    "description": "Номер квартиры: 209.\n\nЭтаж: 7.\n\nПлощадь: 75.25.\n\nКорпус: 1 очередь. Жилой комплекс «Nova» представляет собой комплексную застройку от застройщика новастрой, выполненную в монолитно-кирпичном стиле. Это проект бизнес-класса, предлагающий разнообразие форматов жилья: от квартир с террасами и патио до просторных пентхаусов с отдельным доступом лифта на верхние этажи. Предчистовая отделка позволяет жильцам самостоятельно выбирать интерьерное решение. Жилой комплекс разделён на зоны, доступные только для жителей, что способствует сохранению приватности и комфорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "25 359 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "25 359 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 25359000,
+      "wasLowered": false,
+      "exponent": "25,36 млн",
+      "normalizedPrice": "336 773 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, д. 34/1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79403",
+      "lng": "49.17312",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, д. 34/1"
+    },
+    "developmentId": 7960775,
+    "developmentName": "ЖК «НОВА»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 8111428912,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_559_m_319_et._8111428912?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 55,9 м², 3/19 эт.",
+    "description": "Жилой комплекс представляет из себя современный кирпично-монолитный проект, декорированный двухцветными фасадами и лаконичными входными группами.\n\nВ проекте предложено множество планировочных решений: в наличии квартиры, как классического типа, так и европланировки. Сдаются они с подчистовой отделкой и высотой потолков 2,72 метра. Из окон открывается прекрасный вид на реку и парк.\n\nНа территории комплекса расположены современные игровые комплексы, ведется видеонаблюдение. Двор закрыт и огорожен от автомобилей. Имеется собственный детский сад.\n\nКомплекс расположен в Ново-Савиновском районе с развитой инфраструктурой — в пешей доступности находится заповедная зона, торговый центр, школы, остановки общественного транспорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "20 280 607 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "20 280 607",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 20280607,
+      "wasLowered": false,
+      "exponent": "20,28 млн",
+      "normalizedPrice": "362 802 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Ново-Савиновский"
+        }
+      ],
+      "formattedAddress": "Ул. Гаврилова, стр. 3"
+    },
+    "coords": {
+      "lat": "55.82882",
+      "lng": "49.16166",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гаврилова, стр. 3"
+    },
+    "developmentId": 6109436,
+    "developmentName": "ЖК «Счастье в Казани»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7937036009,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_761_m_420_et._7937036009?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 76,1 м², 4/20 эт.",
+    "description": "Номер квартиры: 22.\n\nЭтаж: 4.\n\nПлощадь: 76.07.\n\nКорпус: 1 очередь. Жилой комплекс «Nova» представляет собой комплексную застройку от застройщика новастрой, выполненную в монолитно-кирпичном стиле. Это проект бизнес-класса, предлагающий разнообразие форматов жилья: от квартир с террасами и патио до просторных пентхаусов с отдельным доступом лифта на верхние этажи. Предчистовая отделка позволяет жильцам самостоятельно выбирать интерьерное решение. Жилой комплекс разделён на зоны, доступные только для жителей, что способствует сохранению приватности и комфорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "25 179 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "25 179 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 25179000,
+      "wasLowered": false,
+      "exponent": "25,18 млн",
+      "normalizedPrice": "330 867 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, д. 34/1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79403",
+      "lng": "49.17312",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, д. 34/1"
+    },
+    "developmentId": 7960775,
+    "developmentName": "ЖК «НОВА»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7841543941,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_598_m_316_et._7841543941?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 59,8 м², 3/16 эт.",
+    "description": "Номер квартиры: 15.\n\nЭтаж: 3.\n\nПлощадь: 59.82.\n\nКорпус: Корпус К5, К6, К7. Жилой комплекс «Счастье в Казани» представляет собой группу монолитно-кирпичных зданий, строительство которых ведется в несколько этапов. Проектом предусмотрены просторные квартиры с разнообразными планировочными решениями, а внутренние помещения будут сданы в чистовой отделке.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "18 374 119 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "18 374 119",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 18374119,
+      "wasLowered": false,
+      "exponent": "18,37 млн",
+      "normalizedPrice": "307 260 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Ново-Савиновский"
+        }
+      ],
+      "formattedAddress": "Ул. Гаврилова, стр. 3"
+    },
+    "coords": {
+      "lat": "55.82882",
+      "lng": "49.16166",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гаврилова, стр. 3"
+    },
+    "developmentId": 6109436,
+    "developmentName": "ЖК «Счастье в Казани»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7937143841,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_57_m_219_et._7937143841?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 57 м², 2/19 эт.",
+    "description": "Номер квартиры: 161.\n\nЭтаж: 2.\n\nПлощадь: 57.03.\n\nКорпус: 1 очередь. Жилой комплекс «Nova» представляет собой комплексную застройку от застройщика новастрой, выполненную в монолитно-кирпичном стиле. Это проект бизнес-класса, предлагающий разнообразие форматов жилья: от квартир с террасами и патио до просторных пентхаусов с отдельным доступом лифта на верхние этажи. Предчистовая отделка позволяет жильцам самостоятельно выбирать интерьерное решение. Жилой комплекс разделён на зоны, доступные только для жителей, что способствует сохранению приватности и комфорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "18 706 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "18 706 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 18706000,
+      "wasLowered": false,
+      "exponent": "18,71 млн",
+      "normalizedPrice": "328 175 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, д. 34/1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79403",
+      "lng": "49.17312",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, д. 34/1"
+    },
+    "developmentId": 7960775,
+    "developmentName": "ЖК «НОВА»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7937403542,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_761_m_1320_et._7937403542?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 76,1 м², 13/20 эт.",
+    "description": "Номер квартиры: 112.\n\nЭтаж: 13.\n\nПлощадь: 76.07.\n\nКорпус: 1 очередь. Жилой комплекс «Nova» представляет собой комплексную застройку от застройщика новастрой, выполненную в монолитно-кирпичном стиле. Это проект бизнес-класса, предлагающий разнообразие форматов жилья: от квартир с террасами и патио до просторных пентхаусов с отдельным доступом лифта на верхние этажи. Предчистовая отделка позволяет жильцам самостоятельно выбирать интерьерное решение. Жилой комплекс разделён на зоны, доступные только для жителей, что способствует сохранению приватности и комфорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "27 689 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "27 689 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 27689000,
+      "wasLowered": false,
+      "exponent": "27,69 млн",
+      "normalizedPrice": "363 850 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, д. 34/1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79403",
+      "lng": "49.17312",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, д. 34/1"
+    },
+    "developmentId": 7960775,
+    "developmentName": "ЖК «НОВА»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 8257800004,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_641_m_1719_et._8257800004?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 64,1 м², 17/19 эт.",
+    "description": "Номер квартиры: 72.\n\nЭтаж: 17.\n\nПлощадь: 64.10.\n\nКорпус: ЖК «Арена». Проект жилого комплекса «Арена» представляет собой возведение 19-этажного монолитно-кирпичного здания. Застройщиком спроектированы одно- и двухкомнатные квартиры общей площадью от 40,67 до 73,32 кв. М. Внутренняя отделка не предусмотрена. Первые этажи здания займут торговые помещения.\nПроект сдан.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "22 771 525 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "22 771 525",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 22771525,
+      "wasLowered": false,
+      "exponent": "22,77 млн",
+      "normalizedPrice": "355 250 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Козья Слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,8 км",
+          "afterWithIcon": {
+            "text": "21–30 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Абдуллы Бичурина, д.13",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д.13",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_abdully_bichurina_13/70806759?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Абдуллы Бичурина",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_abdully_bichurina/122819-ASgBAgECA0SSA8YQ5geOUujIE4b_DgFF3AcaInVsaXRzYV9hYmR1bGx5X2JpY2h1cmluYSI"
+        },
+        "metroLink": {
+          "text": "Козья Слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2123"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.82151",
+      "lng": "49.12604",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Абдуллы Бичурина, д.13"
+    },
+    "developmentId": 44522,
+    "developmentName": "ЖК «Арена»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 3905627704,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_673_m_26_et._3905627704?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 67,3 м², 2/6 эт.",
+    "description": "Номер квартиры: 4.\n\nЭтаж: 2.\n\nПлощадь: 67.30.\n\nКорпус: Концепт-комплекс «Максат». Концепт-комплекс «Максат» — это монолитно-кирпичное здание, возведенное застройщиком новастрой в историческом центре города. Комплекс предоставляет разнообразные планировки одно- до четырехкомнатных квартир с общей площадью от 40.31 до 129.43 кв. М. Внутренняя отделка не проводится, что дает жильцам возможность оформить свои квартиры по собственному вкусу. Жилой комплекс относят к категории бизнес-класса, что обеспечивает высокий уровень комфорта и престижности проживания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "22 421 666 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "22 421 666",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 22421666,
+      "wasLowered": false,
+      "exponent": "22,42 млн",
+      "normalizedPrice": "333 160 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,2 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Галиаскара Камала, д. 39",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78089",
+      "lng": "49.10658",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Галиаскара Камала, д. 39"
+    },
+    "developmentId": 3934851,
+    "developmentName": "Концепт-комплекс «Максат»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 8111763187,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_691_m_56_et._8111763187?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 69,1 м², 5/6 эт.",
+    "description": "Жилой комплекс состоит из 6 домов с экстерьером в стиле английской промышленной архитектуры. Фасады из керамического кирпича серо-бежевого и винно-красного цветов подчеркивают строгость здания и историческую особенность места. Переменная этажность, террасы и скошенные углы зданий добавляют внешнему облику домов динамику большого города. Обилие стекла, вертикальные балки и арочные конструкции воссоздают промышленную тематику и придают комплексу современный вид. Холлы с авторским дизайн-проектом выполнены в современном стиле с использованием натуральных природных оттенков: текстуры мрамора темных и светлых тонов, акцентные вставки из стекла и металла. Первые этажи здания отведены под коммерческие помещения.\nВ жилом комплексе большое разнообразие планировок: уникальные двухуровневые квартиры, компактные однокомнатные, евроварианты с просторными кухнями-гостиными, приватные и практичные — с мастер-спальнями, с ванными и гардеробными, с кладовыми и постирочными. Предусмотрены квартиры с зимними садами и террасами.\nНа территории комплекса предусмотрен детский сад и школа. Во дворах спроектированы лаунж-зоны, игровые пространства для детей. Имеется подземный паркинг с системой автоматического распознавания номеров, станциями для заряда электромобилей. Территория двора, включая вход в подъезд и паркинг, оборудована видеонаблюдением и охраной.\nЖилой комплекс расположен в Кировском районе с богатой торговой и социальной инфраструктурой. За территорией домов предусмотрены спортивные зоны с фитнес-станциями, бульвар, сквер, большая игровая зона с локациями по интересам для всех возрастов. До центра Казани дорога занимает 10 минут на автомобиле, до ближайших остановок общественного транспорта — 10 минут пешком.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "19 900 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "19 900 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 19900000,
+      "wasLowered": false,
+      "exponent": "19,9 млн",
+      "normalizedPrice": "287 988 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Козья Слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Адмиралтейская, д. 2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 2",
+          "link": "https://m.avito.ru/catalog/houses/kazan/admiralteyskaya_ul_2/73335184?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Адмиралтейская",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/admiralteyskaya_ulitsa/75565-ASgBAgECA0SSA8YQ5geOUujIE9qcCQFF3AcYImFkbWlyYWx0ZXlza2F5YV91bGl0c2Ei"
+        },
+        "metroLink": {
+          "text": "Козья Слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2123"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.80387",
+      "lng": "49.05581",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Адмиралтейская, д. 2"
+    },
+    "developmentId": 6985792,
+    "developmentName": "ЖК «Статум»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7521557064,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_611_m_89_et._7521557064?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 61,1 м², 8/9 эт.",
+    "description": "Номер квартиры: 37.\n\nЭтаж: 8.\n\nПлощадь: 61.10.\n\nКорпус: ПК-14. Жилой комплекс «Солнечный город» представляет собой группу зданий, выполненных из кирпича и панелей. В застройке предусмотрены квартиры с различными планировками — от одно- до четырехкомнатных. Общая площадь квартир варьируется от 41,3 до 102,83 кв. М. В квартирах выполнена предчистовая отделки. Высота потолков и количество корпусов либо секций не указаны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 963 400 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 963 400",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17963400,
+      "wasLowered": false,
+      "exponent": "17,96 млн",
+      "normalizedPrice": "294 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Проспект Победы",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Баки Урманче, д. 12",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 12",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_baki_urmanche_12/103405681?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Баки Урманче",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_baki_urmanche/4744-ASgBAgECA0SSA8YQ5geOUujIE5BKAUXcBxYidWxpdHNhX2Jha2lfdXJtYW5jaGUi"
+        },
+        "metroLink": {
+          "text": "Проспект Победы",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2051"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.73043",
+      "lng": "49.16779",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Баки Урманче, д. 12"
+    },
+    "developmentId": 25952,
+    "developmentName": "ЖК «Солнечный город»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7937269299,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_775_m_918_et._7937269299?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 77,5 м², 9/18 эт.",
+    "description": "Номер квартиры: 76.\n\nЭтаж: 9.\n\nПлощадь: 77.49.\n\nКорпус: Дом 16. Жилой комплекс «Арт Премиум» представляет собой комплексную застройку, состоящую из разносекционных монолитно-кирпичных и кирпичных зданий.\n\nЗастройщиком спроектированы квартиры с различными планировками: от одно- до трехкомнатных, общей площадью от 39,71 до 458,42 кв. М. Внутренняя отделка не выполняется.\n\nБлагоустройство прилегающей территории включает в себя организацию детских и спортивных площадок, зон отдыха и озеленение. Предусмотрены открытые гостевые парковки и двухуровневый подземный паркинг. В шаговой доступности находятся детские сады, школы, медицинские учреждения, ТЦ и парк.\n\nСтроительство ведется в несколько этапов. Часть домов введена в эксплуатацию. Срок сдачи дома 16 запланирован на 4 квартал 2027 года.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "31 910 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "31 910 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 31910000,
+      "wasLowered": false,
+      "exponent": "31,91 млн",
+      "normalizedPrice": "411 742 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, стр. 16"
+    },
+    "coords": {
+      "lat": "55.79917",
+      "lng": "49.18482",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, стр. 16"
+    },
+    "developmentId": 29769,
+    "developmentName": "ЖК «АРТ ПРЕМИУМ» ",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 8111208408,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_528_m_719_et._8111208408?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 52,8 м², 7/19 эт.",
+    "description": "Жилой комплекс представляет из себя современный кирпично-монолитный проект, декорированный двухцветными фасадами и лаконичными входными группами.\n\nВ проекте предложено множество планировочных решений: в наличии квартиры, как классического типа, так и европланировки. Сдаются они с подчистовой отделкой и высотой потолков 2,72 метра. Из окон открывается прекрасный вид на реку и парк.\n\nНа территории комплекса расположены современные игровые комплексы, ведется видеонаблюдение. Двор закрыт и огорожен от автомобилей. Имеется собственный детский сад.\n\nКомплекс расположен в Ново-Савиновском районе с развитой инфраструктурой — в пешей доступности находится заповедная зона, торговый центр, школы, остановки общественного транспорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "19 083 221 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "19 083 221",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 19083221,
+      "wasLowered": false,
+      "exponent": "19,08 млн",
+      "normalizedPrice": "361 425 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Ново-Савиновский"
+        }
+      ],
+      "formattedAddress": "Ул. Гаврилова, стр. 3"
+    },
+    "coords": {
+      "lat": "55.82882",
+      "lng": "49.16166",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гаврилова, стр. 3"
+    },
+    "developmentId": 6109436,
+    "developmentName": "ЖК «Счастье в Казани»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 8111588662,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_589_m_612_et._8111588662?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 58,9 м², 6/12 эт.",
+    "description": "Жилой комплекс представляет из себя современный кирпично-монолитный проект, декорированный двухцветными фасадами и лаконичными входными группами.\n\nВ проекте предложено множество планировочных решений: в наличии квартиры, как классического типа, так и европланировки. Сдаются они с подчистовой отделкой и высотой потолков 2,72 метра. Из окон открывается прекрасный вид на реку и парк.\n\nНа территории комплекса расположены современные игровые комплексы, ведется видеонаблюдение. Двор закрыт и огорожен от автомобилей. Имеется собственный детский сад.\n\nКомплекс расположен в Ново-Савиновском районе с развитой инфраструктурой — в пешей доступности находится заповедная зона, торговый центр, школы, остановки общественного транспорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "20 433 079 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "20 433 079",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 20433079,
+      "wasLowered": false,
+      "exponent": "20,43 млн",
+      "normalizedPrice": "346 911 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Ново-Савиновский"
+        }
+      ],
+      "formattedAddress": "Ул. Гаврилова, стр. 3"
+    },
+    "coords": {
+      "lat": "55.82882",
+      "lng": "49.16166",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гаврилова, стр. 3"
+    },
+    "developmentId": 6109436,
+    "developmentName": "ЖК «Счастье в Казани»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 8211073884,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_66_m_17_et._8211073884?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 66 м², 1/7 эт.",
+    "description": "Жилой комплекс состоит из 6 домов с экстерьером в стиле английской промышленной архитектуры. Фасады из керамического кирпича серо-бежевого и винно-красного цветов подчеркивают строгость здания и историческую особенность места. Переменная этажность, террасы и скошенные углы зданий добавляют внешнему облику домов динамику большого города. Обилие стекла, вертикальные балки и арочные конструкции воссоздают промышленную тематику и придают комплексу современный вид. Холлы с авторским дизайн-проектом выполнены в современном стиле с использованием натуральных природных оттенков: текстуры мрамора темных и светлых тонов, акцентные вставки из стекла и металла. Первые этажи здания отведены под коммерческие помещения.\nВ жилом комплексе большое разнообразие планировок: уникальные двухуровневые квартиры, компактные однокомнатные, евроварианты с просторными кухнями-гостиными, приватные и практичные — с мастер-спальнями, с ванными и гардеробными, с кладовыми и постирочными. Предусмотрены квартиры с зимними садами и террасами.\nНа территории комплекса предусмотрен детский сад и школа. Во дворах спроектированы лаунж-зоны, игровые пространства для детей. Имеется подземный паркинг с системой автоматического распознавания номеров, станциями для заряда электромобилей. Территория двора, включая вход в подъезд и паркинг, оборудована видеонаблюдением и охраной.\nЖилой комплекс расположен в Кировском районе с богатой торговой и социальной инфраструктурой. За территорией домов предусмотрены спортивные зоны с фитнес-станциями, бульвар, сквер, большая игровая зона с локациями по интересам для всех возрастов. До центра Казани дорога занимает 10 минут на автомобиле, до ближайших остановок общественного транспорта — 10 минут пешком.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 900 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 900 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17900000,
+      "wasLowered": false,
+      "exponent": "17,9 млн",
+      "normalizedPrice": "271 212 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Козья Слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Адмиралтейская, стр. 3",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Козья Слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2123"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.80395",
+      "lng": "49.05631",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Адмиралтейская, стр. 3"
+    },
+    "developmentId": 6985792,
+    "developmentName": "ЖК «Статум»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7937506354,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_549_m_1219_et._7937506354?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 54,9 м², 12/19 эт.",
+    "description": "Номер квартиры: 257.\n\nЭтаж: 12.\n\nПлощадь: 54.88.\n\nКорпус: 1 очередь. Жилой комплекс «Nova» представляет собой комплексную застройку от застройщика новастрой, выполненную в монолитно-кирпичном стиле. Это проект бизнес-класса, предлагающий разнообразие форматов жилья: от квартир с террасами и патио до просторных пентхаусов с отдельным доступом лифта на верхние этажи. Предчистовая отделка позволяет жильцам самостоятельно выбирать интерьерное решение. Жилой комплекс разделён на зоны, доступные только для жителей, что способствует сохранению приватности и комфорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "19 921 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "19 921 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 19921000,
+      "wasLowered": false,
+      "exponent": "19,92 млн",
+      "normalizedPrice": "362 860 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, д. 34/1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79403",
+      "lng": "49.17312",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, д. 34/1"
+    },
+    "developmentId": 7960775,
+    "developmentName": "ЖК «НОВА»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 8353366573,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_1371_m_47_et._8353366573?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 137,1 м², 4/7 эт.",
+    "description": "Номер квартиры: 23.\n\nЭтаж: 4.\n\nПлощадь: 137.11.\n\nКорпус: Корпус 5. Жилой комплекс «Заман» реализуется в формате комплексной застройки, включающей 5 монолитно-кирпичных зданий. В рамках проекта предоставятся квартиры с разными планировками. Внутри квартиры предоставляются без отделки, что позволяет будущим владельцам оформить их по своему усмотрению. Ближайшая станция метро находится в 10-15 минутах ходьбы.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "111 978 730 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "111 978 730",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 111978730,
+      "wasLowered": false,
+      "exponent": "111,98 млн",
+      "normalizedPrice": "816 767 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,5 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Карла Маркса, д. 76",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79187",
+      "lng": "49.1451",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Карла Маркса, д. 76"
+    },
+    "developmentId": 11642304,
+    "developmentName": "ЖК «Заман»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 4257821798,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_777_m_67_et._4257821798?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 77,7 м², 6/7 эт.",
+    "description": "Номер квартиры: 310.\n\nЭтаж: 6.\n\nПлощадь: 77.67.\n\nКорпус: 1 очередь. Жилой комплекс «Nova» представляет собой комплексную застройку от застройщика новастрой, выполненную в монолитно-кирпичном стиле. Это проект бизнес-класса, предлагающий разнообразие форматов жилья: от квартир с террасами и патио до просторных пентхаусов с отдельным доступом лифта на верхние этажи. Предчистовая отделка позволяет жильцам самостоятельно выбирать интерьерное решение. Жилой комплекс разделён на зоны, доступные только для жителей, что способствует сохранению приватности и комфорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "26 097 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "26 097 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 26097000,
+      "wasLowered": false,
+      "exponent": "26,1 млн",
+      "normalizedPrice": "335 869 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, д. 34/1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79403",
+      "lng": "49.17312",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, д. 34/1"
+    },
+    "developmentId": 7960775,
+    "developmentName": "ЖК «НОВА»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7937637625,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_587_m_710_et._7937637625?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 58,7 м², 7/10 эт.",
+    "description": "Номер квартиры: 32.\n\nЭтаж: 7.\n\nПлощадь: 58.70.\n\nКорпус: Дом 16. Жилой комплекс «Арт Премиум» представляет собой комплексную застройку, состоящую из разносекционных монолитно-кирпичных и кирпичных зданий.\n\nЗастройщиком спроектированы квартиры с различными планировками: от одно- до трехкомнатных, общей площадью от 39,71 до 458,42 кв. М. Внутренняя отделка не выполняется.\n\nБлагоустройство прилегающей территории включает в себя организацию детских и спортивных площадок, зон отдыха и озеленение. Предусмотрены открытые гостевые парковки и двухуровневый подземный паркинг. В шаговой доступности находятся детские сады, школы, медицинские учреждения, ТЦ и парк.\n\nСтроительство ведется в несколько этапов. Часть домов введена в эксплуатацию. Срок сдачи дома 16 запланирован на 4 квартал 2027 года.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "28 460 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "28 460 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 28460000,
+      "wasLowered": false,
+      "exponent": "28,46 млн",
+      "normalizedPrice": "484 838 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "р-н Советский"
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, стр. 16"
+    },
+    "coords": {
+      "lat": "55.79917",
+      "lng": "49.18482",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, стр. 16"
+    },
+    "developmentId": 29769,
+    "developmentName": "ЖК «АРТ ПРЕМИУМ» ",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 8065867436,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_616_m_1020_et._8065867436?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 61,6 м², 10/20 эт.",
+    "description": "Номер квартиры: 82.\n\nЭтаж: 10.\n\nПлощадь: 61.57.\n\nКорпус: 2 очередь. Жилой комплекс «Nova» представляет собой комплексную застройку от застройщика новастрой, выполненную в монолитно-кирпичном стиле. Это проект бизнес-класса, предлагающий разнообразие форматов жилья: от квартир с террасами и патио до просторных пентхаусов с отдельным доступом лифта на верхние этажи. Предчистовая отделка позволяет жильцам самостоятельно выбирать интерьерное решение. Жилой комплекс разделён на зоны, доступные только для жителей, что способствует сохранению приватности и комфорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "20 564 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "20 564 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 20564000,
+      "wasLowered": false,
+      "exponent": "20,56 млн",
+      "normalizedPrice": "333 831 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,8 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, д. 54",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 54",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_nikolaya_ershova_54/73060313?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Николая Ершова",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_nikolaya_ershova/3371-ASgBAgECA0SSA8YQ5geOUujIE9Y0AUXcBxkidWxpdHNhX25pa29sYXlhX2Vyc2hvdmEi"
+        },
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79439",
+      "lng": "49.17445",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, д. 54"
+    },
+    "developmentId": 7960775,
+    "developmentName": "ЖК «НОВА»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 8353321658,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_1611_m_37_et._8353321658?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 161,1 м², 3/7 эт.",
+    "description": "Номер квартиры: 7.\n\nЭтаж: 3.\n\nПлощадь: 161.10.\n\nКорпус: Корпус 4. Жилой комплекс «Заман» реализуется в формате комплексной застройки, включающей 5 монолитно-кирпичных зданий. В рамках проекта предоставятся квартиры с разными планировками. Внутри квартиры предоставляются без отделки, что позволяет будущим владельцам оформить их по своему усмотрению. Ближайшая станция метро находится в 10-15 минутах ходьбы.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "127 739 356 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "127 739 356",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 127739356,
+      "wasLowered": false,
+      "exponent": "127,74 млн",
+      "normalizedPrice": "792 920 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 1,5 км",
+          "afterWithIcon": {
+            "text": "16–20 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Карла Маркса, д. 76",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79157",
+      "lng": "49.14459",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Карла Маркса, д. 76"
+    },
+    "developmentId": 11642304,
+    "developmentName": "ЖК «Заман»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7482818880,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_541_m_35_et._7482818880?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 54,1 м², 3/5 эт.",
+    "description": "Продается квартира в ЖК бизнес-класса «Нити» в центре Казани.\n\nКвартира в жилом комплексе бизнес-класса «Нити», расположенном в центральной части Казани на улице Калинина. Этот комплекс отличается высококлассными характеристиками и идеальным местоположением в одном из самых развитых районов города.\n\nИнфраструктура и окружение:\n— Центральное расположение: Близость к набережной озера Кабан, парку Тысячелетия, улице Баумана и саду «Эрмитаж».\n— Развитая инфраструктура: В пешей доступности находятся ТЦ Кольцо, Планета Фитнес, Баскет-Холл, Сувар Плаза.\nПреимущества жилого комплекса:\n— Современная архитектура: Эркерные окна и элегантный дизайн.\n— Подземный паркинг: Включает места для электромобилей.\n— Инфраструктура для детей и спорта: Детская игровая площадка, спортивная зона и зеленая зона для отдыха.\n— Разнообразие планировок: Широкий выбор планировок для удовлетворения различных потребностей.\n— Консьерж-сервис и управляющая компания: Высокий уровень комфорта и безопасности.\n— Современные технологии: Круглосуточное видеонаблюдение и другие технологические решения для обеспечения безопасности.\nСрок сдачи объекта: IV квартал 2026 года.\n\nДля получения дополнительной информации, пожалуйста, свяжитесь с нами по звонку или сообщению.\n\n«Нити» — квартал, где все связано.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "25 156 500 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "25 156 500",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 25156500,
+      "wasLowered": false,
+      "exponent": "25,16 млн",
+      "normalizedPrice": "465 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 800 м",
+          "afterWithIcon": {
+            "text": "6–10 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Калинина, д. 1Б",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 1Б",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_tihomirnova/70779345?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Калинина",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_tihomirnova/17699-ASgBAgECA0SSA8YQ5geOUujIE8aUAgFF3AcUInVsaXRzYV90aWhvbWlybm92YSI"
+        },
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.78209",
+      "lng": "49.13459",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Калинина, д. 1Б"
+    },
+    "developmentId": 10040177,
+    "developmentName": "ЖК «‎Нити»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7907285541,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_669_m_1115_et._7907285541?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 66,9 м², 11/15 эт.",
+    "description": "Комплекс и архитектура.\nЖилой кoмплекc «Янaлиф» — это уникaльный пpоект на беpегу Bолги, oбъeдиняющий иcкусcтвo и технoлoгичнocть в мнoгофункциональное пpoстpaнcтво. Пpeмиaльнoe лoбби, кoнcьеpж-cеpвиc и безгрaничные вoзможности инфрacтруктуры центpa cтолицы Тaтapcтaна. Bсe этo — для иcтинных цeнителей комфорта, привыкших к высочайшему качеству жизни. Изысканная архитектура — результат работы лучшего российского бюро, успешно зарекомендовавшего себя на рынке «Цимайло Ляшенко и Партнеры».\nРасположение.\nУникальное расположение на берегу Волги, благоустроенная набережная с зонами отдыха, близость к историческому центру города, парки, скверы и бульвары делают локацию привлекательной и востребованной. В стенах комплекса размещена богатая инфраструктура: общественные пространства, набережная с зонами отдыха, детский кластер, арт-объекты, современные музеи и галереи, кафе и рестораны.\nДвор.\nСовременный двор оснащен уникальными игровыми пространствами и приватными зонами отдыха. Для автовладельцев предусмотрены современная подземная парковка, гостевые парковочные места со станцией зарядки для электроавтомобилей. В комплексе холлы нового формата с уютными зонами для отдыха и работы, развлечениями для детей и безупречный консьерж-сервис.\nКвартиры.\nКвартирографию проекта отличает разнообразие форматов и планировок. Высокие потолки от 3,4 м и панорамные окна с открыточным видом на Волгу формируют наполненные светом «воздушные» пространства.\n\nСрок сдачи 1 очереди — 4 квартал 2025 года.\nСрок сдачи 2 очереди — 4 квартал 2026 года.\n\nЗвоните — наши менеджеры расскажут подробную информацию о всех акциях, помогут в подборе ипотеки и предложат лучший для вас вариант в новом жилом комплексе «Яналиф».",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "22 996 334 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "22 996 334",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 22996334,
+      "wasLowered": false,
+      "exponent": "23 млн",
+      "normalizedPrice": "343 742 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Площадь Тукая",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Аскара Шейх-Али, д. 1, корп. 1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Площадь Тукая",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2047"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76611",
+      "lng": "49.09893",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Аскара Шейх-Али, д. 1, корп. 1"
+    },
+    "developmentId": 7441198,
+    "developmentName": "ЖК «Яналиф»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7937494168,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_554_m_1620_et._7937494168?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 55,4 м², 16/20 эт.",
+    "description": "Номер квартиры: 134.\n\nЭтаж: 16.\n\nПлощадь: 55.40.\n\nКорпус: 1 очередь. Жилой комплекс «Nova» представляет собой комплексную застройку от застройщика новастрой, выполненную в монолитно-кирпичном стиле. Это проект бизнес-класса, предлагающий разнообразие форматов жилья: от квартир с террасами и патио до просторных пентхаусов с отдельным доступом лифта на верхние этажи. Предчистовая отделка позволяет жильцам самостоятельно выбирать интерьерное решение. Жилой комплекс разделён на зоны, доступные только для жителей, что способствует сохранению приватности и комфорта.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "20 498 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "20 498 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 20498000,
+      "wasLowered": false,
+      "exponent": "20,5 млн",
+      "normalizedPrice": "370 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 2,7 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Николая Ершова, д. 34/1",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.79403",
+      "lng": "49.17312",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Николая Ершова, д. 34/1"
+    },
+    "developmentId": 7960775,
+    "developmentName": "ЖК «НОВА»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 7521423813,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_582_m_1617_et._7521423813?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 58,2 м², 16/17 эт.",
+    "description": "Номер квартиры: 104.\n\nЭтаж: 16.\n\nПлощадь: 58.20.\n\nКорпус: ПК-14. Жилой комплекс «Солнечный город» представляет собой группу зданий, выполненных из кирпича и панелей. В застройке предусмотрены квартиры с различными планировками — от одно- до четырехкомнатных. Общая площадь квартир варьируется от 41,3 до 102,83 кв. М. В квартирах выполнена предчистовая отделки. Высота потолков и количество корпусов либо секций не указаны.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 989 620 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 989 620",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17989620,
+      "wasLowered": false,
+      "exponent": "17,99 млн",
+      "normalizedPrice": "309 100 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Проспект Победы",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 3,3 км",
+          "afterWithIcon": {
+            "text": "от 31 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Баки Урманче, д. 12",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 12",
+          "link": "https://m.avito.ru/catalog/houses/kazan/ul_baki_urmanche_12/103405681?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Баки Урманче",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam/novostroyka/street/ulitsa_baki_urmanche/4744-ASgBAgECA0SSA8YQ5geOUujIE5BKAUXcBxYidWxpdHNhX2Jha2lfdXJtYW5jaGUi"
+        },
+        "metroLink": {
+          "text": "Проспект Победы",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2051"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.73043",
+      "lng": "49.16779",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Баки Урманче, д. 12"
+    },
+    "developmentId": 25952,
+    "developmentName": "ЖК «Солнечный город»",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  },
+  {
+    "id": 8059725328,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/kazan/kvartiry/2-k._kvartira_619_m_210_et._8059725328?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJidHFza3JTUFZEcTV5TjhiIjt9Kpgo4z8AAAA",
+    "title": "2-к. квартира, 61,9 м², 2/10 эт.",
+    "description": "Продаётся 2-комн. Квартира площадью 61.90 кв. М на 2 этаже 10 этажного дома (Корпус 2, секция 8) проекта ПИК Ботаническая 3. Светлый просторный подъезд на уровне земли, функциональная планировка, большие окна.\n\n«Ботаническая 3» — камерный проект бизнес-класса в культурном центре Казани. Здесь каждая деталь продумана до мелочей: от авторской архитектуры с арт-объектом на фасаде до гранд-лобби с камином и коворкингом для переговоров. Пешеходные галереи с ресторанами и кафе на улице Шаляпина станут новой точкой притяжения района. А в приватном пространстве двора раскинется природный амфитеатр, где каждый сможет стать режиссёром своего досуга. Артикул — 995135.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650400,
+      "name": "Казань",
+      "namePrepositional": "Казани",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "20 897 440 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "20 897 440",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 20897440,
+      "wasLowered": false,
+      "exponent": "20,9 млн",
+      "normalizedPrice": "337 600 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [
+        {
+          "content": "Суконная слобода",
+          "colors": [
+            "#CD0505"
+          ],
+          "after": " 800 м",
+          "afterWithIcon": {
+            "text": "11–15 мин.",
+            "iconName": "walkingRoute16"
+          }
+        }
+      ],
+      "formattedAddress": "Ул. Ботаниченская, корп. 2",
+      "addressLinks": {
+        "metroLink": {
+          "text": "Суконная слобода",
+          "link": "https://m.avito.ru/kazan/kvartiry/prodam-ASgBAgICAUSSA8YQ?metro=2048"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.76968",
+      "lng": "49.13714",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Ботаниченская, корп. 2"
+    },
+    "developmentId": 11958040,
+    "developmentName": "Ботаническая 3",
+    "parsed_at": "2026-09-25T16:13:47.840202"
+  }
+]
