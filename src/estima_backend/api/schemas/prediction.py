@@ -1,3 +1,4 @@
+from enum import StrEnum
 from typing import Annotated, Literal, Self
 
 from pydantic import BaseModel, Field, model_validator
@@ -134,9 +135,20 @@ class PredictionAddress(BaseModel):
     distance_to_center_km: float
 
 
+class ApproximateReason(StrEnum):
+    # Адрес за основным радиусом покрытия модели, но в пределах мягкой зоны
+    FAR_FROM_CENTER = "far_from_center"
+    # Дом/участок найден только до улицы, района или населённого пункта
+    ADDRESS_WITHOUT_HOUSE = "address_without_house"
+
+
 class PredictionResponse(BaseModel):
     property_type: ListingType
 
     predicted_price: float
+
+    approximate_reasons: list[ApproximateReason] = Field(
+        description="Почему оценка приблизительная; пустой список — обычная оценка",
+    )
 
     address: PredictionAddress

@@ -13,7 +13,13 @@ GEOSUGGEST_API_NAME = "geosuggest"
 KM_PER_DEGREE_LAT = 111.32
 
 # Без стран, регионов, водоёмов, дорог и т.п.: по ним нельзя оценить объект.
-SUGGEST_TYPES = "house,street,district,locality"
+SUGGEST_KINDS = (
+    "house",
+    "street",
+    "district",
+    "locality",
+)
+SUGGEST_TYPES = ",".join(SUGGEST_KINDS)
 
 
 class YandexAPIError(Exception):
@@ -35,6 +41,10 @@ class Suggestion:
     subtitle: str | None
     formatted_address: str | None
     uri: str
+    # Тип объекта из tags: house, street, district, locality
+    kind: str | None
+    # Расстояние от точки ul (центр города) по данным Yandex
+    distance_km: float | None
 
 
 class _YandexClient:
@@ -197,7 +207,7 @@ class YandexSuggest:
             lat: float,
             lon: float,
             radius_km: float,
-            results: int = 7,
+            results: int = 10,
     ) -> list[Suggestion]:
         lat_span = 2 * radius_km / KM_PER_DEGREE_LAT
         lon_span = lat_span / cos(radians(lat))
@@ -211,7 +221,11 @@ class YandexSuggest:
             "results": min(results, 10),
             "ll": f"{lon},{lat}",
             "spn": f"{lon_span:.4f},{lat_span:.4f}",
+            # Окно Yandex соблюдает нестрого: если внутри ничего не нашлось,
+            # отдаёт результаты из других городов. Поэтому дополнительно
+            # фильтруем по distance, которое считается от ul.
             "strict_bounds": 1,
+            "ul": f"{lon},{lat}",
             "countries": "ru",
             "highlight": 0,
         })
@@ -259,6 +273,20 @@ def _parse_suggestion(
         else None
     )
 
+    distance = item.get("distance")
+    distance_m = (
+        distance.get("value")
+        if isinstance(distance, dict)
+        else None
+    )
+
+    tags = item.get("tags")
+    kinds = [
+        tag
+        for tag in (tags if isinstance(tags, list) else [])
+        if tag in SUGGEST_KINDS
+    ]
+
     return Suggestion(
         title=title,
         subtitle=_text(item.get("subtitle")),
@@ -268,4 +296,10 @@ def _parse_suggestion(
             else None
         ),
         uri=uri,
+        kind=kinds[0] if kinds else None,
+        distance_km=(
+            distance_m / 1000
+            if isinstance(distance_m, int | float)
+            else None
+        ),
     )

@@ -1,6 +1,7 @@
 from ...config import CITIES, CityConfig
+from ...ingestion.models import ListingType
 from ...ml.predictor import RealEstatePredictor
-from ..errors import CityNotFoundError
+from ..errors import CityNotFoundError, PropertyTypeNotSupportedError
 from ..schemas.city import CityResponse
 
 
@@ -38,8 +39,21 @@ class CityService:
     def search_radius_km(
             self,
             city: CityConfig,
+            listing_type: ListingType | None = None,
     ) -> float:
+        """Предельный радиус покрытия для типа, без типа — максимум по моделям города."""
+        if listing_type is not None:
+            limit_km = self.predictor.coverage_limit_km(
+                listing_type,
+                city.id,
+            )
+
+            if limit_km is None:
+                raise PropertyTypeNotSupportedError()
+
+            return limit_km
+
         return max(
-            self.predictor.coverage_radius_km(listing_type, city.id)
+            self.predictor.coverage_limit_km(listing_type, city.id)
             for listing_type in self.predictor.supported_listing_types(city.id)
         )

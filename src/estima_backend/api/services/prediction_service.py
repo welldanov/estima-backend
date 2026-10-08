@@ -12,6 +12,7 @@ from ..errors import (
 from ..providers.yandex import GeocodedAddress, YandexGeocoder
 from ..schemas.prediction import (
     ApartmentPredictionRequest,
+    ApproximateReason,
     HousePredictionRequest,
     LandPredictionRequest,
     PredictionAddress,
@@ -52,8 +53,12 @@ class PredictionService:
             request.property_type,
             city.id,
         )
+        limit_km = self.predictor.coverage_limit_km(
+            request.property_type,
+            city.id,
+        )
 
-        if radius_km is None:
+        if radius_km is None or limit_km is None:
             raise PropertyTypeNotSupportedError()
 
         address = await self.geocoder.geocode_uri(
@@ -77,8 +82,17 @@ class PredictionService:
             )
         )
 
-        if distance_to_center_km > radius_km:
+        if distance_to_center_km > limit_km:
             raise AddressOutOfCoverageError()
+
+        approximate_reasons: list[ApproximateReason] = []
+
+        if distance_to_center_km > radius_km:
+            approximate_reasons.append(ApproximateReason.FAR_FROM_CENTER)
+
+        # Для квартиры адрес без дома отклоняется в check_address_kind.
+        if address.kind != "house":
+            approximate_reasons.append(ApproximateReason.ADDRESS_WITHOUT_HOUSE)
 
         return PredictionResponse(
             property_type=request.property_type,
@@ -86,6 +100,7 @@ class PredictionService:
                 request,
                 address,
             ),
+            approximate_reasons=approximate_reasons,
             address=PredictionAddress(
                 formatted_address=address.formatted_address,
                 kind=address.kind,

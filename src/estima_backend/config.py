@@ -29,6 +29,12 @@ YANDEX_QUOTA_TIMEZONE = timezone(timedelta(hours=3))
 
 YANDEX_USAGE_PATH = ROOT_DIR / "data" / "yandex_usage.json"
 
+# Мягкая граница покрытия: за coverage_radius_km модели прогноз ещё даётся,
+# но помечается приблизительным; дальше предельного радиуса — отказ.
+# Предельный радиус = max(радиус × FACTOR, радиус + MIN_EXTRA_KM).
+COVERAGE_SOFT_FACTOR = 1.5
+COVERAGE_SOFT_MIN_EXTRA_KM = 5.0
+
 
 @dataclass(frozen=True)
 class MetroStation:

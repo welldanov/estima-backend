@@ -4,7 +4,11 @@ from pathlib import Path
 import pandas as pd
 from catboost import CatBoostRegressor
 
-from ..config import MODELS_DIR
+from ..config import (
+    COVERAGE_SOFT_FACTOR,
+    COVERAGE_SOFT_MIN_EXTRA_KM,
+    MODELS_DIR,
+)
 from ..ingestion.models import HouseKind, LandType, ListingType
 from .features import (
     APARTMENT_CATEGORICAL_FEATURES,
@@ -128,6 +132,25 @@ class RealEstatePredictor:
             city_id: int,
     ) -> float | None:
         return self.coverage[listing_type].get(city_id)
+
+    def coverage_limit_km(
+            self,
+            listing_type: ListingType,
+            city_id: int,
+    ) -> float | None:
+        """Предельный радиус мягкой зоны покрытия: дальше прогноз не даётся."""
+        radius_km = self.coverage_radius_km(
+            listing_type,
+            city_id,
+        )
+
+        if radius_km is None:
+            return None
+
+        return max(
+            radius_km * COVERAGE_SOFT_FACTOR,
+            radius_km + COVERAGE_SOFT_MIN_EXTRA_KM,
+        )
 
     def supported_listing_types(
             self,
