@@ -1,5 +1,6 @@
+from ...config import CityConfig
 from ...ingestion.models import ListingType
-from ..providers.yandex import YandexSuggest
+from ..providers.yandex import Suggestion, YandexSuggest
 from ..schemas.address import AddressSuggestion
 from .city_service import CityService
 
@@ -30,16 +31,40 @@ class AddressService:
             listing_type,
         )
 
-        suggestions = await self.suggest.suggest(
+        suggestions = await self._suggest_within_radius(
             text=query,
+            city=city,
+            radius_km=radius_km,
+        )
+
+        if not suggestions and city.name.casefold() not in query.casefold():
+            suggestions = await self._suggest_within_radius(
+                text=f"{city.name} {query}",
+                city=city,
+                radius_km=radius_km,
+            )
+
+        return [
+            AddressSuggestion.model_validate(suggestion)
+            for suggestion in suggestions
+        ][:MAX_SUGGESTIONS]
+
+    async def _suggest_within_radius(
+            self,
+            *,
+            text: str,
+            city: CityConfig,
+            radius_km: float,
+    ) -> list[Suggestion]:
+        suggestions = await self.suggest.suggest(
+            text=text,
             lat=city.lat,
             lon=city.lon,
             radius_km=radius_km,
         )
 
-        # Без distance подсказку не отбрасываем: дальность всё равно проверит прогноз.
         return [
-            AddressSuggestion.model_validate(suggestion)
+            suggestion
             for suggestion in suggestions
             if suggestion.distance_km is None or suggestion.distance_km <= radius_km
-        ][:MAX_SUGGESTIONS]
+        ]

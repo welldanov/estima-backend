@@ -43,7 +43,7 @@ class Suggestion:
     uri: str
     # Тип объекта из tags: house, street, district, locality
     kind: str | None
-    # Расстояние от точки ul (центр города) по данным Yandex
+    # Расстояние от точки ull (центр города) по данным Yandex
     distance_km: float | None
 
 
@@ -223,9 +223,9 @@ class YandexSuggest:
             "spn": f"{lon_span:.4f},{lat_span:.4f}",
             # Окно Yandex соблюдает нестрого: если внутри ничего не нашлось,
             # отдаёт результаты из других городов. Поэтому дополнительно
-            # фильтруем по distance, которое считается от ul.
+            # фильтруем по distance, которое считается от ull.
             "strict_bounds": 1,
-            "ul": f"{lon},{lat}",
+            "ull": f"{lon},{lat}",
             "countries": "ru",
             "highlight": 0,
         })

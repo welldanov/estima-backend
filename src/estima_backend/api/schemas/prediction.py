@@ -136,9 +136,7 @@ class PredictionAddress(BaseModel):
 
 
 class ApproximateReason(StrEnum):
-    # Адрес за основным радиусом покрытия модели, но в пределах мягкой зоны
     FAR_FROM_CENTER = "far_from_center"
-    # Дом/участок найден только до улицы, района или населённого пункта
     ADDRESS_WITHOUT_HOUSE = "address_without_house"
 
 
