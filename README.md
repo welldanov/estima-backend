@@ -1,18 +1,19 @@
 <div align="center">
 
-# Estima
+# Estima · Backend
 
-**Оценка рыночной стоимости квартиры, дома или участка в пару кликов**
+**Оценка рыночной стоимости недвижимости в пару кликов**
 
-Выберите адрес, укажите параметры, и модель машинного обучения оценит цену<br>по тысячам реальных объявлений о продаже
+API и ML-модели: геокодинг адреса и оценка квартиры, дома или участка<br>по тысячам реальных объявлений о продаже
 
 [![Попробовать](https://img.shields.io/badge/Попробовать-estima-2F6BFF?style=for-the-badge)](https://estima-frontend-six.vercel.app/)
 [![Swagger](https://img.shields.io/badge/API-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://estima-backend.onrender.com/docs)
+[![Frontend](https://img.shields.io/badge/Frontend-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/welldanov/estima-frontend)
 
 [![CI](https://github.com/welldanov/estima-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/welldanov/estima-backend/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.141-009688?logo=fastapi&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-1.2-FFCC00)
 
 </div>
 
@@ -43,13 +44,13 @@
 
 ```mermaid
 flowchart LR
-    A[~23 000 объявлений] --> B[Очистка и разбор]
+    A["~23 000 объявлений"] --> B["Очистка и разбор"]
     B --> C[(SQLite)]
-    C --> D[Признаки]
-    D --> E[3 модели CatBoost]
-    E --> F[FastAPI]
-    G[Yandex Maps] --> F
-    F --> H[Веб-клиент]
+    C --> D["Признаки"]
+    D --> E["3 модели CatBoost"]
+    E --> F["FastAPI"]
+    G["Yandex Maps"] --> F
+    F --> H["Веб-клиент"]
 ```
 
 Самое интересное под капотом:
