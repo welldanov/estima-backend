@@ -12,7 +12,7 @@ router = APIRouter(
 
 @router.get("")
 async def health(
-        quota: YandexQuotaDep,
+    quota: YandexQuotaDep,
 ) -> dict[str, Any]:
     return {
         "status": "ok",

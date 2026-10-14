@@ -5,8 +5,8 @@ from catboost import CatBoostRegressor
 
 
 def save_model(
-        model: CatBoostRegressor,
-        path: str | Path,
+    model: CatBoostRegressor,
+    path: str | Path,
 ) -> None:
     path = Path(path)
     path.parent.mkdir(
@@ -18,8 +18,8 @@ def save_model(
 
 
 def save_metadata(
-        metadata: dict,
-        path: str | Path,
+    metadata: dict,
+    path: str | Path,
 ) -> None:
     path = Path(path)
     path.parent.mkdir(
@@ -28,8 +28,8 @@ def save_metadata(
     )
 
     with path.open(
-            "w",
-            encoding="utf-8",
+        "w",
+        encoding="utf-8",
     ) as file:
         json.dump(
             metadata,

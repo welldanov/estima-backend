@@ -7,7 +7,6 @@ from ..config import CITIES
 from ..ingestion.models import HouseKind, LandType
 from ..utils.geo import calculate_distance_km
 
-
 APARTMENT_FEATURES = [
     "city_id",
     "lat",
@@ -64,8 +63,9 @@ LAND_CATEGORICAL_FEATURES = [
 
 # COMMON
 
+
 def _to_frame(
-        data: dict | pd.DataFrame,
+    data: dict | pd.DataFrame,
 ) -> pd.DataFrame:
     match data:
         case dict():
@@ -73,50 +73,42 @@ def _to_frame(
         case pd.DataFrame():
             return data.copy()
         case _:
-            raise TypeError(
-                "data must be a dict or pandas DataFrame"
-            )
+            raise TypeError("data must be a dict or pandas DataFrame")
 
 
 def _check_values(
-        series: pd.Series,
-        allowed: Iterable,
+    series: pd.Series,
+    allowed: Iterable,
 ) -> None:
     unknown = set(series) - set(allowed)
 
     if unknown:
-        raise ValueError(
-            f"Unknown {series.name} values: {sorted(map(str, unknown))}"
-        )
+        raise ValueError(f"Unknown {series.name} values: {sorted(map(str, unknown))}")
 
 
 def _add_city_features(
-        data: pd.DataFrame,
+    data: pd.DataFrame,
 ) -> None:
     _check_values(
         data["city_id"],
         CITIES,
     )
 
-    center_lat = data["city_id"].map(
-        {city_id: city.lat for city_id, city in CITIES.items()}
-    )
-    center_lon = data["city_id"].map(
-        {city_id: city.lon for city_id, city in CITIES.items()}
-    )
+    center_lat = data["city_id"].map({city_id: city.lat for city_id, city in CITIES.items()})
+    center_lon = data["city_id"].map({city_id: city.lon for city_id, city in CITIES.items()})
 
     data["distance_to_center_km"] = calculate_distance_km(
-        lat1=data["lat"],
-        lon1=data["lon"],
-        lat2=center_lat,
-        lon2=center_lon,
+        lat1=data["lat"].to_numpy(),
+        lon1=data["lon"].to_numpy(),
+        lat2=center_lat.to_numpy(),
+        lon2=center_lon.to_numpy(),
     )
 
     data["distance_to_metro_km"] = _nearest_metro_km(data)
 
 
 def _nearest_metro_km(
-        data: pd.DataFrame,
+    data: pd.DataFrame,
 ) -> pd.Series:
     result = pd.Series(
         np.nan,
@@ -151,9 +143,9 @@ def _nearest_metro_km(
 
 
 def _select_features(
-        data: pd.DataFrame,
-        features: list[str],
-        categorical_features: list[str],
+    data: pd.DataFrame,
+    features: list[str],
+    categorical_features: list[str],
 ) -> pd.DataFrame:
     result = data[features].copy()
 
@@ -164,21 +156,20 @@ def _select_features(
 
 
 def _prepare(
-        df: pd.DataFrame,
-        build: Callable[[pd.DataFrame], pd.DataFrame],
+    df: pd.DataFrame,
+    build: Callable[[pd.DataFrame], pd.DataFrame],
 ) -> tuple[pd.DataFrame, pd.Series]:
     if "price" not in df.columns:
-        raise ValueError(
-            "Training dataset must contain 'price' column"
-        )
+        raise ValueError("Training dataset must contain 'price' column")
 
     return build(df.copy()), df["price"].copy()
 
 
 # APARTMENTS
 
+
 def _build_apartment_features(
-        data: pd.DataFrame,
+    data: pd.DataFrame,
 ) -> pd.DataFrame:
     _add_city_features(data)
 
@@ -187,29 +178,18 @@ def _build_apartment_features(
 
     # Те же правила, что CHECK в схеме apartments.
     if (data["is_studio"].astype(bool) != data["rooms"].isna()).any():
-        raise ValueError(
-            "is_studio must be set exactly when rooms is missing"
-        )
+        raise ValueError("is_studio must be set exactly when rooms is missing")
 
     if (data["rooms"] <= 0).any():
-        raise ValueError(
-            "rooms must be positive"
-        )
+        raise ValueError("rooms must be positive")
 
     data["floor_ratio"] = data["floor"] / data["floors_total"]
 
-    data["area_per_room"] = (
-            data["area_m2"]
-            / data["rooms"].fillna(1)
-    )
+    data["area_per_room"] = data["area_m2"] / data["rooms"].fillna(1)
 
-    data["is_top_floor"] = (
-            data["floor"] == data["floors_total"]
-    ).astype(int)
+    data["is_top_floor"] = (data["floor"] == data["floors_total"]).astype(int)
 
-    data["is_first_floor"] = (
-            data["floor"] == 1
-    ).astype(int)
+    data["is_first_floor"] = (data["floor"] == 1).astype(int)
 
     return _select_features(
         data,
@@ -219,7 +199,7 @@ def _build_apartment_features(
 
 
 def prepare_apartment_features(
-        df: pd.DataFrame,
+    df: pd.DataFrame,
 ) -> tuple[pd.DataFrame, pd.Series]:
     return _prepare(
         df,
@@ -228,17 +208,16 @@ def prepare_apartment_features(
 
 
 def build_apartment_features(
-        data: dict | pd.DataFrame,
+    data: dict | pd.DataFrame,
 ) -> pd.DataFrame:
-    return _build_apartment_features(
-        _to_frame(data)
-    )
+    return _build_apartment_features(_to_frame(data))
 
 
 # HOUSES
 
+
 def _build_house_features(
-        data: pd.DataFrame,
+    data: pd.DataFrame,
 ) -> pd.DataFrame:
     _add_city_features(data)
 
@@ -247,10 +226,7 @@ def _build_house_features(
         HouseKind,
     )
 
-    data["land_to_house_ratio"] = (
-            data["land_area_m2"]
-            / data["house_area_m2"]
-    )
+    data["land_to_house_ratio"] = data["land_area_m2"] / data["house_area_m2"]
 
     return _select_features(
         data,
@@ -260,7 +236,7 @@ def _build_house_features(
 
 
 def prepare_house_features(
-        df: pd.DataFrame,
+    df: pd.DataFrame,
 ) -> tuple[pd.DataFrame, pd.Series]:
     return _prepare(
         df,
@@ -269,17 +245,16 @@ def prepare_house_features(
 
 
 def build_house_features(
-        data: dict | pd.DataFrame,
+    data: dict | pd.DataFrame,
 ) -> pd.DataFrame:
-    return _build_house_features(
-        _to_frame(data)
-    )
+    return _build_house_features(_to_frame(data))
 
 
 # LANDS
 
+
 def _build_land_features(
-        data: pd.DataFrame,
+    data: pd.DataFrame,
 ) -> pd.DataFrame:
     _add_city_features(data)
 
@@ -296,7 +271,7 @@ def _build_land_features(
 
 
 def prepare_land_features(
-        df: pd.DataFrame,
+    df: pd.DataFrame,
 ) -> tuple[pd.DataFrame, pd.Series]:
     return _prepare(
         df,
@@ -305,8 +280,6 @@ def prepare_land_features(
 
 
 def build_land_features(
-        data: dict | pd.DataFrame,
+    data: dict | pd.DataFrame,
 ) -> pd.DataFrame:
-    return _build_land_features(
-        _to_frame(data)
-    )
+    return _build_land_features(_to_frame(data))

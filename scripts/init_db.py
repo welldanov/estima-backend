@@ -8,18 +8,14 @@ def init_database() -> None:
     print(f"Schema:   {SCHEMA_PATH}")
 
     if not SCHEMA_PATH.exists():
-        raise FileNotFoundError(
-            f"Schema not found: {SCHEMA_PATH}"
-        )
+        raise FileNotFoundError(f"Schema not found: {SCHEMA_PATH}")
 
     DB_PATH.parent.mkdir(
         parents=True,
         exist_ok=True,
     )
 
-    schema = SCHEMA_PATH.read_text(
-        encoding="utf-8"
-    )
+    schema = SCHEMA_PATH.read_text(encoding="utf-8")
 
     with sqlite3.connect(DB_PATH) as conn:
         conn.execute("PRAGMA foreign_keys = ON")

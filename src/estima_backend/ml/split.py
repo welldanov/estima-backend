@@ -6,19 +6,19 @@ BUILDING_COORDINATE_DECIMALS = 4
 
 
 def building_groups(
-        df: pd.DataFrame,
+    df: pd.DataFrame,
 ) -> pd.Series:
     return (
-            df["lat"].round(BUILDING_COORDINATE_DECIMALS).astype(str)
-            + ","
-            + df["lon"].round(BUILDING_COORDINATE_DECIMALS).astype(str)
+        df["lat"].round(BUILDING_COORDINATE_DECIMALS).astype(str)
+        + ","
+        + df["lon"].round(BUILDING_COORDINATE_DECIMALS).astype(str)
     )
 
 
 def split_by_groups(
-        groups: pd.Series,
-        test_size: float,
-        random_state: int,
+    groups: pd.Series,
+    test_size: float,
+    random_state: int,
 ) -> tuple[pd.Index, pd.Index]:
     # Все объявления одного здания попадают в одну часть,
     # иначе похожие квартиры из train «подсказывают» ответ в test.

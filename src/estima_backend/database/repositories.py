@@ -18,15 +18,15 @@ class SaveResult(StrEnum):
 
 
 def _format_timestamp(
-        value: datetime,
+    value: datetime,
 ) -> str:
     # единый формат, чтобы даты корректно сравнивались как строки
     return value.isoformat(timespec="seconds")
 
 
 def upsert_city(
-        conn: sqlite3.Connection,
-        city: CityConfig,
+    conn: sqlite3.Connection,
+    city: CityConfig,
 ) -> None:
     conn.execute(
         """
@@ -43,8 +43,8 @@ def upsert_city(
 
 
 def save_listing(
-        conn: sqlite3.Connection,
-        record: NormalizedListing,
+    conn: sqlite3.Connection,
+    record: NormalizedListing,
 ) -> SaveResult:
     listing = record.listing
     seen_at = _format_timestamp(listing.seen_at)
@@ -75,11 +75,7 @@ def save_listing(
 
         return SaveResult.STALE
 
-    first_seen_at = (
-        seen_at
-        if existing is None
-        else min(existing["first_seen_at"], seen_at)
-    )
+    first_seen_at = seen_at if existing is None else min(existing["first_seen_at"], seen_at)
 
     # каскад удалит строку из таблицы типа, даже если категория сменилась
     conn.execute(
@@ -133,21 +129,15 @@ def save_listing(
             _insert_land(conn, listing.id, land)
 
         case _:
-            raise TypeError(
-                f"Unsupported listing details: {type(record.details)}"
-            )
+            raise TypeError(f"Unsupported listing details: {type(record.details)}")
 
-    return (
-        SaveResult.INSERTED
-        if existing is None
-        else SaveResult.UPDATED
-    )
+    return SaveResult.INSERTED if existing is None else SaveResult.UPDATED
 
 
 def _insert_apartment(
-        conn: sqlite3.Connection,
-        listing_id: int,
-        apartment: ApartmentData,
+    conn: sqlite3.Connection,
+    listing_id: int,
+    apartment: ApartmentData,
 ) -> None:
     conn.execute(
         """
@@ -173,9 +163,9 @@ def _insert_apartment(
 
 
 def _insert_house(
-        conn: sqlite3.Connection,
-        listing_id: int,
-        house: HouseData,
+    conn: sqlite3.Connection,
+    listing_id: int,
+    house: HouseData,
 ) -> None:
     conn.execute(
         """
@@ -197,9 +187,9 @@ def _insert_house(
 
 
 def _insert_land(
-        conn: sqlite3.Connection,
-        listing_id: int,
-        land: LandData,
+    conn: sqlite3.Connection,
+    listing_id: int,
+    land: LandData,
 ) -> None:
     conn.execute(
         """

@@ -9,25 +9,25 @@ from .services.prediction_service import PredictionService
 
 
 def get_city_service(
-        request: Request,
+    request: Request,
 ) -> CityService:
     return request.app.state.city_service
 
 
 def get_address_service(
-        request: Request,
+    request: Request,
 ) -> AddressService:
     return request.app.state.address_service
 
 
 def get_prediction_service(
-        request: Request,
+    request: Request,
 ) -> PredictionService:
     return request.app.state.prediction_service
 
 
 def get_yandex_quota(
-        request: Request,
+    request: Request,
 ) -> DailyRequestCounter:
     return request.app.state.yandex_quota
 

@@ -21,31 +21,31 @@ from ..schemas.prediction import (
 )
 from .city_service import CityService
 
-# У домов и участков в сёлах и СНТ часто нет номера,
-# поэтому для них хватает улицы или населённого пункта.
-SETTLEMENT_ADDRESS_KINDS = frozenset({
-    "house",
-    "street",
-    "district",
-    "locality",
-})
+SETTLEMENT_ADDRESS_KINDS = frozenset(
+    {
+        "house",
+        "street",
+        "district",
+        "locality",
+    }
+)
 
 
 class PredictionService:
     def __init__(
-            self,
-            *,
-            predictor: RealEstatePredictor,
-            geocoder: YandexGeocoder,
-            cities: CityService,
+        self,
+        *,
+        predictor: RealEstatePredictor,
+        geocoder: YandexGeocoder,
+        cities: CityService,
     ) -> None:
         self.predictor = predictor
         self.geocoder = geocoder
         self.cities = cities
 
     async def predict(
-            self,
-            request: PredictionRequest,
+        self,
+        request: PredictionRequest,
     ) -> PredictionResponse:
         city = self.cities.get_city(request.city_id)
 
@@ -90,7 +90,6 @@ class PredictionService:
         if distance_to_center_km > radius_km:
             approximate_reasons.append(ApproximateReason.FAR_FROM_CENTER)
 
-        # Для квартиры адрес без дома отклоняется в check_address_kind.
         if address.kind != "house":
             approximate_reasons.append(ApproximateReason.ADDRESS_WITHOUT_HOUSE)
 
@@ -111,9 +110,9 @@ class PredictionService:
         )
 
     def _predict_price(
-            self,
-            request: PredictionRequest,
-            address: GeocodedAddress,
+        self,
+        request: PredictionRequest,
+        address: GeocodedAddress,
     ) -> float:
         match request:
             case ApartmentPredictionRequest():
@@ -152,16 +151,12 @@ class PredictionService:
 
 
 def check_address_kind(
-        property_type: ListingType,
-        kind: str,
+    property_type: ListingType,
+    kind: str,
 ) -> None:
     match property_type:
         case ListingType.APARTMENT if kind != "house":
-            raise AddressNotPreciseError(
-                "Для квартиры выберите адрес с номером дома."
-            )
+            raise AddressNotPreciseError("Для квартиры выберите адрес с номером дома.")
 
         case ListingType.HOUSE | ListingType.LAND if kind not in SETTLEMENT_ADDRESS_KINDS:
-            raise AddressNotPreciseError(
-                "Выберите дом, улицу или населённый пункт."
-            )
+            raise AddressNotPreciseError("Выберите дом, улицу или населённый пункт.")

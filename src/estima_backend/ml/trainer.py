@@ -14,37 +14,32 @@ class TrainingResult:
 
 
 def _create_model(
-        config: TrainingConfig,
-        iterations: int,
-        **params,
+    config: TrainingConfig,
+    iterations: int,
+    **params,
 ) -> CatBoostRegressor:
     return CatBoostRegressor(
         iterations=iterations,
         learning_rate=config.learning_rate,
         depth=config.depth,
-
         loss_function=config.loss_function,
         eval_metric=config.eval_metric,
-
         l2_leaf_reg=config.l2_leaf_reg,
         random_strength=config.random_strength,
-
         random_seed=config.random_seed,
-
         verbose=False,
         allow_writing_files=False,
-
         **params,
     )
 
 
 def train_model(
-        x_train: pd.DataFrame,
-        y_train: pd.Series,
-        x_valid: pd.DataFrame,
-        y_valid: pd.Series,
-        cat_features: list[str],
-        config: TrainingConfig,
+    x_train: pd.DataFrame,
+    y_train: pd.Series,
+    x_valid: pd.DataFrame,
+    y_valid: pd.Series,
+    cat_features: list[str],
+    config: TrainingConfig,
 ) -> TrainingResult:
     model = _create_model(
         config,
@@ -56,11 +51,8 @@ def train_model(
     model.fit(
         x_train,
         np.log1p(y_train),
-
         cat_features=cat_features,
-
         eval_set=(x_valid, np.log1p(y_valid)),
-
         use_best_model=True,
     )
 
@@ -71,11 +63,11 @@ def train_model(
 
 
 def train_final_model(
-        x: pd.DataFrame,
-        y: pd.Series,
-        cat_features: list[str],
-        config: TrainingConfig,
-        iterations: int,
+    x: pd.DataFrame,
+    y: pd.Series,
+    cat_features: list[str],
+    config: TrainingConfig,
+    iterations: int,
 ) -> CatBoostRegressor:
     model = _create_model(
         config,
@@ -92,7 +84,7 @@ def train_final_model(
 
 
 def predict_price(
-        model: CatBoostRegressor,
-        x: pd.DataFrame,
+    model: CatBoostRegressor,
+    x: pd.DataFrame,
 ) -> np.ndarray:
     return np.expm1(model.predict(x))

@@ -2,7 +2,6 @@ import sqlite3
 
 import pandas as pd
 
-
 LISTING_COLUMNS = """
             l.id AS listing_id,
             l.price,
@@ -16,9 +15,9 @@ LISTING_COLUMNS = """
 
 
 def _load(
-        conn: sqlite3.Connection,
-        columns: str,
-        join: str,
+    conn: sqlite3.Connection,
+    columns: str,
+    join: str,
 ) -> pd.DataFrame:
     query = f"""
         SELECT
@@ -35,7 +34,7 @@ def _load(
 
 
 def load_apartments(
-        conn: sqlite3.Connection,
+    conn: sqlite3.Connection,
 ) -> pd.DataFrame:
     return _load(
         conn,
@@ -54,7 +53,7 @@ def load_apartments(
 
 
 def load_houses(
-        conn: sqlite3.Connection,
+    conn: sqlite3.Connection,
 ) -> pd.DataFrame:
     return _load(
         conn,
@@ -71,7 +70,7 @@ def load_houses(
 
 
 def load_lands(
-        conn: sqlite3.Connection,
+    conn: sqlite3.Connection,
 ) -> pd.DataFrame:
     return _load(
         conn,

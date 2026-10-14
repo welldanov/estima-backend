@@ -1,9 +1,7 @@
 from contextlib import closing
 
 from estima_backend.config import DB_PATH
-
 from estima_backend.database.connection import create_connection
-
 from estima_backend.ml.dataset import (
     load_apartments,
     load_houses,

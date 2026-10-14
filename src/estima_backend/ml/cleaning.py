@@ -2,12 +2,11 @@ import pandas as pd
 
 
 def drop_duplicate_listings(
-        df: pd.DataFrame,
-        key_columns: list[str],
+    df: pd.DataFrame,
+    key_columns: list[str],
 ) -> pd.DataFrame:
     return (
-        df
-        .sort_values("last_seen_at")
+        df.sort_values("last_seen_at")
         .drop_duplicates(
             key_columns,
             keep="last",
@@ -17,9 +16,9 @@ def drop_duplicate_listings(
 
 
 def drop_price_outliers(
-        df: pd.DataFrame,
-        area_column: str,
-        quantile: float,
+    df: pd.DataFrame,
+    area_column: str,
+    quantile: float,
 ) -> pd.DataFrame:
     price_per_area = df["price"] / df[area_column]
     by_city = price_per_area.groupby(df["city_id"])

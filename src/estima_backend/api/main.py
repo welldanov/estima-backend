@@ -42,7 +42,7 @@ logging.getLogger("httpx").setLevel(logging.WARNING)
 
 @asynccontextmanager
 async def lifespan(
-        app: FastAPI,
+    app: FastAPI,
 ):
     predictor = RealEstatePredictor()
     city_service = CityService(predictor)
@@ -88,8 +88,8 @@ app = FastAPI(
 
 @app.exception_handler(ServiceError)
 async def service_error_handler(
-        request: Request,
-        exc: ServiceError,
+    request: Request,
+    exc: ServiceError,
 ) -> JSONResponse:
     return JSONResponse(
         status_code=exc.status_code,
@@ -101,8 +101,8 @@ async def service_error_handler(
 
 @app.exception_handler(YandexAPIError)
 async def yandex_api_error_handler(
-        request: Request,
-        exc: YandexAPIError,
+    request: Request,
+    exc: YandexAPIError,
 ) -> JSONResponse:
     logger.warning("Yandex API error: %s", exc)
 
@@ -116,8 +116,8 @@ async def yandex_api_error_handler(
 
 @app.exception_handler(DailyQuotaExceededError)
 async def daily_quota_exceeded_handler(
-        request: Request,
-        exc: DailyQuotaExceededError,
+    request: Request,
+    exc: DailyQuotaExceededError,
 ) -> JSONResponse:
     logger.warning("%s", exc)
 

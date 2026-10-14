@@ -3,7 +3,6 @@ from typing import Annotated
 from fastapi import APIRouter, Query
 from pydantic import StringConstraints
 
-from ...ingestion.models import ListingType
 from ..dependencies import AddressServiceDep
 from ..schemas.address import AddressSearchResponse
 
@@ -25,15 +24,13 @@ SearchQuery = Annotated[
 
 @router.get("/search")
 async def search_addresses(
-        service: AddressServiceDep,
-        city_id: Annotated[int, Query(gt=0)],
-        query: SearchQuery,
-        property_type: Annotated[ListingType | None, Query()] = None,
+    service: AddressServiceDep,
+    city_id: Annotated[int, Query(gt=0)],
+    query: SearchQuery,
 ) -> AddressSearchResponse:
     return AddressSearchResponse(
         items=await service.search(
             city_id=city_id,
             query=query,
-            listing_type=property_type,
         ),
     )
