@@ -9,15 +9,12 @@ logger = logging.getLogger(__name__)
 
 class DailyQuotaExceededError(Exception):
     def __init__(
-            self,
-            api_name: str,
-            limit: int,
-            retry_after: int,
+        self,
+        api_name: str,
+        limit: int,
+        retry_after: int,
     ) -> None:
-        super().__init__(
-            f"Daily request limit for {api_name} "
-            f"is exhausted ({limit}/day)."
-        )
+        super().__init__(f"Daily request limit for {api_name} is exhausted ({limit}/day).")
 
         self.api_name = api_name
         self.limit = limit
@@ -26,11 +23,11 @@ class DailyQuotaExceededError(Exception):
 
 class DailyRequestCounter:
     def __init__(
-            self,
-            *,
-            storage_path: Path,
-            limits: dict[str, int],
-            tz: timezone,
+        self,
+        *,
+        storage_path: Path,
+        limits: dict[str, int],
+        tz: timezone,
     ) -> None:
         self.storage_path = Path(storage_path)
         self.limits = limits
@@ -71,10 +68,7 @@ class DailyRequestCounter:
             )
 
             day = date.fromisoformat(data["date"])
-            counts = {
-                str(name): int(count)
-                for name, count in data["counts"].items()
-            }
+            counts = {str(name): int(count) for name, count in data["counts"].items()}
 
         except (OSError, ValueError, KeyError, TypeError, AttributeError):
             logger.warning(
@@ -118,8 +112,8 @@ class DailyRequestCounter:
             self._counts = {}
 
     async def acquire(
-            self,
-            api_name: str,
+        self,
+        api_name: str,
     ) -> None:
         limit = self.limits[api_name]
 

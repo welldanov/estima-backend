@@ -11,6 +11,6 @@ router = APIRouter(
 
 @router.get("")
 async def get_cities(
-        service: CityServiceDep,
+    service: CityServiceDep,
 ) -> list[CityResponse]:
     return service.list_cities()

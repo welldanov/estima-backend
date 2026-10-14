@@ -39,40 +39,27 @@ class SkippedFile:
 class ImportResult:
     files: int = 0
     total: int = 0
-    saved: Counter[SaveResult] = field(
-        default_factory=Counter
-    )
-    skipped: list[SkippedRecord] = field(
-        default_factory=list
-    )
-    skipped_files: list[SkippedFile] = field(
-        default_factory=list
-    )
+    saved: Counter[SaveResult] = field(default_factory=Counter)
+    skipped: list[SkippedRecord] = field(default_factory=list)
+    skipped_files: list[SkippedFile] = field(default_factory=list)
     backup_path: Path | None = None
 
     def skip_reasons(self) -> Counter[str]:
-        return Counter(
-            record.reason
-            for record in self.skipped
-        )
+        return Counter(record.reason for record in self.skipped)
 
 
 def describe_validation_error(
-        exc: ValidationError,
+    exc: ValidationError,
 ) -> str:
-    fields = sorted({
-        str(error["loc"][0])
-        for error in exc.errors()
-        if error["loc"]
-    })
+    fields = sorted({str(error["loc"][0]) for error in exc.errors() if error["loc"]})
 
     return f"Invalid record: {', '.join(fields)}"
 
 
 def import_file(
-        conn: sqlite3.Connection,
-        json_path: Path,
-        result: ImportResult,
+    conn: sqlite3.Connection,
+    json_path: Path,
+    result: ImportResult,
 ) -> None:
     try:
         records = extract_records(read_json(json_path))
@@ -117,9 +104,7 @@ def import_file(
                 conn.execute("ROLLBACK TO SAVEPOINT record")
 
                 reason = (
-                    describe_validation_error(exc)
-                    if isinstance(exc, ValidationError)
-                    else str(exc)
+                    describe_validation_error(exc) if isinstance(exc, ValidationError) else str(exc)
                 )
 
                 result.skipped.append(
@@ -158,14 +143,12 @@ def import_file(
 
 
 def backup_database(
-        db_path: Path,
+    db_path: Path,
 ) -> Path:
     # старую БД не удаляем, а откладываем рядом: удаляет её пользователь
     timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
 
-    backup_path = db_path.with_name(
-        f"{db_path.stem}.backup-{timestamp}{db_path.suffix}"
-    )
+    backup_path = db_path.with_name(f"{db_path.stem}.backup-{timestamp}{db_path.suffix}")
 
     db_path.rename(backup_path)
 
@@ -178,9 +161,9 @@ def backup_database(
 
 
 def import_path(
-        input_path: Path,
-        db_path: Path,
-        rebuild: bool = False,
+    input_path: Path,
+    db_path: Path,
+    rebuild: bool = False,
 ) -> ImportResult:
     files = collect_json_files(input_path)
 
@@ -221,40 +204,42 @@ def import_path(
 
 
 def write_report(
-        result: ImportResult,
-        report_path: Path,
+    result: ImportResult,
+    report_path: Path,
 ) -> None:
     with report_path.open(
-            "w",
-            encoding="utf-8",
-            newline="",
+        "w",
+        encoding="utf-8",
+        newline="",
     ) as file:
         writer = csv.writer(file)
-        writer.writerow(
-            ["file", "record_number", "listing_id", "reason", "title"]
-        )
+        writer.writerow(["file", "record_number", "listing_id", "reason", "title"])
 
         for skipped_file in result.skipped_files:
-            writer.writerow([
-                skipped_file.file.as_posix(),
-                None,
-                None,
-                skipped_file.reason,
-                None,
-            ])
+            writer.writerow(
+                [
+                    skipped_file.file.as_posix(),
+                    None,
+                    None,
+                    skipped_file.reason,
+                    None,
+                ]
+            )
 
         for record in result.skipped:
-            writer.writerow([
-                record.file.as_posix(),
-                record.record_number,
-                record.listing_id,
-                record.reason,
-                record.title,
-            ])
+            writer.writerow(
+                [
+                    record.file.as_posix(),
+                    record.record_number,
+                    record.listing_id,
+                    record.reason,
+                    record.title,
+                ]
+            )
 
 
 def print_result(
-        result: ImportResult,
+    result: ImportResult,
 ) -> None:
     print()
     print("Import finished.")
@@ -287,19 +272,11 @@ def print_result(
 
 
 def configure_logging(
-        verbose: bool,
+    verbose: bool,
 ) -> None:
     logging.basicConfig(
-        level=(
-            logging.DEBUG
-            if verbose
-            else logging.INFO
-        ),
-        format=(
-            "%(asctime)s | "
-            "%(levelname)s | "
-            "%(message)s"
-        ),
+        level=(logging.DEBUG if verbose else logging.INFO),
+        format=("%(asctime)s | %(levelname)s | %(message)s"),
     )
 
 

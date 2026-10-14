@@ -40,23 +40,23 @@ MODEL_FEATURES: dict[ListingType, tuple[list[str], list[str]]] = {
 
 
 def model_path(
-        listing_type: ListingType,
-        models_dir: Path = MODELS_DIR,
+    listing_type: ListingType,
+    models_dir: Path = MODELS_DIR,
 ) -> Path:
     return models_dir / f"{listing_type}_price.cbm"
 
 
 def metadata_path(
-        listing_type: ListingType,
-        models_dir: Path = MODELS_DIR,
+    listing_type: ListingType,
+    models_dir: Path = MODELS_DIR,
 ) -> Path:
     return model_path(listing_type, models_dir).with_suffix(".json")
 
 
 class RealEstatePredictor:
     def __init__(
-            self,
-            models_dir: Path = MODELS_DIR,
+        self,
+        models_dir: Path = MODELS_DIR,
     ) -> None:
         self.models = {
             listing_type: self._load_model(
@@ -74,21 +74,16 @@ class RealEstatePredictor:
 
     @staticmethod
     def _load_coverage(
-            path: Path,
+        path: Path,
     ) -> dict[int, float]:
         if not path.exists():
-            raise FileNotFoundError(
-                f"Model metadata file not found: {path}"
-            )
+            raise FileNotFoundError(f"Model metadata file not found: {path}")
 
-        metadata = json.loads(
-            path.read_text(encoding="utf-8")
-        )
+        metadata = json.loads(path.read_text(encoding="utf-8"))
 
         if "coverage_radius_km" not in metadata:
             raise RuntimeError(
-                f"Model metadata {path.name} has no coverage radius, "
-                "retrain it (scripts/train.py)"
+                f"Model metadata {path.name} has no coverage radius, retrain it (scripts/train.py)"
             )
 
         return {
@@ -98,26 +93,21 @@ class RealEstatePredictor:
 
     @staticmethod
     def _load_model(
-            path: Path,
-            features: list[str],
-            categorical_features: list[str],
+        path: Path,
+        features: list[str],
+        categorical_features: list[str],
     ) -> CatBoostRegressor:
         if not path.exists():
-            raise FileNotFoundError(
-                f"Model file not found: {path}"
-            )
+            raise FileNotFoundError(f"Model file not found: {path}")
 
         model = CatBoostRegressor()
         model.load_model(str(path))
 
-        expected_categorical = sorted(
-            features.index(feature)
-            for feature in categorical_features
-        )
+        expected_categorical = sorted(features.index(feature) for feature in categorical_features)
 
         if (
-                model.feature_names_ != features
-                or sorted(model.get_cat_feature_indices()) != expected_categorical
+            model.feature_names_ != features
+            or sorted(model.get_cat_feature_indices()) != expected_categorical
         ):
             raise RuntimeError(
                 f"Model {path.name} was trained on different features, "
@@ -127,16 +117,16 @@ class RealEstatePredictor:
         return model
 
     def coverage_radius_km(
-            self,
-            listing_type: ListingType,
-            city_id: int,
+        self,
+        listing_type: ListingType,
+        city_id: int,
     ) -> float | None:
         return self.coverage[listing_type].get(city_id)
 
     def coverage_limit_km(
-            self,
-            listing_type: ListingType,
-            city_id: int,
+        self,
+        listing_type: ListingType,
+        city_id: int,
     ) -> float | None:
         """Предельный радиус мягкой зоны покрытия: дальше прогноз не даётся."""
         radius_km = self.coverage_radius_km(
@@ -153,8 +143,8 @@ class RealEstatePredictor:
         )
 
     def supported_listing_types(
-            self,
-            city_id: int,
+        self,
+        city_id: int,
     ) -> list[ListingType]:
         return [
             listing_type
@@ -163,9 +153,9 @@ class RealEstatePredictor:
         ]
 
     def _predict_price(
-            self,
-            listing_type: ListingType,
-            features: pd.DataFrame,
+        self,
+        listing_type: ListingType,
+        features: pd.DataFrame,
     ) -> float:
         return float(
             predict_price(
@@ -175,27 +165,29 @@ class RealEstatePredictor:
         )
 
     def predict_apartment(
-            self,
-            *,
-            city_id: int,
-            lat: float,
-            lon: float,
-            area_m2: float,
-            rooms: int | None,
-            is_studio: bool,
-            floor: int,
-            floors_total: int,
+        self,
+        *,
+        city_id: int,
+        lat: float,
+        lon: float,
+        area_m2: float,
+        rooms: int | None,
+        is_studio: bool,
+        floor: int,
+        floors_total: int,
     ) -> float:
-        features = build_apartment_features({
-            "city_id": city_id,
-            "lat": lat,
-            "lon": lon,
-            "area_m2": area_m2,
-            "rooms": rooms,
-            "is_studio": is_studio,
-            "floor": floor,
-            "floors_total": floors_total,
-        })
+        features = build_apartment_features(
+            {
+                "city_id": city_id,
+                "lat": lat,
+                "lon": lon,
+                "area_m2": area_m2,
+                "rooms": rooms,
+                "is_studio": is_studio,
+                "floor": floor,
+                "floors_total": floors_total,
+            }
+        )
 
         return self._predict_price(
             ListingType.APARTMENT,
@@ -203,23 +195,25 @@ class RealEstatePredictor:
         )
 
     def predict_house(
-            self,
-            *,
-            city_id: int,
-            lat: float,
-            lon: float,
-            house_kind: HouseKind,
-            house_area_m2: float,
-            land_area_m2: float,
+        self,
+        *,
+        city_id: int,
+        lat: float,
+        lon: float,
+        house_kind: HouseKind,
+        house_area_m2: float,
+        land_area_m2: float,
     ) -> float:
-        features = build_house_features({
-            "city_id": city_id,
-            "lat": lat,
-            "lon": lon,
-            "house_kind": house_kind,
-            "house_area_m2": house_area_m2,
-            "land_area_m2": land_area_m2,
-        })
+        features = build_house_features(
+            {
+                "city_id": city_id,
+                "lat": lat,
+                "lon": lon,
+                "house_kind": house_kind,
+                "house_area_m2": house_area_m2,
+                "land_area_m2": land_area_m2,
+            }
+        )
 
         return self._predict_price(
             ListingType.HOUSE,
@@ -227,21 +221,23 @@ class RealEstatePredictor:
         )
 
     def predict_land(
-            self,
-            *,
-            city_id: int,
-            lat: float,
-            lon: float,
-            land_area_m2: float,
-            land_type: LandType,
+        self,
+        *,
+        city_id: int,
+        lat: float,
+        lon: float,
+        land_area_m2: float,
+        land_type: LandType,
     ) -> float:
-        features = build_land_features({
-            "city_id": city_id,
-            "lat": lat,
-            "lon": lon,
-            "land_area_m2": land_area_m2,
-            "land_type": land_type,
-        })
+        features = build_land_features(
+            {
+                "city_id": city_id,
+                "lat": lat,
+                "lon": lon,
+                "land_area_m2": land_area_m2,
+                "land_type": land_type,
+            }
+        )
 
         return self._predict_price(
             ListingType.LAND,

@@ -1,6 +1,5 @@
 from pathlib import Path
 
-
 ROOT_DIR = Path("../data/raw/avito/almetyevsk")
 
 OLD_NAME = "almetevsk"
@@ -12,9 +11,7 @@ def rename_files(root_dir: Path, dry_run: bool = True) -> None:
         if not path.is_file() or OLD_NAME not in path.name:
             continue
 
-        new_path = path.with_name(
-            path.name.replace(OLD_NAME, NEW_NAME)
-        )
+        new_path = path.with_name(path.name.replace(OLD_NAME, NEW_NAME))
 
         print(f"{path} -> {new_path}")
 

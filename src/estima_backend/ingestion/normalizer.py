@@ -1,6 +1,7 @@
 from ..config import BASE_URL, CATEGORY_TYPES, CITIES
 from .models import (
     ListingData,
+    ListingDetails,
     ListingType,
     NormalizedListing,
     SkipRecord,
@@ -14,19 +15,17 @@ from .validator import AvitoListingSchema
 
 
 def classify_listing(
-        category_id: int,
+    category_id: int,
 ) -> ListingType:
     try:
         return ListingType(CATEGORY_TYPES[category_id])
 
     except KeyError as exc:
-        raise SkipRecord(
-            "Unsupported Avito category"
-        ) from exc
+        raise SkipRecord("Unsupported Avito category") from exc
 
 
 def build_url(
-        url_path: str,
+    url_path: str,
 ) -> str:
     if url_path.startswith(("http://", "https://")):
         return url_path
@@ -35,14 +34,14 @@ def build_url(
 
 
 def normalize(
-        item: AvitoListingSchema,
+    item: AvitoListingSchema,
 ) -> NormalizedListing:
     if item.location.id not in CITIES:
-        raise SkipRecord(
-            "Unknown city"
-        )
+        raise SkipRecord("Unknown city")
 
     listing_type = classify_listing(item.category.id)
+
+    details: ListingDetails
 
     match listing_type:
         case ListingType.APARTMENT:
@@ -55,16 +54,12 @@ def normalize(
             details = parse_land_title(item.title)
 
         case _:
-            raise ValueError(
-                f"Unsupported listing type: {listing_type}"
-            )
+            raise ValueError(f"Unsupported listing type: {listing_type}")
 
     address = item.geo.formattedAddress.strip()
 
     if not address:
-        raise SkipRecord(
-            "Address is missing"
-        )
+        raise SkipRecord("Address is missing")
 
     listing = ListingData(
         id=item.id,

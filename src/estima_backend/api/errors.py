@@ -5,8 +5,8 @@ class ServiceError(Exception):
     detail = "Некорректный запрос."
 
     def __init__(
-            self,
-            detail: str | None = None,
+        self,
+        detail: str | None = None,
     ) -> None:
         if detail is not None:
             self.detail = detail

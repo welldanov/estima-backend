@@ -4,13 +4,11 @@ from typing import Any
 
 
 def collect_json_files(
-        path: Path,
+    path: Path,
 ) -> list[Path]:
     if path.is_file():
         if path.suffix.lower() != ".json":
-            raise ValueError(
-                f"Expected JSON file: {path}"
-            )
+            raise ValueError(f"Expected JSON file: {path}")
 
         return [path]
 
@@ -18,40 +16,29 @@ def collect_json_files(
         files = sorted(path.rglob("*.json"))
 
         if not files:
-            raise ValueError(
-                f"No JSON files found in: {path}"
-            )
+            raise ValueError(f"No JSON files found in: {path}")
 
         return files
 
-    raise FileNotFoundError(
-        f"Path does not exist: {path}"
-    )
+    raise FileNotFoundError(f"Path does not exist: {path}")
 
 
 def read_json(path: Path) -> Any:
     if not path.exists():
-        raise FileNotFoundError(
-            f"JSON file does not exist: {path}"
-        )
+        raise FileNotFoundError(f"JSON file does not exist: {path}")
 
     if not path.is_file():
-        raise ValueError(
-            f"Expected file, got: {path}"
-        )
+        raise ValueError(f"Expected file, got: {path}")
 
     try:
         with path.open(
-                "r",
-                encoding="utf-8",
+            "r",
+            encoding="utf-8",
         ) as file:
             return json.load(file)
 
     except json.JSONDecodeError as exc:
-        raise ValueError(
-            f"Invalid JSON in {path}: "
-            f"line={exc.lineno}, column={exc.colno}"
-        ) from exc
+        raise ValueError(f"Invalid JSON in {path}: line={exc.lineno}, column={exc.colno}") from exc
 
 
 def extract_records(data: Any) -> list[dict]:
@@ -67,13 +54,9 @@ def extract_records(data: Any) -> list[dict]:
             records = []
 
     else:
-        raise ValueError(
-            "JSON root must be an object or an array"
-        )
+        raise ValueError("JSON root must be an object or an array")
 
     if not all(isinstance(item, dict) for item in records):
-        raise ValueError(
-            "Every JSON record must be an object"
-        )
+        raise ValueError("Every JSON record must be an object")
 
     return records

@@ -110,9 +110,10 @@ TASKS = [
 # BASELINES
 # ============================================================
 
+
 def median_price_baseline(
-        train: pd.DataFrame,
-        test: pd.DataFrame,
+    train: pd.DataFrame,
+    test: pd.DataFrame,
 ) -> np.ndarray:
     medians = train.groupby("city_id")["price"].median()
 
@@ -120,28 +121,22 @@ def median_price_baseline(
 
 
 def price_per_area_baseline(
-        train: pd.DataFrame,
-        test: pd.DataFrame,
-        area_column: str,
+    train: pd.DataFrame,
+    test: pd.DataFrame,
+    area_column: str,
 ) -> np.ndarray:
-    medians = (
-        (train["price"] / train[area_column])
-        .groupby(train["city_id"])
-        .median()
-    )
+    medians = (train["price"] / train[area_column]).groupby(train["city_id"]).median()
 
-    return (
-            test["city_id"].map(medians)
-            * test[area_column]
-    ).to_numpy()
+    return (test["city_id"].map(medians) * test[area_column]).to_numpy()
 
 
 # ============================================================
 # REPORTS
 # ============================================================
 
+
 def print_header(
-        title: str,
+    title: str,
 ) -> None:
     print()
     print("=" * 70)
@@ -150,7 +145,7 @@ def print_header(
 
 
 def print_price_statistics(
-        price: pd.Series,
+    price: pd.Series,
 ) -> None:
     print_header("PRICE STATISTICS")
 
@@ -162,9 +157,9 @@ def print_price_statistics(
 
 
 def build_error_analysis(
-        data: pd.DataFrame,
-        x: pd.DataFrame,
-        y_pred: np.ndarray,
+    data: pd.DataFrame,
+    x: pd.DataFrame,
+    y_pred: np.ndarray,
 ) -> pd.DataFrame:
     result = pd.concat(
         [
@@ -177,11 +172,7 @@ def build_error_analysis(
     result["actual_price"] = data["price"]
     result["predicted_price"] = y_pred
     result["error"] = result["predicted_price"] - result["actual_price"]
-    result["percentage_error"] = (
-            result["error"]
-            / result["actual_price"]
-            * 100
-    )
+    result["percentage_error"] = result["error"] / result["actual_price"] * 100
 
     return result.sort_values(
         "percentage_error",
@@ -191,13 +182,15 @@ def build_error_analysis(
 
 
 def save_feature_importance(
-        model: CatBoostRegressor,
-        path,
+    model: CatBoostRegressor,
+    path,
 ) -> None:
-    pd.DataFrame({
-        "feature": model.feature_names_,
-        "importance": model.get_feature_importance(),
-    }).sort_values(
+    pd.DataFrame(
+        {
+            "feature": model.feature_names_,
+            "importance": model.get_feature_importance(),
+        }
+    ).sort_values(
         "importance",
         ascending=False,
     ).to_csv(
@@ -210,28 +203,24 @@ def save_feature_importance(
 # TRAINING
 # ============================================================
 
+
 def coverage_radius_km(
-        data: pd.DataFrame,
-        x: pd.DataFrame,
-        config: TrainingConfig,
+    data: pd.DataFrame,
+    x: pd.DataFrame,
+    config: TrainingConfig,
 ) -> dict[str, float]:
     radius = (
-        x["distance_to_center_km"]
-        .groupby(data["city_id"])
-        .quantile(config.coverage_quantile)
+        x["distance_to_center_km"].groupby(data["city_id"]).quantile(config.coverage_quantile)
         * config.coverage_margin
     )
 
-    return {
-        str(city_id): round(float(value), 1)
-        for city_id, value in radius.items()
-    }
+    return {str(city_id): round(float(value), 1) for city_id, value in radius.items()}
 
 
 def train_one_model(
-        task: TrainingTask,
-        data: pd.DataFrame,
-        config: TrainingConfig,
+    task: TrainingTask,
+    data: pd.DataFrame,
+    config: TrainingConfig,
 ) -> None:
     name = f"{task.listing_type}_price"
     features, categorical_features = MODEL_FEATURES[task.listing_type]
@@ -394,10 +383,7 @@ def main() -> None:
     config = TrainingConfig()
 
     with closing(create_connection(DB_PATH)) as conn:
-        datasets = [
-            (task, task.load(conn))
-            for task in TASKS
-        ]
+        datasets = [(task, task.load(conn)) for task in TASKS]
 
     for task, data in datasets:
         train_one_model(

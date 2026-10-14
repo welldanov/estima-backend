@@ -1,5 +1,5 @@
-from pathlib import Path
 import sqlite3
+from pathlib import Path
 
 from ..config import SCHEMA_PATH
 
@@ -15,21 +15,13 @@ def create_connection(db_path: Path) -> sqlite3.Connection:
 
 
 def apply_schema(
-        conn: sqlite3.Connection,
-        schema_path: Path = SCHEMA_PATH,
+    conn: sqlite3.Connection,
+    schema_path: Path = SCHEMA_PATH,
 ) -> None:
     # CREATE TABLE IF NOT EXISTS не обновляет таблицы старой схемы
-    columns = {
-        row["name"]
-        for row in conn.execute("PRAGMA table_info(listings)")
-    }
+    columns = {row["name"] for row in conn.execute("PRAGMA table_info(listings)")}
 
     if columns and "property_type" not in columns:
-        raise RuntimeError(
-            "Database has an outdated schema, "
-            "recreate it (importer --rebuild)"
-        )
+        raise RuntimeError("Database has an outdated schema, recreate it (importer --rebuild)")
 
-    conn.executescript(
-        schema_path.read_text(encoding="utf-8")
-    )
+    conn.executescript(schema_path.read_text(encoding="utf-8"))

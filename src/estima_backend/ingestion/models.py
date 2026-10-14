@@ -68,6 +68,9 @@ class LandData:
     land_type: LandType
 
 
+ListingDetails = ApartmentData | HouseData | LandData
+
+
 @dataclass(frozen=True)
 class NormalizedListing:
     listing: ListingData

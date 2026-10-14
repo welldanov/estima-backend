@@ -59,15 +59,12 @@ class AvitoListingSchema(BaseModel):
 
 
 def validate_record(
-        record: dict,
+    record: dict,
 ) -> AvitoListingSchema:
     return AvitoListingSchema.model_validate(record)
 
 
 def validate_records(
-        records: list[dict],
+    records: list[dict],
 ) -> list[AvitoListingSchema]:
-    return [
-        validate_record(record)
-        for record in records
-    ]
+    return [validate_record(record) for record in records]

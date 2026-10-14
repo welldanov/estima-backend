@@ -1,5 +1,4 @@
 from ...config import CityConfig
-from ...ingestion.models import ListingType
 from ..providers.yandex import Suggestion, YandexSuggest
 from ..schemas.address import AddressSuggestion
 from .city_service import CityService
@@ -9,26 +8,24 @@ MAX_SUGGESTIONS = 7
 
 class AddressService:
     def __init__(
-            self,
-            *,
-            suggest: YandexSuggest,
-            cities: CityService,
+        self,
+        *,
+        suggest: YandexSuggest,
+        cities: CityService,
     ) -> None:
         self.suggest = suggest
         self.cities = cities
 
     async def search(
-            self,
-            *,
-            city_id: int,
-            query: str,
-            listing_type: ListingType | None = None,
+        self,
+        *,
+        city_id: int,
+        query: str,
     ) -> list[AddressSuggestion]:
         city = self.cities.get_city(city_id)
 
         radius_km = self.cities.search_radius_km(
             city,
-            listing_type,
         )
 
         suggestions = await self._suggest_within_radius(
@@ -44,17 +41,16 @@ class AddressService:
                 radius_km=radius_km,
             )
 
-        return [
-            AddressSuggestion.model_validate(suggestion)
-            for suggestion in suggestions
-        ][:MAX_SUGGESTIONS]
+        return [AddressSuggestion.model_validate(suggestion) for suggestion in suggestions][
+            :MAX_SUGGESTIONS
+        ]
 
     async def _suggest_within_radius(
-            self,
-            *,
-            text: str,
-            city: CityConfig,
-            radius_km: float,
+        self,
+        *,
+        text: str,
+        city: CityConfig,
+        radius_km: float,
     ) -> list[Suggestion]:
         suggestions = await self.suggest.suggest(
             text=text,

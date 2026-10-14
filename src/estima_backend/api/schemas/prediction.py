@@ -27,9 +27,7 @@ class BasePredictionRequest(BaseModel):
     address: AddressSelection
 
 
-class ApartmentPredictionRequest(
-    BasePredictionRequest
-):
+class ApartmentPredictionRequest(BasePredictionRequest):
     property_type: Literal[ListingType.APARTMENT]
 
     area_m2: float = Field(
@@ -59,29 +57,18 @@ class ApartmentPredictionRequest(
     @model_validator(mode="after")
     def check_consistency(self) -> Self:
         if self.is_studio != (self.rooms is None):
-            raise ValueError(
-                "Число комнат указывается для всех квартир, кроме студий."
-            )
+            raise ValueError("Число комнат указывается для всех квартир, кроме студий.")
 
         if self.floor > self.floors_total:
-            raise ValueError(
-                "Этаж не может быть больше этажности дома."
-            )
+            raise ValueError("Этаж не может быть больше этажности дома.")
 
-        if (
-                self.rooms is not None
-                and self.area_m2 / self.rooms < MIN_AREA_PER_ROOM_M2
-        ):
-            raise ValueError(
-                "Площадь слишком мала для такого числа комнат."
-            )
+        if self.rooms is not None and self.area_m2 / self.rooms < MIN_AREA_PER_ROOM_M2:
+            raise ValueError("Площадь слишком мала для такого числа комнат.")
 
         return self
 
 
-class HousePredictionRequest(
-    BasePredictionRequest
-):
+class HousePredictionRequest(BasePredictionRequest):
     property_type: Literal[ListingType.HOUSE]
 
     house_kind: HouseKind
@@ -97,9 +84,7 @@ class HousePredictionRequest(
     )
 
 
-class LandPredictionRequest(
-    BasePredictionRequest
-):
+class LandPredictionRequest(BasePredictionRequest):
     property_type: Literal[ListingType.LAND]
 
     land_area_m2: float = Field(
@@ -111,11 +96,7 @@ class LandPredictionRequest(
 
 
 PredictionRequest = Annotated[
-    (
-            ApartmentPredictionRequest
-            | HousePredictionRequest
-            | LandPredictionRequest
-    ),
+    (ApartmentPredictionRequest | HousePredictionRequest | LandPredictionRequest),
     Field(
         discriminator="property_type",
     ),

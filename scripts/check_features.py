@@ -1,15 +1,12 @@
 from contextlib import closing
 
 from estima_backend.config import DB_PATH
-
 from estima_backend.database.connection import create_connection
-
 from estima_backend.ml.dataset import (
     load_apartments,
     load_houses,
     load_lands,
 )
-
 from estima_backend.ml.features import (
     prepare_apartment_features,
     prepare_house_features,
@@ -23,17 +20,11 @@ def main():
         houses = load_houses(conn)
         lands = load_lands(conn)
 
-    x_apartment, y_apartment = (
-        prepare_apartment_features(apartments)
-    )
+    x_apartment, y_apartment = prepare_apartment_features(apartments)
 
-    x_house, y_house = (
-        prepare_house_features(houses)
-    )
+    x_house, y_house = prepare_house_features(houses)
 
-    x_land, y_land = (
-        prepare_land_features(lands)
-    )
+    x_land, y_land = prepare_land_features(lands)
 
     print("APARTMENTS")
     print("X:", x_apartment.shape)

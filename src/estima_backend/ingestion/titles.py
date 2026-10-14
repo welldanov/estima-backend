@@ -56,30 +56,26 @@ MIN_AREA_PER_ROOM_M2 = 5.0
 
 
 def clean_title(
-        title: str,
+    title: str,
 ) -> str:
-    return " ".join(
-        title.replace("\xa0", " ").split()
-    )
+    return " ".join(title.replace("\xa0", " ").split())
 
 
 def _to_float(
-        value: str,
+    value: str,
 ) -> float:
     return float(value.replace(",", "."))
 
 
 def _reject_hectares(
-        unit: str,
+    unit: str,
 ) -> None:
     if unit == "га":
-        raise SkipRecord(
-            "Land area in hectares is unreliable"
-        )
+        raise SkipRecord("Land area in hectares is unreliable")
 
 
 def parse_apartment_title(
-        title: str,
+    title: str,
 ) -> ApartmentData:
     title = clean_title(title)
 
@@ -92,33 +88,23 @@ def parse_apartment_title(
         is_studio = True
 
     else:
-        raise SkipRecord(
-            "Unsupported apartment title"
-        )
+        raise SkipRecord("Unsupported apartment title")
 
     area_m2 = _to_float(match["area"])
     floor = int(match["floor"])
     floors_total = int(match["floors_total"])
 
     if rooms == 0:
-        raise SkipRecord(
-            "Apartment rooms count is zero"
-        )
+        raise SkipRecord("Apartment rooms count is zero")
 
     if not MIN_APARTMENT_AREA_M2 <= area_m2 <= MAX_APARTMENT_AREA_M2:
-        raise SkipRecord(
-            "Apartment area out of range"
-        )
+        raise SkipRecord("Apartment area out of range")
 
     if rooms is not None and area_m2 / rooms < MIN_AREA_PER_ROOM_M2:
-        raise SkipRecord(
-            "Apartment area too small for room count"
-        )
+        raise SkipRecord("Apartment area too small for room count")
 
     if floor == 0 or floors_total == 0 or floor > floors_total:
-        raise SkipRecord(
-            "Apartment floor is inconsistent"
-        )
+        raise SkipRecord("Apartment floor is inconsistent")
 
     return ApartmentData(
         area_m2=area_m2,
@@ -130,16 +116,12 @@ def parse_apartment_title(
 
 
 def parse_house_title(
-        title: str,
+    title: str,
 ) -> HouseData:
-    match = HOUSE_PATTERN.fullmatch(
-        clean_title(title)
-    )
+    match = HOUSE_PATTERN.fullmatch(clean_title(title))
 
     if match is None:
-        raise SkipRecord(
-            "Unsupported house title"
-        )
+        raise SkipRecord("Unsupported house title")
 
     _reject_hectares(match["unit"])
 
@@ -147,9 +129,7 @@ def parse_house_title(
     land_area_m2 = _to_float(match["land_area"]) * SOTKA_M2
 
     if house_area_m2 <= 0 or land_area_m2 <= 0:
-        raise SkipRecord(
-            "House area is not positive"
-        )
+        raise SkipRecord("House area is not positive")
 
     return HouseData(
         house_kind=HOUSE_KINDS[match["kind"]],
@@ -159,34 +139,24 @@ def parse_house_title(
 
 
 def parse_land_title(
-        title: str,
+    title: str,
 ) -> LandData:
-    match = LAND_PATTERN.fullmatch(
-        clean_title(title)
-    )
+    match = LAND_PATTERN.fullmatch(clean_title(title))
 
     if match is None:
-        raise SkipRecord(
-            "Unsupported land title"
-        )
+        raise SkipRecord("Unsupported land title")
 
-    land_type = LAND_TYPES.get(
-        match["land_type"].strip().lower()
-    )
+    land_type = LAND_TYPES.get(match["land_type"].strip().lower())
 
     if land_type is None:
-        raise SkipRecord(
-            "Unknown land type"
-        )
+        raise SkipRecord("Unknown land type")
 
     _reject_hectares(match["unit"])
 
     land_area_m2 = _to_float(match["area"]) * SOTKA_M2
 
     if land_area_m2 <= 0:
-        raise SkipRecord(
-            "Land area is not positive"
-        )
+        raise SkipRecord("Land area is not positive")
 
     return LandData(
         land_area_m2=land_area_m2,
