@@ -10,7 +10,10 @@ router = APIRouter(
 )
 
 
-@router.get("")
+@router.api_route(
+    "",
+    methods=["GET", "HEAD"],
+)
 async def health(
     quota: YandexQuotaDep,
 ) -> dict[str, Any]:

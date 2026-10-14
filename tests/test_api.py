@@ -88,6 +88,12 @@ def test_health(
     }
 
 
+def test_health_supports_head(
+    client: TestClient,
+) -> None:
+    assert client.head("/api/health").status_code == 200
+
+
 def test_cities(
     client: TestClient,
 ) -> None:
