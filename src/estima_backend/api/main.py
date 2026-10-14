@@ -36,7 +36,6 @@ from .services.prediction_service import PredictionService
 
 logger = logging.getLogger(__name__)
 
-# httpx пишет в INFO полный URL запроса, а в нём ключ Yandex.
 logging.getLogger("httpx").setLevel(logging.WARNING)
 
 
@@ -88,7 +87,7 @@ app = FastAPI(
 
 @app.exception_handler(ServiceError)
 async def service_error_handler(
-    request: Request,
+    _request: Request,
     exc: ServiceError,
 ) -> JSONResponse:
     return JSONResponse(
@@ -101,7 +100,7 @@ async def service_error_handler(
 
 @app.exception_handler(YandexAPIError)
 async def yandex_api_error_handler(
-    request: Request,
+    _request: Request,
     exc: YandexAPIError,
 ) -> JSONResponse:
     logger.warning("Yandex API error: %s", exc)
@@ -116,7 +115,7 @@ async def yandex_api_error_handler(
 
 @app.exception_handler(DailyQuotaExceededError)
 async def daily_quota_exceeded_handler(
-    request: Request,
+    _request: Request,
     exc: DailyQuotaExceededError,
 ) -> JSONResponse:
     logger.warning("%s", exc)
